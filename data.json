@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-05",
+  "researched": "2026-08-06",
   "items": [
     {
       "chain": "McDonald's",
@@ -257,7 +257,7 @@
     {
       "chain": "Dunkin'",
       "item": "Fall pumpkin lineup (leaked, unconfirmed)",
-      "description": "Leaked fall menu with five pumpkin drinks including Pumpkin Spice Signature Latte, Pumpkin Cloud Dunkalatte, Nutty Pumpkin Protein Latte, and Pumpkin Pie Coffee Chiller, plus returning pumpkin donuts, munchkins, and muffins. Not officially confirmed.",
+      "description": "Leaked fall menu with five pumpkin drinks including Pumpkin Spice Signature Latte, Pumpkin Cloud Dunkalatte, Nutty Pumpkin Protein Latte, and Pumpkin Pie Coffee Chiller, plus returning pumpkin donuts, munchkins, and muffins. The Aug 19 return date is now officially confirmed via Dunkin's own social media; specific product lineup still leak-sourced only.",
       "category": "drink",
       "startDate": "2026-08-19",
       "endDate": null,
@@ -315,8 +315,8 @@
       "description": "Destination Dessert collection: unglazed shell doughnut filled with tres leches Kreme, topped with sweet creme buttercreme, cake doughnut crumbs, and cinnamon. Latin American-inspired lineup.",
       "category": "donut",
       "startDate": "2026-07-28",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-08-09",
+      "status": "ending-soon",
       "source": "https://www.stocktitan.net/news/DNUT/krispy-kreme-invites-fans-on-a-sweet-escape-with-new-destination-7w1zy1wij4tu.html",
       "image": "krispy-kreme-tres-leches-inspired-doughnut.jpg"
     },
@@ -326,8 +326,8 @@
       "description": "Destination Dessert collection: unglazed shell doughnut filled with cheesecake Kreme and guava filling, dipped in guava icing, topped with icing drizzle and crunch.",
       "category": "donut",
       "startDate": "2026-07-28",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-08-09",
+      "status": "ending-soon",
       "source": "https://www.stocktitan.net/news/DNUT/krispy-kreme-invites-fans-on-a-sweet-escape-with-new-destination-7w1zy1wij4tu.html",
       "image": "krispy-kreme-guava-cheesecake-doughnut.jpg"
     },
@@ -337,8 +337,8 @@
       "description": "Destination Dessert collection: unglazed shell doughnut filled with chocolate dulce cookie Kreme, dipped in chocolate icing and cookie crumbles, topped with dulce de leche buttercreme.",
       "category": "donut",
       "startDate": "2026-07-28",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-08-09",
+      "status": "ending-soon",
       "source": "https://www.stocktitan.net/news/DNUT/krispy-kreme-invites-fans-on-a-sweet-escape-with-new-destination-7w1zy1wij4tu.html",
       "image": "krispy-kreme-choco-dulce-cookie-crunch-doughnut.jpg"
     },
@@ -433,12 +433,12 @@
     {
       "chain": "Taco Bell",
       "item": "Cantina Chicken Mexican Pizza",
-      "description": "Slow-roasted chicken and black beans layered between crispy tortillas with green chile sauce, three-cheese blend, cabbage, and pico de gallo, served with new Jalapeño Citrus Salsa; revealed at Live Más Live, rolling out later in 2026.",
+      "description": "Slow-roasted chicken and black beans layered between crispy tortillas with green chile sauce, three-cheese blend, cabbage, and pico de gallo, served with new Jalapeño Citrus Salsa; revealed at Live Más Live. Launched nationwide May 21, 2026; no confirmed end date found yet.",
       "category": "taco",
-      "startDate": null,
+      "startDate": "2026-05-21",
       "endDate": null,
-      "status": "upcoming",
-      "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
+      "status": "ending-soon",
+      "source": "https://www.prnewswire.com/news-releases/taco-bell-serves-up-a-cantina-chicken-twist-on-its-iconic-mexican-pizza-302771653.html",
       "image": "taco-bell-cantina-chicken-mexican-pizza.jpg"
     },
     {
@@ -872,14 +872,25 @@
     },
     {
       "chain": "Popeyes",
-      "item": "$6 Big Box Meal + $20 Family Meal (returning)",
-      "description": "Limited-time value returns: $6 Big Box with 2pc fried chicken or 3 tenders, two sides, and a biscuit; plus a $20 Family Meal with 9pc chicken or 11 tenders, one large side, and four biscuits.",
+      "item": "$6 Big Box Meal (returning)",
+      "description": "Limited-time value return: $6 Big Box with 2pc fried chicken or 3 tenders, two sides, and a biscuit. Ran June 2 - July 13, 2026; kept for the record.",
+      "category": "chicken",
+      "startDate": "2026-06-02",
+      "endDate": "2026-07-13",
+      "status": "active",
+      "source": "https://www.brandeating.com/2026/06/6-dollar-big-box-meal-back-at-popeyes-summer-2026.html",
+      "image": "popeyes-6-big-box-meal-20-family-meal-returning.jpg"
+    },
+    {
+      "chain": "Popeyes",
+      "item": "$20 Family Meal (returning)",
+      "description": "Limited-time value return: $20 Family Meal with 9pc chicken or 11 tenders, one large side, and four biscuits.",
       "category": "chicken",
       "startDate": "2026-06-02",
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/6-dollar-big-box-meal-back-at-popeyes-summer-2026.html",
-      "image": "popeyes-6-big-box-meal-20-family-meal-returning.jpg"
+      "image": null
     },
     {
       "chain": "Popeyes",
@@ -895,10 +906,10 @@
     {
       "chain": "Wingstop",
       "item": "Carolina Gold (Flavor Rodeo return)",
-      "description": "Fan-favorite sweet, tangy Southern BBQ wing flavor with golden mustard-forward taste, back nationwide for a limited time in the Flavor Rodeo. Club Wingstop members Aug 7; everyone Aug 11.",
+      "description": "Fan-favorite sweet, tangy Southern BBQ wing flavor with golden mustard-forward taste, back nationwide for a limited time in the Flavor Rodeo. Club Wingstop members Aug 7; nationwide rollout Aug 11.",
       "category": "chicken",
       "startDate": "2026-08-07",
-      "endDate": null,
+      "endDate": "2026-09-09",
       "status": "upcoming",
       "source": "https://www.qsrmagazine.com/news/carolina-gold-and-jamaican-jerk-returning-to-wingstop-for-limited-time/",
       "image": null
@@ -909,7 +920,7 @@
       "description": "Returning limited-time wing flavor with warm Caribbean spices and savory herbs, part of the Flavor Rodeo lineup. Club Wingstop early access Aug 7; nationwide Aug 11.",
       "category": "chicken",
       "startDate": "2026-08-07",
-      "endDate": null,
+      "endDate": "2026-09-09",
       "status": "upcoming",
       "source": "https://www.qsrmagazine.com/news/carolina-gold-and-jamaican-jerk-returning-to-wingstop-for-limited-time/",
       "image": null
@@ -920,7 +931,7 @@
       "description": "New limited-time dipping sauce launching with the Flavor Rodeo: sweet honey mustard with a fiery hot-honey kick.",
       "category": "food",
       "startDate": "2026-08-07",
-      "endDate": null,
+      "endDate": "2026-09-09",
       "status": "upcoming",
       "source": "https://www.nrn.com/fast-casual/wingstop-launches-delivery-cowboys-to-celebrate-flavor-comeback",
       "image": null
@@ -931,7 +942,7 @@
       "description": "Limited-time Coca-Cola collab beverage blending lemon-lime citrus with sweet strawberry; exclusive to Wingstop locations with Coca-Cola Freestyle dispensers. Members Aug 7, all customers Aug 11.",
       "category": "drink",
       "startDate": "2026-08-07",
-      "endDate": null,
+      "endDate": "2026-09-09",
       "status": "upcoming",
       "source": "https://parade.com/food/coca-cola-debuts-a-new-one-of-a-kind-flavor-but-only-for-a-limited-time",
       "image": null
@@ -1038,11 +1049,11 @@
     {
       "chain": "Chipotle",
       "item": "Chipotle x Riot Games 2XKO Collab",
-      "description": "Chipotle's biggest gaming collaboration yet with Riot Games' fighting game 2XKO: first-ever Chipotle-branded in-game lobby plus real-world food rewards for players.",
+      "description": "Chipotle's biggest gaming collaboration yet with Riot Games' fighting game 2XKO: first-ever Chipotle-branded in-game lobby plus real-world food rewards for players. Ran in two phases (June 16-28 and July 21-Aug 6).",
       "category": "event",
       "startDate": "2026-06-16",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-08-06",
+      "status": "ending-soon",
       "source": "https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO",
       "image": null
     },
@@ -1122,6 +1133,127 @@
       "status": "ending-soon",
       "source": "https://www.brandeating.com/2026/06/subway-offers-moana-movie-meal-deal.html",
       "image": "subway-moana-movie-meal-collectible-cups.jpg"
+    },
+    {
+      "chain": "Subway",
+      "item": "Fresh Value Menu (Deli Faves & Sub of the Day)",
+      "description": "Subway's first-ever nationwide value menu: 15 entrees under $5. 'Deli Faves' offers four customizable 6\" subs for $3.99 (BLT, Cold Cut Combo, Spicy Pepperoni, Ham & Salami); 'Sub of the Day' offers a different 6\" sub for $4.99 each day of the week. Complements the existing Protein Pockets.",
+      "category": "sandwich",
+      "startDate": "2026-04-28",
+      "endDate": null,
+      "status": "active",
+      "source": "https://newsroom.subway.com/2026-04-28-Subway-R-Introduces-Its-First-Ever-Value-Menu-with-15-Entrees-Under-5",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Red Bull Dragonberry Energizer",
+      "description": "McDonald's first energy drink collab with Red Bull: layered iced McCafe beverage blending Red Bull with blue raspberry flavor, topped with freeze-dried dragonfruit pieces (~80mg caffeine); regular and zero-sugar versions. Part of McDonald's broader 2026 beverage expansion.",
+      "category": "drink",
+      "startDate": "2026-08-04",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.tastingtable.com/2230187/mcdonalds-dragonberry-red-bull-energizer-drink-review/",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Cheesy Street Chalupas (returning)",
+      "description": "Fan-favorite from 2024 returns: slow-roasted chicken or grilled steak with onion and cilantro tucked into a warm, cheesy Quesalupa-inspired shell. Sold two for $5.49, or in a $9 Luxe Cravings Box.",
+      "category": "taco",
+      "startDate": "2026-08-14",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.aol.com/taco-bell-bringing-back-cheesy-120000394.html",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Orange Cream beverage lineup",
+      "description": "Nostalgic creamsicle-inspired drinks: Orange Cream Cold Brew, Iced Orange Cream Latte, Iced Orange Cream Matcha, Iced Orange Cream Chai, and Orange Cream Frappuccino, plus a Dandy Worldwide merch collab.",
+      "category": "drink",
+      "startDate": "2026-07-28",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://about.starbucks.com/stories/2026/enjoy-peak-summer-nostalgia-with-orange-cream-drinks-and-new-dandy-merch-collab/",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Pumpkin Cream lineup (Iced Pumpkin Cream Shaken Espresso, Chai, Matcha)",
+      "description": "New pumpkin-cream drinks debuting with the fall 2026 menu: Iced Pumpkin Cream Shaken Espresso, Pumpkin Spice Chai, and Iced Pumpkin Cream Matcha.",
+      "category": "drink",
+      "startDate": "2026-08-25",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Chicken Bacon Protein Pocket",
+      "description": "New protein-forward food item launching with the fall 2026 menu.",
+      "category": "food",
+      "startDate": "2026-08-25",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Hedgehog Cake Pop",
+      "description": "New fall-themed cake pop shaped like a hedgehog, launching with the fall 2026 menu.",
+      "category": "dessert",
+      "startDate": "2026-08-25",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
+      "image": null
+    },
+    {
+      "chain": "KFC",
+      "item": "Country Fried Steak Meal",
+      "description": "Crispy seasoned country-fried steak topped with creamy pepper gravy, served with mashed potatoes, coleslaw, and a biscuit; $4.99, Wednesdays only, in-store only. Available in every U.S. state but not at every location.",
+      "category": "food",
+      "startDate": "2026-07-01",
+      "endDate": "2026-08-19",
+      "status": "ending-soon",
+      "source": "https://www.fastfoodpost.com/kfc-to-launch-4-99-country-fried-steak-meal-available-on-wednesdays/",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "$1.99 Value Menu",
+      "description": "Refreshed value menu with four items at $1.99 each: Cheesy Baja Crispy Tender Wrap, Jr. Bacon Cheeseburger, Vanilla Soft Serve Cup, and Small Root Beer Float.",
+      "category": "food",
+      "startDate": "2026-06-01",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.businesswire.com/news/home/20260601211848/en/SONIC-Debuts-the-$7-Big-Deal-Meal-Bringing-More-of-What-Guests-Want-for-Less",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "Frozen Refreshers (incl. new Watermelon Peach)",
+      "description": "Frozen versions of Sonic's Mango Peach, Strawberry Passion Fruit, and Berry Citrus Refreshers, plus a new limited-time Watermelon Peach flavor. 20oz intro price $2.99 through May 31.",
+      "category": "drink",
+      "startDate": "2026-05-18",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.businesswire.com/news/home/20260518500381/en/SONIC-Expands-Its-Refreshers-Platform-Adding-Frozen-Refreshers-Featuring-a-Brand-New-Watermelon-Peach-Flavor",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Iced Beverage Buckets",
+      "description": "48-oz 'bucket' filled with a customer's choice of Dunkin' iced coffee or Refresher (e.g. Cherry Lime Rickey Refresher, Pink Pineapple Sparkling Refresher, Iced Coffee with Peanut Swirl), $12.99; companion cup-holder accessory available to Boosted Rewards members online.",
+      "category": "drink",
+      "startDate": "2026-08-07",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://news.dunkindonuts.com/blog/iced-beverage-buckets-august-2026",
+      "image": null
     }
   ]
 }

@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LTO Radar — Fast-Food Limited-Time Tracker</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍔</text></svg>">
+<style>
+  :root {
+    color-scheme: light;
+    --ground: #FAF7F0;
+    --board: #FEFDFA;
+    --board-edge: #EAE4D6;
+    --ink: #443A2E;
+    --muted: #91876F;
+    --lamp: #DA9433;
+    --lamp-ink: #96690A;
+    --ketchup: #C05545;
+    --mint: #4D8663;
+    --chip-bg: #F2EDE1;
+    --shadow: 0 1px 2px rgba(90, 76, 56, .05), 0 4px 14px rgba(90, 76, 56, .06);
+  }
+
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+  body {
+    margin: 0;
+    background: var(--ground);
+    color: var(--ink);
+    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+    display: flex; flex-direction: column;
+  }
+  .display {
+    font-family: Futura, "Century Gothic", "Trebuchet MS", system-ui, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .02em;
+  }
+
+  header.page {
+    border-bottom: 1px solid var(--board-edge);
+    padding: 20px 24px 14px;
+    display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 20px;
+    flex: none;
+  }
+  header.page h1 { margin: 0; font-size: clamp(20px, 3.5vw, 28px); font-weight: 800; }
+  header.page h1 .dot { color: var(--lamp-ink); }
+  header.page .tagline { color: var(--muted); font-size: 13.5px; }
+  header.page .count {
+    margin-left: auto; font-size: 13px; color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .controls {
+    padding: 12px 24px;
+    display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+    border-bottom: 1px solid var(--board-edge);
+    flex: none;
+  }
+  .controls .label { font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin-right: 4px; }
+  .controls .foot-note { margin-left: auto; font-size: 12px; color: var(--muted); }
+  .chip {
+    border: 1px solid var(--board-edge); background: var(--board);
+    color: var(--ink); border-radius: 999px; padding: 5px 13px;
+    font-size: 13px; font-weight: 600; cursor: pointer;
+    transition: border-color .15s, background .15s;
+  }
+  .chip:hover { border-color: var(--lamp-ink); }
+  .chip:focus-visible { outline: 2px solid var(--lamp-ink); outline-offset: 2px; }
+  .chip[aria-pressed="true"] { background: #5C5040; color: #FBF8F1; border-color: #5C5040; }
+  #chainChips { border-bottom: none; padding-bottom: 2px; }
+  #chainChips .chip { display: inline-flex; align-items: center; gap: 7px; cursor: grab; }
+  #chainChips .chip.dragging { opacity: .4; cursor: grabbing; }
+  #chainChips .chip .swatch { width: 9px; height: 9px; border-radius: 3px; flex: none; }
+  #chainChips .chip[aria-pressed="false"] { opacity: .45; background: transparent; }
+  #chainChips .chip[aria-pressed="false"] .swatch { background: var(--muted) !important; }
+  #chainChips .chip[aria-pressed="true"] { background: var(--board); color: var(--ink); border-color: var(--board-edge); }
+
+  main {
+    flex: 1;
+    overflow: auto;
+    scrollbar-width: thin;
+    scrollbar-color: var(--board-edge) transparent;
+  }
+
+  .guide { display: flex; min-width: max-content; align-items: flex-start; }
+
+  .col {
+    --lane-bg: color-mix(in srgb, var(--brand) 14%, var(--ground));
+    width: 252px; flex: none;
+    background: var(--lane-bg);
+    border-right: 1px solid color-mix(in srgb, var(--brand) 32%, var(--board-edge));
+    padding: 0 12px 30px;
+  }
+  .col:first-child { padding-left: 20px; }
+
+  .col-head {
+    position: sticky; top: 0; z-index: 2;
+    display: flex; align-items: center; gap: 8px;
+    padding: 14px 2px 8px;
+    background: linear-gradient(var(--lane-bg) 82%, transparent);
+  }
+  .col-head .mark {
+    width: 9px; height: 9px; border-radius: 3px; flex: none;
+    background: var(--brand);
+  }
+  .col-head h2 {
+    margin: 0; font-size: 14px; font-weight: 800;
+    text-transform: uppercase; letter-spacing: .05em;
+    font-family: Futura, "Century Gothic", "Trebuchet MS", system-ui, sans-serif;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    color: color-mix(in srgb, var(--brand) 60%, var(--ink));
+    box-shadow: 0 3px 0 0 var(--brand);
+    padding-bottom: 3px;
+  }
+  .col-head .n { font-size: 11.5px; color: var(--muted); font-variant-numeric: tabular-nums; margin-left: auto; }
+
+  .col-items { display: flex; flex-direction: column; gap: 12px; }
+
+  .tile {
+    background: var(--board);
+    border: 1px solid color-mix(in srgb, var(--brand) 18%, var(--board-edge));
+    border-radius: 12px;
+    overflow: hidden;
+    display: flex; flex-direction: column;
+    position: relative;
+  }
+  .tile .photo {
+    display: block; width: 100%;
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+    background: var(--chip-bg);
+    filter: saturate(.92);
+  }
+  .tile .body { padding: 11px 13px 11px; display: flex; flex-direction: column; gap: 6px; }
+  .tile h3 { margin: 0; font-size: 14px; font-weight: 700; line-height: 1.3; }
+  .tile .desc {
+    margin: 0; font-size: 12.5px; color: var(--muted); line-height: 1.45;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .tile .meta {
+    display: flex; align-items: center; justify-content: space-between; gap: 8px;
+    padding-top: 8px; margin-top: 2px;
+    border-top: 1px dashed var(--board-edge);
+  }
+  .tile .window { font-size: 11.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .tile .src {
+    position: absolute; top: 8px; right: 10px;
+    background: color-mix(in srgb, var(--board) 82%, transparent);
+    border-radius: 6px; padding: 0 6px;
+  }
+  .tile .src a { color: var(--muted); font-size: 11px; text-decoration: none; }
+  .tile .src a:hover { color: var(--lamp-ink); }
+
+  .tag {
+    font-weight: 700; font-size: 10.5px; letter-spacing: .04em; text-transform: uppercase;
+    padding: 3px 8px; border-radius: 6px; white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+  .tag.active   { color: var(--lamp-ink); background: color-mix(in srgb, var(--lamp) 13%, transparent); }
+  .tag.ending   { color: color-mix(in srgb, var(--ketchup) 85%, black); background: color-mix(in srgb, var(--ketchup) 12%, transparent); }
+  .tag.upcoming { color: color-mix(in srgb, var(--mint) 80%, black); background: color-mix(in srgb, var(--mint) 12%, transparent); }
+
+  .empty { text-align: center; color: var(--muted); padding: 60px 28px; font-size: 15px; }
+</style>
+</head>
+<body>
+
+<header class="page">
+  <h1 class="display">LTO Radar<span class="dot">.</span></h1>
+  <span class="tagline">Limited-time fast-food items — catch them before they're gone</span>
+  <span class="count" id="count"></span>
+</header>
+
+<div class="controls" id="chainChips" role="group" aria-label="Toggle chains">
+  <span class="label">Chains</span>
+</div>
+
+<div class="controls" id="statusChips" role="group" aria-label="Filter by status">
+  <span class="label">Status</span>
+  <span class="foot-note" id="foot"></span>
+</div>
+
+<main id="board"><div class="empty">Loading the board…</div></main>
+
+<script>
+const TODAY = new Date(new Date().toISOString().slice(0, 10));
+
+const BRAND = {
+  "McDonald's":    "#E0B93B",
+  "Burger King":   "#C9502F",
+  "Dunkin'":       "#E07033",
+  "Krispy Kreme":  "#2E7D54",
+  "Wendy's":       "#C74A5E",
+  "Taco Bell":     "#8A5FA0",
+  "Starbucks":     "#3E7D62",
+  "KFC":           "#B04A57",
+  "Chick-fil-A":   "#C74A63",
+};
+
+const STATUSES = [
+  { key: "all",      label: "All" },
+  { key: "active",   label: "Active now" },
+  { key: "ending",   label: "Ending soon" },
+  { key: "upcoming", label: "Upcoming" },
+];
+
+let PROMOS = [];
+let statusFilter = "all";
+let enabledChains = new Set();
+let chainOrder = [];
+
+function loadOrder(allChains) {
+  try {
+    const saved = JSON.parse(localStorage.getItem("lto-chain-order") || "null");
+    if (Array.isArray(saved)) {
+      const valid = saved.filter(c => allChains.includes(c));
+      return [...valid, ...allChains.filter(c => !valid.includes(c))];
+    }
+  } catch (e) { /* fall through */ }
+  return [...allChains];
+}
+
+function saveOrder() {
+  try { localStorage.setItem("lto-chain-order", JSON.stringify(chainOrder)); } catch (e) { /* private mode */ }
+}
+
+function loadEnabled(allChains) {
+  try {
+    const saved = JSON.parse(localStorage.getItem("lto-chains") || "null");
+    if (Array.isArray(saved) && saved.some(c => allChains.includes(c))) {
+      return new Set(saved.filter(c => allChains.includes(c)));
+    }
+  } catch (e) { /* fall through to all-on */ }
+  return new Set(allChains);
+}
+
+function saveEnabled() {
+  try { localStorage.setItem("lto-chains", JSON.stringify([...enabledChains])); } catch (e) { /* private mode */ }
+}
+
+function daysLeft(p) {
+  if (!p.endDate || !/^\d{4}-\d{2}-\d{2}$/.test(p.endDate)) return null;
+  return Math.ceil((new Date(p.endDate) - TODAY) / 86400000);
+}
+
+function statusOf(p) {
+  const d = daysLeft(p);
+  if (p.status === "upcoming") return "upcoming";
+  if (d !== null && d <= 14 && d >= 0) return "ending";
+  if (p.status === "ending-soon") return "ending";
+  return "active";
+}
+
+function tagText(p) {
+  const s = statusOf(p);
+  const d = daysLeft(p);
+  if (s === "upcoming") return p.startDate ? "From " + fmtDate(p.startDate) : "Coming soon";
+  if (d !== null && d >= 0) return d === 0 ? "Last day" : d + (d === 1 ? " day left" : " days left");
+  if (p.endDate === "while supplies last") return "While supplies last";
+  return "Limited time";
+}
+
+function fmtDate(str) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(str || "")) return str || "?";
+  return new Date(str).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
+}
+
+function windowText(p) {
+  const a = p.startDate ? fmtDate(p.startDate) : null;
+  const b = p.endDate ? fmtDate(p.endDate) : null;
+  if (a && b) return a + " – " + b;
+  if (a) return "From " + a;
+  if (b) return "Until " + b;
+  return "Dates unannounced";
+}
+
+function esc(s) {
+  return String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+}
+
+function tile(p) {
+  const s = statusOf(p);
+  return `<article class="tile">
+    ${p.image ? `<img class="photo" src="images/${esc(p.image)}" alt="${esc(p.item)}" loading="lazy" onerror="this.remove()">` : ""}
+    <div class="src">${p.source ? `<a href="${esc(p.source)}" target="_blank" rel="noopener" aria-label="Source for ${esc(p.item)}">source ↗</a>` : ""}</div>
+    <div class="body">
+      <h3>${esc(p.item)}</h3>
+      <p class="desc" title="${esc(p.description)}">${esc(p.description)}</p>
+      <div class="meta">
+        <span class="window">${esc(windowText(p))}</span>
+        <span class="tag ${s}">${esc(tagText(p))}</span>
+      </div>
+    </div>
+  </article>`;
+}
+
+function render() {
+  const order = { ending: 0, active: 1, upcoming: 2 };
+  const live = PROMOS
+    .filter(p => { const d = daysLeft(p); return d === null || d >= 0; })
+    .filter(p => enabledChains.has(p.chain))
+    .filter(p => statusFilter === "all" || statusOf(p) === statusFilter);
+
+  const present = new Set(live.map(p => p.chain));
+  const chains = chainOrder.filter(c => present.has(c));
+
+  const board = document.getElementById("board");
+  board.innerHTML = chains.length ? `<div class="guide">` + chains.map(chain => {
+    const items = live
+      .filter(p => p.chain === chain)
+      .sort((a, b) => {
+        const so = order[statusOf(a)] - order[statusOf(b)];
+        if (so) return so;
+        const da = daysLeft(a), db = daysLeft(b);
+        if (da !== null && db !== null) return da - db;
+        return (da === null) - (db === null);
+      });
+    return `<section class="col" style="--brand:${BRAND[chain] || "var(--board-edge)"}">
+      <div class="col-head">
+        <span class="mark" aria-hidden="true"></span>
+        <h2>${esc(chain)}</h2>
+        <span class="n">${items.length}</span>
+      </div>
+      <div class="col-items">${items.map(tile).join("")}</div>
+    </section>`;
+  }).join("") + `</div>` : `<div class="empty">Nothing on the board for this filter.</div>`;
+
+  const n = live.length;
+  document.getElementById("count").textContent = n + " item" + (n === 1 ? "" : "s") + " on the board";
+}
+
+function buildChainChips() {
+  const allChains = [...new Set(PROMOS.map(p => p.chain))].sort((a, b) => a.localeCompare(b));
+  enabledChains = loadEnabled(allChains);
+  chainOrder = loadOrder(allChains);
+  const row = document.getElementById("chainChips");
+
+  row.querySelectorAll(".chip").forEach(x => x.remove());
+  row.insertAdjacentHTML("beforeend", chainOrder.map(c =>
+    `<button class="chip" draggable="true" data-chain="${esc(c)}" aria-pressed="${enabledChains.has(c)}"
+       title="Click to toggle · drag to reorder">
+      <span class="swatch" style="background:${BRAND[c] || "var(--muted)"}"></span>${esc(c)}
+    </button>`
+  ).join(""));
+
+  row.querySelectorAll(".chip").forEach(b => {
+    b.addEventListener("click", () => {
+      const c = b.dataset.chain;
+      if (enabledChains.has(c)) {
+        if (enabledChains.size === 1) { // last one off = reset to all on
+          enabledChains = new Set(allChains);
+        } else {
+          enabledChains.delete(c);
+        }
+      } else {
+        enabledChains.add(c);
+      }
+      row.querySelectorAll(".chip").forEach(x => x.setAttribute("aria-pressed", String(enabledChains.has(x.dataset.chain))));
+      saveEnabled();
+      render();
+    });
+
+    b.addEventListener("dragstart", e => {
+      b.classList.add("dragging");
+      e.dataTransfer.effectAllowed = "move";
+      e.dataTransfer.setData("text/plain", b.dataset.chain);
+    });
+    b.addEventListener("dragend", () => {
+      b.classList.remove("dragging");
+      chainOrder = [...row.querySelectorAll(".chip")].map(x => x.dataset.chain);
+      saveOrder();
+      render();
+    });
+  });
+
+  row.addEventListener("dragover", e => {
+    e.preventDefault();
+    const dragging = row.querySelector(".chip.dragging");
+    const target = e.target.closest("#chainChips .chip");
+    if (!dragging || !target || target === dragging) return;
+    const r = target.getBoundingClientRect();
+    const before = e.clientX < r.left + r.width / 2;
+    target.insertAdjacentElement(before ? "beforebegin" : "afterend", dragging);
+  });
+  row.addEventListener("drop", e => e.preventDefault());
+}
+
+function buildChips() {
+  const srow = document.getElementById("statusChips");
+  const note = document.getElementById("foot");
+  note.insertAdjacentHTML("beforebegin", STATUSES.map(s =>
+    `<button class="chip" data-status="${s.key}" aria-pressed="${s.key === statusFilter}">${s.label}</button>`
+  ).join(""));
+  srow.querySelectorAll(".chip").forEach(b => b.addEventListener("click", () => {
+    statusFilter = b.dataset.status;
+    srow.querySelectorAll(".chip").forEach(x => x.setAttribute("aria-pressed", String(x.dataset.status === statusFilter)));
+    render();
+  }));
+}
+
+fetch("data.json", { cache: "no-cache" })
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => {
+    PROMOS = data.items;
+    document.getElementById("foot").textContent =
+      "Data refreshed " + new Date(data.researched).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
+    buildChainChips();
+    buildChips();
+    render();
+  })
+  .catch(err => {
+    document.getElementById("board").innerHTML =
+      `<div class="empty">Couldn't load the board data (${esc(err.message)}). Refresh the page to try again.</div>`;
+  });
+</script>
+</body>
+</html>

@@ -7,7 +7,9 @@ to `main`. Do NOT redesign or edit `index.html` unless it is broken.
 
 ## Chains to cover (all of them, every run)
 
-McDonald's, Burger King, Wendy's, Taco Bell, Starbucks, KFC, Chick-fil-A, Dunkin', Krispy Kreme.
+McDonald's, Burger King, Wendy's, Taco Bell, Starbucks, KFC, Chick-fil-A, Dunkin', Krispy Kreme,
+Sonic, Arby's, Jack in the Box, Dairy Queen, Popeyes, Wingstop, Raising Cane's, Zaxby's,
+Chipotle, Pizza Hut, Domino's, Subway.
 
 ## Research rules — completeness is the top priority
 
@@ -24,6 +26,18 @@ For EVERY chain do BOTH:
    - https://about.starbucks.com/press/
    - https://global.kfc.com/press-releases/ and KFC US news coverage
    - https://www.chick-fil-a.com/press-room
+   - https://www.sonicdrivein.com/menu (plus Sonic news coverage)
+   - https://arbys.com/menu (plus Arby's news coverage)
+   - https://www.jackinthebox.com/food (plus press coverage)
+   - https://www.dairyqueen.com/en-us/blizzard-of-the-month/ and DQ news
+   - https://www.popeyes.com/menu (plus press coverage)
+   - https://www.wingstop.com/menu and Wingstop news
+   - https://www.raisingcanes.com/news
+   - https://www.zaxbys.com/news
+   - https://newsroom.chipotle.com/
+   - https://blog.pizzahut.com/ and Pizza Hut press coverage
+   - https://ir.dominos.com/news-releases and Domino's menu news
+   - https://newsroom.subway.com/
 2. **Web-search** for "<chain> new menu item <current month/year>", "<chain> limited time offer",
    and food-news roundups (brandeating.com, chewboom.com, fastfoodpost.com).
 

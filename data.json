@@ -1342,6 +1342,116 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-and-rob-rausch-bring-an-iconic-southern-flavor-to-fans-nationwide-with-limited-drop-of-alabama-white-bbq-sauce-302840598.html",
       "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Unicorn Frappuccino (limited return)",
+      "description": "The viral 2017 Unicorn Frappuccino recipe returns for one weekend only: sweet-tart mango blend with tangy blue drizzle, whipped cream, and pink-and-blue topping. Rolling out nationwide (and internationally) Aug 15-16, 2026 to close out summer.",
+      "category": "drink",
+      "startDate": "2026-08-15",
+      "endDate": "2026-08-16",
+      "status": "upcoming",
+      "source": "https://about.starbucks.com/press/2026/unicorn-frappuccino-blended-beverage-makes-its-magical-return-later-this-summer/",
+      "image": null
+    },
+    {
+      "chain": "Pizza Hut",
+      "item": "BOOK IT! Summer of Stories",
+      "description": "Revived summer reading incentive: pre-K through 6th graders who hit a monthly reading goal in the BOOK IT! app earn a free one-topping Personal Pan Pizza; new for 2026, a Box Tops for Education partnership lets families also earn cash for schools. Runs June 1 - August 31, 2026.",
+      "category": "event",
+      "startDate": "2026-06-01",
+      "endDate": "2026-08-31",
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/pizza-hut-announces-the-summer-of-hut-originals--a-new-platform-celebrating-the-iconic-food-experiences-and-fans-that-made-the-brand-302794448.html",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "Happy Gilmore Meal (collectible cups)",
+      "description": "Movie tie-in for Happy Gilmore 2 (Netflix): add $1 to any combo or Meal of the Day for one of several collectible Happy Gilmore-themed cups. Launched ahead of the film's July 25 release; exact end date not yet confirmed.",
+      "category": "event",
+      "startDate": "2026-07-10",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.restaurantbusinessonline.com/marketing/subway-launches-limited-time-happy-gilmore-meal",
+      "image": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "$1.99 Sliders Lineup",
+      "description": "Four new value sliders under $2 each: Roast Beef Slider (Swiss), Buffalo Chicken Slider (crispy tender, buffalo sauce, ranch), Chicken Slider (crispy tender, Swiss), and Ham Slider (Swiss); promoted with Harry Jowsey and Malin Akerman. Pricing may run slightly higher in CA, CT, NY, OR, WA.",
+      "category": "sandwich",
+      "startDate": "2026-06-08",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/arbys-launches-lineup-of-1-99-sliders/",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Smashed Jack Sliders",
+      "description": "75th-anniversary LTO: 2oz seasoned smashed beef patty with crispy caramelized edges, melty American cheese, pickles, and Smashed Jack sauce on a brioche bun; sold as 3-piece sliders, a Munchie Meal with two tacos and curly fries, or an 8-piece Party Pack. No announced end date.",
+      "category": "burger",
+      "startDate": "2026-04-06",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.qsrweb.com/news/jack-in-the-box-launches-slider-meal-75k-giveaway-for-anniversary/",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Sweet Reaper Mozzarella Sticks",
+      "description": "Swicy mozzarella sticks breaded in a Carolina Reaper-seasoned coating balanced with brown sugar and honey, served with buttermilk ranch, sold alongside the classic version's return. No announced end date.",
+      "category": "food",
+      "startDate": "2026-04-15",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.fastfoodpost.com/jack-in-the-box-adds-new-sweet-reaper-mozzarella-sticks-as-classic-version-returns/",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "$9.99 Tenders Deal",
+      "description": "New value meal built around Popeyes' reformulated hand-battered tenders: 4 tenders (classic, spicy or blackened), a regular side, a regular drink, and a biscuit for $9.99.",
+      "category": "event",
+      "startDate": null,
+      "endDate": "2026-08-30",
+      "status": "active",
+      "source": "https://www.nrn.com/quick-service/popeyes-latest-value-deal-features-its-new-tenders",
+      "image": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "Wing Week presented by Live Nation",
+      "description": "National Chicken Wing Day expanded into a 3-day giveaway with Live Nation: July 29 tickets-for-a-year ($3,000 Ticketmaster gift card), July 30 festival package for two (VIP tickets, airfare, hotel, spending money), July 31 $500 Ticketmaster + $500 Wingstop gift cards. Ran July 29-31, 2026; kept for the record.",
+      "category": "event",
+      "startDate": "2026-07-29",
+      "endDate": "2026-07-31",
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/wingstop-expands-wing-day-into-wing-week-kicking-off-a-broader-1-million-in-fan-experiences-and-giveaways-302833600.html",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Bacon Cheddar Hash Whopper (regional test)",
+      "description": "Test-market Whopper: quarter-pound flame-grilled beef patty with bacon, an egg patty, cheddar cheese sauce, hash browns and hollandaise aioli on a sesame bun. First spotted Jan 8, 2026 in Raleigh, NC and Portland, OR only; as of early August still not confirmed for nationwide rollout despite fan requests — a regional test, not a national LTO.",
+      "category": "burger",
+      "startDate": "2026-01-08",
+      "endDate": null,
+      "status": "active",
+      "source": "https://sporked.com/article/burger-king-bacon-cheddar-hash-whopper-news/",
+      "image": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Dirty Soda lineup (leaked, unconfirmed)",
+      "description": "Leaked, unconfirmed: an internal-looking menu update spotted on Reddit suggests Arby's is testing a dirty-soda drink line, including a classic Shirley Temple and a coconut-cream \"Shirley 'n Cream\" Coke, riding the dirty-soda trend seen at McDonald's, Burger King, KFC and Crumbl. Arby's has not confirmed this or given a launch date.",
+      "category": "drink",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://sporked.com/article/arbys-dirty-soda-release/",
+      "image": null
     }
   ]
 }

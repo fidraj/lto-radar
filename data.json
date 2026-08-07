@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-06",
+  "researched": "2026-08-07",
   "items": [
     {
       "chain": "McDonald's",
@@ -1152,7 +1152,7 @@
       "category": "drink",
       "startDate": "2026-08-04",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.tastingtable.com/2230187/mcdonalds-dragonberry-red-bull-energizer-drink-review/",
       "image": null
     },
@@ -1251,8 +1251,96 @@
       "category": "drink",
       "startDate": "2026-08-07",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://news.dunkindonuts.com/blog/iced-beverage-buckets-august-2026",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Peppercorn BLT Whopper",
+      "description": "Fan-created 'Whopper By You' LTO: quarter-pound flame-grilled beef patty with peppercorn mayo, bacon, lettuce, tomato and American cheese on a sesame bun; also available as Jr., meal, and Impossible variants. Previously missed from earlier tracking.",
+      "category": "burger",
+      "startDate": "2026-03-30",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.nrn.com/quick-service/burger-king-turns-to-peppercorn-for-latest-whopper-by-you",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Cheesy G Sliders",
+      "description": "Flatbread-wrapped fried-shell sliders with steak or chicken and a three-cheese blend; announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed launch date yet.",
+      "category": "food",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Mountain Dew Baja Midnight Pie",
+      "description": "Follow-up to the Baja Blast Pie, announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed launch date yet.",
+      "category": "dessert",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Milk Bar Birthday Cake Empanada",
+      "description": "Dessert collaboration with Milk Bar, announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed launch date yet.",
+      "category": "dessert",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.prnewswire.com/news-releases/taco-bell-reveals-its-2026-menu-innovations-at-live-mas-live-a-night-at-the-palladium--a-star-powered-hollywood-spectacle-now-streaming-on-peacock-302709053.html",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "99¢ Corn Dog Thursdays",
+      "description": "Weekly value deal: classic corn dogs for 99 cents every Thursday throughout August 2026.",
+      "category": "event",
+      "startDate": "2026-08-06",
+      "endDate": "2026-08-27",
+      "status": "active",
+      "source": "https://www.brandeating.com/2026/07/99-cent-corn-dog-days-at-sonic-july-2026.html",
+      "image": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Buffalo Ranch Chicken Sandwich",
+      "description": "New choice added to the $7.99 Meat & 3 Value Box: crispy chicken breast with buffalo sauce, ranch, and shredded lettuce on a brioche bun.",
+      "category": "sandwich",
+      "startDate": "2026-08-03",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://stories.inspirebrands.com/arbys-new-buffalo-ranch-chicken-sandwich/",
+      "image": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "GIDDYUP $0 Delivery Promo",
+      "description": "Promo code GIDDYUP for $0 delivery fee on qualifying orders, tied to the Flavor Rodeo launch.",
+      "category": "event",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-16",
+      "status": "upcoming",
+      "source": "https://www.prnewswire.com/news-releases/wingstop-saddles-up-for-the-flavor-rodeo-with-bbq-favorites-carolina-gold-and-jamaican-jerk-302841708.html",
+      "image": null
+    },
+    {
+      "chain": "Zaxby's",
+      "item": "Alabama White BBQ Sauce (limited drop)",
+      "description": "First-ever limited-edition sauce: tangy, mayo-based Alabama-style white BBQ, joining Zaxby's signature sauce lineup as a side portion only (no bottles sold); promoted with Alabama native Rob Rausch. Available in-restaurant, in the app, and on zaxbys.com while supplies last.",
+      "category": "food",
+      "startDate": "2026-08-04",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/zaxbys-and-rob-rausch-bring-an-iconic-southern-flavor-to-fans-nationwide-with-limited-drop-of-alabama-white-bbq-sauce-302840598.html",
       "image": null
     }
   ]

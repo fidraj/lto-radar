@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-07",
+  "researched": "2026-08-08",
   "items": [
     {
       "chain": "McDonald's",
@@ -344,13 +344,13 @@
     },
     {
       "chain": "Krispy Kreme",
-      "item": "Pumpkin Spice collection (anticipated)",
-      "description": "No official fall/Halloween announcement yet. Based on prior-year timing (Pumpkin Spice Original Glazed launched Aug 11 last year; Halloween Trick or Treat collection in October), a mid-August pumpkin launch and October Halloween collection are expected but unconfirmed.",
+      "item": "Autumn Seasonal Collection",
+      "description": "Four fall doughnuts (returning Pumpkin Spice Cake and Biscoff Cookie Butter, new Maple Cheesecake and Cafe Mocha) plus two new lattes (Pumpkin Spice, Apple Crisp), sold individually and by the dozen at participating shops; more seasonal items expected later in August and September.",
       "category": "donut",
       "startDate": "2026-08-11",
       "endDate": null,
       "status": "upcoming",
-      "source": "https://www.krispykreme.com/promos/pumpkinspice",
+      "source": "https://www.restaurantnews.com/krispy-kreme-pumpkin-spice-autumn-seasonal-collection-080726/",
       "image": "krispy-kreme-pumpkin-spice-collection-anticipated.jpg"
     },
     {
@@ -444,7 +444,7 @@
     {
       "chain": "Taco Bell",
       "item": "Crème Brûlée Crunchwrap Slider",
-      "description": "Dessert Crunchwrap with creamy vanilla filling, crispy cinnamon-sugar tostada, and a caramelized, crackable cinnamon-sugar crust; part of Taco Bell's 20+ new items announced for 2026.",
+      "description": "Dessert Crunchwrap with creamy vanilla filling, crispy cinnamon-sugar tostada, and a caramelized, crackable cinnamon-sugar crust; part of Taco Bell's 20+ new items announced for 2026. Currently a $1.99 regional test in Grand Rapids, MI; nationwide rollout not yet confirmed.",
       "category": "dessert",
       "startDate": null,
       "endDate": null,
@@ -543,12 +543,12 @@
     {
       "chain": "KFC",
       "item": "Popcorn Chicken (returning)",
-      "description": "Popcorn Chicken back for a limited time: $10 Popcorn Chicken Bucket, Big Box for $10.99, and Combo for $8.49.",
+      "description": "Popcorn Chicken back nationwide after a three-year absence: $10 16oz Bucket with four sauces, $10.99 Big Box meal, or $8.49 Combo.",
       "category": "chicken",
-      "startDate": "2026-07-01",
+      "startDate": "2026-07-13",
       "endDate": "while supplies last",
       "status": "active",
-      "source": "https://www.brandeating.com/2026/07/popcorn-chicken-returns-to-kfc.html",
+      "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": "kfc-popcorn-chicken-returning.jpg"
     },
     {
@@ -561,17 +561,6 @@
       "status": "active",
       "source": "https://www.aol.com/kfc-upping-fast-food-beverage-201209734.html",
       "image": "kfc-tropical-passionfruit-lemonade.jpg"
-    },
-    {
-      "chain": "KFC",
-      "item": "Pickle Pepsi",
-      "description": "Briny pickle-flavored Pepsi offered on a limited-time KFC special menu as part of its summer 2026 beverage experimentation.",
-      "category": "drink",
-      "startDate": "2026-06-01",
-      "endDate": "while supplies last",
-      "status": "active",
-      "source": "https://www.yahoo.com/lifestyle/articles/pickle-pepsi-kfc-special-menu-185836804.html",
-      "image": "kfc-pickle-pepsi.jpg"
     },
     {
       "chain": "Chick-fil-A",
@@ -906,22 +895,22 @@
     {
       "chain": "Wingstop",
       "item": "Carolina Gold (Flavor Rodeo return)",
-      "description": "Fan-favorite sweet, tangy Southern BBQ wing flavor with golden mustard-forward taste, back nationwide for a limited time in the Flavor Rodeo. Club Wingstop members Aug 7; nationwide rollout Aug 11.",
+      "description": "Fan-favorite sweet, tangy Southern BBQ wing flavor with golden mustard-forward taste, back nationwide for a limited time in the Flavor Rodeo. Live for Club Wingstop members since Aug 7; nationwide for all customers Aug 11.",
       "category": "chicken",
       "startDate": "2026-08-07",
       "endDate": "2026-09-09",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.qsrmagazine.com/news/carolina-gold-and-jamaican-jerk-returning-to-wingstop-for-limited-time/",
       "image": null
     },
     {
       "chain": "Wingstop",
       "item": "Jamaican Jerk (Flavor Rodeo return)",
-      "description": "Returning limited-time wing flavor with warm Caribbean spices and savory herbs, part of the Flavor Rodeo lineup. Club Wingstop early access Aug 7; nationwide Aug 11.",
+      "description": "Returning limited-time wing flavor with warm Caribbean spices and savory herbs, part of the Flavor Rodeo lineup. Live for Club Wingstop members since Aug 7; nationwide for all customers Aug 11.",
       "category": "chicken",
       "startDate": "2026-08-07",
       "endDate": "2026-09-09",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.qsrmagazine.com/news/carolina-gold-and-jamaican-jerk-returning-to-wingstop-for-limited-time/",
       "image": null
     },
@@ -961,10 +950,10 @@
     {
       "chain": "Raising Cane's",
       "item": "Megan Moroney Rhinestone Tumbler",
-      "description": "Limited-edition collab with country star Megan Moroney: 24 oz purple rhinestone stainless tumbler, $19.99, in restaurants and online while supplies last; part of proceeds Jul 29-Aug 26 benefits The Megan Moroney Foundation.",
+      "description": "Limited-edition collab with country star Megan Moroney: 24 oz purple rhinestone stainless tumbler, $19.99, in restaurants and online while supplies last; at least $2 per tumbler sold Jul 29-Aug 26 benefits The Megan Moroney Foundation (min. $100,000 guaranteed donation).",
       "category": "event",
       "startDate": "2026-07-30",
-      "endDate": "while supplies last",
+      "endDate": "2026-08-26",
       "status": "active",
       "source": "https://countrynow.com/megan-moroneys-new-raising-canes-collectors-cups-are-here-including-her-iconic-rhinestone-tumbler/",
       "image": "raising-cane-s-megan-moroney-rhinestone-tumbler.jpg"
@@ -1280,7 +1269,7 @@
     {
       "chain": "Taco Bell",
       "item": "Mountain Dew Baja Midnight Pie",
-      "description": "Follow-up to the Baja Blast Pie, announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed launch date yet.",
+      "description": "Follow-up to the Baja Blast Pie, announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed launch date yet; early reports point to a winter holidays 2026 debut, following the original Baja Blast Pie's Nov 2025 launch pattern.",
       "category": "dessert",
       "startDate": null,
       "endDate": null,
@@ -1335,7 +1324,7 @@
     {
       "chain": "Zaxby's",
       "item": "Alabama White BBQ Sauce (limited drop)",
-      "description": "First-ever limited-edition sauce: tangy, mayo-based Alabama-style white BBQ, joining Zaxby's signature sauce lineup as a side portion only (no bottles sold); promoted with Alabama native Rob Rausch. Available in-restaurant, in the app, and on zaxbys.com while supplies last.",
+      "description": "First-ever limited-edition sauce: tangy, mayo-based Alabama-style white BBQ, joining Zaxby's signature sauce lineup as a side portion only (no bottles sold); promoted with Alabama native Rob Rausch. Small-batch release available in-restaurant, in the app, and on zaxbys.com — will not be restocked once sold out.",
       "category": "food",
       "startDate": "2026-08-04",
       "endDate": "while supplies last",
@@ -1451,6 +1440,83 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://sporked.com/article/arbys-dirty-soda-release/",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Big Arch",
+      "description": "McDonald's \"biggest burger yet\": two quarter-pound beef patties, three slices of white cheddar, crispy and slivered onions on a sesame-poppy seed bun. Launched nationwide in March; some reports suggest it has since been pulled from certain locations' menus, though McDonald's has not confirmed a nationwide end date.",
+      "category": "burger",
+      "startDate": "2026-03-03",
+      "endDate": null,
+      "status": "ending-soon",
+      "source": "https://www.restaurantdive.com/news/mcdonalds-launches-big-arch-burger-lto/812989/",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Pineapple Freeze / Pineapple Whip Freeze",
+      "description": "Two new frozen slush drinks: a pineapple-flavored Freeze and a version blended with vanilla creamer (Whip Freeze), available in 16oz and 20oz sizes.",
+      "category": "drink",
+      "startDate": "2026-07-28",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.foodbeast.com/news/taco-bell-pineapple-whip-freeze/",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Firecracker Burrito",
+      "description": "Red flour tortilla burrito with seasoned rice, nacho cheese sauce, seasoned beef, Fiesta tortilla strips, creamy chipotle sauce, reduced-fat sour cream, and a sprinkling of cayenne poppin' crystals for a popping-candy effect; announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed nationwide launch date yet.",
+      "category": "food",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
+      "image": null
+    },
+    {
+      "chain": "KFC",
+      "item": "Chocolate Chunk Cookie",
+      "description": "New dessert bundled into the $10.99 Popcorn Chicken Big Box (Popcorn Chicken, 2 tenders, fries, drink, 2 sauces, cookie), launched alongside Popcorn Chicken's nationwide return.",
+      "category": "dessert",
+      "startDate": "2026-07-13",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
+      "image": null
+    },
+    {
+      "chain": "KFC",
+      "item": "$10 Bucket of the Day (weekday lineup)",
+      "description": "$10 Tuesday expanded into a weekday value lineup: 24 nuggets Mon/Fri, 8pc drums & thighs Tue, 10 wings Wed, 8 tenders Thu; plus two new house sauces, Honey Chili Crisp and Jalapeño Ranch. Weekdays 10:30am-9pm at participating locations, May 5 - Aug 15, 2026.",
+      "category": "event",
+      "startDate": "2026-05-05",
+      "endDate": "2026-08-15",
+      "status": "ending-soon",
+      "source": "https://www.prnewswire.com/news-releases/kfc-expands-10-tuesday-into-a-weekday-bucket-lineup-introduces-two-new-sauces-302761613.html",
+      "image": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Angus Cheesesteak",
+      "description": "New permanent sandwich: quarter-pound of seasoned, thinly shaved 100% Angus steak melted with white American Cooper cheese and thick-cut caramelized onions on a toasted Amoroso's sesame sub roll; launched nationwide as Arby's discontinued its entire burger line to prioritize the cheesesteak. A since-ended promotion offered 100,000 free sandwiches for Rewards members spending $10+.",
+      "category": "sandwich",
+      "startDate": "2026-06-23",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.restaurantdive.com/news/arbys-cheesesteak-permanent-menu-addition/822933/",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "High Protein Menu",
+      "description": "Chipotle's first-ever High Protein Menu: High Protein Cup, Double High Protein Bowl, High Protein-High Fiber Bowl, High Protein-Low Calorie Salad, Double High Protein Burrito, and Adobo Chicken Taco (15-81g protein per item); expanded in August 2026 with app-exclusive creator/athlete-inspired builds.",
+      "category": "food",
+      "startDate": "2025-12-23",
+      "endDate": null,
+      "status": "active",
+      "source": "https://newsroom.chipotle.com/2025-12-18-CHIPOTLE-UNVEILS-ITS-FIRST-EVER-HIGH-PROTEIN-MENU-FEATURING-A-NEW-SNACK-READY-HIGH-PROTEIN-CUP",
       "image": null
     }
   ]

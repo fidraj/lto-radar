@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-08",
+  "researched": "2026-08-09",
   "items": [
     {
       "chain": "McDonald's",
@@ -62,7 +62,7 @@
       "description": "Limited-time World Cup promo: choice of Big Mac or 10-pc Chicken McNuggets with gold-packaged Big Mac Sauce, plus 1 of 9 collectible cups featuring soccer stars; companion Happy Meal with 23 Squishmallows plushies.",
       "category": "event",
       "startDate": "2026-06-04",
-      "endDate": "while supplies last",
+      "endDate": "2026-07-19",
       "status": "ending-soon",
       "source": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/US-FIFA-world-cup-2026.html",
       "image": "mcdonald-s-fifa-world-cup-26-meal.jpg"
@@ -172,7 +172,7 @@
       "description": "Limited-time World Cup-themed value bundles tied to the 2026 tournament, available at participating US locations.",
       "category": "event",
       "startDate": "2026-06-11",
-      "endDate": "while supplies last",
+      "endDate": "2026-07-19",
       "status": "ending-soon",
       "source": "https://burger-king-menu.com/",
       "image": null
@@ -635,7 +635,7 @@
       "category": "donut",
       "startDate": "2026-07-07",
       "endDate": "2026-07-26",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.krispykreme.com/promos/girl-scout-cookies",
       "image": null
     },
@@ -646,7 +646,7 @@
       "category": "event",
       "startDate": "2026-07-30",
       "endDate": "2026-08-12",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.krispykreme.com/promos",
       "image": "krispy-kreme-1-original-glazed-dozen-with-any-dozen.jpg"
     },
@@ -866,7 +866,7 @@
       "category": "chicken",
       "startDate": "2026-06-02",
       "endDate": "2026-07-13",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.brandeating.com/2026/06/6-dollar-big-box-meal-back-at-popeyes-summer-2026.html",
       "image": "popeyes-6-big-box-meal-20-family-meal-returning.jpg"
     },
@@ -942,7 +942,7 @@
       "description": "Limited-time summer flavor: custom chamoy dry rub with Tajin Chamoy drizzle (sweet tangy fruit, chili heat, citrus) on wings, tenders, sandwiches, fries and corn, plus Chamoy Ranch dip. Likely rotating out as the Flavor Rodeo arrives.",
       "category": "chicken",
       "startDate": "2026-06-30",
-      "endDate": null,
+      "endDate": "2026-07-29",
       "status": "ending-soon",
       "source": "https://ir.wingstop.com/wingstop-elevates-its-summer-flavor-game-with-new-sweet-heat-chamoy-featuring-tajn/",
       "image": "wingstop-sweet-heat-chamoy-featuring-tajin.jpg"
@@ -1416,7 +1416,7 @@
       "category": "event",
       "startDate": "2026-07-29",
       "endDate": "2026-07-31",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.prnewswire.com/news-releases/wingstop-expands-wing-day-into-wing-week-kicking-off-a-broader-1-million-in-fan-experiences-and-giveaways-302833600.html",
       "image": null
     },
@@ -1517,6 +1517,61 @@
       "endDate": null,
       "status": "active",
       "source": "https://newsroom.chipotle.com/2025-12-18-CHIPOTLE-UNVEILS-ITS-FIRST-EVER-HIGH-PROTEIN-MENU-FEATURING-A-NEW-SNACK-READY-HIGH-PROTEIN-CUP",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Free Whopper via Text Promotion",
+      "description": "Surprise giveaway: guests text a promo code to 250783 to receive a redemption link for a free classic Whopper of choice, redeemable in-restaurant only (no delivery/online). Offer opened Aug 5, 2026, with in-store redemption starting Aug 6; each redeemed code expires 14 days after it lands in the guest's account. Burger King has not announced when the text-to-claim window itself closes.",
+      "category": "event",
+      "startDate": "2026-08-05",
+      "endDate": null,
+      "status": "active",
+      "source": "https://sporked.com/article/burger-king-free-whoppers/",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Blended Energy Refreshers lineup",
+      "description": "Frozen twist on Starbucks' Energy Refreshers platform: Blended Mango Dragonfruit Lemonade, Blended Mango Strawberry Lemonade, Blended Pink Energy Drink, plus limited-time Blended Passionfruit Guava Lemonade and Blended Matcha Lemonade, made with real fruit pieces, ice, and a choice of lemonade or coconut milk.",
+      "category": "drink",
+      "startDate": "2026-07-14",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://about.starbucks.com/stories/2026/starbucks-energy-refreshers-go-blended-adding-a-smooth-frozen-twist/",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "Cajun Onion Rings (leaked, unconfirmed)",
+      "description": "Crispy, Cajun-seasoned onion rings reminiscent of Popeyes' 1990s version, spotted quietly at select locations with no press release or marketing push. Confirmed only via customer photos/social posts and a handful of food-press write-ups; no official nationwide launch, pricing, or end date announced.",
+      "category": "food",
+      "startDate": null,
+      "endDate": null,
+      "status": "active",
+      "source": "https://sporked.com/article/popeyes-just-sneakily-added-new-onion-rings/",
+      "image": null
+    },
+    {
+      "chain": "Domino's",
+      "item": "Mystery Q3 Pizza (leaked, unconfirmed)",
+      "description": "Outgoing CEO Russell Weiner has teased a secret new menu item coming in Q3 2026, calling it \"unlike anything we've offered before at Domino's\" and comparing its potential impact to Stuffed Crust. No official name, image, or exact launch date confirmed yet.",
+      "category": "food",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.pmq.com/dominos-is-keeping-a-big-secret-a-new-q3-menu-item-that-could-be-a-game-changer/",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Crispy Chicken (regional test, leaked/unconfirmed)",
+      "description": "Hand-cut, breaded crispy chicken (no preservatives, gluten, or artificial ingredients) being tested in bowls, burritos, tacos and salads at a small number of restaurants in Orange County, CA (Tustin, Irvine). Chipotle has confirmed the test but not committed to a broader rollout pending guest and operational feedback.",
+      "category": "chicken",
+      "startDate": "2026-05-01",
+      "endDate": null,
+      "status": "active",
+      "source": "https://ktla.com/food/chipotle-is-testing-a-new-menu-item-and-fans-have-seen-it-at-one-california-spot/",
       "image": null
     }
   ]

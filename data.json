@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-10",
+  "researched": "2026-08-11",
   "items": [
     {
       "chain": "McDonald's",
@@ -620,10 +620,10 @@
     {
       "chain": "Chick-fil-A",
       "item": "Waffle Potato Chips (Original & Chick-fil-A Sauce)",
-      "description": "Two new ridged potato chip varieties shaped like the signature waffle fries — sea salt Original and Chick-fil-A Sauce flavored — debuting with the fall 2026 menu.",
+      "description": "Two new ridged potato chip varieties shaped like the signature waffle fries — sea salt Original and Chick-fil-A Sauce flavored — debuting nationwide with the fall 2026 menu on Aug. 18 as a permanent side item, on-the-go snack, and catering option (not limited-time). Retail 7-oz bags also rolling out to Publix, Walmart, and Kroger in Georgia, Florida, North and South Carolina, Alabama, Tennessee, Virginia, West Virginia, Kentucky, Ohio, Arkansas, and Missouri starting early October.",
       "category": "food",
       "startDate": "2026-08-18",
-      "endDate": "while supplies last",
+      "endDate": null,
       "status": "upcoming",
       "source": "https://www.aol.com/news/chick-fil-announces-limited-time-154141863.html",
       "image": "chick-fil-a-waffle-potato-chips-original-chick-fil-a-sauce.jpg"
@@ -921,7 +921,7 @@
       "category": "food",
       "startDate": "2026-08-07",
       "endDate": "2026-09-09",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.nrn.com/fast-casual/wingstop-launches-delivery-cowboys-to-celebrate-flavor-comeback",
       "image": null
     },
@@ -932,7 +932,7 @@
       "category": "drink",
       "startDate": "2026-08-07",
       "endDate": "2026-09-09",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://parade.com/food/coca-cola-debuts-a-new-one-of-a-kind-flavor-but-only-for-a-limited-time",
       "image": null
     },
@@ -1038,11 +1038,11 @@
     {
       "chain": "Chipotle",
       "item": "Chipotle x Riot Games 2XKO Collab",
-      "description": "Chipotle's biggest gaming collaboration yet with Riot Games' fighting game 2XKO: first-ever Chipotle-branded in-game lobby plus real-world food rewards for players. Ran in two phases (June 16-28 and July 21-Aug 6).",
+      "description": "Chipotle's collaboration with Riot Games' fighting game 2XKO has two components: (1) the 'Real Ones Event' branded in-game lobby with limited-time missions, which ran in two phases (June 16-28 and July 21-Aug 6) and has concluded; and (2) a separate TAGTEAM promo-code offer still running — buy a regular-priced entree via the Chipotle app/site to earn a code for the in-game 'Chipotle Fresh Fit Bundle' (backpack + bucket hat, capped at 40,000 codes). The code-earning window runs through 8/28/26 or while supplies last, with in-game redemption allowed through 9/15/26.",
       "category": "event",
       "startDate": "2026-06-16",
-      "endDate": "2026-08-06",
-      "status": "ending-soon",
+      "endDate": "2026-08-28",
+      "status": "active",
       "source": "https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO",
       "image": null
     },
@@ -1713,7 +1713,7 @@
       "category": "drink",
       "startDate": "2026-05-04",
       "endDate": "2026-05-31",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.kfc.com/menu/the-latest/prickly-pear-lemonade",
       "image": null
     },
@@ -1779,7 +1779,7 @@
       "category": "food",
       "startDate": "2026-06-22",
       "endDate": "2026-07-12",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://stories.inspirebrands.com/sonic-america-2-50-menu/",
       "image": null
     },
@@ -1801,7 +1801,7 @@
       "category": "sandwich",
       "startDate": "2026-04-01",
       "endDate": "2026-05-25",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.qsrweb.com/news/arbys-intros-french-dip-royale-lto/",
       "image": null
     },
@@ -1856,7 +1856,7 @@
       "category": "food",
       "startDate": "2026-06-01",
       "endDate": "2026-07-22",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-introduces-new-hot-ones-munchie-meal/",
       "image": null
     },
@@ -1902,6 +1902,171 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://ir.chipotle.com/2026-01-15-CHIPOTLE-CELEBRATES-TOP-AMERICAN-ATHLETES-WITH-NEW-LIMITED-TIME-MENU-ITEMS-AND-GOLD-FOIL-WRAPPED-BURRITOS",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "McCafe Pumpkin Spice Latte",
+      "description": "Espresso steamed with pumpkin and cinnamon flavored syrup, served hot or iced; returns alongside the Pumpkin & Creme Pie at participating restaurants nationwide starting Aug 29.",
+      "category": "drink",
+      "startDate": "2026-08-29",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://parade.com/food/mcdonalds-announces-3-returning-menu-items-customers-say-all-is-right-with-the-world-again-pumpkin-spice-latte-coffee-pie",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Spicy Chicken McNuggets & Mighty Hot Sauce (leaked, unconfirmed)",
+      "description": "Menu-leak reports claim the reddish cayenne/chili-coated Spicy Chicken McNuggets and the fan-favorite Mighty Hot Sauce (last seen in 2021) will return sometime in September 2026; McDonald's has not officially confirmed date or availability.",
+      "category": "chicken",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.thetakeout.com/2231719/mcdonalds-fan-favorite-sauce-return-mighty-hot-sauce/",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Watermelon Drinks Trio (Watermelon Lemonade, Watermelon Sprite, Watermelon Sparkling Energy)",
+      "description": "Spring/summer beverage lineup: Watermelon Lemonade (Dave's Craft Lemonade with watermelon puree), Sprite Watermelon, and Watermelon Sparkling Energy (80-120mg caffeine); launched nationwide April 27, 2026 and reported still on menus as of early August.",
+      "category": "drink",
+      "startDate": "2026-04-27",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.wendys.com/blog/lemonade-flavor-lineup",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "$5 Your Way Meal",
+      "description": "Value bundle (choice of Whopper Jr., Bacon Cheeseburger, or Chicken Jr., plus fries, 4-pc nuggets and a drink) for $5; Restaurant Brands International said on its Aug 8 earnings call that the deal performed well enough to be extended through October 7, 2026.",
+      "category": "event",
+      "startDate": null,
+      "endDate": "2026-10-07",
+      "status": "active",
+      "source": "https://www.today.com/food/restaurants/burger-king-5-dollar-value-meal-rcna154292",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "National Taco Day / October Tuesday Drops",
+      "description": "Month-long Taco Tuesday celebration kicking off on National Taco Day's new date, Tuesday Oct. 6, 2026: an exclusive T-shirt drop (500 available) at noon ET, followed by $1 Cantina Chicken Soft Taco drops every two hours (25,000 available per drop) via the Taco Bell Rewards app, capped off with 100 winners receiving a year of free Taco Tuesdays ($160 gift cards). Exclusive Tuesday Drops continue weekly through the rest of October.",
+      "category": "event",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-27",
+      "status": "upcoming",
+      "source": "https://www.qsrmagazine.com/news/taco-bell-offering-exclusive-tuesday-drops-all-october/",
+      "image": null
+    },
+    {
+      "chain": "KFC",
+      "item": "Box Feasts ($7/$9/$11 value lineup)",
+      "description": "New tiered value-meal lineup: $7 Box Feast (1 KFC Snacker, 5pc nuggets, fries, medium drink), $9 Box Feast (2 KFC Snackers, 5pc nuggets, fries, medium drink), and $11 Box Feast (1 chicken sandwich, 2 tenders, fries, medium drink). Still listed as available in August 2026 coverage.",
+      "category": "food",
+      "startDate": "2026-03-30",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.brandeating.com/2026/03/kfc-new-box-feasts.html",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "Snacky Hour ($1 Afternoon Deals)",
+      "description": "New daily value promo, 2-5pm: corn dogs, a 2-piece order of mozzarella sticks, or a Soft Pretzel Twist for $1 each. No app, coupon, or loyalty signup required. Launched August 4, 2026, running through August at participating locations.",
+      "category": "event",
+      "startDate": "2026-08-04",
+      "endDate": "2026-08-31",
+      "status": "active",
+      "source": "https://stories.inspirebrands.com/snacky-hour-starts-now-sonic-serves-up-1-afternoon-cravings/",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "Weekly Value Days: 99c Monday Slushes & Thursday BOGO Footlong Coney",
+      "description": "Companion promos to Snacky Hour: medium slushes for 99 cents every Monday, and a buy-one-get-one-free Footlong Quarter Pound Coney every Thursday, running through August 2026 at participating locations.",
+      "category": "event",
+      "startDate": "2026-08-04",
+      "endDate": "2026-08-31",
+      "status": "active",
+      "source": "https://finance.yahoo.com/news/sonic-drive-launches-snacky-hour-153121514.html",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "Rewards App Weekly BOGO Burger",
+      "description": "SONIC Rewards members can get one free burger with the purchase of a burger of equal or greater value, redeemable once per week through August 30, 2026 via online or SONIC App orders. Excludes Triple SONIC Smashers.",
+      "category": "event",
+      "startDate": "2026-08-03",
+      "endDate": "2026-08-30",
+      "status": "active",
+      "source": "https://slickdeals.net/f/19838373-sonic-drive-in-rewards-members-bogo-burger-1x-week-through-august-30th",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Sauced & Loaded Potato Wedges (return)",
+      "description": "Potato Wedges return to the menu for a limited time after being pulled in 2021. Three varieties: Plain Potato Wedges (~$3.50), Classic Sauced & Loaded (shredded cheddar, cheese sauce, ranch, bacon crumbles, ~$4.00), and Spicy Sauced & Loaded (adds Spicy Good Good Sauce and jalapenos, ~$4.00).",
+      "category": "food",
+      "startDate": null,
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.qsrweb.com/news/jack-in-the-box-menus-jacks-sauced-and-loaded-potato-wedges-for-limited-time/",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "2 Tacos for 75 Cents (First Tuesday Monthly, 75th Anniversary)",
+      "description": "Recurring 75th-anniversary value promo exclusive to the Jack app: 2 classic tacos for 75 cents with a $1+ purchase, offered on the first Tuesday of every month throughout 2026 (launched Jan 6, 2026; most recent occurrence Aug 4, 2026; next Sept 1, 2026).",
+      "category": "event",
+      "startDate": "2026-01-06",
+      "endDate": null,
+      "status": "active",
+      "source": "https://x.com/JackBox/status/2008632993057849430",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "Honey BBQ Chicken Sandwich & Honey BBQ Bacon + Cheese Sandwich",
+      "description": "New limited-time sandwiches launched nationwide May 4, 2026: a Louisiana herb-and-spice marinated chicken breast filet with Honey BBQ sauce, pickles and a toasted brioche bun ($5.49), plus a Bacon + Cheese version adding bacon and Havarti cheese ($6.99). Still appearing on Popeyes menu pricing sites as of August 2026; no official end date announced.",
+      "category": "sandwich",
+      "startDate": "2026-05-04",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.brandeating.com/2026/05/popeyes-new-honey-bbq-chicken-sandwich.html",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "$7 Meal Deal with Blizzard Treat Upgrade Option",
+      "description": "Official DQ newsroom announcement of a new $7 value meal deal with an option to upgrade the meal to include a Blizzard Treat.",
+      "category": "event",
+      "startDate": null,
+      "endDate": null,
+      "status": "active",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Launching-a-7-Meal-Deal-with-a-Sweet-Blizzard-Treat-Upgrade-Option/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Domino's",
+      "item": "Weeklong Carryout Special ($6.99 Large 2-Topping)",
+      "description": "Large two-topping carryout pizzas (Hand Tossed, Crunchy Thin, or New York Style crust) for $6.99 each, valid in-store carryout only. This iteration runs August 12-18, 2026.",
+      "category": "event",
+      "startDate": "2026-08-12",
+      "endDate": "2026-08-18",
+      "status": "upcoming",
+      "source": "https://www.prnewswire.com/news-releases/dominos-launches-weeklong-carryout-special-302469473.html",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "Oreo Footlong Cookie (Sidekicks lineup)",
+      "description": "12-inch chocolate cookie studded with Oreo cookie pieces and topped with vanilla cream, part of Subway's Footlong Sidekicks collection; reported as returning to Subway's lineup nationwide for a limited time around May 2026.",
+      "category": "dessert",
+      "startDate": null,
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.restaurantbusinessonline.com/food/subway-expands-its-sidekicks-collection-new-oreo-footlong-cookie",
       "image": null
     }
   ]

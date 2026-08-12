@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-11",
+  "researched": "2026-08-12",
   "items": [
     {
       "chain": "McDonald's",
@@ -349,7 +349,7 @@
       "category": "donut",
       "startDate": "2026-08-11",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.restaurantnews.com/krispy-kreme-pumpkin-spice-autumn-seasonal-collection-080726/",
       "image": "krispy-kreme-pumpkin-spice-collection-anticipated.jpg"
     },
@@ -568,9 +568,9 @@
       "description": "Returning fan favorite on the summer 2026 'Newstalgia' menu, celebrating the chain's 80-year heritage; available for a limited time nationwide.",
       "category": "sandwich",
       "startDate": "2026-06-08",
-      "endDate": "2026-08-17",
+      "endDate": "2026-08-22",
       "status": "ending-soon",
-      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-serves-up-returning-fan-favorites-for-summer",
+      "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/what-is-the-honey-pepper-pimento-chicken-sandwich",
       "image": "chick-fil-a-honey-pepper-pimento-chicken-sandwich.jpg"
     },
     {
@@ -579,20 +579,20 @@
       "description": "Seasonal peach treats back nationwide for a limited time as part of the summer 2026 menu.",
       "category": "dessert",
       "startDate": "2026-06-08",
-      "endDate": "2026-08-17",
+      "endDate": "2026-08-22",
       "status": "ending-soon",
-      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-serves-up-returning-fan-favorites-for-summer",
+      "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/when-and-where-will-the-peach-milkshake-be-available",
       "image": "chick-fil-a-peach-milkshake-peach-frosted-lemonade.jpg"
     },
     {
       "chain": "Chick-fil-A",
       "item": "Pineapple Dragonfruit beverages",
-      "description": "Returning Pineapple Dragonfruit seasonal drink lineup (lemonade, tea, frosted variants) for summer 2026, limited time.",
+      "description": "Returning Pineapple Dragonfruit seasonal drink lineup (lemonade, tea, frosted variants) for summer 2026, limited time; 2026 lineup adds a new Pineapple Dragonfruit & Sprite variant.",
       "category": "drink",
       "startDate": "2026-06-08",
-      "endDate": "2026-08-17",
+      "endDate": "2026-08-22",
       "status": "ending-soon",
-      "source": "https://www.11alive.com/article/news/nation-world/chick-fil-a-summer-menu-items/507-94ba75b7-f546-42f3-9fdb-87fed4505939",
+      "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/when-and-where-are-the-pineapple-dragonfruit-flavored-beverages-available",
       "image": "chick-fil-a-pineapple-dragonfruit-beverages.jpg"
     },
     {
@@ -1603,7 +1603,7 @@
       "category": "food",
       "startDate": "2026-06-15",
       "endDate": "2026-07-20",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.spokesman.com/stories/2026/jun/10/banana-wendys-unveils-new-minions-inspired-frosty-/",
       "image": null
     },
@@ -1669,7 +1669,7 @@
       "category": "event",
       "startDate": "2026-08-04",
       "endDate": "2026-08-04",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.brandeating.com/2026/08/taco-bell-1-dollar-meximelt-deal-august-4-2026.html",
       "image": null
     },
@@ -1746,7 +1746,7 @@
       "category": "donut",
       "startDate": "2026-08-11",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.businesswire.com/news/home/20260807280655/en/Pumpkin-Spice-is-Back-KRISPY-KREME-Welcomes-Fall-with-New-Autumn-Seasonal-Collection-on-Aug.-11",
       "image": null
     },
@@ -1757,7 +1757,7 @@
       "category": "donut",
       "startDate": "2026-08-11",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.businesswire.com/news/home/20260807280655/en/Pumpkin-Spice-is-Back-KRISPY-KREME-Welcomes-Fall-with-New-Autumn-Seasonal-Collection-on-Aug.-11",
       "image": null
     },
@@ -1768,7 +1768,7 @@
       "category": "drink",
       "startDate": "2026-08-11",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.businesswire.com/news/home/20260807280655/en/Pumpkin-Spice-is-Back-KRISPY-KREME-Welcomes-Fall-with-New-Autumn-Seasonal-Collection-on-Aug.-11",
       "image": null
     },
@@ -2054,7 +2054,7 @@
       "category": "event",
       "startDate": "2026-08-12",
       "endDate": "2026-08-18",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.prnewswire.com/news-releases/dominos-launches-weeklong-carryout-special-302469473.html",
       "image": null
     },
@@ -2067,6 +2067,83 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.restaurantbusinessonline.com/food/subway-expands-its-sidekicks-collection-new-oreo-footlong-cookie",
+      "image": null
+    },
+    {
+      "chain": "Domino's",
+      "item": "The Domino (Detroit-style personal pizza)",
+      "description": "Domino's first-ever pizza shaped like its own logo: a rectangular, single-serve Detroit-style pizza with buttery Parmesan-crusted pan dough, cut into two slices, two layers of cheese, choice of sauce, up to three toppings, and a garlic-seasoning drizzle. Sold individually (suggested ~$7.99 one-topping) or as part of the Mix & Match Deal (2+ items for $6.99 each). Announced Aug 11, 2026; launches nationwide Aug 31, 2026.",
+      "category": "food",
+      "startDate": "2026-08-31",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://ir.dominos.com/news-releases/news-release-details/after-more-65-years-dominosr-launch-first-pizza-worthy-its-name",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Parke Daydream Refresher (Parke collab)",
+      "description": "Strawberry-flavored pink Refresher collab with clothing brand Parke: triple strawberry flavors (including Strawberry Dragonfruit and a strawberry flavor shot) with oatmilk, topped with pink Strawberry Cold Foam. Launched nationwide July 17, 2026 alongside a limited-edition Parke x Dunkin' apparel/tumbler collection; no official end date announced.",
+      "category": "drink",
+      "startDate": "2026-07-17",
+      "endDate": null,
+      "status": "active",
+      "source": "https://news.dunkindonuts.com/news/dunkin-x-parke-july-2026",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Sparkling Refresher & Spritz (regional test)",
+      "description": "Small market test of handcrafted sparkling beverages in about 100 coffeehouses across Austin, San Antonio, and St. Louis, beginning July 28, 2026. Two lines: Sparkling Refreshers (e.g. Super Mango Energy Refresher, Sparkling Strawberry Acai Lemonade Energy Refresher) and Spritzes (Sparkling Cold Brew Sour Spritz, Strawberry Sunset Spritz, Golden Peach Spritz, Strawberry Matcha Spritz). Testing customer demand ahead of a possible wider rollout; no confirmed nationwide date or end date.",
+      "category": "drink",
+      "startDate": "2026-07-28",
+      "endDate": null,
+      "status": "active",
+      "source": "https://about.starbucks.com/press/2026/exploring-the-future-of-refreshment-with-sparkling-refresher-and-spritz/",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "Garlic Parmesan Ranch Crispy Tender Wrap",
+      "description": "All-white-meat crispy chicken tender with melty cheddar cheese, lettuce, tomatoes, and garlic parmesan ranch sauce in a soft flour tortilla; added to Sonic's $1.99 Menu alongside the Cheesy Baja Crispy Tender Wrap, Jr. Bacon Cheeseburger, Vanilla Soft Serve Cup, and Small Root Beer Float.",
+      "category": "food",
+      "startDate": "2026-07-01",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/sonic-adds-garlic-parmesan-ranch-crispy-tender-wrap-to-1-99-menu/",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "BBQ Ranch Crispy Tender Wrap",
+      "description": "Upcoming addition to Sonic's $1.99 Menu: all-white-meat crispy chicken tender with lettuce, tomatoes, cheddar cheese, and Sonic's BBQ Ranch sauce in a soft flour tortilla, reportedly set to join the $1.99 lineup starting September 1, 2026.",
+      "category": "food",
+      "startDate": "2026-09-01",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.qsrmagazine.com/news/sonic-announces-bbq-ranch-crispy-tender-wrap/",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Loaded Jalapeño Original Chicken Sandwich",
+      "description": "Original Chicken Sandwich lineup expansion: long white-meat chicken patty topped with creamy jalapeño sauce, crispy fried jalapeños, pickled jalapeños, fried onions, lettuce, tomato and American cheese on an oblong sesame seed bun. Joined the menu July 7, 2026 for a limited time; no announced end date.",
+      "category": "sandwich",
+      "startDate": "2026-07-07",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/burger-king-expands-its-iconic-original-chicken-sandwich-lineup-with-two-bold-new-flavors-302818370.html",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Club Original Chicken Sandwich",
+      "description": "Original Chicken Sandwich lineup expansion: the same long white-meat chicken patty and bun, built club-style with bacon, melted Swiss cheese, tomato, lettuce and mayonnaise. Joined the menu July 7, 2026 for a limited time; no announced end date.",
+      "category": "sandwich",
+      "startDate": "2026-07-07",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/burger-king-expands-its-iconic-original-chicken-sandwich-lineup-with-two-bold-new-flavors-302818370.html",
       "image": null
     }
   ]

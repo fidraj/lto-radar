@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-12",
+  "researched": "2026-08-13",
   "items": [
     {
       "chain": "McDonald's",
@@ -348,7 +348,7 @@
       "description": "Four fall doughnuts (returning Pumpkin Spice Cake and Biscoff Cookie Butter, new Maple Cheesecake and Cafe Mocha) plus two new lattes (Pumpkin Spice, Apple Crisp), sold individually and by the dozen at participating shops; more seasonal items expected later in August and September.",
       "category": "donut",
       "startDate": "2026-08-11",
-      "endDate": null,
+      "endDate": "2026-11-02",
       "status": "active",
       "source": "https://www.restaurantnews.com/krispy-kreme-pumpkin-spice-autumn-seasonal-collection-080726/",
       "image": "krispy-kreme-pumpkin-spice-collection-anticipated.jpg"
@@ -1019,8 +1019,8 @@
       "description": "Fan-favorite 'swicy' protein returns: grilled chicken marinated with smoky chipotle peppers and finished with pure honey. In bowls, burritos, quesadillas, salads and tacos for a limited time.",
       "category": "food",
       "startDate": "2026-04-28",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-08-14",
+      "status": "ending-soon",
       "source": "https://newsroom.chipotle.com/2026-04-21-CHIPOTLE-KICKS-OFF-THE-SUMMER-SEASON-WITH-THE-RETURN-OF-HIGHLY-POPULAR-CHIPOTLE-HONEY-CHICKEN",
       "image": "chipotle-chipotle-honey-chicken-returning.jpg"
     },
@@ -1137,12 +1137,12 @@
     {
       "chain": "McDonald's",
       "item": "Red Bull Dragonberry Energizer",
-      "description": "McDonald's first energy drink collab with Red Bull: layered iced McCafe beverage blending Red Bull with blue raspberry flavor, topped with freeze-dried dragonfruit pieces (~80mg caffeine); regular and zero-sugar versions. Part of McDonald's broader 2026 beverage expansion.",
+      "description": "McDonald's first energy drink collab with Red Bull: layered iced McCafe beverage blending Red Bull with blue raspberry flavor, topped with freeze-dried dragonfruit pieces (~80mg caffeine); regular and zero-sugar versions. Early/soft access appeared at some locations around Aug 4-5, but the official confirmed nationwide launch is Aug 17, 2026 per McDonald's/PR Newswire.",
       "category": "drink",
-      "startDate": "2026-08-04",
+      "startDate": "2026-08-17",
       "endDate": null,
-      "status": "active",
-      "source": "https://www.tastingtable.com/2230187/mcdonalds-dragonberry-red-bull-energizer-drink-review/",
+      "status": "upcoming",
+      "source": "https://www.prnewswire.com/news-releases/mcdonalds-usa-enters-the-world-of-energy-with-red-bull-dragonberry-energizer-302847669.html",
       "image": null
     },
     {
@@ -1808,12 +1808,12 @@
     {
       "chain": "Arby's",
       "item": "Steak Nuggets",
-      "description": "Hand-cut steak pieces, seared and smoked, seasoned with garlic-pepper; offered as an entree, sandwich, or bowl over white cheddar mac 'n cheese.",
+      "description": "Bite-sized breaded steak pieces, Arby's answer to chicken nuggets; launched Oct 6, 2025 and has continued as an ongoing limited-time item into 2026.",
       "category": "food",
-      "startDate": null,
+      "startDate": "2025-10-06",
       "endDate": "while supplies last",
       "status": "active",
-      "source": "https://www.newsweek.com/arbys-releases-new-menu-option-steak-nuggets-10839465",
+      "source": "https://www.aol.com/articles/step-aside-chicken-steak-nuggets-182729782.html",
       "image": null
     },
     {
@@ -2006,12 +2006,12 @@
     {
       "chain": "Jack in the Box",
       "item": "Sauced & Loaded Potato Wedges (return)",
-      "description": "Potato Wedges return to the menu for a limited time after being pulled in 2021. Three varieties: Plain Potato Wedges (~$3.50), Classic Sauced & Loaded (shredded cheddar, cheese sauce, ranch, bacon crumbles, ~$4.00), and Spicy Sauced & Loaded (adds Spicy Good Good Sauce and jalapenos, ~$4.00).",
+      "description": "Returning potato wedges in three varieties: Plain, Classic Sauced & Loaded (cheddar, cheese sauce, ranch, bacon), and a new Spicy Sauced & Loaded variety (cheddar, cheese sauce, bacon, Spicy Good Good Sauce, jalapeños); nationwide return confirmed around Aug 7, 2026.",
       "category": "food",
-      "startDate": null,
+      "startDate": "2026-08-07",
       "endDate": null,
       "status": "active",
-      "source": "https://www.qsrweb.com/news/jack-in-the-box-menus-jacks-sauced-and-loaded-potato-wedges-for-limited-time/",
+      "source": "https://www.brandeating.com/2026/08/potato-wedges-are-back-at-jack-in-box.html",
       "image": null
     },
     {
@@ -2144,6 +2144,248 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/burger-king-expands-its-iconic-original-chicken-sandwich-lineup-with-two-bold-new-flavors-302818370.html",
+      "image": null
+    },
+    {
+      "chain": "Domino's",
+      "item": "S'mores Lava Cakes",
+      "description": "New baked graham cracker lava cake dessert with a chocolate chip and gooey marshmallow-flavored filling, dusted with powdered sugar; sold 3 per order. Rewards members got early access July 20; rolled out nationwide July 27, 2026.",
+      "category": "dessert",
+      "startDate": "2026-07-27",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://ir.dominos.com/news-releases/news-release-details/dominosr-fires-summer-new-smores-lava-cakes",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "Popeyes x ONE PIECE Menu",
+      "description": "First-ever anime collab, with Toei Animation's One Piece: Luffy Bento Box ($7.99, 2pc chicken + Mac & Cheese), Luffy Bento Bundle ($13.99, adds Gum-Gum Fruit Lemonade + Chopper's Cupcake), plus a collectibles drop. Launched Apr 13, 2026; no official end date announced, though given the months elapsed it may have quietly wound down at store level.",
+      "category": "food",
+      "startDate": "2026-04-13",
+      "endDate": null,
+      "status": "ending-soon",
+      "source": "https://news.popeyes.com/blog-posts/popeyes-r-sets-sail-with-one-piece-with-an-epic-anime-inspired-menu-and-collectibles-drop",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "Build Your Own Chicken Tender Tower Meal Deal",
+      "description": "Tie-in to the Surf Lodge Hamptons partnership: 11 hand-battered chicken tenders, one large side, and four biscuits for $20 in-restaurant / $25 via DoorDash/Uber Eats. Ran as a July value promo; window has closed. Kept for the record.",
+      "category": "chicken",
+      "startDate": "2026-07-21",
+      "endDate": "2026-07-27",
+      "status": "ending-soon",
+      "source": "https://www.prnewswire.com/news-releases/popeyes-celebrates-tenders-this-july-with-weekend-takeover-at-the-surf-lodge-and-a-build-your-own-chicken-tender-tower-meal-deal-302830754.html",
+      "image": null
+    },
+    {
+      "chain": "Zaxby's",
+      "item": "Giant Chicken Finger Wraps (Chicken Bacon Ranch, Buffalo Blue, Asian Zensation)",
+      "description": "Full-meal wraps launched nationwide in three flavors (Chicken Bacon Ranch, Buffalo Blue, and returning Asian Zensation). Superseded about two and a half months later by the newer Chicken Bacon Ranch lineup (wrap/quesadilla/loaded fries) already tracked. Kept for the record.",
+      "category": "sandwich",
+      "startDate": "2026-04-27",
+      "endDate": "2026-07-05",
+      "status": "ending-soon",
+      "source": "https://www.prnewswire.com/news-releases/zaxbys-rolls-out-new-giant-chicken-finger-wraps-that-are-far-from-a-snack-theyre-the-whole-meal-302747173.html",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Tajín Taco",
+      "description": "Crunchy taco shell dusted with Tajín, filled with seasoned beef, Spicy Ranch sauce, lettuce, shredded cheese and mango salsa, plus an extra Tajín packet. Part of a new nationwide collab with Tajín and Peso Pluma, launched Aug 13, 2026.",
+      "category": "taco",
+      "startDate": "2026-08-13",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/taco-bell-and-tajin-team-up-with-peso-pluma-for-a-new-menu-lineup-worth-obsessing-over-302849098.html",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Tajín Cheesy Gordita Crunch",
+      "description": "Gordita Crunch reworked with Tajín Clásico seasoning and extra cheese on a flatbread shell; part of the Tajín x Peso Pluma collab launched nationwide Aug 13, 2026.",
+      "category": "taco",
+      "startDate": "2026-08-13",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/taco-bell-and-tajin-team-up-with-peso-pluma-for-a-new-menu-lineup-worth-obsessing-over-302849098.html",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Tajín Pineapple Strawberry Freeze",
+      "description": "Frozen pineapple-strawberry Freeze finished with Tajín seasoning for a sweet-tangy-spicy kick; part of the Tajín x Peso Pluma collab launched nationwide Aug 13, 2026.",
+      "category": "drink",
+      "startDate": "2026-08-13",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/taco-bell-and-tajin-team-up-with-peso-pluma-for-a-new-menu-lineup-worth-obsessing-over-302849098.html",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Tajín x Taco Bell Bag Charm Collection (Tuesday Drop)",
+      "description": "Ultra-limited merch drop (only 400 sets) tied to the Tajín/Peso Pluma collab: mini Taco Bell bag holding hot sauce/Tajín packets, a beaded Tajín-bottle holder, and a Peso Pluma heart charm; drops via the app's Tuesday Drops feature.",
+      "category": "event",
+      "startDate": "2026-08-18",
+      "endDate": "2026-08-18",
+      "status": "upcoming",
+      "source": "https://www.mensjournal.com/entertainment/taco-bell-tajin-peso-pluma-menu",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "$1 Quesarito Tuesday Drop",
+      "description": "One-day Tuesday Drop app deal: $1 Quesarito, 8AM-11:59PM PT at participating locations nationwide. Ran Aug 11, 2026; kept for the record.",
+      "category": "event",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-11",
+      "status": "ending-soon",
+      "source": "https://www.brandeating.com/2026/08/",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Jalapeño Ranch Cheeseburger",
+      "description": "Spring 2026 LTO burger with jalapeño ranch sauce and sliced jalapeños; launched alongside a jalapeño-themed breakfast lineup on Apr 27, 2026. Previously missed from tracking; appears to still be running.",
+      "category": "burger",
+      "startDate": "2026-04-27",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.fastfoodpost.com/wendys-launches-jalapeno-ranch-cheeseburger-jalapeno-egg-cheese-biscuit-jalapeno-bacon-potatoes-and-cookie-dough-frosty-fusion/",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Jalapeño Breakfast Biscuit",
+      "description": "Buttery biscuit with fresh-cracked egg, sausage or bacon, American cheese and sliced jalapeños. Part of the Apr 27, 2026 jalapeño spring menu, launched the same day as the already-tracked Watermelon Drinks Trio.",
+      "category": "sandwich",
+      "startDate": "2026-04-27",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.wendys.com/blog/New-Jalapeno-Menu-Items",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Jalapeño Bacon Breakfast Potatoes",
+      "description": "Seasoned breakfast potatoes topped with sliced jalapeños, Applewood bacon and Swiss cheese sauce; part of the Apr 27, 2026 jalapeño spring lineup.",
+      "category": "food",
+      "startDate": "2026-04-27",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.wendys.com/blog/New-Jalapeno-Menu-Items",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Cookie Dough Frosty Fusion",
+      "description": "Cookie-dough flavored Frosty Fusion launched as part of the same Apr 27, 2026 spring rollout that introduced the jalapeño items; predates the currently-tracked Apple Crumble Frosty Fusion, which may have since replaced it on menus.",
+      "category": "dessert",
+      "startDate": "2026-04-27",
+      "endDate": null,
+      "status": "ending-soon",
+      "source": "https://www.fastfoodpost.com/wendys-launches-jalapeno-ranch-cheeseburger-jalapeno-egg-cheese-biscuit-jalapeno-bacon-potatoes-and-cookie-dough-frosty-fusion/",
+      "image": null
+    },
+    {
+      "chain": "KFC",
+      "item": "Popcorn Chicken Big Box (BOGO promotion)",
+      "description": "Buy-one-get-one-free promotion on KFC's Popcorn Chicken Big Box combo (bite-sized popcorn chicken, side, biscuit, drink), tied to the returning Popcorn Chicken item.",
+      "category": "event",
+      "startDate": "2026-08-10",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/kfc-announces-bogo-promotion-for-new-popcorn-chicken-big-box/",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Chicken & Waffles Sandwich",
+      "description": "Chicken filet (original, spicy, or grilled) with three strips of applewood smoked bacon and honey butter spread between two maple-flavored waffles, served with syrup; smaller breakfast version until 10:30am, full entree size afterward. Nationwide rollout after a 2025 regional test.",
+      "category": "sandwich",
+      "startDate": "2026-08-24",
+      "endDate": "2026-11-14",
+      "status": "upcoming",
+      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "S'mores Milkshake",
+      "description": "Hand-spun milkshake with chocolate shortbread and graham cracker crumbles, marshmallow-flavored syrup, and marshmallow whipped topping; previously tested in Austin, TX in late 2025, now rolling out nationwide.",
+      "category": "dessert",
+      "startDate": "2026-08-24",
+      "endDate": "2026-11-14",
+      "status": "upcoming",
+      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "S'mores Frosted Coffee",
+      "description": "Frosted coffee beverage in s'mores flavor, launching alongside the S'mores Milkshake and Chicken & Waffles Sandwich as part of the fall 2026 nationwide rollout.",
+      "category": "drink",
+      "startDate": "2026-08-24",
+      "endDate": "2026-11-14",
+      "status": "upcoming",
+      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Pumpkin Spice Cake Doughnut (returning)",
+      "description": "Returning fall favorite cake doughnut with pumpkin spice flavor, part of the Autumn Seasonal Collection alongside the new Maple Cheesecake and Cafe Mocha doughnuts. Runs through Nov 2, 2026.",
+      "category": "donut",
+      "startDate": "2026-08-11",
+      "endDate": "2026-11-02",
+      "status": "active",
+      "source": "https://www.stocktitan.net/news/DNUT/pumpkin-spice-is-back-krispy-kreme-welcomes-fall-with-new-autumn-na75m9kzjh0f.html",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Biscoff Cookie Butter Doughnut (returning)",
+      "description": "Fan-favorite returning doughnut combining cookie butter filling with Biscoff topping, part of the Autumn Seasonal Collection. Runs through Nov 2, 2026.",
+      "category": "donut",
+      "startDate": "2026-08-11",
+      "endDate": "2026-11-02",
+      "status": "active",
+      "source": "https://www.stocktitan.net/news/DNUT/pumpkin-spice-is-back-krispy-kreme-welcomes-fall-with-new-autumn-na75m9kzjh0f.html",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Pumpkin Spice Latte (returning)",
+      "description": "Returning seasonal latte with pumpkin pie flavor blended into espresso and steamed milk, topped with whipped cream and pumpkin spice seasoning; part of the Autumn Seasonal Collection alongside the new Apple Crisp Latte. Runs through Nov 2, 2026.",
+      "category": "drink",
+      "startDate": "2026-08-11",
+      "endDate": "2026-11-02",
+      "status": "active",
+      "source": "https://www.stocktitan.net/news/DNUT/pumpkin-spice-is-back-krispy-kreme-welcomes-fall-with-new-autumn-na75m9kzjh0f.html",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Jack Sipper Cup (collectible)",
+      "description": "Limited-edition $25 clear glass collectible cup styled as a tongue-in-cheek parody of Starbucks' viral 'Bearista' cup, featuring Jack's smile and mini yellow hat; purchase included a BOGO Coca-Cola fountain drink offer redeemable via the Jack App. Went viral after Jack in the Box tagged Starbucks in the reveal post.",
+      "category": "event",
+      "startDate": "2026-07-02",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://ktla.com/news/nationworld/jack-sipper-cup-limited-edition-drop/",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Spicy Orange Crispy Chicken Wrap (regional test)",
+      "description": "Regional test item spotted in select markets as part of Jack in the Box's protein bowl/wrap lineup expansion — a spicy-orange-sauced crispy chicken wrap alongside existing Teriyaki and Baja Ranch flavors. Not yet confirmed for nationwide rollout.",
+      "category": "sandwich",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.mensjournal.com/food/jack-in-the-box-new-menu-protein-wraps-bowls",
       "image": null
     }
   ]

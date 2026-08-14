@@ -115,7 +115,7 @@ def main():
         else:
             missed += 1
 
-    (ROOT / "data.json").write_text(json.dumps(data, ensure_ascii=False, indent=2))
+    (ROOT / "data.json").write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
     print(f"images: {ok} saved, {missed} failed/unmatched")
 
 

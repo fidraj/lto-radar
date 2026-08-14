@@ -1008,7 +1008,7 @@
       "description": "Hand-spun banana pudding milkshake blended with vanilla wafer pieces, topped with whipped cream and a maraschino cherry; back since May and offered for a limited time.",
       "category": "dessert",
       "startDate": "2026-05-04",
-      "endDate": null,
+      "endDate": "2026-08-30",
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/new-at-zaxbys-chicken-bacon-ranch-lineup.html",
       "image": "zaxby-s-banana-pudding-milkshake-returning.jpg"
@@ -1317,7 +1317,7 @@
       "category": "event",
       "startDate": "2026-08-14",
       "endDate": "2026-08-16",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.prnewswire.com/news-releases/wingstop-saddles-up-for-the-flavor-rodeo-with-bbq-favorites-carolina-gold-and-jamaican-jerk-302841708.html",
       "image": "wingstop-giddyup-0-delivery-promo.jpg"
     },
@@ -1909,7 +1909,7 @@
       "item": "Spicy Chicken McNuggets & Mighty Hot Sauce (leaked, unconfirmed)",
       "description": "Menu-leak reports claim the reddish cayenne/chili-coated Spicy Chicken McNuggets and the fan-favorite Mighty Hot Sauce (last seen in 2021) will return sometime in September 2026; McDonald's has not officially confirmed date or availability.",
       "category": "chicken",
-      "startDate": null,
+      "startDate": "2026-09-16",
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.thetakeout.com/2231719/mcdonalds-fan-favorite-sauce-return-mighty-hot-sauce/",
@@ -2484,6 +2484,182 @@
       "source": "https://www.qsrmagazine.com/news/chipotle-to-launch-build-your-own-chipotle-family-meals-for-first-time/",
       "image": null,
       "imageUrl": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Fried Apple Pie (Original Recipe Return)",
+      "description": "Decades-old original deep-fried apple pie (retired in the '90s in favor of the baked version) returned nationwide at participating restaurants as a limited-time item tied to America's 250th birthday celebrations.",
+      "category": "dessert",
+      "startDate": "2026-06-23",
+      "endDate": "2026-07-04",
+      "status": "ended",
+      "source": "https://www.foxnews.com/food-drink/mcdonalds-revives-decades-old-favorite-america-250-after-years-customer-requests",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Peanut Butter Crunch McFlurry",
+      "description": "Vanilla soft serve blended with crispy cereal mix and chocolatey peanut butter cookie pieces; launched nationwide for a limited time.",
+      "category": "dessert",
+      "startDate": "2026-08-09",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.fastfoodpost.com/new-peanut-butter-crunch-mcflurry-officially-arrives-at-mcdonalds/",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Caramel Apple Pie Drinks (leaked, unconfirmed)",
+      "description": "Rumored fall McCafe beverage lineup featuring caramel apple syrup, salted caramel whipped topping and apple pie pieces; food-news trackers report an expected mid-to-late August 2026 launch, but McDonald's has not officially confirmed it.",
+      "category": "drink",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://sporked.com/article/forget-starbucks-mcdonalds-just-announced-their-own-fall-drinks/",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Chips Ahoy! McFlurry (leaked, unconfirmed)",
+      "description": "Vanilla soft serve with caramel drizzle and Chips Ahoy! cookie pieces, widely reported to launch September 16, 2026 alongside the rumored Spicy Chicken McNuggets/Mighty Hot Sauce return; unconfirmed and possibly recycled 2020 coverage.",
+      "category": "dessert",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.nrn.com/quick-service/mcdonald-s-launching-two-ltos-spicy-chicken-mcnuggets-chips-ahoy-mcflurry",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Biggie Deals Value Menu ($4/$6/$8 tiers)",
+      "description": "Value menu platform with $4 Biggie Bites, $6 Biggie Bag (sandwich + 4pc nuggets + Jr. fry + small drink), and $8 Biggie Bundle.",
+      "category": "event",
+      "startDate": "2026-01-14",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.irwendys.com/news/news-details/2026/Wendys-Introduces-New-Biggie-Deals-Menu-starting-at-4/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Enchirito (returned)",
+      "description": "Cult-favorite item brought back after roughly a decade off the menu: flour tortilla stuffed with seasoned beef, refried beans and diced onions, covered in red sauce and melted cheese, $3.99. Capped off with a $1 Enchirito one-day promo on its last day before leaving the menu again.",
+      "category": "food",
+      "startDate": "2026-06-18",
+      "endDate": "2026-07-22",
+      "status": "ended",
+      "source": "https://www.brandeating.com/2026/06/taco-bell-enchirito-returns-plus-new-cinnamon-sugar-churros.html",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Cinnamon Sugar Churros 3pk",
+      "description": "Three warm, crispy mini churros with a sweet cream filling, dusted in cinnamon sugar; $1.99.",
+      "category": "dessert",
+      "startDate": "2026-06-18",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.brandeating.com/2026/06/taco-bell-enchirito-returns-plus-new-cinnamon-sugar-churros.html",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Crispy Chicken Crunchwrap Slider",
+      "description": "Snackable chicken spin on the Crunchwrap Supreme: Crispy Chicken Nuggets, three-cheese blend, pico de gallo, and Creamy Chipotle or Jalapeño Honey Mustard sauce, grilled in a folded tortilla; $2.49.",
+      "category": "chicken",
+      "startDate": "2026-03-19",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.brandeating.com/2026/03/taco-bell-new-crispy-chicken-crunchwrap-slider-and-cantina-chicken-rolled-quesadilla.html",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Chipotle IQ 2026 (trivia event)",
+      "description": "Return of Chipotle's interactive trivia experience for Chipotle Rewards members, offering more than $1 million in free Chipotle: hourly prizes for the first 8,000 players scoring 5/5, a Silver Ticket Sweepstakes (53 winners get free burritos for a year), and a limited-edition collectible card game.",
+      "category": "event",
+      "startDate": "2026-08-18",
+      "endDate": "2026-08-20",
+      "status": "upcoming",
+      "source": "https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Chicken Al Pastor (returned, since ended)",
+      "description": "One of Chipotle's most-requested items, marinated with seared morita peppers, ground achiote, a splash of pineapple, fresh lime and hand-chopped cilantro; returned to kick off 2026 menu innovation, then left the rotation to make room for the returning Chipotle Honey Chicken.",
+      "category": "chicken",
+      "startDate": "2026-02-10",
+      "endDate": "2026-04-28",
+      "status": "ended",
+      "source": "https://newsroom.chipotle.com/2026-01-27-CHIPOTLE-KICKS-OFF-2026-MENU-INNOVATION-WITH-THE-RETURN-OF-CHICKEN-AL-PASTOR,-ONE-OF-ITS-MOST-REQUESTED-ITEMS",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Power Up at Chipotle ($2.50 Taco Happy Hour test, ended)",
+      "description": "Afternoon pricing test: any single taco with any protein for $2.50, in-restaurant only, 2-5pm local time Monday-Friday, at test-market locations in Kansas City MO, Orlando FL, and Tampa FL.",
+      "category": "event",
+      "startDate": null,
+      "endDate": "2026-06-02",
+      "status": "ended",
+      "source": "https://www.brandeating.com/2026/05/chipotle-testing-afternoon-250-taco-deal.html",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "$6.99 Any Footlong Meal Deal",
+      "description": "Value combo: 6-inch sub, chips or two cookies, and a small fountain drink for $6.99, with a $3 upgrade to make it a Footlong Meal.",
+      "category": "sandwich",
+      "startDate": "2026-06-11",
+      "endDate": "2026-08-19",
+      "status": "ending-soon",
+      "source": "https://www.eatdrinkdeals.com/subway-deals-specials/",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "BOGO Footlong for Sub Club/Rewards Members",
+      "description": "Targeted app/rewards offer: eligible Subway Sub Club members buy one footlong and get a second of equal or lesser value free, via the Subway app or Subway.com. Distinct from the earlier nationwide FLBOGO code promo.",
+      "category": "sandwich",
+      "startDate": null,
+      "endDate": "2026-08-18",
+      "status": "ending-soon",
+      "source": "https://www.dealnews.com/features/subway/bogo-deal/",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "89-Cent Original Glazed Dozen (89th Birthday)",
+      "description": "One-day-only birthday promo: get an Original Glazed dozen for 89 cents with the purchase of any dozen at regular price, celebrating Krispy Kreme's 89th anniversary.",
+      "category": "donut",
+      "startDate": "2026-07-17",
+      "endDate": "2026-07-17",
+      "status": "ended",
+      "source": "https://www.businesswire.com/news/home/20260715978614/en/KRISPY-KREMEs-Celebrates-89th-Birthday-with-89-Cent-Original-Glazed-Dozens-on-Friday-July-17",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Original Glazed Blueberry Flavored Doughnut",
+      "description": "Limited-time (four days only) Original Glazed doughnut made with blueberry-flavored dough, sold individually or by the dozen; dozen available for $5 with purchase of any regular-priced dozen.",
+      "category": "donut",
+      "startDate": "2026-07-23",
+      "endDate": "2026-07-26",
+      "status": "ended",
+      "source": "https://www.businesswire.com/news/home/20260722225231/en/KRISPY-KREME-Celebrates-the-Sweetest-Days-of-Summer-with-New-Original-Glazed-Blueberry-Flavored-Doughnut",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "2 for $7 Value Deal",
+      "description": "Mix-and-match value deal: choice of any two of Sonic Cheeseburger, Classic Crispy Chicken Sandwich, 6-piece Mozzarella Sticks, or Footlong Quarter Pound Coney for $7 total via the Sonic app/drive-thru at participating locations.",
+      "category": "event",
+      "startDate": null,
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.fastfoodpost.com/sonic-launches-new-2-for-7-deal/",
+      "image": null
     }
   ]
 }

@@ -167,7 +167,9 @@
 
   /* ---- Phone: keep the kanban, just make it swipe sideways ---- */
   @media (max-width: 720px) {
-    html, body { height: 100dvh; overflow: hidden; overscroll-behavior: none; }
+    /* page can rubber-band so pull-to-refresh works on the header/filter area,
+       but it has no scrollable content, so nothing drifts out of place */
+    html, body { height: 100dvh; overscroll-behavior-y: auto; }
 
     header.page { padding: 14px 16px 10px; gap: 4px 14px; }
     header.page h1 { font-size: 21px; }
@@ -189,7 +191,8 @@
     /* the whole board scrolls: swipe sideways lane-to-lane, up/down moves everything */
     main {
       overflow: auto;
-      /* nothing bounces past the edges, on either axis */
+      /* sealed: the board never bounces past its edges, and a drag inside it
+         never escapes to the page (so it can't trigger a pull from here) */
       overscroll-behavior: none;
       -webkit-overflow-scrolling: touch;
       /* proximity, not mandatory: vertical scrolling no longer gets yanked sideways */

@@ -70,17 +70,32 @@ Schema per item:
 Your environment CANNOT download files. Do NOT run `fetch_images.py` and do not try to
 curl images — a GitHub Action (`fetch-images`) downloads them after you push.
 
-For each NEW item, find an official product image (chain newsroom/CDN or reputable food
-press) and record its direct URL on the item:
+For each NEW item, you MUST make a real attempt to find an official product image and put
+its direct URL on the item:
 
 ```json
 "imageUrl": "https://.../product.jpg", "image": null
 ```
 
-- Prefer a direct image URL (ends in .jpg/.png/.webp, or is served by the chain's CDN),
-  not the URL of an article page.
-- Never use watermarked or unrelated pictures. Items with no good official image get no
-  `imageUrl` and keep `"image": null`.
+How to find one (do this per new item — do not skip straight to null):
+
+1. Fetch the item's own `source` article and read its `og:image` meta tag. Food-news sites
+   (brandeating.com, fastfoodpost.com, chewboom.com, restaurantnews.com) republish the
+   chain's official press photo as the article hero, and their images are directly linkable.
+2. If the source has no usable image, check the chain's press release on PRNewswire /
+   BusinessWire — their `mma.prnewswire.com` / `mms.businesswire.com` media URLs are direct
+   image links.
+3. Verify the URL really is that product's photo: it should end in .jpg/.png/.webp (or be a
+   known image CDN) and its filename/context should match the item. Reject site logos,
+   storefront photos, unrelated products, and article-header collages.
+
+Rules:
+- Never use watermarked images or a photo of a different product.
+- An official campaign/promo graphic is fine for value menus and deal promos.
+- Only use `null` when you genuinely could not find an official image (common for leaked or
+  unconfirmed items) — `null` for everything is a failed run, not a safe default.
+- Some chains (notably about.starbucks.com) block automated fetching; for those, get the
+  image from a food-news republish instead.
 - Leave existing items' `image` fields alone.
 
 After your push, the Action downloads every item that has an `imageUrl` but no `image`,

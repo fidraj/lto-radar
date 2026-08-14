@@ -150,6 +150,7 @@
   }
   .tile .src a { color: var(--muted); font-size: 11px; text-decoration: none; }
   .tile .src a:hover { color: var(--lamp-ink); }
+  .tile.nophoto h3 { padding-right: 54px; }
 
   .tag {
     font-weight: 700; font-size: 10.5px; letter-spacing: .04em; text-transform: uppercase;
@@ -161,6 +162,57 @@
   .tag.upcoming { color: color-mix(in srgb, var(--mint) 80%, black); background: color-mix(in srgb, var(--mint) 12%, transparent); }
 
   .empty { text-align: center; color: var(--muted); padding: 60px 28px; font-size: 15px; }
+
+  /* ---- Phone layout: stack the lanes and let the page scroll normally ---- */
+  @media (max-width: 720px) {
+    html, body { height: auto; }
+    body { display: block; }
+
+    header.page { padding: 14px 16px 10px; gap: 4px 14px; }
+    header.page h1 { font-size: 21px; }
+    header.page .count { font-size: 12px; }
+
+    .controls { padding: 10px 16px; gap: 7px; }
+    /* keep the 21 chain chips on one swipeable line instead of eating the screen */
+    #chainChips {
+      flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
+    }
+    #chainChips::-webkit-scrollbar { display: none; }
+    #chainChips .chip { flex: none; cursor: pointer; }
+    #chainChips .label { position: sticky; left: 0; background: var(--ground); padding-right: 4px; z-index: 1; }
+    #statusChips { flex-wrap: wrap; }
+    .controls .foot-note { margin-left: auto; font-size: 11.5px; }
+
+    main { overflow: visible; }
+    .guide { display: block; min-width: 0; }
+
+    .col {
+      width: auto; padding: 0 14px 18px;
+      border-right: none;
+      border-bottom: 1px solid color-mix(in srgb, var(--brand) 32%, var(--board-edge));
+    }
+    .col:first-child { padding-left: 14px; }
+    .col-head { padding: 12px 2px 8px; }
+
+    .col-items {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: 10px; align-items: start;
+    }
+
+    .tile .body { padding: 9px 11px; gap: 5px; }
+    .tile h3 { font-size: 13px; }
+    .tile .desc { font-size: 12px; -webkit-line-clamp: 2; }
+    .tile .meta { flex-direction: column; align-items: flex-start; gap: 5px; }
+    .tile .src a { font-size: 10.5px; }
+  }
+
+  @media (max-width: 430px) {
+    header.page .tagline { display: none; }
+    .col-items { grid-template-columns: 1fr 1fr; gap: 9px; }
+    .tile .desc { -webkit-line-clamp: 3; }
+  }
 </style>
 </head>
 <body>
@@ -293,7 +345,7 @@ function esc(s) {
 function tile(p) {
   const s = statusOf(p);
   const photo = p.image ? "images/" + p.image : p.imageUrl; // remote fallback until the fetch-images action mirrors it
-  return `<article class="tile">
+  return `<article class="tile${photo ? "" : " nophoto"}">
     ${photo ? `<img class="photo" src="${esc(photo)}" alt="${esc(p.item)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
     <div class="src">${p.source ? `<a href="${esc(p.source)}" target="_blank" rel="noopener" aria-label="Source for ${esc(p.item)}">source ↗</a>` : ""}</div>
     <div class="body">

@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-13",
+  "researched": "2026-08-14",
   "items": [
     {
       "chain": "McDonald's",
@@ -63,7 +63,7 @@
       "category": "event",
       "startDate": "2026-06-04",
       "endDate": "2026-07-19",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/US-FIFA-world-cup-2026.html",
       "image": "mcdonald-s-fifa-world-cup-26-meal.jpg"
     },
@@ -173,7 +173,7 @@
       "category": "event",
       "startDate": "2026-06-11",
       "endDate": "2026-07-19",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://burger-king-menu.com/",
       "image": null
     },
@@ -294,7 +294,7 @@
       "category": "donut",
       "startDate": "2026-06-16",
       "endDate": "2026-08-10",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.krispykreme.com/promos/summer-donuts",
       "image": "krispy-kreme-summer-seasonal-collection.jpg"
     },
@@ -305,7 +305,7 @@
       "category": "drink",
       "startDate": "2026-06-16",
       "endDate": "2026-08-10",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.krispykreme.com/promos/summer-donuts",
       "image": "krispy-kreme-watermelon-mango-infused-lemonade-chillers.jpg"
     },
@@ -316,7 +316,7 @@
       "category": "donut",
       "startDate": "2026-07-28",
       "endDate": "2026-08-09",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.stocktitan.net/news/DNUT/krispy-kreme-invites-fans-on-a-sweet-escape-with-new-destination-7w1zy1wij4tu.html",
       "image": "krispy-kreme-tres-leches-inspired-doughnut.jpg"
     },
@@ -327,7 +327,7 @@
       "category": "donut",
       "startDate": "2026-07-28",
       "endDate": "2026-08-09",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.stocktitan.net/news/DNUT/krispy-kreme-invites-fans-on-a-sweet-escape-with-new-destination-7w1zy1wij4tu.html",
       "image": "krispy-kreme-guava-cheesecake-doughnut.jpg"
     },
@@ -338,7 +338,7 @@
       "category": "donut",
       "startDate": "2026-07-28",
       "endDate": "2026-08-09",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.stocktitan.net/news/DNUT/krispy-kreme-invites-fans-on-a-sweet-escape-with-new-destination-7w1zy1wij4tu.html",
       "image": "krispy-kreme-choco-dulce-cookie-crunch-doughnut.jpg"
     },
@@ -635,7 +635,7 @@
       "category": "donut",
       "startDate": "2026-07-07",
       "endDate": "2026-07-26",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.krispykreme.com/promos/girl-scout-cookies",
       "image": null
     },
@@ -646,7 +646,7 @@
       "category": "event",
       "startDate": "2026-07-30",
       "endDate": "2026-08-12",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.krispykreme.com/promos",
       "image": "krispy-kreme-1-original-glazed-dozen-with-any-dozen.jpg"
     },
@@ -866,7 +866,7 @@
       "category": "chicken",
       "startDate": "2026-06-02",
       "endDate": "2026-07-13",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.brandeating.com/2026/06/6-dollar-big-box-meal-back-at-popeyes-summer-2026.html",
       "image": "popeyes-6-big-box-meal-20-family-meal-returning.jpg"
     },
@@ -943,7 +943,7 @@
       "category": "chicken",
       "startDate": "2026-06-30",
       "endDate": "2026-07-29",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://ir.wingstop.com/wingstop-elevates-its-summer-flavor-game-with-new-sweet-heat-chamoy-featuring-tajn/",
       "image": "wingstop-sweet-heat-chamoy-featuring-tajin.jpg"
     },
@@ -1152,7 +1152,7 @@
       "category": "taco",
       "startDate": "2026-08-14",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.aol.com/taco-bell-bringing-back-cheesy-120000394.html",
       "image": null
     },
@@ -1317,7 +1317,7 @@
       "category": "event",
       "startDate": "2026-08-14",
       "endDate": "2026-08-16",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.prnewswire.com/news-releases/wingstop-saddles-up-for-the-flavor-rodeo-with-bbq-favorites-carolina-gold-and-jamaican-jerk-302841708.html",
       "image": null
     },
@@ -1361,7 +1361,7 @@
       "category": "event",
       "startDate": "2025-07-10",
       "endDate": "2025-09-18",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.restaurantbusinessonline.com/marketing/subway-launches-limited-time-happy-gilmore-meal",
       "image": null
     },
@@ -1403,7 +1403,7 @@
       "item": "$9.99 Tenders Deal",
       "description": "New value meal built around Popeyes' reformulated hand-battered tenders: 4 tenders (classic, spicy or blackened), a regular side, a regular drink, and a biscuit for $9.99.",
       "category": "event",
-      "startDate": null,
+      "startDate": "2026-08-03",
       "endDate": "2026-08-30",
       "status": "active",
       "source": "https://www.nrn.com/quick-service/popeyes-latest-value-deal-features-its-new-tenders",
@@ -1416,7 +1416,7 @@
       "category": "event",
       "startDate": "2026-07-27",
       "endDate": "2026-07-31",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/wingstop-expands-wing-day-into-wing-week-kicking-off-a-broader-1-million-in-fan-experiences-and-giveaways-302833600.html",
       "image": null
     },
@@ -1449,7 +1449,7 @@
       "category": "burger",
       "startDate": "2026-03-03",
       "endDate": "2026-04-27",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.restaurantdive.com/news/mcdonalds-launches-big-arch-burger-lto/812989/",
       "image": null
     },
@@ -1489,11 +1489,11 @@
     {
       "chain": "KFC",
       "item": "$10 Bucket of the Day (weekday lineup)",
-      "description": "$10 Tuesday expanded into a weekday value lineup: 24 nuggets Mon/Fri, 8pc drums & thighs Tue, 10 wings Wed, 8 tenders Thu; plus two new house sauces, Honey Chili Crisp and Jalapeño Ranch. Weekdays 10:30am-9pm at participating locations, May 5 - Aug 15, 2026.",
+      "description": "$10 Tuesday expanded into a weekday value lineup: 24 nuggets Mon/Fri, 8pc drums & thighs Tue, 10 wings Wed, 8 tenders Thu; plus two new house sauces, Honey Chili Crisp and Jalapeño Ranch. Weekdays 10:30am-9pm at participating locations, May 5 - Sept 15, 2026.",
       "category": "event",
       "startDate": "2026-05-05",
-      "endDate": "2026-08-15",
-      "status": "ending-soon",
+      "endDate": "2026-09-15",
+      "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-expands-10-tuesday-into-a-weekday-bucket-lineup-introduces-two-new-sauces-302761613.html",
       "image": null
     },
@@ -1553,17 +1553,6 @@
       "image": null
     },
     {
-      "chain": "Domino's",
-      "item": "Mystery Q3 Pizza (CEO-teased, unconfirmed)",
-      "description": "Outgoing CEO Russell Weiner referenced a brand-new pizza \"unlike anything we've offered before at Domino's\" on the Q2 2026 earnings call (2026-07-20); no name, image, or launch date confirmed yet.",
-      "category": "food",
-      "startDate": null,
-      "endDate": null,
-      "status": "upcoming",
-      "source": "https://www.pmq.com/dominos-is-keeping-a-big-secret-a-new-q3-menu-item-that-could-be-a-game-changer/",
-      "image": null
-    },
-    {
       "chain": "Chipotle",
       "item": "Crispy Chicken (regional test, leaked/unconfirmed)",
       "description": "Hand-cut, breaded crispy chicken (no preservatives, gluten, or artificial ingredients) being tested in bowls, burritos, tacos and salads at a small number of restaurants in Orange County, CA (Tustin, Irvine). Chipotle has confirmed the test but not committed to a broader rollout pending guest and operational feedback.",
@@ -1603,7 +1592,7 @@
       "category": "food",
       "startDate": "2026-06-15",
       "endDate": "2026-07-20",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.spokesman.com/stories/2026/jun/10/banana-wendys-unveils-new-minions-inspired-frosty-/",
       "image": null
     },
@@ -1669,7 +1658,7 @@
       "category": "event",
       "startDate": "2026-08-04",
       "endDate": "2026-08-04",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.brandeating.com/2026/08/taco-bell-1-dollar-meximelt-deal-august-4-2026.html",
       "image": null
     },
@@ -1690,8 +1679,8 @@
       "description": "Two new house-made dipping sauces launched alongside the Bucket of the Day weekday lineup.",
       "category": "food",
       "startDate": "2026-05-05",
-      "endDate": "2026-08-19",
-      "status": "ending-soon",
+      "endDate": "2026-09-15",
+      "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-expands-10-tuesday-into-a-weekday-bucket-lineup-introduces-two-new-sauces-302761613.html",
       "image": null
     },
@@ -1701,8 +1690,8 @@
       "description": "$12.99 single-serve bucket with 3 Original Recipe tenders, 5 nuggets, fries, a drink, and 3 sauces.",
       "category": "chicken",
       "startDate": "2026-05-05",
-      "endDate": "2026-08-19",
-      "status": "ending-soon",
+      "endDate": null,
+      "status": "active",
       "source": "https://www.brandeating.com/2026/05/kfc-new-boneless-bucket-for-one-and-two-new-sauces.html",
       "image": null
     },
@@ -1713,7 +1702,7 @@
       "category": "drink",
       "startDate": "2026-05-04",
       "endDate": "2026-05-31",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.kfc.com/menu/the-latest/prickly-pear-lemonade",
       "image": null
     },
@@ -1779,7 +1768,7 @@
       "category": "food",
       "startDate": "2026-06-22",
       "endDate": "2026-07-12",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://stories.inspirebrands.com/sonic-america-2-50-menu/",
       "image": null
     },
@@ -1801,19 +1790,19 @@
       "category": "sandwich",
       "startDate": "2026-04-01",
       "endDate": "2026-05-25",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.qsrweb.com/news/arbys-intros-french-dip-royale-lto/",
       "image": null
     },
     {
       "chain": "Arby's",
       "item": "Steak Nuggets",
-      "description": "Bite-sized breaded steak pieces, Arby's answer to chicken nuggets; launched Oct 6, 2025 and has continued as an ongoing limited-time item into 2026.",
+      "description": "Bite-sized breaded steak pieces, relaunching Aug 24, 2026 with an updated cut and a brand-new Horsey Ranch dipping sauce (a mashup of Horsey Sauce and Ranch); available in 5-count (~$5.49), 9-count (~$9.49), and a digital-only 20-count party pack with two large fries.",
       "category": "food",
-      "startDate": "2025-10-06",
+      "startDate": "2026-08-24",
       "endDate": "while supplies last",
-      "status": "active",
-      "source": "https://www.aol.com/articles/step-aside-chicken-steak-nuggets-182729782.html",
+      "status": "upcoming",
+      "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
       "image": null
     },
     {
@@ -1856,7 +1845,7 @@
       "category": "food",
       "startDate": "2026-06-01",
       "endDate": "2026-07-22",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-introduces-new-hot-ones-munchie-meal/",
       "image": null
     },
@@ -2041,9 +2030,9 @@
       "item": "$7 Meal Deal with Blizzard Treat Upgrade Option",
       "description": "Official DQ newsroom announcement of a new $7 value meal deal with an option to upgrade the meal to include a Blizzard Treat.",
       "category": "event",
-      "startDate": null,
-      "endDate": null,
-      "status": "active",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-28",
+      "status": "ended",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Launching-a-7-Meal-Deal-with-a-Sweet-Blizzard-Treat-Upgrade-Option/default.aspx",
       "image": null
     },
@@ -2163,8 +2152,8 @@
       "description": "First-ever anime collab, with Toei Animation's One Piece: Luffy Bento Box ($7.99, 2pc chicken + Mac & Cheese), Luffy Bento Bundle ($13.99, adds Gum-Gum Fruit Lemonade + Chopper's Cupcake), plus a collectibles drop. Launched Apr 13, 2026; no official end date announced, though given the months elapsed it may have quietly wound down at store level.",
       "category": "food",
       "startDate": "2026-04-13",
-      "endDate": null,
-      "status": "ending-soon",
+      "endDate": "2026-05-10",
+      "status": "ended",
       "source": "https://news.popeyes.com/blog-posts/popeyes-r-sets-sail-with-one-piece-with-an-epic-anime-inspired-menu-and-collectibles-drop",
       "image": null
     },
@@ -2175,7 +2164,7 @@
       "category": "chicken",
       "startDate": "2026-07-21",
       "endDate": "2026-07-27",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/popeyes-celebrates-tenders-this-july-with-weekend-takeover-at-the-surf-lodge-and-a-build-your-own-chicken-tender-tower-meal-deal-302830754.html",
       "image": null
     },
@@ -2186,7 +2175,7 @@
       "category": "sandwich",
       "startDate": "2026-04-27",
       "endDate": "2026-07-05",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-rolls-out-new-giant-chicken-finger-wraps-that-are-far-from-a-snack-theyre-the-whole-meal-302747173.html",
       "image": null
     },
@@ -2241,7 +2230,7 @@
       "category": "event",
       "startDate": "2026-08-11",
       "endDate": "2026-08-11",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.brandeating.com/2026/08/",
       "image": null
     },
@@ -2285,7 +2274,7 @@
       "category": "dessert",
       "startDate": "2026-04-27",
       "endDate": null,
-      "status": "ending-soon",
+      "status": "active",
       "source": "https://www.fastfoodpost.com/wendys-launches-jalapeno-ranch-cheeseburger-jalapeno-egg-cheese-biscuit-jalapeno-bacon-potatoes-and-cookie-dough-frosty-fusion/",
       "image": null
     },
@@ -2387,6 +2376,114 @@
       "status": "upcoming",
       "source": "https://www.mensjournal.com/food/jack-in-the-box-new-menu-protein-wraps-bowls",
       "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Hello Kitty & Friends x Godzilla Happy Meal",
+      "description": "Collectible Happy Meal collab pairing Sanrio's Hello Kitty & Friends characters with Godzilla kaiju: Hello Kitty x Godzilla, Kuromi x Mechagodzilla, Pompompurin x Gigan, Cinnamoroll x Destoroyah, Chococat x SpaceGodzilla, Keroppi x King Ghidorah, My Melody x Mothra, and Badtz-Maru x Rodan (8 toys total). First-ever US Sanrio x Godzilla partnership; nationwide at participating restaurants.",
+      "category": "event",
+      "startDate": "2026-08-18",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://www.today.com/food/restaurants/mcdonalds-hello-kitty-godzilla-happy-meal-toys-rcna592162",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "$5 Duo / $7 Trio Value Meal Deal",
+      "description": "Ongoing value promo: pick 2 items for $5 (Duo) or 3 items for $7 (Trio) from Whopper Jr., Original Chicken Sandwich, Bacon Cheeseburger, medium fries, 8-pc Chicken Fries, or a medium drink; dine-in/drive-thru/app/online only, not valid for delivery.",
+      "category": "event",
+      "startDate": "2025-01-21",
+      "endDate": "2026-08-31",
+      "status": "ending-soon",
+      "source": "https://www.brandeating.com/2025/01/burger-king-new-7-dollar-trio-deal-and-updated-5-dollar-duo-deal.html",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "White Peach Sunjoy",
+      "description": "Seasonal beverage combining lemonade and freshly-brewed sweetened iced tea with white peach flavor; part of the summer 2026 peach lineup alongside the Peach Milkshake and Peach Frosted Lemonade.",
+      "category": "drink",
+      "startDate": "2026-06-12",
+      "endDate": "2026-08-22",
+      "status": "ending-soon",
+      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-serves-up-returning-fan-favorites-for-summer",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Pumpkin Cream Cheese Muffin",
+      "description": "Returning fall bakery item: spiced pumpkin muffin with a sweet cream cheese filling, topped with spiced pepitas; part of the fall 2026 menu launch alongside PSL and Chaider.",
+      "category": "food",
+      "startDate": "2026-08-25",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "FRSHDROP2 Million Free Refreshers Giveaway",
+      "description": "One-day Dunkin' Rewards promo code (FRSHDROP2) redeemable in-app for a free medium Refresher, first-come first-served up to 1 million redemptions.",
+      "category": "event",
+      "startDate": "2026-08-10",
+      "endDate": "2026-08-10",
+      "status": "ended",
+      "source": "https://www.aol.com/articles/dunkin-free-giveaway-monday-aug-113049000.html",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Pokémon Doughnut Collection",
+      "description": "Limited-time collection celebrating 30 years of Pokémon: Bulbasaur (Original Glazed, vanilla icing), Charmander (chocolate/toasted marshmallow filling, orange caramel icing), Squirtle (Original Glazed, cotton candy buttercreme), Pikachu (lemon-filled, vanilla icing, lightning nonpareils), Jigglypuff (Original Glazed, strawberry buttercream), plus a bonus Poké Ball doughnut. Includes 5 exclusive Pokémon cups filled with Original Glazed Gold Dots and a Pokémon-themed dozen box. Fans wearing Pokémon attire on Sat., Aug. 22 get one free Original Glazed doughnut.",
+      "category": "donut",
+      "startDate": "2026-08-18",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://www.restaurantnews.com/krispy-kreme-pokemon-doughnut-collection-081326/",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Steak Nuggets Potato Bowl",
+      "description": "New bowl: crispy potatoes topped with melty cheese and Arby's Steak Nuggets; priced around $9.99 (varies by market). Part of the Aug 24, 2026 Steak Nuggets relaunch.",
+      "category": "food",
+      "startDate": "2026-08-24",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Steak 'N Mac Bowl (Steak Nuggets)",
+      "description": "New bowl: creamy white cheddar mac and cheese topped with Arby's Steak Nuggets and a sprinkle of crispy onions; priced around $9.99 (varies by market). Part of the Aug 24, 2026 Steak Nuggets relaunch.",
+      "category": "food",
+      "startDate": "2026-08-24",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Build-Your-Own Chipotle Family Meal (TRYBYOC $10 off)",
+      "description": "Chipotle's relaunched digital-exclusive 'Build-Your-Own Chipotle' family meal (feeds 4-6: one protein, one rice, one bean, one premium side, three salsas/toppings, shredded romaine and cheese, two bags of chips, eight soft tortillas, utensils/bowls), ready for pickup in as little as 15 minutes. Available via app/chipotle.com starting Aug 26, 2026, with $10 off using code TRYBYOC through Oct 21, 2026 or until 500,000 redemptions, whichever comes first.",
+      "category": "food",
+      "startDate": "2026-08-26",
+      "endDate": "2026-10-21",
+      "status": "upcoming",
+      "source": "https://www.qsrmagazine.com/news/chipotle-to-launch-build-your-own-chipotle-family-meals-for-first-time/",
+      "image": null,
+      "imageUrl": null
     }
   ]
 }

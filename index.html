@@ -322,10 +322,13 @@ function render() {
     const items = live
       .filter(p => p.chain === chain)
       .sort((a, b) => {
-        // newest promos first: startDate descending, undated items last
+        // live promos newest-first; upcoming ones below them, soonest launch first
+        const ua = statusOf(a) === "upcoming", ub = statusOf(b) === "upcoming";
+        if (ua !== ub) return ua - ub;
         const sa = /^\d{4}-\d{2}-\d{2}$/.test(a.startDate || "") ? a.startDate : "";
         const sb = /^\d{4}-\d{2}-\d{2}$/.test(b.startDate || "") ? b.startDate : "";
-        if (sa !== sb) return sb < sa ? -1 : 1;
+        if (!sa !== !sb) return sa ? -1 : 1;
+        if (sa !== sb) return ua ? (sa < sb ? -1 : 1) : (sb < sa ? -1 : 1);
         const so = order[statusOf(a)] - order[statusOf(b)];
         if (so) return so;
         const da = daysLeft(a), db = daysLeft(b);

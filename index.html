@@ -165,7 +165,7 @@
 
   /* ---- Phone: keep the kanban, just make it swipe sideways ---- */
   @media (max-width: 720px) {
-    html, body { height: 100dvh; overflow: hidden; overscroll-behavior: none; }
+    html, body { height: 100dvh; overscroll-behavior-y: auto; }
 
     header.page { padding: 14px 16px 10px; gap: 4px 14px; }
     header.page h1 { font-size: 21px; }
@@ -186,9 +186,13 @@
     /* the whole board scrolls: swipe sideways lane-to-lane, up/down moves everything */
     main {
       overflow: auto;
-      overscroll-behavior: none;
+      /* x: contained so a side swipe never triggers the browser back gesture.
+         y: chains to the page so pull-to-refresh works at the top of the board. */
+      overscroll-behavior-x: contain;
+      overscroll-behavior-y: auto;
       -webkit-overflow-scrolling: touch;
-      scroll-snap-type: x mandatory;
+      /* proximity, not mandatory: vertical scrolling no longer gets yanked sideways */
+      scroll-snap-type: x proximity;
       scrollbar-width: none;
     }
     main::-webkit-scrollbar { display: none; }

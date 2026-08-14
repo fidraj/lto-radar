@@ -165,7 +165,7 @@
 
   /* ---- Phone: keep the kanban, just make it swipe sideways ---- */
   @media (max-width: 720px) {
-    html, body { height: 100dvh; }
+    html, body { height: 100dvh; overflow: hidden; overscroll-behavior: none; }
 
     header.page { padding: 14px 16px 10px; gap: 4px 14px; }
     header.page h1 { font-size: 21px; }
@@ -186,7 +186,7 @@
     /* sideways is the primary axis: the board only scrolls horizontally... */
     main {
       overflow-x: auto; overflow-y: hidden;
-      overscroll-behavior-x: contain;
+      overscroll-behavior-x: none;
       -webkit-overflow-scrolling: touch;
       scroll-snap-type: x mandatory;
       scrollbar-width: none;
@@ -200,13 +200,13 @@
       width: min(82vw, 300px); padding: 0 12px 20px;
       scroll-snap-align: start;
       height: 100%; overflow-y: auto;
-      overscroll-behavior-y: contain;
+      overscroll-behavior-y: none;
       -webkit-overflow-scrolling: touch;
       scrollbar-width: none;
     }
     .col::-webkit-scrollbar { display: none; }
     .col:first-child { padding-left: 14px; }
-    .col-head { padding: 12px 2px 8px; }
+    .col-head { padding: 12px 2px 8px; background: var(--lane-bg); }
   }
 
   @media (max-width: 430px) {

@@ -67,16 +67,25 @@ Schema per item:
 
 ## Images
 
-For each NEW item, find an official product image (chain newsroom/CDN or reputable food press),
-then write a mapping JSON `[{"chain": ..., "item": ..., "imageUrl": ...}]` to a temp file and run:
+Your environment CANNOT download files. Do NOT run `fetch_images.py` and do not try to
+curl images — a GitHub Action (`fetch-images`) downloads them after you push.
 
-```
-python3 fetch_images.py /path/to/mapping.json
+For each NEW item, find an official product image (chain newsroom/CDN or reputable food
+press) and record its direct URL on the item:
+
+```json
+"imageUrl": "https://.../product.jpg", "image": null
 ```
 
-It downloads, resizes, stores into `images/`, and wires the filename into `data.json`.
-Verify each downloaded file is a real image of the right product. Items with no good
-official image keep `"image": null` — never use watermarked or unrelated pictures.
+- Prefer a direct image URL (ends in .jpg/.png/.webp, or is served by the chain's CDN),
+  not the URL of an article page.
+- Never use watermarked or unrelated pictures. Items with no good official image get no
+  `imageUrl` and keep `"image": null`.
+- Leave existing items' `image` fields alone.
+
+After your push, the Action downloads every item that has an `imageUrl` but no `image`,
+resizes it into `images/`, fills in the `image` filename, and commits. Until that lands,
+the site renders `imageUrl` directly, so nothing looks broken in between.
 
 ## Validate before pushing
 
@@ -84,15 +93,16 @@ official image keep `"image": null` — never use watermarked or unrelated pictu
 python3 -c "import json; d=json.load(open('data.json')); assert d['items'], 'empty'; print(len(d['items']), 'items OK')"
 ```
 
-Also sanity-check: every item has chain/item/description/status; every non-null image file
-exists in `images/`.
+Also sanity-check: every item has chain/item/description/status; every new item either has
+an `imageUrl` or intentionally has none.
 
 ## Commit and push
 
 ```
-git add data.json images/
+git add data.json
 git commit -m "data refresh <YYYY-MM-DD>"
 git push origin main
 ```
 
-GitHub Pages redeploys automatically. Done.
+GitHub Pages redeploys automatically, and the fetch-images Action fills in images in a
+follow-up commit. Done.

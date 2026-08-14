@@ -292,8 +292,9 @@ function esc(s) {
 
 function tile(p) {
   const s = statusOf(p);
+  const photo = p.image ? "images/" + p.image : p.imageUrl; // remote fallback until the fetch-images action mirrors it
   return `<article class="tile">
-    ${p.image ? `<img class="photo" src="images/${esc(p.image)}" alt="${esc(p.item)}" loading="lazy" onerror="this.remove()">` : ""}
+    ${photo ? `<img class="photo" src="${esc(photo)}" alt="${esc(p.item)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
     <div class="src">${p.source ? `<a href="${esc(p.source)}" target="_blank" rel="noopener" aria-label="Source for ${esc(p.item)}">source ↗</a>` : ""}</div>
     <div class="body">
       <h3>${esc(p.item)}</h3>

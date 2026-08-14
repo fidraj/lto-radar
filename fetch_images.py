@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
-"""Download product images listed in a mapping JSON and wire them into data.json.
+"""Download product images and wire them into data.json.
 
-Usage: python3 fetch_images.py mapping1.json [mapping2.json ...]
+Usage:
+  python3 fetch_images.py                    # process "imageUrl" fields in data.json itself
+  python3 fetch_images.py mapping.json ...   # process mapping files (legacy local mode)
+
+With no arguments, every data.json item that has an "imageUrl" but no "image" is
+downloaded — this is the mode the fetch-images GitHub Action runs after each push.
 Mapping format: [{"chain": "...", "item": "...", "imageUrl": "https://..." | null}]
 Items are matched to data.json by exact (chain, item) or by fuzzy prefix match.
-Images are resized to 640px wide JPEGs via sips (macOS) into images/.
+Images are resized to 640px wide JPEGs (Pillow, or sips on macOS) into images/.
 """
 import json
 import pathlib
@@ -80,26 +85,35 @@ def convert(raw, dest):
     return True
 
 
+def gather(items, paths):
+    """Yield (url, item-or-None, label) pairs from mapping files, or from data.json itself."""
+    if not paths:
+        for p in items:
+            if p.get("imageUrl") and not p.get("image"):
+                yield p["imageUrl"], p, f"{p['chain']} / {p['item']}"
+        return
+    for path in paths:
+        for row in json.loads(pathlib.Path(path).read_text()):
+            if row.get("imageUrl"):
+                yield row["imageUrl"], find_item(items, row["chain"], row["item"]), f"{row['chain']} / {row['item']}"
+
+
 def main():
     data = json.loads((ROOT / "data.json").read_text())
     items = data["items"]
     ok = missed = 0
 
-    for path in sys.argv[1:]:
-        for row in json.loads(pathlib.Path(path).read_text()):
-            if not row.get("imageUrl"):
-                continue
-            p = find_item(items, row["chain"], row["item"])
-            if not p:
-                print(f"  no data.json match: {row['chain']} / {row['item']}")
-                missed += 1
-                continue
-            dest = IMAGES / (slug(p["chain"], p["item"]) + ".jpg")
-            if fetch(row["imageUrl"], dest):
-                p["image"] = dest.name
-                ok += 1
-            else:
-                missed += 1
+    for url, p, label in gather(items, sys.argv[1:]):
+        if not p:
+            print(f"  no data.json match: {label}")
+            missed += 1
+            continue
+        dest = IMAGES / (slug(p["chain"], p["item"]) + ".jpg")
+        if fetch(url, dest):
+            p["image"] = dest.name
+            ok += 1
+        else:
+            missed += 1
 
     (ROOT / "data.json").write_text(json.dumps(data, ensure_ascii=False, indent=2))
     print(f"images: {ok} saved, {missed} failed/unmatched")

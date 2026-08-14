@@ -161,15 +161,18 @@
   .tag.ending   { color: color-mix(in srgb, var(--ketchup) 85%, black); background: color-mix(in srgb, var(--ketchup) 12%, transparent); }
   .tag.upcoming { color: color-mix(in srgb, var(--mint) 80%, black); background: color-mix(in srgb, var(--mint) 12%, transparent); }
 
+  .chip.reload { display: none; padding: 4px 10px; line-height: 1.1; font-size: 15px; }
+
   .empty { text-align: center; color: var(--muted); padding: 60px 28px; font-size: 15px; }
 
   /* ---- Phone: keep the kanban, just make it swipe sideways ---- */
   @media (max-width: 720px) {
-    html, body { height: 100dvh; overscroll-behavior-y: auto; }
+    html, body { height: 100dvh; overflow: hidden; overscroll-behavior: none; }
 
     header.page { padding: 14px 16px 10px; gap: 4px 14px; }
     header.page h1 { font-size: 21px; }
     header.page .count { font-size: 12px; }
+    .chip.reload { display: inline-block; margin-left: 10px; }
 
     .controls { padding: 10px 16px; gap: 7px; }
     /* keep the 21 chain chips on one swipeable line instead of eating the screen */
@@ -186,10 +189,8 @@
     /* the whole board scrolls: swipe sideways lane-to-lane, up/down moves everything */
     main {
       overflow: auto;
-      /* x: contained so a side swipe never triggers the browser back gesture.
-         y: chains to the page so pull-to-refresh works at the top of the board. */
-      overscroll-behavior-x: contain;
-      overscroll-behavior-y: auto;
+      /* nothing bounces past the edges, on either axis */
+      overscroll-behavior: none;
       -webkit-overflow-scrolling: touch;
       /* proximity, not mandatory: vertical scrolling no longer gets yanked sideways */
       scroll-snap-type: x proximity;
@@ -219,6 +220,7 @@
   <h1 class="display">LTO Radar<span class="dot">.</span></h1>
   <span class="tagline">Limited-time fast-food items — catch them before they're gone</span>
   <span class="count" id="count"></span>
+  <button class="chip reload" id="reload" title="Reload data" aria-label="Reload data">↻</button>
 </header>
 
 <div class="controls" id="chainChips" role="group" aria-label="Toggle chains">
@@ -467,6 +469,8 @@ function buildChips() {
     render();
   }));
 }
+
+document.getElementById("reload").addEventListener("click", () => location.reload());
 
 fetch("data.json", { cache: "no-cache" })
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })

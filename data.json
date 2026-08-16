@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-15",
+  "researched": "2026-08-16",
   "items": [
     {
       "chain": "McDonald's",
@@ -2509,13 +2509,13 @@
     },
     {
       "chain": "McDonald's",
-      "item": "Caramel Apple Pie Drinks (leaked, unconfirmed)",
-      "description": "Rumored fall McCafe beverage lineup featuring caramel apple syrup, salted caramel whipped topping and apple pie pieces; food-news trackers report an expected mid-to-late August 2026 launch, but McDonald's has not officially confirmed it.",
+      "item": "Caramel Apple Pie Drinks",
+      "description": "Hot latte, iced latte, Frappé and iced coffee variants featuring caramel apple pie flavor; officially confirmed for nationwide launch Aug 17, 2026 (some locations soft-launched Aug 13).",
       "category": "drink",
-      "startDate": null,
+      "startDate": "2026-08-17",
       "endDate": null,
       "status": "upcoming",
-      "source": "https://sporked.com/article/forget-starbucks-mcdonalds-just-announced-their-own-fall-drinks/",
+      "source": "https://rollingout.com/2026/08/09/mcdonalds-makes-big-changes-to-its-menu/",
       "image": null
     },
     {
@@ -2846,9 +2846,9 @@
       "item": "OG Hot Mess Cheeseburger & Hot Mess Munchie Meal",
       "description": "Fan-favorite Hot Mess Cheeseburger returning as part of the yearlong 75th-anniversary throwback rollout, also sold as a $13 Hot Mess Munchie Meal with two tacos, curly fries, and a drink. Exact current in-restaurant availability as of Aug 2026 not independently verified.",
       "category": "burger",
-      "startDate": null,
-      "endDate": null,
-      "status": "active",
+      "startDate": "2026-02-16",
+      "endDate": "2026-04-05",
+      "status": "ended",
       "source": "https://www.aol.com/lifestyle/jack-box-limited-time-items-170000372.html",
       "image": null,
       "imageUrl": null
@@ -2948,6 +2948,102 @@
       "source": "https://www.today.com/food/pizza-hut-2-dollar-pizza-tuesday-deal-rcna218955",
       "image": null,
       "imageUrl": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Vanilla Swirl & Orange Dream Crafted Sodas",
+      "description": "New McCafé crafted soda additions launching alongside the Red Bull Dragonberry Energizer: Vanilla Swirl (cold foam over Coca-Cola/Diet Coke/Coke Zero) and Orange Dream (Fanta with vanilla and cold foam), plus reduced-sugar Diet Dr Pepper, Dr Pepper Zero Sugar and Sprite Zero Sugar.",
+      "category": "drink",
+      "startDate": "2026-08-17",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.prnewswire.com/news-releases/mcdonalds-usa-enters-the-world-of-energy-with-red-bull-dragonberry-energizer-302847669.html",
+      "imageUrl": null,
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Flame-Grilled Chicken Sandwiches & Wraps (regional test)",
+      "description": "Regional test at select Southern California locations of a revamped flame-grilled chicken lineup: three sandwiches (Classic, Spicy, Bacon & Swiss) and three wraps (Classic, Spicy, Honey Mustard), a redo of a 2024 test with a thicker, juicier chicken piece. No national rollout date confirmed.",
+      "category": "chicken",
+      "startDate": "2026-07-08",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.restaurantbusinessonline.com/food/burger-king-testing-flame-grilled-chicken-new-sandwiches-wraps",
+      "imageUrl": null,
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Pecan Cortado, Pecan Crunch Latte & Iced Pecan Crunch Latte",
+      "description": "Returning fall favorites with nutty pecan flavor, brown-buttery notes and baking spices; part of the official Aug 25, 2026 fall menu launch alongside the Pumpkin Spice Latte and Chaider.",
+      "category": "drink",
+      "startDate": "2026-08-25",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
+      "imageUrl": null,
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Pumpkin Cream Cold Brew & Pumpkin Spice Frappuccino (returning)",
+      "description": "Returning seasonal pumpkin staples confirmed as part of the Aug 25, 2026 fall menu announcement, alongside the new Pumpkin Cream shaken espresso/chai/matcha lineup.",
+      "category": "drink",
+      "startDate": "2026-08-25",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
+      "imageUrl": null,
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Frosted Sodas & Floats",
+      "description": "Icedream hand-spun with soda flavors (Coca-Cola, Dr Pepper, Sprite, Root Beer), added as a new beverage line as part of Chick-fil-A's 2026 'Newstalgia' menu innovations.",
+      "category": "drink",
+      "startDate": null,
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.thetakeout.com/2190118/big-changes-chick-fil-a-2026/",
+      "imageUrl": null,
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Pokémon Costume Free Doughnut Day",
+      "description": "One-day promo tied to the Pokémon Doughnut Collection launch: guests who wear Pokémon-themed attire to participating shops on Sat., Aug. 22, 2026 get one free Original Glazed Doughnut (limit one, in-shop/drive-thru only).",
+      "category": "event",
+      "startDate": "2026-08-22",
+      "endDate": "2026-08-22",
+      "status": "upcoming",
+      "source": "https://www.today.com/food/restaurants/krispy-kreme-pokemon-30th-anniversary-doughnut-collection-rcna592372",
+      "imageUrl": null,
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "Wings Relaunch (New Mild Marinated Base)",
+      "description": "Popeyes reintroduced its bone-in wings lineup with a new mild marinated base, positioned as a football-season relaunch. Exact pricing and flavor lineup not yet independently confirmed.",
+      "category": "chicken",
+      "startDate": null,
+      "endDate": null,
+      "status": "active",
+      "source": "https://news.popeyes.com/blog-posts/popeyes-r-wings-are-better-than-ever-reintroducing-popeyes-wings-lineup-featuring-a-new-mild-marinated-base-on-bone-in-wings-just-in-time-for-football-season",
+      "imageUrl": null,
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "BOGO Blizzard App Deal (leaked, unconfirmed)",
+      "description": "DQ Rewards app-exclusive offer reported by menu-aggregator sites: buy one Blizzard Treat, get a second free, following the Aug 3-30 Double Flip 99-cent deal. Not yet corroborated by an official DQ press release.",
+      "category": "dessert",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-25",
+      "status": "upcoming",
+      "source": "https://dqmenuusa.com/dq-bogo-blizzard/",
+      "imageUrl": null,
+      "image": null
     }
   ]
 }

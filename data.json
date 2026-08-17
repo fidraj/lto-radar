@@ -175,7 +175,8 @@
       "endDate": "2026-07-19",
       "status": "ended",
       "source": "https://burger-king-menu.com/",
-      "image": null
+      "image": "burger-king-fifa-world-cup-match-day-bundles.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Burger King",
@@ -1363,7 +1364,8 @@
       "endDate": "2025-09-18",
       "status": "ended",
       "source": "https://www.restaurantbusinessonline.com/marketing/subway-launches-limited-time-happy-gilmore-meal",
-      "image": null
+      "image": "subway-happy-gilmore-meal-collectible-cups.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Arby's",
@@ -1418,7 +1420,8 @@
       "endDate": "2026-07-31",
       "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/wingstop-expands-wing-day-into-wing-week-kicking-off-a-broader-1-million-in-fan-experiences-and-giveaways-302833600.html",
-      "image": null
+      "image": "wingstop-wing-week-presented-by-live-nation.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Burger King",
@@ -1594,7 +1597,8 @@
       "endDate": "2026-07-20",
       "status": "ended",
       "source": "https://www.spokesman.com/stories/2026/jun/10/banana-wendys-unveils-new-minions-inspired-frosty-/",
-      "image": null
+      "image": "wendy-s-minions-monsters-adult-meal-banana-frosty-swirl.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -1660,7 +1664,8 @@
       "endDate": "2026-08-04",
       "status": "ended",
       "source": "https://www.brandeating.com/2026/08/taco-bell-1-dollar-meximelt-deal-august-4-2026.html",
-      "image": null
+      "image": "taco-bell-1-meximelt-tuesday-deal.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Starbucks",
@@ -1770,7 +1775,8 @@
       "endDate": "2026-07-12",
       "status": "ended",
       "source": "https://stories.inspirebrands.com/sonic-america-2-50-menu/",
-      "image": null
+      "image": "sonic-america-2-50-menu.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Arby's",
@@ -1847,7 +1853,8 @@
       "endDate": "2026-07-22",
       "status": "ended",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-introduces-new-hot-ones-munchie-meal/",
-      "image": null
+      "image": "jack-in-the-box-hot-ones-munchie-meal.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Popeyes",
@@ -2177,7 +2184,8 @@
       "endDate": "2026-07-05",
       "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-rolls-out-new-giant-chicken-finger-wraps-that-are-far-from-a-snack-theyre-the-whole-meal-302747173.html",
-      "image": null
+      "image": "zaxby-s-giant-chicken-finger-wraps-chicken-bacon-ranch-buffalo-blue-asian-zensat.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -2505,7 +2513,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.fastfoodpost.com/new-peanut-butter-crunch-mcflurry-officially-arrives-at-mcdonalds/",
-      "image": null
+      "image": "mcdonald-s-peanut-butter-crunch-mcflurry.jpg",
+      "imageAuto": true
     },
     {
       "chain": "McDonald's",
@@ -2549,7 +2558,8 @@
       "endDate": "2026-07-22",
       "status": "ended",
       "source": "https://www.brandeating.com/2026/06/taco-bell-enchirito-returns-plus-new-cinnamon-sugar-churros.html",
-      "image": null
+      "image": "taco-bell-enchirito-returned.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -2571,7 +2581,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/03/taco-bell-new-crispy-chicken-crunchwrap-slider-and-cantina-chicken-rolled-quesadilla.html",
-      "image": null
+      "image": "taco-bell-crispy-chicken-crunchwrap-slider.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",
@@ -2582,7 +2593,8 @@
       "endDate": "2026-08-20",
       "status": "upcoming",
       "source": "https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME",
-      "image": null
+      "image": "chipotle-chipotle-iq-2026-trivia-event.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",
@@ -2593,7 +2605,8 @@
       "endDate": "2026-04-28",
       "status": "ended",
       "source": "https://newsroom.chipotle.com/2026-01-27-CHIPOTLE-KICKS-OFF-2026-MENU-INNOVATION-WITH-THE-RETURN-OF-CHICKEN-AL-PASTOR,-ONE-OF-ITS-MOST-REQUESTED-ITEMS",
-      "image": null
+      "image": "chipotle-chicken-al-pastor-returned-since-ended.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",
@@ -2604,7 +2617,8 @@
       "endDate": "2026-06-02",
       "status": "ended",
       "source": "https://www.brandeating.com/2026/05/chipotle-testing-afternoon-250-taco-deal.html",
-      "image": null
+      "image": "chipotle-power-up-at-chipotle-2-50-taco-happy-hour-test-ended.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Subway",
@@ -2615,7 +2629,8 @@
       "endDate": "2026-08-19",
       "status": "ending-soon",
       "source": "https://www.eatdrinkdeals.com/subway-deals-specials/",
-      "image": null
+      "image": "subway-6-99-any-footlong-meal-deal.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Subway",
@@ -2659,7 +2674,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.fastfoodpost.com/sonic-launches-new-2-for-7-deal/",
-      "image": null
+      "image": "sonic-2-for-7-value-deal.jpg",
+      "imageAuto": true
     },
     {
       "chain": "McDonald's",
@@ -2670,8 +2686,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.today.com/food/restaurants/mcdonalds-3-dollar-and-less-value-menu-2026-rcna266383",
-      "image": null,
-      "imageUrl": null
+      "image": "mcdonald-s-mcvalue-under-3-menu-4-breakfast-meal-deal.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "McDonald's",
@@ -2682,8 +2699,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.aol.com/articles/mcdonald-keeps-fry-lovers-happy-162317161.html",
-      "image": null,
-      "imageUrl": null
+      "image": "mcdonald-s-free-fries-friday-app-exclusive.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Burger King",
@@ -2706,8 +2724,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://newsroom.chipotle.com/2026-03-18-CHIPOTLE-LAUNCHES-FRESH-CILANTRO-LIME-SAUCE-FOR-A-LIMITED-TIME-AMID-AMERICAS-SAUCE-OBSESSION",
-      "image": null,
-      "imageUrl": null
+      "image": "chipotle-cilantro-lime-sauce.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",
@@ -2718,8 +2737,9 @@
       "endDate": "2026-12-31",
       "status": "active",
       "source": "https://www.pgatour.com/article/news/latest/2026/01/07/pga-tour-chipotle-announce-new-partnership-chipotle-real-food-for-real-athletes-official-mexican-restaurant-burrito-bowl-tacos-quesadilla",
-      "image": null,
-      "imageUrl": null
+      "image": "chipotle-pga-tour-hot-streak-presented-by-chipotle.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -2766,8 +2786,9 @@
       "endDate": "2026-12-31",
       "status": "active",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-launches-collectible-classic-cups-and-yearlong-celebration",
-      "image": null,
-      "imageUrl": null
+      "image": "chick-fil-a-golden-fan-cup-sweepstakes-classic-cups-newstalgia-campaign.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Popeyes",
@@ -2778,8 +2799,9 @@
       "endDate": "2026-12-31",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/back-for-good-popeyes-makes-fan-favorite-chicken-wraps-a-permanent-menu-offering-and-debuts-new-blackened-ranch-flavor-302760814.html",
-      "image": null,
-      "imageUrl": null
+      "image": "popeyes-chicken-wraps-blackened-ranch-flavor-wraps-bundle.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "KFC",
@@ -2790,8 +2812,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-brings-back-popular-fried-pickles-and-introduces-new-5-for-5-tenders-deal-302775073.html",
-      "image": null,
-      "imageUrl": null
+      "image": "kfc-fried-pickles-returning-5-for-5-tenders-deal.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "KFC",
@@ -2802,8 +2825,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/05/kfc-new-5-dollar-chicken-variety-box.html",
-      "image": null,
-      "imageUrl": null
+      "image": "kfc-5-chicken-variety-box.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "KFC",
@@ -2814,8 +2838,9 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-brings-back-the-fan-favorite-twister-and-launches-new-20-customizable-bucket-302696024.html",
-      "image": null,
-      "imageUrl": null
+      "image": "kfc-20-customizable-bucket-build-a-bucket.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "KFC",
@@ -2826,8 +2851,9 @@
       "endDate": "2026-04-20",
       "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/kfc-brings-back-the-fan-favorite-twister-and-launches-new-20-customizable-bucket-302696024.html",
-      "image": null,
-      "imageUrl": null
+      "image": "kfc-twister-returning-ended.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "KFC",
@@ -2838,8 +2864,9 @@
       "endDate": "2026-02-15",
       "status": "ended",
       "source": "https://www.fastfoodpost.com/kfc-debuts-new-potato-wedges-and-queso-dip/",
-      "image": null,
-      "imageUrl": null
+      "image": "kfc-wedges-queso-dip-super-bowl-digital-exclusive.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Jack in the Box",
@@ -2934,8 +2961,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.fastfoodpost.com/pizza-hut-launches-10-any-pizza-deal-nationwide/",
-      "image": null,
-      "imageUrl": null
+      "image": "pizza-hut-10-any-pizza-deal.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Pizza Hut",
@@ -2946,8 +2974,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.today.com/food/pizza-hut-2-dollar-pizza-tuesday-deal-rcna218955",
-      "image": null,
-      "imageUrl": null
+      "image": "pizza-hut-2-tuesday-personal-pan-pizza.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "McDonald's",
@@ -2971,7 +3000,8 @@
       "status": "active",
       "source": "https://www.restaurantbusinessonline.com/food/burger-king-testing-flame-grilled-chicken-new-sandwiches-wraps",
       "imageUrl": null,
-      "image": null
+      "image": "burger-king-flame-grilled-chicken-sandwiches-wraps-regional-test.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Starbucks",
@@ -3019,7 +3049,8 @@
       "status": "upcoming",
       "source": "https://www.today.com/food/restaurants/krispy-kreme-pokemon-30th-anniversary-doughnut-collection-rcna592372",
       "imageUrl": null,
-      "image": null
+      "image": "krispy-kreme-pok-mon-costume-free-doughnut-day.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Popeyes",
@@ -3031,7 +3062,8 @@
       "status": "active",
       "source": "https://news.popeyes.com/blog-posts/popeyes-r-wings-are-better-than-ever-reintroducing-popeyes-wings-lineup-featuring-a-new-mild-marinated-base-on-bone-in-wings-just-in-time-for-football-season",
       "imageUrl": null,
-      "image": null
+      "image": "popeyes-wings-relaunch-new-mild-marinated-base.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Dairy Queen",
@@ -3043,7 +3075,8 @@
       "status": "upcoming",
       "source": "https://dqmenuusa.com/dq-bogo-blizzard/",
       "imageUrl": null,
-      "image": null
+      "image": "dairy-queen-bogo-blizzard-app-deal-leaked-unconfirmed.jpg",
+      "imageAuto": true
     }
   ]
 }

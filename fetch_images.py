@@ -174,7 +174,10 @@ def gather(items, paths):
         if p.get("imageUrl"):
             yield p["imageUrl"], p, f"{p['chain']} / {p['item']}", False
 
-    needs_og = [p for p in todo if not p.get("imageUrl") and p.get("source")]
+    # imageSkip marks an item a human reviewed and rejected the auto image for -
+    # without it, every run happily re-derives the same wrong picture
+    needs_og = [p for p in todo
+                if not p.get("imageUrl") and p.get("source") and not p.get("imageSkip")]
     if not needs_og:
         return
     print(f"deriving images from source articles for {len(needs_og)} item(s)...")

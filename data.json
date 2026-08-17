@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-16",
+  "researched": "2026-08-17",
   "items": [
     {
       "chain": "McDonald's",
@@ -257,13 +257,13 @@
     },
     {
       "chain": "Dunkin'",
-      "item": "Fall pumpkin lineup (leaked, unconfirmed)",
-      "description": "Leaked fall menu with five pumpkin drinks including Pumpkin Spice Signature Latte, Pumpkin Cloud Dunkalatte, Nutty Pumpkin Protein Latte, and Pumpkin Pie Coffee Chiller, plus returning pumpkin donuts, munchkins, and muffins. The Aug 19 return date is now officially confirmed via Dunkin's own social media; specific product lineup still leak-sourced only.",
+      "item": "Fall Pumpkin Lineup (official return date confirmed)",
+      "description": "Dunkin' has officially confirmed its pumpkin menu return for Aug 19, 2026; specific drink/food lineup details beyond the date are still unconfirmed.",
       "category": "drink",
       "startDate": "2026-08-19",
       "endDate": null,
       "status": "upcoming",
-      "source": "https://www.yahoo.com/lifestyle/articles/dunkins-2026-fall-menu-just-181853918.html",
+      "source": "https://parade.com/food/dunkin-confirms-pumpkin-return-date-fall-menu-2026-launch-fans-demand-spider-donut-spidey-d",
       "image": null
     },
     {
@@ -2293,8 +2293,8 @@
       "description": "Buy-one-get-one-free promotion on KFC's Popcorn Chicken Big Box combo (bite-sized popcorn chicken, side, biscuit, drink), tied to the returning Popcorn Chicken item.",
       "category": "event",
       "startDate": "2026-08-10",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-08-24",
+      "status": "ending-soon",
       "source": "https://www.qsrmagazine.com/news/kfc-announces-bogo-promotion-for-new-popcorn-chicken-big-box/",
       "image": "kfc-popcorn-chicken-big-box-bogo-promotion.jpg"
     },
@@ -3079,6 +3079,186 @@
       "imageUrl": null,
       "image": "dairy-queen-bogo-blizzard-app-deal-leaked-unconfirmed.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Burger King",
+      "item": "Enormous Omelette Sandwich (returning)",
+      "description": "Discontinued breakfast sandwich (American cheese, two omelets, sausage, and bacon on a hoagie-style bun) has reportedly returned to the menu.",
+      "category": "sandwich",
+      "startDate": null,
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.msn.com/en-us/foodanddrink/foodnews/11-new-burger-king-menu-items-for-2026/ss-AA24sTCX",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "SpongeBob Movie Menu (Krabby Whopper, Cheesy Bacon Tots, Star-berry Shortcake Pie, Pineapple Float)",
+      "description": "Tie-in menu for 'The SpongeBob Movie: Search for SquarePants' (in theaters Dec 19, 2026): SpongeBob's Krabby Whopper, Mr. Krabs' Cheesy Bacon Tots, Patrick's Star-berry Shortcake Pie, and Pirate's Frozen Pineapple Float, plus collectible toys and themed packaging.",
+      "category": "event",
+      "startDate": "2026-12-02",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://news.bk.com/blog-posts/burger-king-r-invites-guests-to-dive-into-a-sea-of-flavor-with-all-new-spongebob-tm-movie-menu",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Meal of Misfortune (x Netflix's Wednesday)",
+      "description": "Collab with Netflix's 'Wednesday' Season 2 Part 1 premiere: 10-pc nuggets, small fries, small chocolate Frosty, and two mystery dipping sauces in custom packaging.",
+      "category": "event",
+      "startDate": "2026-08-04",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.goodmorningamerica.com/food/story/wendys-teams-netflixs-wednesday-meal-misfortune/story?id=124360781",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Rick and Morty x Coca-Cola Freestyle Collab",
+      "description": "Tie-in with Rick and Morty Season 9: two exclusive Coca-Cola Freestyle flavors (Mello Yello BerryJerryboree, Portal Time Lemon Lime) at Wendy's Freestyle machines, plus a themed LA pop-up diner.",
+      "category": "drink",
+      "startDate": null,
+      "endDate": "2026-08-22",
+      "status": "ending-soon",
+      "source": "https://www.marketingdive.com/news/wendys-expands-rick-and-morty-collab-with-pop-up-diner-custom-coke-flav/601833/",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Melty Pepper Jack Steak Burrito",
+      "description": "$3 Luxe Value Menu item: steak, seasoned rice, Pepper Jack sauce, reduced-fat sour cream, and three-cheese blend in a flour tortilla.",
+      "category": "food",
+      "startDate": "2026-07-23",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.brandeating.com/2026/07/taco-bell-new-3-dollar-melty-pepper-jack-steak-burrito.html",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Fresca Pepper Jack Steak Burrito",
+      "description": "$3 Luxe Value Menu item: marinated grilled steak, lettuce, tomatoes, fiesta strips, three-cheese blend, Spicy Ranch, and Pepper Jack sauce in a flour tortilla.",
+      "category": "food",
+      "startDate": "2026-07-23",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.fastfoodpost.com/taco-bell-debuts-new-3-melty-pepper-jack-steak-burrito-and-fresca-pepper-jack-steak-burrito/",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "Hot Honey Trio (Hot Honey Rub, Saucy Sriracha Hot Honey, Sweet Garlic Hot Honey)",
+      "description": "Expansion of Wingstop's hot honey lineup with three flavors: Hot Honey Rub, Saucy Sriracha Hot Honey, and Sweet Garlic Hot Honey, nationwide via restaurants, app and web.",
+      "category": "chicken",
+      "startDate": "2026-01-20",
+      "endDate": "2026-02-09",
+      "status": "ended",
+      "source": "https://www.prnewswire.com/news-releases/wingstop-expands-hot-honey-lineup-with-new-trio-of-flavors-302664857.html",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "$9 Loaded Flavor Boxes (test)",
+      "description": "Limited-time/test meal deal: 6 classic or boneless wings (or 3 tenders) and fries, tossed in Lemon Pepper, OG Hot, Garlic Parm, or Hot Honey Rub, drizzled with Housemade Ranch, for $9.",
+      "category": "chicken",
+      "startDate": "2026-02-10",
+      "endDate": "2026-03-10",
+      "status": "ended",
+      "source": "https://www.brandeating.com/2026/02/wingstop-new-9-dollar-loaded-flavor-boxes.html",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "Wingstop Hot Box - Fiery Nacho (4/20 return)",
+      "description": "Annual 4/20 promotional box returned with the Fiery Nacho dry rub flavor: choice of 3 tenders or 8 wings on a bed of fries, plus a limited-edition collectible at select restaurants.",
+      "category": "chicken",
+      "startDate": "2026-04-17",
+      "endDate": "2026-04-20",
+      "status": "ended",
+      "source": "https://www.prnewswire.com/news-releases/wingstop-celebrates-420-with-the-return-of-the-fan-favorite-wingstop-hot-box-302742313.html",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "$5 (or Less) Flavor Cravings Menu (regional test)",
+      "description": "Value-menu test in four markets (Salt Lake City, Philadelphia, San Antonio, Detroit): $4.99 classic wings, $3.99 boneless wings, $3.99 tenders, $4.99 chicken tender sandwich, $4.49 fries, $3.49 Cajun corn.",
+      "category": "food",
+      "startDate": "2026-06-15",
+      "endDate": "2026-07-15",
+      "status": "ended",
+      "source": "https://www.brandeating.com/2026/06/wingstop-tests-5-dollar-or-less-value-menu.html",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "$1-Per-Wing Memorial Day Bundles",
+      "description": "Memorial Day weekend promotional bundles pricing wings at $1 each, part of a series of value-oriented tests Wingstop ran in Q2 2026.",
+      "category": "chicken",
+      "startDate": "2026-05-22",
+      "endDate": "2026-05-26",
+      "status": "ended",
+      "source": "https://ir.wingstop.com/memorial-day-weekend-just-got-more-flavorful-with-wingstops-new-1-per-wing-bundles/",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Red Chimichurri",
+      "description": "New limited-time sauce made with citrus juice, red wine vinegar, cilantro, garlic, guajillo and other chili peppers, and sunflower oil, curated to pair with Carne Asada. Chipotle Rewards members can get it free on launch day.",
+      "category": "food",
+      "startDate": "2026-09-30",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.prnewswire.com/news-releases/chipotle-reveals-red-chimichurri-as-next-step-in-menu-innovation-302568652.html",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Subway",
+      "item": "Breaded Chicken Sub (leaked, unconfirmed)",
+      "description": "Reportedly part of Subway's 2026 menu changes; exact launch date and official confirmation not yet found.",
+      "category": "sandwich",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.thetakeout.com/2177132/new-changes-coming-to-subway-2026/",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Subway",
+      "item": "Smashed Falafel Sub (leaked, unconfirmed)",
+      "description": "Reportedly part of Subway's 2026 menu changes alongside Breaded Chicken; exact launch date and official confirmation not yet found.",
+      "category": "sandwich",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.thetakeout.com/2177132/new-changes-coming-to-subway-2026/",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Subway",
+      "item": "Poppi Prebiotic Soda Line (leaked, unconfirmed)",
+      "description": "Reported beverage-line expansion adding Poppi prebiotic sodas to Subway's fountain/cooler lineup; exact rollout date and markets not yet confirmed.",
+      "category": "drink",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.thetakeout.com/2177132/new-changes-coming-to-subway-2026/",
+      "image": null,
+      "imageUrl": null
     }
   ]
 }

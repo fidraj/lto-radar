@@ -3101,8 +3101,9 @@
       "endDate": "while supplies last",
       "status": "upcoming",
       "source": "https://news.bk.com/blog-posts/burger-king-r-invites-guests-to-dive-into-a-sea-of-flavor-with-all-new-spongebob-tm-movie-menu",
-      "image": null,
-      "imageUrl": null
+      "image": "burger-king-spongebob-movie-menu-krabby-whopper-cheesy-bacon-tots-star-berry-sho.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Wendy's",
@@ -3137,8 +3138,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/taco-bell-new-3-dollar-melty-pepper-jack-steak-burrito.html",
-      "image": null,
-      "imageUrl": null
+      "image": "taco-bell-melty-pepper-jack-steak-burrito.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -3149,8 +3151,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.fastfoodpost.com/taco-bell-debuts-new-3-melty-pepper-jack-steak-burrito-and-fresca-pepper-jack-steak-burrito/",
-      "image": null,
-      "imageUrl": null
+      "image": "taco-bell-fresca-pepper-jack-steak-burrito.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Wingstop",
@@ -3161,8 +3164,9 @@
       "endDate": "2026-02-09",
       "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/wingstop-expands-hot-honey-lineup-with-new-trio-of-flavors-302664857.html",
-      "image": null,
-      "imageUrl": null
+      "image": "wingstop-hot-honey-trio-hot-honey-rub-saucy-sriracha-hot-honey-sweet-garlic-hot-.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Wingstop",
@@ -3173,8 +3177,9 @@
       "endDate": "2026-03-10",
       "status": "ended",
       "source": "https://www.brandeating.com/2026/02/wingstop-new-9-dollar-loaded-flavor-boxes.html",
-      "image": null,
-      "imageUrl": null
+      "image": "wingstop-9-loaded-flavor-boxes-test.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Wingstop",
@@ -3185,8 +3190,9 @@
       "endDate": "2026-04-20",
       "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/wingstop-celebrates-420-with-the-return-of-the-fan-favorite-wingstop-hot-box-302742313.html",
-      "image": null,
-      "imageUrl": null
+      "image": "wingstop-wingstop-hot-box-fiery-nacho-4-20-return.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Wingstop",
@@ -3221,8 +3227,9 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.prnewswire.com/news-releases/chipotle-reveals-red-chimichurri-as-next-step-in-menu-innovation-302568652.html",
-      "image": null,
-      "imageUrl": null
+      "image": "chipotle-red-chimichurri.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Subway",

@@ -165,16 +165,16 @@
 
   .empty { text-align: center; color: var(--muted); padding: 60px 28px; font-size: 15px; }
 
-  /* ---- Phone: keep the kanban, just make it swipe sideways ---- */
+  /* ---- Phone: kanban swipes sideways, the page itself scrolls vertically ---- */
   @media (max-width: 720px) {
-    /* page can rubber-band so pull-to-refresh works on the header/filter area,
-       but it has no scrollable content, so nothing drifts out of place */
-    html, body { height: 100dvh; overscroll-behavior-y: auto; }
+    /* no fixed-height app shell: the document grows with the board, so scrolling
+       down scrolls the whole page and the header/filters move out of the way */
+    html, body { height: auto; }
+    body { display: block; }
 
     header.page { padding: 14px 16px 10px; gap: 4px 14px; }
     header.page h1 { font-size: 21px; }
     header.page .count { font-size: 12px; }
-    .chip.reload { display: inline-block; margin-left: 10px; }
 
     .controls { padding: 10px 16px; gap: 7px; }
     /* keep the 21 chain chips on one swipeable line instead of eating the screen */
@@ -188,14 +188,13 @@
     #statusChips { flex-wrap: wrap; }
     .controls .foot-note { margin-left: auto; font-size: 11.5px; }
 
-    /* the whole board scrolls: swipe sideways lane-to-lane, up/down moves everything */
+    /* horizontal only: height is auto, so nothing is clipped vertically and the
+       page - not the board - owns the up/down scroll */
     main {
-      overflow: auto;
-      /* sealed: the board never bounces past its edges, and a drag inside it
-         never escapes to the page (so it can't trigger a pull from here) */
-      overscroll-behavior: none;
+      height: auto;
+      overflow-x: auto; overflow-y: hidden;
+      overscroll-behavior-x: contain;
       -webkit-overflow-scrolling: touch;
-      /* proximity, not mandatory: vertical scrolling no longer gets yanked sideways */
       scroll-snap-type: x proximity;
       scrollbar-width: none;
     }

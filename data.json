@@ -1067,7 +1067,8 @@
       "endDate": "2026-08-30",
       "status": "ending-soon",
       "source": "https://www.fastfoodpost.com/pizza-hut-debuts-throwback-value-menu-with-new-6-triple-cheese-mac-5-smores-sticks-and-more/",
-      "image": null
+      "image": "pizza-hut-s-mores-sticks.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Pizza Hut",
@@ -2466,8 +2467,9 @@
       "endDate": "while supplies last",
       "status": "upcoming",
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
-      "image": null,
-      "imageUrl": null
+      "image": "arby-s-steak-nuggets-potato-bowl.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Arby's",

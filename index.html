@@ -236,6 +236,7 @@
 
 <main id="board"><div class="empty">Loading the board…</div></main>
 
+<script data-goatcounter="https://lto-radar.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <script>
 const TODAY = new Date(new Date().toISOString().slice(0, 10));
 
@@ -340,6 +341,15 @@ function windowText(p) {
   return "Dates unannounced";
 }
 
+// GoatCounter custom events - counted once per session, so these measure whether
+// visitors actually use the board (curate it, follow a source) rather than click volume
+const tracked = new Set();
+function track(name) {
+  if (tracked.has(name) || !window.goatcounter?.count) return;
+  tracked.add(name);
+  goatcounter.count({ path: name, title: name, event: true });
+}
+
 // data.json is built by an agent reading third-party pages, so treat its URLs as
 // untrusted: only http(s) may reach an href/src, never javascript:, data: or vbscript:
 function safeUrl(u) {
@@ -426,6 +436,7 @@ function buildChainChips() {
 
   row.querySelectorAll(".chip").forEach(b => {
     b.addEventListener("click", () => {
+      track("chain-toggle");
       const c = b.dataset.chain;
       if (enabledChains.has(c)) {
         if (enabledChains.size === 1) { // last one off = reset to all on
@@ -447,6 +458,7 @@ function buildChainChips() {
       e.dataTransfer.setData("text/plain", b.dataset.chain);
     });
     b.addEventListener("dragend", () => {
+      track("chain-reorder");
       b.classList.remove("dragging");
       chainOrder = [...row.querySelectorAll(".chip")].map(x => x.dataset.chain);
       saveOrder();
@@ -473,6 +485,7 @@ function buildChips() {
     `<button class="chip" data-status="${s.key}" aria-pressed="${s.key === statusFilter}">${s.label}</button>`
   ).join(""));
   srow.querySelectorAll(".chip").forEach(b => b.addEventListener("click", () => {
+    track("status-filter");
     statusFilter = b.dataset.status;
     srow.querySelectorAll(".chip").forEach(x => x.setAttribute("aria-pressed", String(x.dataset.status === statusFilter)));
     render();
@@ -480,6 +493,9 @@ function buildChips() {
 }
 
 document.getElementById("reload").addEventListener("click", () => location.reload());
+document.getElementById("board").addEventListener("click", e => {
+  if (e.target.closest(".src a")) track("source-click");
+});
 
 fetch("data.json", { cache: "no-cache" })
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })

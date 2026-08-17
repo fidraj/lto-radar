@@ -341,16 +341,23 @@ function windowText(p) {
   return "Dates unannounced";
 }
 
+// data.json is built by an agent reading third-party pages, so treat its URLs as
+// untrusted: only http(s) may reach an href/src, never javascript:, data: or vbscript:
+function safeUrl(u) {
+  const v = String(u ?? "").trim();
+  return /^https?:\/\//i.test(v) ? v : "";
+}
+
 function esc(s) {
   return String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 }
 
 function tile(p) {
   const s = statusOf(p);
-  const photo = p.image ? "images/" + p.image : p.imageUrl; // remote fallback until the fetch-images action mirrors it
+  const photo = p.image ? "images/" + p.image : safeUrl(p.imageUrl); // remote fallback until the fetch-images action mirrors it
   return `<article class="tile${photo ? "" : " nophoto"}">
     ${photo ? `<img class="photo" src="${esc(photo)}" alt="${esc(p.item)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
-    <div class="src">${p.source ? `<a href="${esc(p.source)}" target="_blank" rel="noopener" aria-label="Source for ${esc(p.item)}">source ↗</a>` : ""}</div>
+    <div class="src">${safeUrl(p.source) ? `<a href="${esc(safeUrl(p.source))}" target="_blank" rel="noopener noreferrer" aria-label="Source for ${esc(p.item)}">source ↗</a>` : ""}</div>
     <div class="body">
       <h3>${esc(p.item)}</h3>
       <p class="desc" title="${esc(p.description)}">${esc(p.description)}</p>

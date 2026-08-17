@@ -51,7 +51,9 @@ def og_image(page_url):
     """Pull the og:image out of a news/press page - it is the official press photo."""
     if not page_url:
         return None
-    out = subprocess.run(["curl", "-sSL", "--max-time", "25", "-A", UA, page_url],
+    out = subprocess.run(["curl", "-sSL", "--max-time", "25", "--proto", "=http,https",
+                          "--proto-redir", "=http,https", "--max-filesize", "10000000",
+                          "-A", UA, page_url],
                          capture_output=True, text=True, errors="ignore").stdout
     for pat in (r'og:image["\'][^>]*content=["\']([^"\']+)',
                 r'content=["\']([^"\']+)["\'][^>]*og:image',
@@ -103,7 +105,9 @@ def good_enough(path):
 def fetch(url, dest):
     raw = dest.with_suffix(".raw")
     r = subprocess.run(
-        ["curl", "-sSLf", "--max-time", "30", "-A", "Mozilla/5.0 (Macintosh)", "-o", str(raw), url],
+        ["curl", "-sSLf", "--max-time", "30", "--proto", "=http,https",
+         "--proto-redir", "=http,https", "--max-filesize", "25000000",
+         "-A", "Mozilla/5.0 (Macintosh)", "-o", str(raw), url],
         capture_output=True, text=True,
     )
     if r.returncode != 0:

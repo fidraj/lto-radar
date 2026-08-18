@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-17",
+  "researched": "2026-08-18",
   "items": [
     {
       "chain": "McDonald's",
@@ -603,7 +603,7 @@
       "category": "sandwich",
       "startDate": "2026-08-18",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.newsweek.com/chickfila-announces-major-changes-2026-11313711",
       "image": "chick-fil-a-pretzel-cheddar-club-sandwich.jpg"
     },
@@ -614,7 +614,7 @@
       "category": "drink",
       "startDate": "2026-08-18",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.aol.com/news/chick-fil-announces-limited-time-154141863.html",
       "image": "chick-fil-a-cherry-berry-sprite-cherry-berry-lineup.jpg"
     },
@@ -625,7 +625,7 @@
       "category": "food",
       "startDate": "2026-08-18",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.aol.com/news/chick-fil-announces-limited-time-154141863.html",
       "image": "chick-fil-a-waffle-potato-chips-original-chick-fil-a-sauce.jpg"
     },
@@ -955,7 +955,7 @@
       "category": "event",
       "startDate": "2026-07-30",
       "endDate": "2026-08-26",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://countrynow.com/megan-moroneys-new-raising-canes-collectors-cups-are-here-including-her-iconic-rhinestone-tumbler/",
       "image": "raising-cane-s-megan-moroney-rhinestone-tumbler.jpg"
     },
@@ -1010,7 +1010,7 @@
       "category": "dessert",
       "startDate": "2026-05-04",
       "endDate": "2026-08-30",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.brandeating.com/2026/07/new-at-zaxbys-chicken-bacon-ranch-lineup.html",
       "image": "zaxby-s-banana-pudding-milkshake-returning.jpg"
     },
@@ -1032,7 +1032,7 @@
       "category": "event",
       "startDate": "2026-06-01",
       "endDate": "2026-08-31",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE",
       "image": "chipotle-summer-of-extras.jpg"
     },
@@ -1043,7 +1043,7 @@
       "category": "event",
       "startDate": "2026-06-16",
       "endDate": "2026-08-28",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO",
       "image": "chipotle-chipotle-x-riot-games-2xko-collab.jpg"
     },
@@ -2051,7 +2051,7 @@
       "category": "event",
       "startDate": "2026-08-12",
       "endDate": "2026-08-18",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/dominos-launches-weeklong-carryout-special-302469473.html",
       "image": "domino-s-weeklong-carryout-special-6-99-large-2-topping.jpg"
     },
@@ -2228,7 +2228,7 @@
       "category": "event",
       "startDate": "2026-08-18",
       "endDate": "2026-08-18",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.mensjournal.com/entertainment/taco-bell-tajin-peso-pluma-menu",
       "image": null
     },
@@ -2292,7 +2292,7 @@
       "item": "Popcorn Chicken Big Box (BOGO promotion)",
       "description": "Buy-one-get-one-free promotion on KFC's Popcorn Chicken Big Box combo (bite-sized popcorn chicken, side, biscuit, drink), tied to the returning Popcorn Chicken item.",
       "category": "event",
-      "startDate": "2026-08-10",
+      "startDate": "2026-08-14",
       "endDate": "2026-08-24",
       "status": "ending-soon",
       "source": "https://www.qsrmagazine.com/news/kfc-announces-bogo-promotion-for-new-popcorn-chicken-big-box/",
@@ -2393,7 +2393,7 @@
       "category": "event",
       "startDate": "2026-08-18",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.today.com/food/restaurants/mcdonalds-hello-kitty-godzilla-happy-meal-toys-rcna592162",
       "image": "mcdonald-s-hello-kitty-friends-x-godzilla-happy-meal.jpg",
       "imageUrl": null
@@ -2453,7 +2453,7 @@
       "category": "donut",
       "startDate": "2026-08-18",
       "endDate": "2026-09-13",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.restaurantnews.com/krispy-kreme-pokemon-doughnut-collection-081326/",
       "image": "krispy-kreme-pok-mon-doughnut-collection.jpg",
       "imageUrl": null
@@ -2593,7 +2593,7 @@
       "category": "event",
       "startDate": "2026-08-18",
       "endDate": "2026-08-20",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME",
       "image": "chipotle-chipotle-iq-2026-trivia-event.jpg",
       "imageAuto": true
@@ -2641,7 +2641,7 @@
       "category": "sandwich",
       "startDate": null,
       "endDate": "2026-08-18",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.dealnews.com/features/subway/bogo-deal/",
       "image": null
     },
@@ -3264,6 +3264,126 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.thetakeout.com/2177132/new-changes-coming-to-subway-2026/",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Pumpkin Cloud Dunkalatte, Pumpkin Patch Cloud Latte, Nutty Pumpkin Protein Latte & Pumpkin Pie Coffee Chiller (leaked, unconfirmed)",
+      "description": "Additional pumpkin drinks named in a leaked Dunkin' fall 2026 menu graphic, alongside the returning Pumpkin Spice Signature Latte: a richer all-pumpkin Dunkalatte (Pumpkin Swirl, Coffee Milk, Espresso, Sweet Cold Foam, Cinnamon Sugar), a Pumpkin Patch Cloud Latte, a Nutty Pumpkin Protein Latte, and a frozen Pumpkin Pie Coffee Chiller. Not officially confirmed by Dunkin'.",
+      "category": "drink",
+      "startDate": "2026-08-19",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://parade.com/news/dunkin-fall-2026-menu-leak-return-date-new-items",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Pumpkin Donut, Pumpkin Muffin & Pumpkin Munchkins (leaked return)",
+      "description": "Returning fall pumpkin bakery items named in the leaked fall 2026 menu graphic, alongside the savory Chipotle Hash Browns/Maple Sugar Bacon items. Not officially confirmed by Dunkin'.",
+      "category": "food",
+      "startDate": "2026-08-19",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://parade.com/news/dunkin-fall-2026-menu-leak-return-date-new-items",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Domino's",
+      "item": "Perfect Combo Deal ($19.99)",
+      "description": "Value bundle: two medium 1-topping pizzas, a 16-piece order of Parmesan Bread Bites, an 8-piece order of Cinnamon Twists, and a 2-liter Coca-Cola product for $19.99 total, available for delivery, Carside Delivery, or carryout.",
+      "category": "food",
+      "startDate": null,
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.fastfoodpost.com/dominos-brings-back-perfect-combo-deal/",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Whopper Guarantee (w/ Your Way Champion program)",
+      "description": "New guest-satisfaction guarantee: if a Whopper doesn't meet expectations, staff remake it on the spot and give a QR code inside the box redeemable for a free classic Whopper on the customer's next visit (in-store only, excludes Impossible Whopper and Whopper Jr.). Rolled out alongside the 'Your Way Champion' reimagined restaurant-manager role empowered to resolve guest issues immediately.",
+      "category": "event",
+      "startDate": "2026-07-20",
+      "endDate": "2026-08-31",
+      "status": "ending-soon",
+      "source": "https://news.bk.com/blog-posts/burger-king-continues-turning-guest-feedback-into-action-with-the-your-way-champion-and-whopper-guarantee",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Bourbon BBQ Brisket Sandwich",
+      "description": "Sliced smoked beef brisket with brown sugar bacon, melted cheddar cheese, crispy onions, and Bourbon BBQ sauce on a toasted brioche bun.",
+      "category": "sandwich",
+      "startDate": null,
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.aol.com/lifestyle/arbys-limited-time-menu-tapping-160824869.html",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Bourbon BBQ Chicken Sandwich",
+      "description": "Crispy chicken fillet with melted cheddar cheese, brown sugar bacon, crispy onions, and Bourbon BBQ sauce on a toasted brioche bun.",
+      "category": "sandwich",
+      "startDate": null,
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.aol.com/lifestyle/arbys-limited-time-menu-tapping-160824869.html",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Strawberry Shake",
+      "description": "New limited-time shake made with natural and artificial strawberry flavors, finished with whipped topping, launched alongside the new Bourbon BBQ sandwich lineup.",
+      "category": "drink",
+      "startDate": null,
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.aol.com/lifestyle/arbys-limited-time-menu-tapping-160824869.html",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "Raising Cane's x GigaPet",
+      "description": "Collab merch drop with Cra-Z-Art reviving the '90s GigaPets virtual pet toy as a Cane's-themed device featuring mascot Cane III (yellow Labrador), with feed/play/trick mini-games and One Love branding; sold exclusively at raisingcanesgear.com for $24.99.",
+      "category": "event",
+      "startDate": null,
+      "endDate": null,
+      "status": "active",
+      "source": "https://thepopinsider.com/raising-canes-gigapet-launch/",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "Chuck Norris x Raising Cane's \"Kickstart Kids\" Campaign (ended)",
+      "description": "Partnership with the Norris family around National Chicken Finger Day (July 27, 2026): Cane's donated $1 from every Box Combo sold nationwide that day, plus net proceeds from a limited-edition Chuck Norris x Cane's merch collection (tote bag, T-shirt, poster, hat) preordered through July 29 at raisingcanesgear.com, aiming to raise up to $1 million for Kickstart Kids, the nonprofit Chuck and Gena Norris co-founded.",
+      "category": "event",
+      "startDate": "2026-07-16",
+      "endDate": "2026-07-29",
+      "status": "ended",
+      "source": "https://countrymusicrocks.net/2026/07/raising-canes-chuck-norris-major-donation-kickstart-kids.html/",
+      "image": null,
+      "imageUrl": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "NIL Athletes Wings Promo (12 Wings for $12)",
+      "description": "College-football-season promotion tied to Popeyes' wings lineup: nine NIL athletes each get a personalized digital promo code (last name + '12') for Popeyes Rewards members to redeem 12 wings (bone-in or boneless) or 12 tenders for $12. The athlete with the most code redemptions wins a fully catered tailgate for fans during rivalry week.",
+      "category": "event",
+      "startDate": null,
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.nrn.com/quick-service/popeyes-promote-wings-with-nil-athletes-and-contest",
       "image": null,
       "imageUrl": null
     }

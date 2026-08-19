@@ -3866,8 +3866,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.restaurantnews.com/jack-in-the-box-matcha-beverage-lineup-021926/",
-      "image": null,
-      "lastConfirmed": "2026-08-19"
+      "image": "jack-in-the-box-matcha-iced-latte-oreo-matcha-shake.jpg",
+      "lastConfirmed": "2026-08-19",
+      "imageAuto": true
     },
     {
       "chain": "Jack in the Box",

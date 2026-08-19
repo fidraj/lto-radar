@@ -3557,8 +3557,9 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-has-an-answer-to-the-value-wars-a-value-feast-fit-for-the-moment-302728926.html",
-      "image": null,
-      "lastConfirmed": "2026-08-19"
+      "image": "kfc-value-feast-7-9-11-box-feasts-featuring-the-kfc-snacker.jpg",
+      "lastConfirmed": "2026-08-19",
+      "imageAuto": true
     },
     {
       "chain": "KFC",
@@ -3569,8 +3570,9 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-expands-10-tuesday-into-a-weekday-bucket-lineup-introduces-two-new-sauces-302761613.html",
-      "image": null,
-      "lastConfirmed": "2026-08-19"
+      "image": "kfc-10-weekday-bucket-lineup-honey-chili-crisp-jalape-o-ranch-sauces.jpg",
+      "lastConfirmed": "2026-08-19",
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",
@@ -3692,8 +3694,9 @@
       "endDate": null,
       "status": "ending-soon",
       "source": "https://ir.chipotle.com/2026-04-21-CHIPOTLE-KICKS-OFF-THE-SUMMER-SEASON-WITH-THE-RETURN-OF-HIGHLY-POPULAR-CHIPOTLE-HONEY-CHICKEN",
-      "image": null,
-      "lastConfirmed": "2026-08-19"
+      "image": "chipotle-chipotle-honey-chicken.jpg",
+      "lastConfirmed": "2026-08-19",
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",
@@ -3726,7 +3729,8 @@
       "endDate": "2026-09-06",
       "status": "upcoming",
       "source": "https://www.prnewswire.com/news-releases/chipotle-celebrates-back-to-school-season-with-school-spirit-bogo-and-chipotle-sundays-deal-302852387.html",
-      "image": null
+      "image": "chipotle-chipotle-sundays.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Pizza Hut",
@@ -3737,8 +3741,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.foodbeast.com/news/pizza-huts-3-personal-pan-pizza-might-be-the-best-value-move-in-fast-food-right-now/",
-      "image": null,
-      "lastConfirmed": "2026-08-19"
+      "image": "pizza-hut-3-tuesday-personal-pan-pizza.jpg",
+      "lastConfirmed": "2026-08-19",
+      "imageAuto": true
     },
     {
       "chain": "Domino's",
@@ -3771,7 +3776,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.nrn.com/beverage-trends/sonic-s-fall-drink-lineup-is-cold-and-pumpkin-free",
-      "image": null
+      "image": "sonic-hotumn-fall-drink-lineup.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Sonic",

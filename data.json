@@ -1184,7 +1184,8 @@
       "endDate": "2025-10-15",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/fan-favorite-returns-the-cheesy-street-chalupas-are-back-302530133.html",
-      "image": null
+      "image": "taco-bell-cheesy-street-chalupas-returning.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Starbucks",
@@ -3172,8 +3173,9 @@
       "endDate": "2025-09-30",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/theres-nothing-happy-about-this-meal-wendys-and-netflixs-wednesday-cook-up-a-meal-of-misfortune-302511393.html",
-      "image": null,
-      "imageUrl": null
+      "image": "wendy-s-meal-of-misfortune-x-netflix-s-wednesday.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Wendy's",

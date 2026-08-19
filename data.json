@@ -3806,7 +3806,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-and-rob-rausch-bring-an-iconic-southern-flavor-to-fans-nationwide-with-limited-drop-of-alabama-white-bbq-sauce-302840598.html",
-      "image": null
+      "image": "zaxby-s-alabama-white-bbq-sauce.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Zaxby's",
@@ -3817,7 +3818,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-doubles-down-on-a-fan-favorite-flavor-combo-with-new-chicken-bacon-ranch-menu-302805978.html",
-      "image": null
+      "image": "zaxby-s-chicken-bacon-ranch-menu-wrap-quesadilla-loaded-fries.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Raising Cane's",

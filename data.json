@@ -2590,7 +2590,8 @@
       "endDate": "2020-11-30",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/mcdonalds-bringing-first-ever-spicy-spin-to-classic-fan-favorite-this-september-301117424.html",
-      "image": null
+      "image": "mcdonald-s-chips-ahoy-mcflurry-leaked-unconfirmed.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Wendy's",
@@ -3392,8 +3393,9 @@
       "endDate": "2024-09-08",
       "status": "active",
       "source": "https://www.brandeating.com/2024/08/bourbon-bbq-sandwiches-arbys-2024.html",
-      "image": null,
-      "imageUrl": null
+      "image": "arby-s-bourbon-bbq-chicken-sandwich.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Arby's",
@@ -3404,8 +3406,9 @@
       "endDate": "2024-09-30",
       "status": "active",
       "source": "https://www.brandeating.com/2024/08/strawberry-shake-arbys-2024.html",
-      "image": null,
-      "imageUrl": null
+      "image": "arby-s-strawberry-shake.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Raising Cane's",

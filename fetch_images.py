@@ -44,7 +44,46 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0 Safari/537.36")
 
 # article heroes that are never a product shot
+DEAD = set()   # source URLs that look gone, reported at the end of the run
+
 JUNK = ("logo", "placeholder", "fallback", "favicon", "sprite", "avatar", "default-", "/icon")
+
+
+def published_year(page_url):
+    """The year the source article was published, if the page states it."""
+    out = subprocess.run(
+        ["curl", "-sSL", "--max-time", "20", "--proto", "=http,https",
+         "--proto-redir", "=http,https", "--max-filesize", "10000000", "-A", UA, page_url],
+        capture_output=True, text=True, errors="ignore").stdout
+    for pat in (r'article:published_time["\'][^>]*content=["\'](\d{4})',
+                r'"datePublished"\s*:\s*["\'](\d{4})',
+                r'<time[^>]+datetime=["\'](\d{4})'):
+        m = re.search(pat, out, re.I)
+        if m:
+            return m.group(1)
+    return None
+
+
+def check_years(items):
+    """Flag items whose start year disagrees with the year their source was published.
+
+    The refresh agent has repeatedly written this year onto a promo announced in a
+    previous one (a Dec 2025 SpongeBob menu filed as Dec 2026), which puts a long-dead
+    promo on the board. Only recent/future items are checked - old ones cost fetches
+    and no longer matter.
+    """
+    import datetime
+    cutoff = str(datetime.date.today() - datetime.timedelta(days=45))
+    recent = [p for p in items
+              if p.get("source") and (p.get("startDate") or "") >= cutoff]
+    if not recent:
+        return
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        years = list(ex.map(lambda p: published_year(p["source"]), recent))
+    for p, y in zip(recent, years):
+        if y and y != p["startDate"][:4]:
+            print(f"  WARNING: starts {p['startDate']} but source was published in {y}: "
+                  f"{p['chain']} / {p['item'][:44]}")
 
 
 def page_images(page_url):
@@ -56,10 +95,26 @@ def page_images(page_url):
     """
     if not page_url:
         return []
-    html_src = subprocess.run(
+    raw = subprocess.run(
         ["curl", "-sSL", "--max-time", "25", "--proto", "=http,https",
-         "--proto-redir", "=http,https", "--max-filesize", "10000000", "-A", UA, page_url],
+         "--proto-redir", "=http,https", "--max-filesize", "10000000", "-A", UA,
+         "-w", "\n<<<META>>>%{url_effective}\t%{http_code}", page_url],
         capture_output=True, text=True, errors="ignore").stdout
+    html_src, _, meta = raw.rpartition("<<<META>>>")
+    final, _, code = meta.partition("\t")
+
+    # A source that 404s, or that bounces to the site's front page, is a dead link -
+    # worth surfacing because a promo with no checkable source is worth little.
+    # Note 403/503 are NOT dead: many press sites (Starbucks, BusinessWire, QSR)
+    # serve a bot challenge to CI while working fine in a browser.
+    # only hard evidence: a 404/410, or a 200 that silently bounced to the site root
+    # (AOL does this with deleted articles). A short body means a bot challenge, not
+    # a dead page, so it must not count.
+    bounced = (code.strip() == "200"
+               and final.rstrip("/").count("/") <= 2
+               and page_url.rstrip("/").count("/") > 2)
+    if code.strip() in ("404", "410") or bounced:
+        DEAD.add(page_url)
 
     found, seen = [], set()
 
@@ -267,6 +322,13 @@ def main():
     # was misread (a Dec 2025 press release recorded as Dec 2026)
     import datetime
     today = datetime.date.today()
+    if DEAD:
+        for p in items:
+            if p.get("source") in DEAD:
+                print(f"  WARNING: source looks dead: {p['chain']} / {p['item'][:46]}  {p['source'][:70]}")
+
+    check_years(items)
+
     far = [p for p in items
            if (p.get("startDate") or "").count("-") == 2
            and p["startDate"] > str(today + datetime.timedelta(days=90))]

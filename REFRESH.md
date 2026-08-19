@@ -78,6 +78,14 @@ announcement is for this season - not a look-alike promo the chain ran last year
   Check the publication date of every source before writing a date.
 - Sanity-check anything starting more than ~90 days out. Chains announce LTOs weeks
   ahead, not a year ahead, so a far-future date usually means a misread year. CI
+- **Prefer sources that will still exist.** Official newsrooms and PRNewswire /
+  BusinessWire releases are permanent; MSN and AOL slideshows get deleted within
+  months, taking the only evidence for an item with them.
+- **Resolve the warnings CI prints.** After each push the fetch-images job reports
+  items whose start year disagrees with their source's publication year, and sources
+  that 404 or redirect to a homepage. Check the run log and fix what it lists:
+  correct the date to the real launch, or close the promo out if it is from a past
+  year. (A 403 is not a dead link - many press sites just block CI.)
   prints a warning for these on every push.
 - Prefer a real `endDate`. Use `"while supplies last"` or null only when the chain
   genuinely announced no end.

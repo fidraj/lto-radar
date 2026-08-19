@@ -439,10 +439,10 @@
       "item": "Triple Double Crunchwrap",
       "description": "Limited-time supersized Crunchwrap with double layers of beef and cheese, featured on Taco Bell's July/August 2026 limited-time lineup.",
       "category": "taco",
-      "startDate": "2026-07-01",
-      "endDate": null,
-      "status": "active",
-      "source": "https://tacobellsmenus.com/",
+      "startDate": "2026-04-16",
+      "endDate": "2026-05-20",
+      "status": "ended",
+      "source": "https://www.tacobell.com/newsroom/taco-bells-triple-double-crunchwrap-returns",
       "image": "taco-bell-triple-double-crunchwrap.jpg",
       "lastConfirmed": "2026-08-19"
     },
@@ -451,10 +451,10 @@
       "item": "Diablo Dusted Crispy Chicken Nuggets",
       "description": "Crispy chicken nuggets dusted with Diablo seasoning, one of three LTO nugget flavors (Diablo, Flamin' Hot, Doritos Cool Ranch) in Taco Bell's 2026 slate; paired with new Mike's Hot Honey Diablo sauce.",
       "category": "chicken",
-      "startDate": "2026-04-01",
+      "startDate": "2026-04-16",
       "endDate": "while supplies last",
       "status": "active",
-      "source": "https://sporked.com/article/new-taco-bell-menu-items-april-2026/",
+      "source": "https://www.qsrweb.com/news/taco-bell-to-launch-diablo-dusted-crispy-chicken-nuggets-nationwide-april-16/",
       "image": "taco-bell-diablo-dusted-crispy-chicken-nuggets.jpg",
       "lastConfirmed": "2026-08-19"
     },
@@ -477,9 +477,10 @@
       "category": "dessert",
       "startDate": "2026-08-05",
       "endDate": null,
-      "status": "upcoming",
-      "source": "https://www.mensjournal.com/news/taco-bell-reveals-wild-2026-menu-with-20-new-items-including-a-creme-brulee-crunchwrap",
-      "image": "taco-bell-cr-me-br-l-e-crunchwrap-slider.jpg"
+      "status": "active",
+      "source": "https://www.tastingtable.com/2222624/new-taco-bell-creme-brulee-crunchwrap-treat-michigan/",
+      "image": "taco-bell-cr-me-br-l-e-crunchwrap-slider.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Taco Bell",
@@ -796,10 +797,11 @@
       "description": "Grilled, seasoned shaved steak topped with melty Swiss-style cheese, grilled onions and peppers, and mayo on a buttery toasted hoagie roll; from $11.49. Limited time at participating locations.",
       "category": "sandwich",
       "startDate": "2026-07-21",
-      "endDate": null,
+      "endDate": "2026-09-30",
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-launches-philly-cheesesteak-sandwich-philly-style-bonus-jack-and-philly-munchie-meal/",
-      "image": "jack-in-the-box-philly-cheesesteak-sandwich.jpg"
+      "image": "jack-in-the-box-philly-cheesesteak-sandwich.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Jack in the Box",
@@ -807,10 +809,11 @@
       "description": "Seasoned beef grilled and topped with Swiss-style cheese, grilled onions and peppers, and mayo on a buttery toasted bakery bun; single, double, and triple from $4.49. Limited time.",
       "category": "burger",
       "startDate": "2026-07-21",
-      "endDate": null,
+      "endDate": "2026-09-30",
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-launches-philly-cheesesteak-sandwich-philly-style-bonus-jack-and-philly-munchie-meal/",
-      "image": "jack-in-the-box-philly-style-bonus-jack.jpg"
+      "image": "jack-in-the-box-philly-style-bonus-jack.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Jack in the Box",
@@ -818,10 +821,11 @@
       "description": "Limited-time $14 late-night box: Philly-Style Double Bonus Jack, two tacos, curly fries, drink, plus one of eight collectible Jibbi bag charms tied to the 75th anniversary.",
       "category": "event",
       "startDate": "2026-07-21",
-      "endDate": null,
+      "endDate": "2026-09-30",
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-launches-philly-cheesesteak-sandwich-philly-style-bonus-jack-and-philly-munchie-meal/",
-      "image": "jack-in-the-box-philly-munchie-meal-collectible-jibbi.jpg"
+      "image": "jack-in-the-box-philly-munchie-meal-collectible-jibbi.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Jack in the Box",
@@ -1703,7 +1707,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/taco-bell-new-pepper-jack-steak-nacho-fries.html",
-      "image": "taco-bell-pepper-jack-steak-nacho-fries.jpg"
+      "image": "taco-bell-pepper-jack-steak-nacho-fries.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Taco Bell",
@@ -1714,7 +1719,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/new-taco-bell-crispy-chicken-chipotle-bacon-melt-burrito.html",
-      "image": "taco-bell-crispy-chicken-chipotle-bacon-melt-burrito.jpg"
+      "image": "taco-bell-crispy-chicken-chipotle-bacon-melt-burrito.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Taco Bell",
@@ -1725,7 +1731,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/taco-bell-tests-new-cheesy-enchilada-dipping-taco.html",
-      "image": "taco-bell-cheesy-enchilada-dipping-taco-regional-test-unconfirmed.jpg"
+      "image": "taco-bell-cheesy-enchilada-dipping-taco-regional-test-unconfirmed.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Taco Bell",
@@ -2009,7 +2016,7 @@
       "description": "Reddish cayenne/chili-coated Spicy Chicken McNuggets with the fan-favorite Mighty Hot Sauce (last seen in 2021), officially confirmed and launched Feb 1, 2026, sold through early April 2026. Not actually a 2026 leak - was a real, already-completed official promo.",
       "category": "chicken",
       "startDate": "2026-02-01",
-      "endDate": null,
+      "endDate": "2026-04-05",
       "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/spicy-chicken-mcnuggets-and-mighty-hot-sauce-are-returning-to-mcdonalds-but-only-because-you-asked-so-nicely-301214528.html",
       "image": "mcdonald-s-spicy-chicken-mcnuggets-mighty-hot-sauce-leaked-unconfirmed.jpg",
@@ -2047,8 +2054,9 @@
       "startDate": "2026-10-06",
       "endDate": "2026-10-27",
       "status": "upcoming",
-      "source": "https://www.qsrmagazine.com/news/taco-bell-offering-exclusive-tuesday-drops-all-october/",
-      "image": null
+      "source": "https://www.tacobell.com/newsroom/octobertuesdaydrops",
+      "image": null,
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "KFC",
@@ -2298,8 +2306,9 @@
       "startDate": "2026-08-13",
       "endDate": null,
       "status": "active",
-      "source": "https://www.prnewswire.com/news-releases/taco-bell-and-tajin-team-up-with-peso-pluma-for-a-new-menu-lineup-worth-obsessing-over-302849098.html",
-      "image": "taco-bell-taj-n-taco.jpg"
+      "source": "https://www.forbes.com/sites/amberlovebond/2026/08/12/taco-bells-new-menu-items-are-a-tajn-lovers-dream/",
+      "image": "taco-bell-taj-n-taco.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Taco Bell",
@@ -2309,8 +2318,9 @@
       "startDate": "2026-08-13",
       "endDate": null,
       "status": "active",
-      "source": "https://www.prnewswire.com/news-releases/taco-bell-and-tajin-team-up-with-peso-pluma-for-a-new-menu-lineup-worth-obsessing-over-302849098.html",
-      "image": "taco-bell-taj-n-cheesy-gordita-crunch.jpg"
+      "source": "https://www.forbes.com/sites/amberlovebond/2026/08/12/taco-bells-new-menu-items-are-a-tajn-lovers-dream/",
+      "image": "taco-bell-taj-n-cheesy-gordita-crunch.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Taco Bell",
@@ -2320,8 +2330,9 @@
       "startDate": "2026-08-13",
       "endDate": null,
       "status": "active",
-      "source": "https://www.prnewswire.com/news-releases/taco-bell-and-tajin-team-up-with-peso-pluma-for-a-new-menu-lineup-worth-obsessing-over-302849098.html",
-      "image": "taco-bell-taj-n-pineapple-strawberry-freeze.jpg"
+      "source": "https://www.forbes.com/sites/amberlovebond/2026/08/12/taco-bells-new-menu-items-are-a-tajn-lovers-dream/",
+      "image": "taco-bell-taj-n-pineapple-strawberry-freeze.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Taco Bell",
@@ -3256,10 +3267,11 @@
       "startDate": "2026-07-23",
       "endDate": null,
       "status": "active",
-      "source": "https://www.brandeating.com/2026/07/taco-bell-new-3-dollar-melty-pepper-jack-steak-burrito.html",
+      "source": "https://www.fastfoodpost.com/taco-bell-debuts-new-3-melty-pepper-jack-steak-burrito-and-fresca-pepper-jack-steak-burrito/",
       "image": "taco-bell-melty-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Taco Bell",
@@ -3272,7 +3284,8 @@
       "source": "https://www.fastfoodpost.com/taco-bell-debuts-new-3-melty-pepper-jack-steak-burrito-and-fresca-pepper-jack-steak-burrito/",
       "image": "taco-bell-fresca-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Wingstop",
@@ -3819,7 +3832,8 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-doubles-down-on-a-fan-favorite-flavor-combo-with-new-chicken-bacon-ranch-menu-302805978.html",
       "image": "zaxby-s-chicken-bacon-ranch-menu-wrap-quesadilla-loaded-fries.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Raising Cane's",
@@ -3830,6 +3844,74 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://cw33.com/a-taste-of-north-texas/food-and-drink/megan-moroney-and-raising-canes-debut-limited-merch/",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Chicken Bacon Ranch Street Chalupas",
+      "description": "2026 return of the Cheesy Street Chalupas franchise in a new flavor: toasted cheddar Street Chalupa shells filled with slow-roasted chicken, crispy bacon, pico de gallo, shredded cheddar and creamy Avocado Ranch sauce.",
+      "category": "taco",
+      "startDate": "2026-02-19",
+      "endDate": "2026-04-20",
+      "status": "ended",
+      "source": "https://www.prnewswire.com/news-releases/chicken-bacon-ranch-street-chalupas-hit-taco-bell-menus-giving-a-familiar-flavor-a-street-taco-twist-302692129.html",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Matcha Iced Latte & Oreo Matcha Shake",
+      "description": "Jack in the Box's first dedicated matcha beverage platform, launched nationwide for its 75th anniversary; includes a Matcha Iced Latte and an Oreo Matcha Shake.",
+      "category": "drink",
+      "startDate": "2026-02-19",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.restaurantnews.com/jack-in-the-box-matcha-beverage-lineup-021926/",
+      "image": null,
+      "lastConfirmed": "2026-08-19"
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Hot Mess Cheeseburger (returning)",
+      "description": "13-year throwback burger revival for the 75th anniversary: grilled beef patty, white cheese sauce, shredded pepper jack, pickled jalapeños and crispy onion rings on toasted sourdough; also available as a Double.",
+      "category": "burger",
+      "startDate": "2026-02-16",
+      "endDate": "2026-04-05",
+      "status": "ended",
+      "source": "https://www.nrn.com/quick-service/jack-in-the-box-s-hot-mess-burger-returns",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Protein Bowl Lineup (Chicken Fajita, Teriyaki, etc.) & 2-for-$6 Jack Wraps",
+      "description": "Revamped protein-forward bowls (up to 35g protein) including a new Chicken Fajita Protein Bowl, alongside a 2-for-$6 Jack Wraps deal.",
+      "category": "food",
+      "startDate": "2026-01-05",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.businesswire.com/news/home/20260105962145/en/Jack-in-the-Box-Serves-Up-New-Protein-Bowl-Flavors-and-2-for-6-Jack-Wraps-Including-the-Best-Rated-Wrap-in-Fast-Food",
+      "image": null,
+      "lastConfirmed": "2026-08-19"
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Dr Pepper Strawberries & Cream Shake",
+      "description": "Limited-time collaboration shake blending Dr Pepper flavor with strawberry and cream notes, topped with whipped cream.",
+      "category": "drink",
+      "startDate": "2026-04-02",
+      "endDate": "2026-05-27",
+      "status": "ended",
+      "source": "https://sporked.com/article/new-jack-in-the-box-dr-pepper-strawberries-cream-shake/",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Jack's Sauced & Loaded Potato Wedges (returning)",
+      "description": "Crispy potato wedges topped with melty shredded cheddar, cheddar cheese sauce, ranch and bacon crumbles, back for a limited time in Classic and Spicy (plus a Plain option) after being pulled from the menu in 2021.",
+      "category": "food",
+      "startDate": "2026-08-05",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.qsrweb.com/news/jack-in-the-box-menus-jacks-sauced-and-loaded-potato-wedges-for-limited-time/",
       "image": null
     }
   ]

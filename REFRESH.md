@@ -72,6 +72,13 @@ announcement is for this season - not a look-alike promo the chain ran last year
 
 - Every item needs a `startDate`. Use the announced launch date; estimate from the
   article date if you must, but do not leave it null.
+- **Take the year from the article itself, never from today's date.** A Burger King
+  SpongeBob menu was once filed as starting Dec 2026 because the run assumed the
+  current year; the press release was from Dec 2025 and the promo was long over.
+  Check the publication date of every source before writing a date.
+- Sanity-check anything starting more than ~90 days out. Chains announce LTOs weeks
+  ahead, not a year ahead, so a far-future date usually means a misread year. CI
+  prints a warning for these on every push.
 - Prefer a real `endDate`. Use `"while supplies last"` or null only when the chain
   genuinely announced no end.
 - **Re-verify open-ended items every run.** For every item with no hard `endDate`

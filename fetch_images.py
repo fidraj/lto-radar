@@ -263,6 +263,16 @@ def main():
         if not got:
             missed += 1
 
+    # a promo dated far in the future is nearly always a source article whose year
+    # was misread (a Dec 2025 press release recorded as Dec 2026)
+    import datetime
+    today = datetime.date.today()
+    far = [p for p in items
+           if (p.get("startDate") or "").count("-") == 2
+           and p["startDate"] > str(today + datetime.timedelta(days=90))]
+    for p in far:
+        print(f"  WARNING: starts {p['startDate']}, check the source year: {p['chain']} / {p['item'][:50]}")
+
     (ROOT / "data.json").write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
     print(f"images: {ok} saved, {missed} failed/unmatched")
 

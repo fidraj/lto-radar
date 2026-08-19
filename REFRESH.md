@@ -65,6 +65,25 @@ Schema per item:
 - Convert vague dates to concrete best-estimate `YYYY-MM-DD`; prefer official dates when known.
 - Set the top-level `"researched"` field to today's date (YYYY-MM-DD).
 
+### Dates: the board is only as good as these
+
+Only CURRENT promotions belong on the board. Before adding anything, check the
+announcement is for this season - not a look-alike promo the chain ran last year.
+
+- Every item needs a `startDate`. Use the announced launch date; estimate from the
+  article date if you must, but do not leave it null.
+- Prefer a real `endDate`. Use `"while supplies last"` or null only when the chain
+  genuinely announced no end.
+- **Re-verify open-ended items every run.** For every item with no hard `endDate`
+  that started more than 45 days ago, check whether it is still running:
+  - if it has ended, set its real `endDate` (best estimate if unannounced);
+  - if it is confirmed still running, set `"lastConfirmed": "<today>"`;
+  - if it turned into a permanent menu item, set an `endDate` on the day it went
+    permanent - the board tracks limited-time offers, not the standing menu.
+- The site hides an open-ended item 90 days after its `startDate` (or its
+  `lastConfirmed`, when newer). So an unconfirmed promo ages off the board by
+  itself - but a still-running one silently disappears unless you confirm it.
+
 ## Images
 
 Your environment CANNOT download files. Do NOT run `fetch_images.py` and do not try to

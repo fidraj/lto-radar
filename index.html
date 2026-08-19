@@ -310,6 +310,20 @@ function daysLeft(p) {
   return Math.ceil((new Date(p.endDate) - TODAY) / 86400000);
 }
 
+// Most items carry no hard end date ("while supplies last", or nothing announced),
+// so nothing would ever remove them - the board still showed promos from 400 days
+// ago. Treat an open-ended promo as over once it has gone this long unconfirmed;
+// the daily refresh can keep a genuinely running one alive by stamping lastConfirmed.
+const STALE_DAYS = 90;
+
+function isOver(p) {
+  const d = daysLeft(p);
+  if (d !== null) return d < 0;                       // real end date: trust it
+  const ref = p.lastConfirmed || p.startDate;         // open-ended: age it out
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(ref || "")) return false;   // undated: keep, nothing to judge by
+  return (TODAY - new Date(ref)) / 86400000 > STALE_DAYS;
+}
+
 function statusOf(p) {
   const d = daysLeft(p);
   if (p.status === "upcoming") return "upcoming";
@@ -381,7 +395,7 @@ function tile(p) {
 function render() {
   const order = { ending: 0, active: 1, upcoming: 2 };
   const live = PROMOS
-    .filter(p => { const d = daysLeft(p); return d === null || d >= 0; })
+    .filter(p => !isOver(p))
     .filter(p => enabledChains.has(p.chain))
     .filter(p => statusFilter === "all" || statusOf(p) === statusFilter);
 

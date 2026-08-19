@@ -3141,18 +3141,6 @@
     },
     {
       "chain": "Burger King",
-      "item": "Enormous Omelette Sandwich (returning, unconfirmed)",
-      "description": "Discontinued breakfast sandwich (American cheese, two omelets, sausage, and bacon on a hoagie-style bun) has reportedly returned to the menu. Source article no longer available; return not confirmed by an official announcement.",
-      "category": "sandwich",
-      "startDate": "2026-08-17",
-      "endDate": "while supplies last",
-      "status": "active",
-      "source": null,
-      "image": null,
-      "imageUrl": null
-    },
-    {
-      "chain": "Burger King",
       "item": "SpongeBob Movie Menu (Krabby Whopper, Cheesy Bacon Tots, Star-berry Shortcake Pie, Pineapple Float)",
       "description": "Tie-in menu for 'The SpongeBob Movie: Search for SquarePants' (in theaters Dec 19, 2025): SpongeBob's Krabby Whopper, Mr. Krabs' Cheesy Bacon Tots, Patrick's Star-berry Shortcake Pie, and Pirate's Frozen Pineapple Float, plus collectible toys and themed packaging.",
       "category": "event",

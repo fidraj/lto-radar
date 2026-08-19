@@ -11,6 +11,7 @@ Mapping format: [{"chain": "...", "item": "...", "imageUrl": "https://..." | nul
 Items are matched to data.json by exact (chain, item) or by fuzzy prefix match.
 Images are resized to 640px wide JPEGs (Pillow, or sips on macOS) into images/.
 """
+import datetime
 import html
 import json
 import pathlib
@@ -188,6 +189,13 @@ def relevant(url, item_name, alt=""):
     return any(t in hay for t in toks)
 
 
+def ended(p):
+    """True once a promo's end date has passed."""
+    e = p.get("endDate")
+    return bool(e and len(e) == 10 and e[:4].isdigit()
+                and e < str(datetime.date.today()))
+
+
 def good_enough(path):
     """Reject tiny crops, banners and icons that slipped through."""
     if path.stat().st_size < 8000:
@@ -271,12 +279,6 @@ def gather(items, paths):
 
     # promos that are already over are off the board, so sourcing photos (and
     # fetching their pages) for them is wasted work
-    import datetime
-    today = str(datetime.date.today())
-    def ended(p):
-        e = p.get("endDate")
-        return bool(e and len(e) == 10 and e[:4].isdigit() and e < today)
-
     todo = [p for p in items if not p.get("image") and not ended(p)]
     for p in todo:
         if p.get("imageUrl"):
@@ -334,6 +336,15 @@ def main():
         for p in items:
             if p.get("source") in DEAD:
                 print(f"  WARNING: source looks dead: {p['chain']} / {p['item'][:46]}  {p['source'][:70]}")
+
+    # aggregators delete their articles and expose no publication date, so the year
+    # check above is blind to them - flag them so they get replaced with a stable source
+    AGGREGATORS = ("msn.com", "aol.com", "yahoo.com", "trendhunter.com", "lipstickalley.com",
+                   "dealnews.com", "slickdeals.net", "foodchainhub.com")
+    for p in items:
+        src = (p.get("source") or "").lower()
+        if any(a in src for a in AGGREGATORS) and not ended(p):
+            print(f"  WARNING: unstable source, replace it: {p['chain']} / {p['item'][:44]}  {src[:56]}")
 
     check_years(items)
 

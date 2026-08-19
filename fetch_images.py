@@ -346,6 +346,16 @@ def main():
         if any(a in src for a in AGGREGATORS) and not ended(p):
             print(f"  WARNING: unstable source, replace it: {p['chain']} / {p['item'][:44]}  {src[:56]}")
 
+    # a human checked these dates against sources; the refresh agent has form for
+    # re-introducing the wrong year on top of a correction, so shout when that happens
+    for p in items:
+        v = p.get("verified")
+        if not v:
+            continue
+        if p.get("startDate") != v.get("startDate") or p.get("endDate") != v.get("endDate"):
+            print(f"  WARNING: verified dates were overwritten: {p['chain']} / {p['item'][:40]}  "
+                  f"was {v.get('startDate')}..{v.get('endDate')} now {p.get('startDate')}..{p.get('endDate')}")
+
     check_years(items)
 
     far = [p for p in items

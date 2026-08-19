@@ -194,15 +194,20 @@
     },
     {
       "chain": "Burger King",
-      "item": "Halloween Monster Menu (expected return)",
-      "description": "Halloween LTO lineup expected back for fall (last year's edition launched Sept 30 with Jack-O-Lantern Whopper on an orange bun, Vampire Nuggets, Mummy Mozzarella Fries and Franken-Candy Sundae); this year's items not yet officially announced.",
+      "item": "Halloween Monster Menu",
+      "description": "Halloween LTO lineup expected back for fall (last year's edition launched Sept 30 with Jack-O-Lantern Whopper on an orange bun, Vampire Nuggets, Mummy Mozzarella Fries and Franken-Candy Sundae); this year's items not yet officially announced. No 2026 return announced yet.",
       "category": "event",
-      "startDate": "2026-09-30",
-      "endDate": null,
-      "status": "upcoming",
-      "source": "https://foodchainhub.com/burger-king/new-menu/",
+      "startDate": "2025-09-30",
+      "endDate": "2025-11-02",
+      "status": "active",
+      "source": "https://news.bk.com/blog-posts/burger-king-invites-guests-to-do-the-monster-mash-this-halloween-with-all-new-monster-menu",
       "image": "burger-king-halloween-monster-menu-expected-return.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-09-30",
+        "endDate": "2025-11-02"
+      }
     },
     {
       "chain": "Dunkin'",
@@ -485,13 +490,18 @@
     {
       "chain": "Taco Bell",
       "item": "Strawberry Horchata Refresca",
-      "description": "New strawberry-horchata beverage, one of eight new desserts and drinks in Taco Bell's announced 2026 lineup (alongside the Milk Bar Birthday Cake Empanada collab).",
+      "description": "New strawberry-horchata beverage, one of eight new desserts and drinks in Taco Bell's announced 2026 lineup (alongside the Milk Bar Birthday Cake Empanada collab). Announced at Live Mas Live 2026; not yet on menus.",
       "category": "drink",
-      "startDate": "2026-08-05",
+      "startDate": null,
       "endDate": null,
       "status": "upcoming",
-      "source": "https://www.aol.com/news/taco-bell-2026-menu-nacho-201425526.html",
-      "image": "taco-bell-strawberry-horchata-refresca.jpg"
+      "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
+      "image": "taco-bell-strawberry-horchata-refresca.jpg",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": null,
+        "endDate": null
+      }
     },
     {
       "chain": "Starbucks",
@@ -594,12 +604,17 @@
       "item": "Tropical Passionfruit Lemonade",
       "description": "New summer beverage available straight or mixed with Starry or Mtn Dew Sweet Lightning, or as an iced tea; part of KFC's summer 2026 beverage push.",
       "category": "drink",
-      "startDate": "2026-06-01",
-      "endDate": "while supplies last",
+      "startDate": "2024-06-10",
+      "endDate": "2024-09-30",
       "status": "active",
-      "source": "https://www.aol.com/kfc-upping-fast-food-beverage-201209734.html",
+      "source": "https://www.dexerto.com/food/kfc-unveils-four-brand-new-drinks-for-summer-that-come-in-new-beverage-bucket-2771542/",
       "image": "kfc-tropical-passionfruit-lemonade.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2024-06-10",
+        "endDate": "2024-09-30"
+      }
     },
     {
       "chain": "Chick-fil-A",
@@ -654,24 +669,32 @@
       "item": "Cherry Berry & Sprite + Cherry Berry lineup",
       "description": "Chick-fil-A's first seasonal soda mixing Sprite with cherry, blueberry, and cranberry flavors, launching alongside the returning Cherry Berry Lemonade, Frosted Lemonade, and Sunjoy for fall 2026.",
       "category": "drink",
-      "startDate": "2026-08-18",
-      "endDate": "2026-11-08",
+      "startDate": "2025-08-18",
+      "endDate": "2025-11-08",
       "status": "active",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-launches-new-cherry-berry-beverage-alongside-pretzel-cheddar-club-sandwich",
       "image": "chick-fil-a-cherry-berry-sprite-cherry-berry-lineup.jpg",
-      "lastConfirmed": "2026-08-19"
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-08-18",
+        "endDate": "2025-11-08"
+      }
     },
     {
       "chain": "Chick-fil-A",
       "item": "Waffle Potato Chips (Original & Chick-fil-A Sauce)",
       "description": "Two new ridged potato chip varieties shaped like the signature waffle fries — sea salt Original and Chick-fil-A Sauce flavored — debuting nationwide with the fall 2026 menu on Aug. 18 as a permanent side item, on-the-go snack, and catering option (not limited-time). Retail 7-oz bags also rolling out to Publix, Walmart, and Kroger in Georgia, Florida, North and South Carolina, Alabama, Tennessee, Virginia, West Virginia, Kentucky, Ohio, Arkansas, and Missouri starting early October. Now a permanent menu item.",
       "category": "food",
-      "startDate": "2026-08-18",
-      "endDate": "2026-08-18",
+      "startDate": "2025-08-18",
+      "endDate": "2025-08-18",
       "status": "ended",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-launches-new-cherry-berry-beverage-alongside-pretzel-cheddar-club-sandwich",
       "image": "chick-fil-a-waffle-potato-chips-original-chick-fil-a-sauce.jpg",
-      "lastConfirmed": "2026-08-19"
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-08-18",
+        "endDate": "2025-08-18"
+      }
     },
     {
       "chain": "Krispy Kreme",
@@ -1229,7 +1252,12 @@
       "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/fan-favorite-returns-the-cheesy-street-chalupas-are-back-302530133.html",
       "image": "taco-bell-cheesy-street-chalupas-returning.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-08-14",
+        "endDate": "2025-10-15"
+      }
     },
     {
       "chain": "Starbucks",
@@ -1547,7 +1575,12 @@
       "status": "active",
       "source": "https://www.tacobell.com/food/drinks/pineapple-freeze",
       "image": "taco-bell-pineapple-freeze-pineapple-whip-freeze.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2026-07-27",
+        "endDate": "while supplies last"
+      }
     },
     {
       "chain": "Taco Bell",
@@ -1937,7 +1970,12 @@
       "endDate": "2025-02-16",
       "status": "active",
       "source": "https://www.brandeating.com/2025/01/jack-in-the-box-new-5-dollar-all-day-big-meal-deal.html",
-      "image": "jack-in-the-box-5-all-day-big-deal-meal.jpg"
+      "image": "jack-in-the-box-5-all-day-big-deal-meal.jpg",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-01-08",
+        "endDate": "2025-02-16"
+      }
     },
     {
       "chain": "Jack in the Box",
@@ -2044,7 +2082,12 @@
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/burger-kings-5-your-way-meal-will-last-all-summer/",
       "image": "burger-king-5-your-way-meal.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2024-06-10",
+        "endDate": null
+      }
     },
     {
       "chain": "Taco Bell",
@@ -2080,7 +2123,12 @@
       "status": "ended",
       "source": "https://www.nrn.com/quick-service/sonic-drive-in-launches-snacky-hour-specials-for-1",
       "image": "sonic-snacky-hour-1-afternoon-deals.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-08-04",
+        "endDate": "2025-08-31"
+      }
     },
     {
       "chain": "Sonic",
@@ -2092,7 +2140,12 @@
       "status": "ended",
       "source": "https://www.nrn.com/quick-service/sonic-drive-in-launches-snacky-hour-specials-for-1",
       "image": "sonic-weekly-value-days-99c-monday-slushes-thursday-bogo-footlong-coney.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-08-04",
+        "endDate": "2025-12-31"
+      }
     },
     {
       "chain": "Sonic",
@@ -2102,8 +2155,15 @@
       "startDate": "2026-08-03",
       "endDate": "2026-08-30",
       "status": "active",
-      "source": "https://slickdeals.net/f/19838373-sonic-drive-in-rewards-members-bogo-burger-1x-week-through-august-30th",
-      "image": null
+      "source": "https://www.eatdrinkdeals.com/sonic-specials-sonic-coupons/",
+      "image": "sonic-rewards-app-weekly-bogo-burger.jpg",
+      "lastConfirmed": "2026-08-19",
+      "imageAuto": true,
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-30"
+      }
     },
     {
       "chain": "Jack in the Box",
@@ -2161,7 +2221,12 @@
       "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/dominos-throws-game-winning-pass-with-carryout-special-302669012.html",
       "image": "domino-s-weeklong-carryout-special-6-99-large-2-topping.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2026-01-26",
+        "endDate": "2026-02-01"
+      }
     },
     {
       "chain": "Subway",
@@ -2173,7 +2238,12 @@
       "status": "ended",
       "source": "https://newsroom.subway.com/2025-01-30-SUBWAY-R-TEAMS-UP-WITH-MILKS-FAVORITE-COOKIE-R-TO-DEBUT-AN-ALL-NEW-OREO-R-FOOTLONG-COOKIE",
       "image": "subway-oreo-footlong-cookie-sidekicks-lineup.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-01-30",
+        "endDate": "2025-06-30"
+      }
     },
     {
       "chain": "Domino's",
@@ -2637,7 +2707,12 @@
       "status": "ended",
       "source": "https://www.today.com/food/restaurants/mcdonalds-peanut-butter-crunch-mcflurry-rcna95336",
       "image": "mcdonald-s-peanut-butter-crunch-mcflurry.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2023-08-09",
+        "endDate": "2023-10-15"
+      }
     },
     {
       "chain": "McDonald's",
@@ -2662,7 +2737,12 @@
       "source": "https://www.prnewswire.com/news-releases/mcdonalds-bringing-first-ever-spicy-spin-to-classic-fan-favorite-this-september-301117424.html",
       "image": "mcdonald-s-chips-ahoy-mcflurry-leaked-unconfirmed.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2020-09-16",
+        "endDate": "2020-11-30"
+      }
     },
     {
       "chain": "Wendy's",
@@ -2771,7 +2851,12 @@
       "source": "https://parade.com/news/subway-giving-away-free-footlongs-until-july-31-heres-how-get-one",
       "image": null,
       "imageSkip": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2026-07-28",
+        "endDate": "2026-08-18"
+      }
     },
     {
       "chain": "Krispy Kreme",
@@ -2806,7 +2891,12 @@
       "source": "https://www.brandeating.com/2023/10/sonic-offers-2-for-7-dollar-mix-and-match-deal-for-fall-2023.html",
       "image": "sonic-2-for-7-value-deal.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2023-06-29",
+        "endDate": "2024-07-01"
+      }
     },
     {
       "chain": "McDonald's",
@@ -2825,16 +2915,21 @@
     {
       "chain": "McDonald's",
       "item": "Free Fries Friday (app-exclusive)",
-      "description": "MyMcDonald's Rewards app members can add a free medium fries with any $1+ qualifying purchase every Friday, once per account per week; runs continuously rather than for a fixed window.",
+      "description": "MyMcDonald's Rewards app members can add a free medium fries with any $1+ qualifying purchase every Friday, once per account per week; runs continuously rather than for a fixed window. Ran weekly from Oct 2023, ended 2025, briefly revived for two weeks in Jan 2026.",
       "category": "event",
-      "startDate": "2026-08-15",
-      "endDate": null,
+      "startDate": "2023-10-27",
+      "endDate": "2026-01-16",
       "status": "active",
-      "source": "https://www.aol.com/articles/mcdonald-keeps-fry-lovers-happy-162317161.html",
+      "source": "https://www.nrn.com/marketing-branding/mcdonald-s-free-fries-promo-comes-as-guests-show-price-resistance",
       "image": "mcdonald-s-free-fries-friday-app-exclusive.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2023-10-27",
+        "endDate": "2026-01-16"
+      }
     },
     {
       "chain": "Burger King",
@@ -3082,12 +3177,17 @@
       "item": "Hut Hook Up (Rewards Sign-Up Free Pizza)",
       "description": "Hut Rewards-exclusive offer: place a qualifying delivery or $7.99+ pre-tax carryout order (existing member, or join within 48 hours of purchase) to get a coupon for a free large 1-topping pizza delivered to the app inbox within 24-48 hours.",
       "category": "event",
-      "startDate": "2026-08-15",
-      "endDate": null,
+      "startDate": "2026-02-09",
+      "endDate": "2026-02-23",
       "status": "active",
-      "source": "https://slickdeals.net/f/19232023-pizza-hut-reward-members-free-large-pizza-after-app-or-online-purchase-of-7-99-or-more",
+      "source": "https://www.pizzahut.com/c/content/huthookup",
       "image": null,
-      "imageUrl": null
+      "imageUrl": null,
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2026-02-09",
+        "endDate": "2026-02-23"
+      }
     },
     {
       "chain": "Pizza Hut",
@@ -3115,7 +3215,12 @@
       "image": "pizza-hut-2-tuesday-personal-pan-pizza.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-07-08",
+        "endDate": "2025-08-26"
+      }
     },
     {
       "chain": "McDonald's",
@@ -3142,7 +3247,12 @@
       "imageUrl": null,
       "image": "burger-king-flame-grilled-chicken-sandwiches-wraps-regional-test.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2026-07-08",
+        "endDate": null
+      }
     },
     {
       "chain": "Starbucks",
@@ -3232,7 +3342,12 @@
       "image": "burger-king-spongebob-movie-menu-krabby-whopper-cheesy-bacon-tots-star-berry-sho.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-12-02",
+        "endDate": "2026-01-31"
+      }
     },
     {
       "chain": "Wendy's",
@@ -3245,7 +3360,12 @@
       "source": "https://www.prnewswire.com/news-releases/theres-nothing-happy-about-this-meal-wendys-and-netflixs-wednesday-cook-up-a-meal-of-misfortune-302511393.html",
       "image": "wendy-s-meal-of-misfortune-x-netflix-s-wednesday.jpg",
       "imageUrl": null,
-      "imageAuto": true
+      "imageAuto": true,
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-08-04",
+        "endDate": "2025-09-30"
+      }
     },
     {
       "chain": "Wendy's",
@@ -3257,7 +3377,12 @@
       "status": "ended",
       "source": "https://www.irwendys.com/news/news-details/2021/Wendys-Expands-Partnership-With-Adult-Swim-On-Hit-Series-Rick-And-Morty/default.aspx",
       "image": null,
-      "imageUrl": null
+      "imageUrl": null,
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2021-06-16",
+        "endDate": "2021-08-22"
+      }
     },
     {
       "chain": "Taco Bell",
@@ -3363,7 +3488,12 @@
       "image": "chipotle-red-chimichurri.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-09-30",
+        "endDate": "2026-02-10"
+      }
     },
     {
       "chain": "Subway",
@@ -3438,7 +3568,12 @@
       "image": "domino-s-perfect-combo-deal-19-99.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2012-06-18",
+        "endDate": null
+      }
     },
     {
       "chain": "Burger King",
@@ -3463,7 +3598,12 @@
       "status": "ended",
       "source": "https://www.qsrmagazine.com/uncategorized/arbys-brings-back-bourbon-bbq-sandwiches/",
       "image": null,
-      "imageUrl": null
+      "imageUrl": null,
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2024-08-12",
+        "endDate": "2024-09-08"
+      }
     },
     {
       "chain": "Arby's",
@@ -3476,7 +3616,12 @@
       "source": "https://www.brandeating.com/2024/08/bourbon-bbq-sandwiches-arbys-2024.html",
       "image": "arby-s-bourbon-bbq-chicken-sandwich.jpg",
       "imageUrl": null,
-      "imageAuto": true
+      "imageAuto": true,
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2024-08-12",
+        "endDate": "2024-09-08"
+      }
     },
     {
       "chain": "Arby's",
@@ -3489,7 +3634,12 @@
       "source": "https://www.brandeating.com/2024/08/strawberry-shake-arbys-2024.html",
       "image": "arby-s-strawberry-shake.jpg",
       "imageUrl": null,
-      "imageAuto": true
+      "imageAuto": true,
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2024-08-05",
+        "endDate": "2024-09-30"
+      }
     },
     {
       "chain": "Raising Cane's",
@@ -3503,7 +3653,12 @@
       "image": "raising-cane-s-raising-cane-s-x-gigapet.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-11-19",
+        "endDate": "while supplies last"
+      }
     },
     {
       "chain": "Raising Cane's",
@@ -3530,7 +3685,12 @@
       "image": null,
       "imageUrl": null,
       "imageSkip": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-19",
+      "verified": {
+        "on": "2026-08-19",
+        "startDate": "2025-09-08",
+        "endDate": "2025-11-08"
+      }
     },
     {
       "chain": "Chipotle",

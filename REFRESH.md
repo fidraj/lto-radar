@@ -81,6 +81,12 @@ announcement is for this season - not a look-alike promo the chain ran last year
 - **Prefer sources that will still exist.** Official newsrooms and PRNewswire /
   BusinessWire releases are permanent; MSN and AOL slideshows get deleted within
   months, taking the only evidence for an item with them.
+- **Never silently re-date a `verified` item.** Some items carry a `"verified"`
+  block recording dates a human checked against the source. Treat those dates as
+  correct. Only change them if you have a NEWER dated source that contradicts them -
+  and if you do, update the `verified` block too and say why in your summary. CI
+  reports every verified item whose dates changed, so overwriting one is visible.
+  Twice already a correction to a mis-dated promo was reverted by the next run.
 - **Resolve the warnings CI prints.** After each push the fetch-images job reports
   items whose start year disagrees with their source's publication year, and sources
   that 404 or redirect to a homepage. Check the run log and fix what it lists:

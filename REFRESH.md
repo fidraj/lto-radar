@@ -84,42 +84,20 @@ announcement is for this season - not a look-alike promo the chain ran last year
   `lastConfirmed`, when newer). So an unconfirmed promo ages off the board by
   itself - but a still-running one silently disappears unless you confirm it.
 
-## Images
+## Images — not your job
 
-Your environment CANNOT download files. Do NOT run `fetch_images.py` and do not try to
-curl images — a GitHub Action (`fetch-images`) downloads them after you push.
+CI handles images. A GitHub Action scans each item's `source` article after every
+push, picks the product photo, resizes it into `images/` and commits it back.
 
-For each NEW item, you MUST make a real attempt to find an official product image and put
-its direct URL on the item:
+- Do NOT run `fetch_images.py` and do NOT try to download images.
+- Leave `"image": null` on new items. Do not touch `image` on existing items.
+- `imageSkip: true` means a human rejected the auto-picked photo — leave it alone.
+- Optional: if you happen to have a direct URL to an official product photo, put it
+  in `"imageUrl"` and CI will prefer it over its own pick. Never guess one.
 
-```json
-"imageUrl": "https://.../product.jpg", "image": null
-```
-
-How to find one (do this per new item — do not skip straight to null):
-
-1. Fetch the item's own `source` article and read its `og:image` meta tag. Food-news sites
-   (brandeating.com, fastfoodpost.com, chewboom.com, restaurantnews.com) republish the
-   chain's official press photo as the article hero, and their images are directly linkable.
-2. If the source has no usable image, check the chain's press release on PRNewswire /
-   BusinessWire — their `mma.prnewswire.com` / `mms.businesswire.com` media URLs are direct
-   image links.
-3. Verify the URL really is that product's photo: it should end in .jpg/.png/.webp (or be a
-   known image CDN) and its filename/context should match the item. Reject site logos,
-   storefront photos, unrelated products, and article-header collages.
-
-Rules:
-- Never use watermarked images or a photo of a different product.
-- An official campaign/promo graphic is fine for value menus and deal promos.
-- Only use `null` when you genuinely could not find an official image (common for leaked or
-  unconfirmed items) — `null` for everything is a failed run, not a safe default.
-- Some chains (notably about.starbucks.com) block automated fetching; for those, get the
-  image from a food-news republish instead.
-- Leave existing items' `image` fields alone.
-
-After your push, the Action downloads every item that has an `imageUrl` but no `image`,
-resizes it into `images/`, fills in the `image` filename, and commits. Until that lands,
-the site renders `imageUrl` directly, so nothing looks broken in between.
+What matters far more is a good `source` URL: CI can only find a photo if the
+source article actually shows the product. A press release or a food-news article
+beats a chain's generic menu page.
 
 ## Validate before pushing
 

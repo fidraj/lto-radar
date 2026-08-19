@@ -47,26 +47,71 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
 JUNK = ("logo", "placeholder", "fallback", "favicon", "sprite", "avatar", "default-", "/icon")
 
 
-def og_image(page_url):
-    """Pull the og:image out of a news/press page - it is the official press photo."""
+def page_images(page_url):
+    """Every plausible product photo on a page, best candidate first.
+
+    og:image alone is unreliable - press pages serve logos, storefronts and last
+    month's launch as their social card - so scan the whole page and rank what we
+    find. Only URLs already present in data.json are ever fetched.
+    """
     if not page_url:
-        return None
-    out = subprocess.run(["curl", "-sSL", "--max-time", "25", "--proto", "=http,https",
-                          "--proto-redir", "=http,https", "--max-filesize", "10000000",
-                          "-A", UA, page_url],
-                         capture_output=True, text=True, errors="ignore").stdout
+        return []
+    html_src = subprocess.run(
+        ["curl", "-sSL", "--max-time", "25", "--proto", "=http,https",
+         "--proto-redir", "=http,https", "--max-filesize", "10000000", "-A", UA, page_url],
+        capture_output=True, text=True, errors="ignore").stdout
+
+    found, seen = [], set()
+
+    def add(raw, social, alt=""):
+        if not raw:
+            return
+        url = html.unescape(raw.strip()).split(" ")[0]
+        if url.startswith("//"):
+            url = "https:" + url
+        elif url.startswith("/"):
+            m = re.match(r"(https?://[^/]+)", page_url)
+            url = (m.group(1) + url) if m else ""
+        if not url.startswith("http") or url in seen:
+            return
+        if any(j in url.lower() for j in JUNK):
+            return
+        if not re.search(r"\.(jpe?g|png|webp)(\?|$)", url, re.I) and not social:
+            return
+        seen.add(url)
+        found.append((url, social, alt))
+
     for pat in (r'og:image["\'][^>]*content=["\']([^"\']+)',
                 r'content=["\']([^"\']+)["\'][^>]*og:image',
                 r'name=["\']twitter:image["\'][^>]*content=["\']([^"\']+)'):
-        m = re.search(pat, out, re.I)
-        if not m:
-            continue
-        url = html.unescape(m.group(1)).strip()
-        if url.startswith("//"):
-            url = "https:" + url
-        if url.startswith("http") and not any(j in url.lower() for j in JUNK):
-            return url
-    return None
+        for m in re.finditer(pat, html_src, re.I):
+            add(m.group(1), True)
+    for tag in re.finditer(r'<img[^>]+>', html_src, re.I):
+        t = tag.group(0)
+        alt = (re.search(r'alt=["\']([^"\']*)', t, re.I) or [None, ""])[1]
+        for attr in ("src", "data-src", "data-lazy-src"):
+            m = re.search(attr + r'=["\']([^"\']+)', t, re.I)
+            if m:
+                add(m.group(1), False, alt)
+        m = re.search(r'srcset=["\']([^"\',\s]+)', t, re.I)
+        if m:
+            add(m.group(1), False, alt)
+
+    def rank(item):
+        url, social, _alt = item
+        low = url.lower()
+        score = 0
+        if any(cdn in low for cdn in ("prnewswire", "businesswire", "/wp-content/uploads/",
+                                      "restaurantnews", "blogger.googleusercontent")):
+            score -= 2                       # press/editorial photo hosts
+        if social:
+            score -= 1                       # the page's chosen hero
+        dims = re.search(r"[/_-](?:w)?(\d{2,4})[x-](?:h)?(\d{2,4})", low)
+        if dims and (int(dims.group(1)) < 300 or int(dims.group(2)) < 200):
+            score += 3                       # a thumbnail, not the real photo
+        return score
+
+    return [(u, alt) for u, _, alt in sorted(found, key=rank)]
 
 
 # words that say nothing about which product this is
@@ -76,16 +121,16 @@ STOP = {"new", "the", "and", "with", "for", "returning", "return", "limited", "t
         "lineup", "collection", "edition", "featuring", "value", "promo", "promotion"}
 
 
-def relevant(url, item_name):
-    """An article hero is only trustworthy if it actually names the product.
+def relevant(url, item_name, alt=""):
+    """A photo is only trustworthy if its URL actually names the product.
 
-    Press pages happily serve a logo, a storefront or last week's launch photo as
-    og:image; requiring a distinctive word from the item name to appear in the
-    image URL is what separates the real product shot from those.
+    Pages happily serve a logo, a storefront or last week's launch photo; requiring
+    a distinctive word from the item name in the image URL is what separates the
+    real product shot from those.
     """
     toks = {t for t in re.split(r"[^a-z0-9]+", item_name.lower()) if len(t) >= 4 and t not in STOP}
-    low = url.lower()
-    return any(t in low for t in toks)
+    hay = (url + " " + (alt or "")).lower()
+    return any(t in hay for t in toks)
 
 
 def good_enough(path):
@@ -172,20 +217,21 @@ def gather(items, paths):
     todo = [p for p in items if not p.get("image")]
     for p in todo:
         if p.get("imageUrl"):
-            yield p["imageUrl"], p, f"{p['chain']} / {p['item']}", False
+            yield [p["imageUrl"]], p, f"{p['chain']} / {p['item']}", False
 
     # imageSkip marks an item a human reviewed and rejected the auto image for -
     # without it, every run happily re-derives the same wrong picture
-    needs_og = [p for p in todo
-                if not p.get("imageUrl") and p.get("source") and not p.get("imageSkip")]
-    if not needs_og:
+    needs = [p for p in todo
+             if not p.get("imageUrl") and p.get("source") and not p.get("imageSkip")]
+    if not needs:
         return
-    print(f"deriving images from source articles for {len(needs_og)} item(s)...")
+    print(f"scanning source articles for {len(needs)} item(s)...")
     with ThreadPoolExecutor(max_workers=8) as ex:
-        derived = list(ex.map(lambda p: og_image(p["source"]), needs_og))
-    for p, url in zip(needs_og, derived):
-        if url and relevant(url, p["item"]):
-            yield url, p, f"{p['chain']} / {p['item']}", True
+        pages = list(ex.map(lambda p: page_images(p["source"]), needs))
+    for p, cands in zip(needs, pages):
+        good = [u for u, alt in cands if relevant(u, p["item"], alt)]
+        if good:
+            yield good, p, f"{p['chain']} / {p['item']}", True
 
 
 def main():
@@ -193,20 +239,28 @@ def main():
     items = data["items"]
     ok = missed = 0
 
-    for url, p, label, auto in gather(items, sys.argv[1:]):
+    used = set()
+    for urls, p, label, auto in gather(items, sys.argv[1:]):
         if not p:
             print(f"  no data.json match: {label}")
             missed += 1
             continue
         dest = IMAGES / (slug(p["chain"], p["item"]) + ".jpg")
-        if fetch(url, dest):
-            p["image"] = dest.name
-            if auto:
-                # flag for review: derived from the article hero, not hand-picked
-                p["imageAuto"] = True
-                print(f"  auto: {label}")
-            ok += 1
-        else:
+        got = False
+        for url in urls:
+            # one photo standing in for several items is nearly always the wrong photo
+            if auto and url in used:
+                continue
+            if fetch(url, dest):
+                p["image"] = dest.name
+                used.add(url)
+                if auto:
+                    p["imageAuto"] = True   # flag for review: taken from the article, not hand-picked
+                    print(f"  auto: {label}")
+                ok += 1
+                got = True
+                break
+        if not got:
             missed += 1
 
     (ROOT / "data.json").write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")

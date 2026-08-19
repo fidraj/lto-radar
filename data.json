@@ -2466,8 +2466,9 @@
       "endDate": "2026-08-22",
       "status": "ending-soon",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-serves-up-returning-fan-favorites-for-summer",
-      "image": null,
-      "imageUrl": null
+      "image": "chick-fil-a-white-peach-sunjoy.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Starbucks",
@@ -2551,7 +2552,8 @@
       "endDate": "2026-07-04",
       "status": "ended",
       "source": "https://www.foxnews.com/food-drink/mcdonalds-revives-decades-old-favorite-america-250-after-years-customer-requests",
-      "image": null
+      "image": "mcdonald-s-fried-apple-pie-original-recipe-return.jpg",
+      "imageAuto": true
     },
     {
       "chain": "McDonald's",
@@ -2692,7 +2694,8 @@
       "endDate": "2026-08-18",
       "status": "ended",
       "source": "https://www.dealnews.com/features/subway/bogo-deal/",
-      "image": null
+      "image": null,
+      "imageSkip": true
     },
     {
       "chain": "Krispy Kreme",
@@ -2764,8 +2767,9 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://gamerant.com/dragon-ball-burger-king-menu-2026/",
-      "image": null,
-      "imageUrl": null
+      "image": "burger-king-dragon-ball-super-collab-leaked-unconfirmed.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",
@@ -2979,7 +2983,8 @@
       "status": "ended",
       "source": "https://www.nrn.com/fast-casual/wingstop-launches-delivery-cowboys-to-celebrate-flavor-comeback",
       "image": null,
-      "imageUrl": null
+      "imageUrl": null,
+      "imageSkip": true
     },
     {
       "chain": "Pizza Hut",
@@ -3091,7 +3096,8 @@
       "status": "active",
       "source": "https://www.thetakeout.com/2190118/big-changes-chick-fil-a-2026/",
       "imageUrl": null,
-      "image": null
+      "image": "chick-fil-a-frosted-sodas-floats.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Krispy Kreme",
@@ -3267,8 +3273,9 @@
       "endDate": "2026-05-26",
       "status": "ended",
       "source": "https://ir.wingstop.com/memorial-day-weekend-just-got-more-flavorful-with-wingstops-new-1-per-wing-bundles/",
-      "image": null,
-      "imageUrl": null
+      "image": "wingstop-1-per-wing-memorial-day-bundles.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",
@@ -3316,8 +3323,9 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.thetakeout.com/2177132/new-changes-coming-to-subway-2026/",
-      "image": null,
-      "imageUrl": null
+      "image": "subway-poppi-prebiotic-soda-line-leaked-unconfirmed.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",
@@ -3441,7 +3449,8 @@
       "status": "active",
       "source": "https://www.nrn.com/quick-service/popeyes-promote-wings-with-nil-athletes-and-contest",
       "image": null,
-      "imageUrl": null
+      "imageUrl": null,
+      "imageSkip": true
     },
     {
       "chain": "Chipotle",
@@ -3452,7 +3461,9 @@
       "endDate": "2026-09-06",
       "status": "upcoming",
       "source": "https://www.prnewswire.com/news-releases/chipotle-celebrates-back-to-school-season-with-school-spirit-bogo-and-chipotle-sundays-deal-302852387.html",
-      "imageUrl": null
+      "imageUrl": null,
+      "image": "chipotle-back-to-school-school-spirit-bogo-chipotle-sundays.jpg",
+      "imageAuto": true
     }
   ]
 }

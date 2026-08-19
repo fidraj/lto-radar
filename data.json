@@ -841,10 +841,11 @@
       "description": "August Blizzard of the Month: cheesecake pieces and caramel apple topping blended with DQ's vanilla soft serve — an early kickoff to fall flavor season.",
       "category": "dessert",
       "startDate": "2026-08-03",
-      "endDate": "while supplies last",
-      "status": "active",
-      "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
-      "image": "dairy-queen-caramel-apple-cheesecake-blizzard.jpg"
+      "endDate": "2026-08-30",
+      "status": "ending-soon",
+      "source": "https://www.tastingtable.com/2227957/dairy-queen-august-2026-blizzard-month-caramel-apple/",
+      "image": "dairy-queen-caramel-apple-cheesecake-blizzard.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Dairy Queen",
@@ -855,7 +856,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
-      "image": "dairy-queen-brown-sugar-cookie-dough-blizzard.jpg"
+      "image": "dairy-queen-brown-sugar-cookie-dough-blizzard.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Dairy Queen",
@@ -866,7 +868,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Dairy Queen",
@@ -877,7 +880,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
-      "image": "dairy-queen-pumpkin-pie-blizzard-returning.jpg"
+      "image": "dairy-queen-pumpkin-pie-blizzard-returning.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Dairy Queen",
@@ -888,7 +892,8 @@
       "endDate": "2026-08-30",
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Popeyes",
@@ -1968,10 +1973,11 @@
       "description": "Returning butterflied fried shrimp platform (Southern Fried Shrimp Meal, ZaxSeas Surf & Turf Meal) with Zaxtail Sauce, plus Giant Quesadillas.",
       "category": "food",
       "startDate": "2026-01-19",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-04-30",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-kicks-off-2026-with-return-of-fan-favorite-menu-innovations-southern-fried-shrimp-and-giant-quesadillas-302660198.html",
-      "image": "zaxby-s-southern-fried-shrimp-giant-quesadillas-zaxseas.jpg"
+      "image": "zaxby-s-southern-fried-shrimp-giant-quesadillas-zaxseas.jpg",
+      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Chipotle",
@@ -3790,6 +3796,39 @@
       "source": "https://www.businesswire.com/news/home/20260518500381/en/SONIC-Expands-Its-Refreshers-Platform-Adding-Frozen-Refreshers-Featuring-a-Brand-New-Watermelon-Peach-Flavor",
       "image": null,
       "lastConfirmed": "2026-08-19"
+    },
+    {
+      "chain": "Zaxby's",
+      "item": "Alabama White BBQ Sauce",
+      "description": "First-ever limited-edition Zaxby's sauce: a mayonnaise-based, tangy/peppery Alabama-style white BBQ sauce, promoted with Alabama native reality-TV star Rob Rausch. Available nationwide in restaurants, app, and online while supplies last.",
+      "category": "food",
+      "startDate": "2026-08-04",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/zaxbys-and-rob-rausch-bring-an-iconic-southern-flavor-to-fans-nationwide-with-limited-drop-of-alabama-white-bbq-sauce-302840598.html",
+      "image": null
+    },
+    {
+      "chain": "Zaxby's",
+      "item": "Chicken Bacon Ranch Menu (Wrap, Quesadilla, Loaded Fries)",
+      "description": "Limited-time lineup expanding Zaxby's Chicken Bacon Ranch flavor combo: Wrap Meal, Quesadilla, and Loaded Fries with hand-breaded Chicken Fingerz, Cheddar Jack cheese, hardwood-smoked bacon, and ranch. Press materials say it runs through end of summer 2026; exact end date not published.",
+      "category": "chicken",
+      "startDate": "2026-06-22",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/zaxbys-doubles-down-on-a-fan-favorite-flavor-combo-with-new-chicken-bacon-ranch-menu-302805978.html",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "Megan Moroney x Raising Cane's Collector's Cups",
+      "description": "Limited-edition 'Cloud 9' merch collab with country singer Megan Moroney: a rhinestone-covered 24oz tumbler and a glittery pink 'Cloud 9' souvenir cup. Available in-store and online while supplies last.",
+      "category": "event",
+      "startDate": "2026-07-30",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://cw33.com/a-taste-of-north-texas/food-and-drink/megan-moroney-and-raising-canes-debut-limited-merch/",
+      "image": null
     }
   ]
 }

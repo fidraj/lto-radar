@@ -269,7 +269,15 @@ def gather(items, paths):
                     yield row["imageUrl"], find_item(items, row["chain"], row["item"]), f"{row['chain']} / {row['item']}", False
         return
 
-    todo = [p for p in items if not p.get("image")]
+    # promos that are already over are off the board, so sourcing photos (and
+    # fetching their pages) for them is wasted work
+    import datetime
+    today = str(datetime.date.today())
+    def ended(p):
+        e = p.get("endDate")
+        return bool(e and len(e) == 10 and e[:4].isdigit() and e < today)
+
+    todo = [p for p in items if not p.get("image") and not ended(p)]
     for p in todo:
         if p.get("imageUrl"):
             yield [p["imageUrl"]], p, f"{p['chain']} / {p['item']}", False

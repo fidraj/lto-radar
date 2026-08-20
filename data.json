@@ -4073,6 +4073,17 @@
       "status": "ended",
       "source": "https://www.qsrweb.com/news/jack-in-the-box-menus-jacks-sauced-and-loaded-potato-wedges-for-limited-time/",
       "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "Doritos Hot Honey Nachos (Hot Honey Signature Swicy Collection)",
+      "description": "New Doritos Nacho Cheese tortilla chips topped with Monterey cheddar, veggies and Hot Honey sauce, in Chicken, Steak or Cheese builds ($4.99 for chicken/cheese); collection also includes a Hot Honey Italian sub and Hot Honey Turkey Italiano sub.",
+      "category": "food",
+      "startDate": "2026-08-20",
+      "endDate": "2026-10-26",
+      "status": "upcoming",
+      "source": "https://newsroom.subway.com/2026-08-18-Subway-R-Turns-Up-the-Heat-with-New-Doritos-R-Hot-Honey-Nachos",
+      "image": null
     }
   ]
 }

@@ -1553,7 +1553,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://sporked.com/article/arbys-dirty-soda-release/",
-      "image": null
+      "image": "arby-s-dirty-soda-lineup-leaked-unconfirmed.jpg",
+      "imageAuto": true
     },
     {
       "chain": "McDonald's",
@@ -4106,7 +4107,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/wendys-sweet-and-sour-sauce-returns-to-menus-by-popular-demand-302754213.html",
-      "image": null
+      "image": "wendy-s-sweet-and-sour-sauce-returning.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",

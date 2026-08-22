@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-21",
+  "researched": "2026-08-22",
   "items": [
     {
       "chain": "McDonald's",
@@ -471,7 +471,7 @@
       "category": "taco",
       "startDate": "2026-05-21",
       "endDate": null,
-      "status": "ending-soon",
+      "status": "active",
       "source": "https://www.prnewswire.com/news-releases/taco-bell-serves-up-a-cantina-chicken-twist-on-its-iconic-mexican-pizza-302771653.html",
       "image": "taco-bell-cantina-chicken-mexican-pizza.jpg",
       "lastConfirmed": "2026-08-19"
@@ -658,12 +658,11 @@
       "item": "Pretzel Cheddar Club Sandwich",
       "description": "New fall 2026 sandwich: boneless chicken breast (original, spicy, or grilled), lettuce, tomato, cheddar, applewood smoked bacon, and Creamy Dijon Mustard Sauce on a buttery pretzel bun.",
       "category": "sandwich",
-      "startDate": "2026-08-18",
-      "endDate": "2026-11-08",
-      "status": "active",
-      "source": "https://www.newsweek.com/chickfila-announces-major-changes-2026-11313711",
-      "image": "chick-fil-a-pretzel-cheddar-club-sandwich.jpg",
-      "lastConfirmed": "2026-08-19"
+      "startDate": "2025-08-18",
+      "endDate": "2025-11-08",
+      "status": "ended",
+      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-launches-new-cherry-berry-beverage-alongside-pretzel-cheddar-club-sandwich",
+      "image": "chick-fil-a-pretzel-cheddar-club-sandwich.jpg"
     },
     {
       "chain": "Chick-fil-A",
@@ -871,9 +870,9 @@
       "startDate": "2026-08-03",
       "endDate": "2026-08-30",
       "status": "ending-soon",
-      "source": "https://www.tastingtable.com/2227957/dairy-queen-august-2026-blizzard-month-caramel-apple/",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": "dairy-queen-caramel-apple-cheesecake-blizzard.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-22"
     },
     {
       "chain": "Dairy Queen",
@@ -2311,7 +2310,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/burger-king-expands-its-iconic-original-chicken-sandwich-lineup-with-two-bold-new-flavors-302818370.html",
-      "image": "burger-king-loaded-jalape-o-original-chicken-sandwich.jpg"
+      "image": "burger-king-loaded-jalape-o-original-chicken-sandwich.jpg",
+      "lastConfirmed": "2026-08-22"
     },
     {
       "chain": "Burger King",
@@ -2322,7 +2322,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/burger-king-expands-its-iconic-original-chicken-sandwich-lineup-with-two-bold-new-flavors-302818370.html",
-      "image": "burger-king-club-original-chicken-sandwich.jpg"
+      "image": "burger-king-club-original-chicken-sandwich.jpg",
+      "lastConfirmed": "2026-08-22"
     },
     {
       "chain": "Domino's",
@@ -3090,18 +3091,6 @@
     },
     {
       "chain": "Jack in the Box",
-      "item": "OG Hot Mess Cheeseburger & Hot Mess Munchie Meal",
-      "description": "Fan-favorite Hot Mess Cheeseburger returning as part of the yearlong 75th-anniversary throwback rollout, also sold as a $13 Hot Mess Munchie Meal with two tacos, curly fries, and a drink. Exact current in-restaurant availability as of Aug 2026 not independently verified.",
-      "category": "burger",
-      "startDate": "2026-02-16",
-      "endDate": "2026-04-05",
-      "status": "ended",
-      "source": "https://www.aol.com/lifestyle/jack-box-limited-time-items-170000372.html",
-      "image": null,
-      "imageUrl": null
-    },
-    {
-      "chain": "Jack in the Box",
       "item": "Frings",
       "description": "Mashup snack combining French fries and onion rings in one order, part of Jack in the Box's yearlong 75th-anniversary 'throwbacks and fan-favorite flavors' campaign. No confirmed launch date found.",
       "category": "food",
@@ -3296,11 +3285,11 @@
     {
       "chain": "Popeyes",
       "item": "Wings Relaunch (New Mild Marinated Base)",
-      "description": "Popeyes reintroduced its bone-in wings lineup with a new mild marinated base, positioned as a football-season relaunch. Exact pricing and flavor lineup not yet independently confirmed.",
+      "description": "Popeyes reintroduced its bone-in wings lineup with a new mild marinated base, a football-season relaunch tied to its Baker Mayfield campaign. Became the new standard wings recipe rather than a time-limited item.",
       "category": "chicken",
-      "startDate": "2026-08-16",
-      "endDate": null,
-      "status": "active",
+      "startDate": "2025-08-18",
+      "endDate": "2025-08-18",
+      "status": "ended",
       "source": "https://news.popeyes.com/blog-posts/popeyes-r-wings-are-better-than-ever-reintroducing-popeyes-wings-lineup-featuring-a-new-mild-marinated-base-on-bone-in-wings-just-in-time-for-football-season",
       "imageUrl": null,
       "image": "popeyes-wings-relaunch-new-mild-marinated-base.jpg",
@@ -3998,7 +3987,7 @@
     {
       "chain": "Jack in the Box",
       "item": "Hot Mess Cheeseburger (returning)",
-      "description": "13-year throwback burger revival for the 75th anniversary: grilled beef patty, white cheese sauce, shredded pepper jack, pickled jalapeños and crispy onion rings on toasted sourdough; also available as a Double.",
+      "description": "13-year throwback burger revival for the 75th anniversary: grilled beef patty, white cheese sauce, shredded pepper jack, pickled jalapeños and crispy onion rings on toasted sourdough; also available as a Double, or as a $13 Hot Mess Munchie Meal with two tacos, curly fries, and a drink.",
       "category": "burger",
       "startDate": "2026-02-16",
       "endDate": "2026-04-05",
@@ -4108,17 +4097,18 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/wendys-sweet-and-sour-sauce-returns-to-menus-by-popular-demand-302754213.html",
       "image": "wendy-s-sweet-and-sour-sauce-returning.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-08-22"
     },
     {
       "chain": "Taco Bell",
       "item": "Decades #TBTB Menu (2016 Throwback)",
       "description": "Nostalgia menu bringing back four 2016-era favorites nationwide: Naked Chicken Chalupa, Meximelt, Beefy Crunch Burrito, and Caramel Apple Empanada; Taco Bell Rewards members got early access to the Beefy Crunch Burrito.",
       "category": "food",
-      "startDate": "2026-08-18",
+      "startDate": "2026-08-20",
       "endDate": null,
       "status": "active",
-      "source": "https://www.tacobell.com/newsroom/taco-bell-brings-the-2016-vibes-back-to-fans-nationwide-with-decades-tbtb-menu",
+      "source": "https://www.prnewswire.com/news-releases/taco-bell-brings-the-2016-vibes-back-to-fans-nationwide-with-decades-tbtb-menu-302853433.html",
       "image": null
     },
     {
@@ -4163,6 +4153,50 @@
       "endDate": "2026-08-01",
       "status": "ended",
       "source": "https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "Hot Honey Italian Sub",
+      "description": "New sub in the Hot Honey Signature Swicy Collection: Genoa salami, pepperoni and ham with Hot Honey sauce, Monterey cheddar and veggies.",
+      "category": "sandwich",
+      "startDate": "2026-08-20",
+      "endDate": "2026-10-26",
+      "status": "active",
+      "source": "https://newsroom.subway.com/2026-08-18-Subway-R-Turns-Up-the-Heat-with-New-Doritos-R-Hot-Honey-Nachos",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "Hot Honey Turkey Italiano Sub",
+      "description": "New sub in the Hot Honey Signature Swicy Collection: turkey and ham with Hot Honey sauce, Monterey cheddar and veggies.",
+      "category": "sandwich",
+      "startDate": "2026-08-20",
+      "endDate": "2026-10-26",
+      "status": "active",
+      "source": "https://newsroom.subway.com/2026-08-18-Subway-R-Turns-Up-the-Heat-with-New-Doritos-R-Hot-Honey-Nachos",
+      "image": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Horsey Ranch Dipping Sauce",
+      "description": "New dipping sauce blending Arby's Horsey Sauce with ranch, launched free with the returning Steak Nuggets lineup (Steak Nuggets, Steak Nuggets Potato Bowl, Steak 'N Mac Bowl).",
+      "category": "food",
+      "startDate": "2026-08-24",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.tastingtable.com/2236477/arbys-steak-nuggets-return-potato-bowl-new-sauce/",
+      "image": null
+    },
+    {
+      "chain": "Pizza Hut",
+      "item": "\"HUT\" Football-Season Rebrand",
+      "description": "Pizza Hut is temporarily dropping \"Pizza\" from its name and signage at select locations for the 2026 NFL season, rebranding as just \"HUT.\"",
+      "category": "event",
+      "startDate": "2026-09-09",
+      "endDate": "2027-01-10",
+      "status": "upcoming",
+      "source": "https://www.deseret.com/lifestyle/2026/08/21/pizza-hut-rebrand-for-football-season/",
       "image": null
     }
   ]

@@ -4109,7 +4109,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/taco-bell-brings-the-2016-vibes-back-to-fans-nationwide-with-decades-tbtb-menu-302853433.html",
-      "image": null
+      "image": "taco-bell-decades-tbtb-menu-2016-throwback.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -4131,7 +4132,8 @@
       "endDate": "2026-09-02",
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/jack-in-box-tests-ufo-shaped-burgers.html",
-      "image": null
+      "image": "jack-in-the-box-cosmic-jack-combos-single-location-test.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Starbucks",
@@ -4164,7 +4166,8 @@
       "endDate": "2026-10-26",
       "status": "active",
       "source": "https://newsroom.subway.com/2026-08-18-Subway-R-Turns-Up-the-Heat-with-New-Doritos-R-Hot-Honey-Nachos",
-      "image": null
+      "image": "subway-hot-honey-italian-sub.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Subway",
@@ -4175,7 +4178,8 @@
       "endDate": "2026-10-26",
       "status": "active",
       "source": "https://newsroom.subway.com/2026-08-18-Subway-R-Turns-Up-the-Heat-with-New-Doritos-R-Hot-Honey-Nachos",
-      "image": null
+      "image": "subway-hot-honey-turkey-italiano-sub.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Arby's",
@@ -4186,7 +4190,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.tastingtable.com/2236477/arbys-steak-nuggets-return-potato-bowl-new-sauce/",
-      "image": null
+      "image": "arby-s-horsey-ranch-dipping-sauce.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Pizza Hut",

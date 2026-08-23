@@ -4209,7 +4209,8 @@
       "endDate": "2026-10-26",
       "status": "active",
       "source": "https://newsroom.subway.com/2026-08-20-Subway-R-and-Embark-Studios-Announce-Exclusive-Gaming-Partnership-for-ARC-Raiders-Ahead-of-Frozen-Trail-Release",
-      "image": null
+      "image": "subway-arc-raiders-x-subway-gaming-partnership.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Domino's",
@@ -4264,7 +4265,8 @@
       "endDate": "2026-11-14",
       "status": "upcoming",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
-      "image": null
+      "image": "chick-fil-a-plain-waffle-a-la-carte.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Raising Cane's",
@@ -4286,7 +4288,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES",
-      "image": null
+      "image": "chipotle-chipotle-x-salish-matter-order.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Burger King",
@@ -4297,7 +4300,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-kicks-off-the-year-with-a-new-guest-inspired-creation-the-ultimate-steakhouse-whopper-r",
-      "image": null
+      "image": "burger-king-ultimate-steakhouse-whopper.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Burger King",
@@ -4308,7 +4312,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.fastfoodpost.com/burger-king-introduces-new-ultimate-steakhouse-bacon-whopper-and-cinnamon-apple-pie/",
-      "image": null
+      "image": "burger-king-cinnamon-apple-pie.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Wendy's",

@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-22",
+  "researched": "2026-08-23",
   "items": [
     {
       "chain": "McDonald's",
@@ -474,7 +474,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/taco-bell-serves-up-a-cantina-chicken-twist-on-its-iconic-mexican-pizza-302771653.html",
       "image": "taco-bell-cantina-chicken-mexican-pizza.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Taco Bell",
@@ -624,7 +624,7 @@
       "category": "sandwich",
       "startDate": "2026-06-08",
       "endDate": "2026-08-22",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/what-is-the-honey-pepper-pimento-chicken-sandwich",
       "image": "chick-fil-a-honey-pepper-pimento-chicken-sandwich.jpg",
       "lastConfirmed": "2026-08-19"
@@ -636,7 +636,7 @@
       "category": "dessert",
       "startDate": "2026-06-08",
       "endDate": "2026-08-22",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/when-and-where-will-the-peach-milkshake-be-available",
       "image": "chick-fil-a-peach-milkshake-peach-frosted-lemonade.jpg",
       "lastConfirmed": "2026-08-19"
@@ -648,7 +648,7 @@
       "category": "drink",
       "startDate": "2026-06-08",
       "endDate": "2026-08-22",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/when-and-where-are-the-pineapple-dragonfruit-flavored-beverages-available",
       "image": "chick-fil-a-pineapple-dragonfruit-beverages.jpg",
       "lastConfirmed": "2026-08-19"
@@ -728,7 +728,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/sonic-launches-2026-summer-menu.html",
       "image": "sonic-tropical-heat-sonic-smasher.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Sonic",
@@ -776,7 +776,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
       "image": "arby-s-quarter-pound-bbq-menu-pulled-pork-chopped-brisket.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Arby's",
@@ -788,7 +788,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
       "image": "arby-s-bbq-mac-bowl.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Arby's",
@@ -860,7 +860,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-welcomes-back-the-chicken-supreme-and-introduces-jibbis/",
       "image": "jack-in-the-box-chicken-supreme-75th-anniversary-return.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Dairy Queen",
@@ -1104,17 +1104,6 @@
       "status": "ending-soon",
       "source": "https://www.brandeating.com/2026/07/new-at-zaxbys-chicken-bacon-ranch-lineup.html",
       "image": "zaxby-s-banana-pudding-milkshake-returning.jpg"
-    },
-    {
-      "chain": "Chipotle",
-      "item": "Chipotle Honey Chicken (returning)",
-      "description": "Fan-favorite 'swicy' protein returns: grilled chicken marinated with smoky chipotle peppers and finished with pure honey. In bowls, burritos, quesadillas, salads and tacos for a limited time.",
-      "category": "food",
-      "startDate": "2026-04-28",
-      "endDate": "2026-08-14",
-      "status": "ended",
-      "source": "https://newsroom.chipotle.com/2026-04-21-CHIPOTLE-KICKS-OFF-THE-SUMMER-SEASON-WITH-THE-RETURN-OF-HIGHLY-POPULAR-CHIPOTLE-HONEY-CHICKEN",
-      "image": "chipotle-chipotle-honey-chicken-returning.jpg"
     },
     {
       "chain": "Chipotle",
@@ -1482,7 +1471,7 @@
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/arbys-launches-lineup-of-1-99-sliders/",
       "image": "arby-s-1-99-sliders-lineup.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Jack in the Box",
@@ -1494,7 +1483,7 @@
       "status": "active",
       "source": "https://www.qsrweb.com/news/jack-in-the-box-launches-slider-meal-75k-giveaway-for-anniversary/",
       "image": "jack-in-the-box-smashed-jack-sliders.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Jack in the Box",
@@ -1730,7 +1719,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/taco-bell-takes-fajita-obsession-beyond-the-sizzle-with-new-fajita-street-chalupas-and-chicken-fajita-nacho-fries-302800749.html",
       "image": "taco-bell-fajita-street-chalupas-chicken-fajita-nacho-fries.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Taco Bell",
@@ -1948,7 +1937,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/A-Matcha-Made-in-Heaven-Jack-in-the-Box-Launches-Matcha-Beverage-Lineup-Nationwide/default.aspx",
       "image": "jack-in-the-box-matcha-beverage-platform-matcha-iced-latte-oreo-matcha-shake.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Jack in the Box",
@@ -1960,7 +1949,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Serves-Up-New-Protein-Bowl-Flavors-and-2-for-6-Jack-Wraps-Including-the-Best-Rated-Wrap-in-Fast-Food/default.aspx",
       "image": "jack-in-the-box-protein-bowls-teriyaki-fajita-and-2-for-6-jack-wraps.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Jack in the Box",
@@ -2174,7 +2163,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/potato-wedges-are-back-at-jack-in-box.html",
-      "image": "jack-in-the-box-sauced-loaded-potato-wedges-return.jpg"
+      "image": "jack-in-the-box-sauced-loaded-potato-wedges-return.jpg",
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Jack in the Box",
@@ -2186,7 +2176,7 @@
       "status": "active",
       "source": "https://x.com/JackBox/status/2008632993057849430",
       "image": null,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Popeyes",
@@ -2608,7 +2598,7 @@
       "category": "drink",
       "startDate": "2026-06-12",
       "endDate": "2026-08-22",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-serves-up-returning-fan-favorites-for-summer",
       "image": "chick-fil-a-white-peach-sunjoy.jpg",
       "imageUrl": null,
@@ -2780,7 +2770,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/taco-bell-enchirito-returns-plus-new-cinnamon-sugar-churros.html",
       "image": null,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Taco Bell",
@@ -2984,7 +2974,8 @@
       "status": "active",
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": null,
-      "imageUrl": null
+      "imageUrl": null,
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Dunkin'",
@@ -2996,7 +2987,8 @@
       "status": "active",
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": null,
-      "imageUrl": null
+      "imageUrl": null,
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Chick-fil-A",
@@ -3374,7 +3366,7 @@
       "image": "taco-bell-melty-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Taco Bell",
@@ -3388,7 +3380,7 @@
       "image": "taco-bell-fresca-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Wingstop",
@@ -3716,7 +3708,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://parade.com/food/dunkin-confirms-pumpkin-return-date-fall-menu-2026-launch-fans-demand-spider-donut-spidey-d",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Dunkin'",
@@ -3727,7 +3720,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://parade.com/food/dunkin-confirms-pumpkin-return-date-fall-menu-2026-launch-fans-demand-spider-donut-spidey-d",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Krispy Kreme",
@@ -3981,7 +3975,7 @@
       "status": "active",
       "source": "https://www.restaurantnews.com/jack-in-the-box-matcha-beverage-lineup-021926/",
       "image": "jack-in-the-box-matcha-iced-latte-oreo-matcha-shake.jpg",
-      "lastConfirmed": "2026-08-19",
+      "lastConfirmed": "2026-08-23",
       "imageAuto": true
     },
     {
@@ -4005,7 +3999,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260105962145/en/Jack-in-the-Box-Serves-Up-New-Protein-Bowl-Flavors-and-2-for-6-Jack-Wraps-Including-the-Best-Rated-Wrap-in-Fast-Food",
       "image": null,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Jack in the Box",
@@ -4051,7 +4045,8 @@
       "status": "active",
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": "dunkin-alix-s-earle-y-riser-meal-alix-earle-collab.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "Dunkin'",
@@ -4063,7 +4058,8 @@
       "status": "active",
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": "dunkin-berry-clementine-refreshers.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-08-23"
     },
     {
       "chain": "McDonald's",
@@ -4202,6 +4198,138 @@
       "endDate": "2027-01-10",
       "status": "upcoming",
       "source": "https://www.deseret.com/lifestyle/2026/08/21/pizza-hut-rebrand-for-football-season/",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "ARC Raiders x Subway Gaming Partnership",
+      "description": "National tie-in with Embark Studios' game ARC Raiders ahead of its Frozen Trail update: any qualifying Subway meal (6-inch sub, Footlong, salad, or wrap plus chips/cookie and a drink) includes a code for an exclusive in-game Subterranean outfit, plus a rotating weekly rewards bundle. Codes redeem at id.embark.games; redemption window closes Nov 10, 2026.",
+      "category": "event",
+      "startDate": "2026-08-20",
+      "endDate": "2026-10-26",
+      "status": "active",
+      "source": "https://newsroom.subway.com/2026-08-20-Subway-R-and-Embark-Studios-Announce-Exclusive-Gaming-Partnership-for-ARC-Raiders-Ahead-of-Frozen-Trail-Release",
+      "image": null
+    },
+    {
+      "chain": "Domino's",
+      "item": "Best Deal Ever ($9.99 Any Pizza, Any Toppings)",
+      "description": "Recurring value promo: any pizza (Hand Tossed, Handmade Pan, New York Style, Gluten Free, Crunchy Thin, or Parmesan Stuffed Crust; excludes XL and Specialty pizzas) with up to 7 toppings for $9.99, online orders only. This iteration ran June 15-July 26, 2026, immediately followed by the 50% Off Summer Savings promo (July 27-Aug 2, already tracked); an earlier iteration of this same recurring deal ran through April 6, 2026.",
+      "category": "food",
+      "startDate": "2026-06-15",
+      "endDate": "2026-07-26",
+      "status": "ended",
+      "source": "https://www.brandeating.com/2026/06/dominos-999-any-pizza-deal-summer-2026.html",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "BOGO Footlong (FLBOGO Gas Prices Promo)",
+      "description": "Nationwide promo: Sub Club members (new or existing) got a free footlong of equal or lesser value with purchase of one footlong, via the Subway app/website using promo code FLBOGO; framed as relief for rising gas/cost-of-living prices. Ran April 1-28, 2026 - distinct from the later, targeted July 28-Aug 18, 2026 rewards-members BOGO (already tracked).",
+      "category": "sandwich",
+      "startDate": "2026-04-01",
+      "endDate": "2026-04-28",
+      "status": "ended",
+      "source": "https://newsroom.subway.com/2026-03-30-Subway-R-Offers-BOGO-Footlongs-to-Help-Fuel-Americans-Struggling-with-Rising-Gas-Prices",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Jalapeño Ranch Club Chicken Sandwich",
+      "description": "Spring 2026 LTO: chicken filet (Original, Spicy, or Grilled) topped with pepper Jack cheese, caramelized onion-flavored candied bacon strips, lettuce, tomato, and pickled jalapenos on a toasted buttermilk ranch bun. Nationwide March 9 - June 6, 2026, paired with the Strawberry Hibiscus beverage lineup.",
+      "category": "sandwich",
+      "startDate": "2026-03-09",
+      "endDate": "2026-06-06",
+      "status": "ended",
+      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-launches-new-jalapeno-ranch-club-chicken-sandwich",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Strawberry Hibiscus beverages",
+      "description": "Spring 2026 LTO lineup of four beverages: Strawberry Hibiscus & Sprite, Strawberry Hibiscus Lemonade, Strawberry Hibiscus Frosted Lemonade (with Icedream), and Strawberry Hibiscus Sunjoy. Nationwide March 9 - June 6, 2026, alongside the Jalapeño Ranch Club Chicken Sandwich.",
+      "category": "drink",
+      "startDate": "2026-03-09",
+      "endDate": "2026-06-06",
+      "status": "ended",
+      "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/when-and-where-are-the-strawberry-hibiscus-flavored-beverages-available",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Plain Waffle (a la carte)",
+      "description": "A la carte maple-flavored waffle ($1.49 breakfast size / $1.59 lunch-dinner size), launching alongside the new Chicken & Waffles Sandwiches as part of the fall 2026 'Newstalgia' menu rollout.",
+      "category": "food",
+      "startDate": "2026-08-24",
+      "endDate": "2026-11-14",
+      "status": "upcoming",
+      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "30th Birthday Plush Puppy",
+      "description": "Limited-edition '90s-inspired plush puppy toy marking Raising Cane's 30th anniversary (referencing 1996, the year the first restaurant opened); $12.99 plus tax, available Aug 27-Sept 22, 2026 while supplies last, in participating restaurants and at RaisingCanesGear.com. Net proceeds benefit local animal welfare organizations, which vary by market (e.g. Dallas Pets Alive!, local Humane Societies, Pet Alliance of Greater Orlando).",
+      "category": "event",
+      "startDate": "2026-08-27",
+      "endDate": "2026-09-22",
+      "status": "upcoming",
+      "source": "https://www.raisingcanes.com/plush-puppy/",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Chipotle x Salish Matter Order",
+      "description": "App/web-exclusive Kid's Meal collab inspired by Gen Alpha YouTube creator Salish Matter's real-life go-to order: Kid's Cheese Quesadilla with white rice, black beans, and hand-mashed guac, served with kid's chips and chocolate milk. Available only via the Chipotle app and chipotle.com for a limited time; marks Chipotle's first creator spotlight on a Kid's Meal. Tied to a #SalishxChipotle Instagram giveaway (Aug 19-Sept 4, 2026) for a trip to LA.",
+      "category": "food",
+      "startDate": "2026-08-19",
+      "endDate": null,
+      "status": "active",
+      "source": "https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Ultimate Steakhouse Whopper",
+      "description": "Guest-created 'Whopper By You' LTO chosen from over 600,000 fan submissions: 4.4 oz flame-grilled beef patty on a toasted sesame seed bun with golden onion rings, crispy bacon, sauteed mushrooms, melted Swiss cheese and peppercorn aioli. Launched nationwide Jan 6, 2026; still appearing on third-party menu trackers as of July 2026 but not independently reconfirmed today.",
+      "category": "burger",
+      "startDate": "2026-01-06",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://news.bk.com/blog-posts/burger-king-r-kicks-off-the-year-with-a-new-guest-inspired-creation-the-ultimate-steakhouse-whopper-r",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Cinnamon Apple Pie",
+      "description": "Limited-time dessert launched alongside the Ultimate Steakhouse Whopper on Jan 6, 2026, in response to guest requests for a sweet treat (~$2.99). Still appearing on third-party menu trackers as of July 2026 but not independently reconfirmed today.",
+      "category": "dessert",
+      "startDate": "2026-01-06",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.fastfoodpost.com/burger-king-introduces-new-ultimate-steakhouse-bacon-whopper-and-cinnamon-apple-pie/",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Crispy Panko Fish Sandwich (Lent seasonal, ended)",
+      "description": "Seasonal wild-caught Alaskan Pollock fillet in crispy panko breading with lettuce, pickles, American cheese and dill tartar sauce; returned for Lent on Feb 17, 2026 and ran through Easter weekend (Apr 5, 2026) at nearly 5,200 U.S. locations.",
+      "category": "sandwich",
+      "startDate": "2026-02-17",
+      "endDate": "2026-04-05",
+      "status": "ended",
+      "source": "https://www.primetimer.com/features/wendy-s-crispy-panko-fish-sandwich-makes-limited-time-comeback-all-you-need-to-know",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Queso Cracked Cantina Bowl",
+      "description": "Rice bowl with Cantina chicken, black beans, lettuce, purple cabbage, reduced-fat sour cream, pico de gallo, cotija dip, chile lime seasoning, and crispy cheddar cheese chips; announced among 20+ new items at Taco Bell's 2026 Live Mas Live reveal. No confirmed nationwide launch date yet.",
+      "category": "food",
+      "startDate": "2026-08-05",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
       "image": null
     }
   ]

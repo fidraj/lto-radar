@@ -4263,7 +4263,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
-      "image": null
+      "image": "dunkin-berry-clementine-daydream-refresher.jpg",
+      "imageAuto": true
     }
   ]
 }

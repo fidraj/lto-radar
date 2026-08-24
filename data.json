@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-23",
+  "researched": "2026-08-24",
   "items": [
     {
       "chain": "McDonald's",
@@ -436,7 +436,7 @@
       "category": "event",
       "startDate": "2026-07-20",
       "endDate": "2026-08-23",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/1-frosty-where-wendys-value-meets-everyones-favorite-summer-treat-302826924.html",
       "image": "wendy-s-1-frosty-summer-promotion.jpg"
     },
@@ -1390,7 +1390,7 @@
       "category": "event",
       "startDate": "2026-08-06",
       "endDate": "2026-08-27",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.brandeating.com/2026/07/99-cent-corn-dog-days-at-sonic-july-2026.html",
       "image": "sonic-99-corn-dog-thursdays.jpg"
     },
@@ -1433,7 +1433,7 @@
       "description": "The viral 2017 Unicorn Frappuccino recipe returns for one weekend only: sweet-tart mango blend with tangy blue drizzle, whipped cream, and pink-and-blue topping. Rolling out nationwide (and internationally) Aug 15-16, 2026 to close out summer.",
       "category": "drink",
       "startDate": "2026-08-15",
-      "endDate": "2026-08-16",
+      "endDate": "2026-08-17",
       "status": "ended",
       "source": "https://about.starbucks.com/press/2026/unicorn-frappuccino-blended-beverage-makes-its-magical-return-later-this-summer/",
       "image": "starbucks-unicorn-frappuccino-limited-return.jpg"
@@ -1693,7 +1693,7 @@
       "category": "food",
       "startDate": "2026-08-10",
       "endDate": "2026-08-24",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.qsrweb.com/news/wendys-offers-free-small-chili-with-5-purchase/",
       "image": "wendy-s-free-small-chili-w-5-purchase.jpg"
     },
@@ -1788,7 +1788,7 @@
       "category": "drink",
       "startDate": "2026-07-01",
       "endDate": "2026-08-24",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://about.starbucks.com/stories/2026/starbucks-smores-frappuccino-returns-after-six-years-with-new-a-new-smores-cold-brew/",
       "image": "starbucks-s-mores-frappuccino-s-mores-cold-brew-iced-s-mores-chai.jpg"
     },
@@ -1923,7 +1923,7 @@
       "category": "food",
       "startDate": "2026-08-24",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
       "image": "arby-s-steak-nuggets.jpg"
     },
@@ -2089,18 +2089,6 @@
       "status": "ended",
       "source": "https://www.tacobell.com/newsroom/octobertuesdaydrops",
       "image": null
-    },
-    {
-      "chain": "KFC",
-      "item": "Box Feasts ($7/$9/$11 value lineup)",
-      "description": "New tiered value-meal lineup: $7 Box Feast (1 KFC Snacker, 5pc nuggets, fries, medium drink), $9 Box Feast (2 KFC Snackers, 5pc nuggets, fries, medium drink), and $11 Box Feast (1 chicken sandwich, 2 tenders, fries, medium drink). Still listed as available in August 2026 coverage.",
-      "category": "food",
-      "startDate": "2026-03-30",
-      "endDate": null,
-      "status": "active",
-      "source": "https://www.brandeating.com/2026/03/kfc-new-box-feasts.html",
-      "image": "kfc-box-feasts-7-9-11-value-lineup.jpg",
-      "lastConfirmed": "2026-08-19"
     },
     {
       "chain": "Sonic",
@@ -2484,7 +2472,7 @@
       "category": "sandwich",
       "startDate": "2026-08-24",
       "endDate": "2026-11-14",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-chicken-waffles-sandwich.jpg"
     },
@@ -2495,7 +2483,7 @@
       "category": "dessert",
       "startDate": "2026-08-24",
       "endDate": "2026-11-14",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-s-mores-milkshake.jpg"
     },
@@ -2506,7 +2494,7 @@
       "category": "drink",
       "startDate": "2026-08-24",
       "endDate": "2026-11-14",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-s-mores-frosted-coffee.jpg"
     },
@@ -2647,7 +2635,7 @@
       "category": "food",
       "startDate": "2026-08-24",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
       "image": null,
       "imageUrl": null,
@@ -2660,7 +2648,7 @@
       "category": "food",
       "startDate": "2026-08-24",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
       "image": "arby-s-steak-n-mac-bowl-steak-nuggets.jpg",
       "imageUrl": null
@@ -3251,15 +3239,19 @@
     {
       "chain": "Chick-fil-A",
       "item": "Frosted Sodas & Floats",
-      "description": "Icedream hand-spun with soda flavors (Coca-Cola, Dr Pepper, Sprite, Root Beer), added as a new beverage line as part of Chick-fil-A's 2026 'Newstalgia' menu innovations.",
+      "description": "Icedream hand-spun with soda flavors (Coca-Cola, Dr Pepper, Sprite, Root Beer); added to the PERMANENT menu nationwide on Jan 5, 2026 as part of Chick-fil-A's 80th-anniversary 'Newstalgia' rollout. Previously mis-dated here to Aug 2026 from an article recapping the launch months later.",
       "category": "drink",
-      "startDate": "2026-08-16",
-      "endDate": null,
-      "status": "active",
-      "source": "https://www.thetakeout.com/2190118/big-changes-chick-fil-a-2026/",
-      "imageUrl": null,
+      "startDate": "2026-01-05",
+      "endDate": "2026-01-05",
+      "status": "ended",
+      "source": "https://www.brandeating.com/2026/01/chick-fil-a-new-frosted-sodas-and-floats.html",
       "image": "chick-fil-a-frosted-sodas-floats.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "verified": {
+        "on": "2026-08-24",
+        "startDate": "2026-01-05",
+        "endDate": "2026-01-05"
+      }
     },
     {
       "chain": "Krispy Kreme",
@@ -3268,7 +3260,7 @@
       "category": "event",
       "startDate": "2026-08-22",
       "endDate": "2026-08-22",
-      "status": "upcoming",
+      "status": "ended",
       "source": "https://www.today.com/food/restaurants/krispy-kreme-pokemon-30th-anniversary-doughnut-collection-rcna592372",
       "imageUrl": null,
       "image": "krispy-kreme-pok-mon-costume-free-doughnut-day.jpg",
@@ -3467,30 +3459,6 @@
     },
     {
       "chain": "Subway",
-      "item": "Breaded Chicken Sub (leaked, unconfirmed)",
-      "description": "Reportedly part of Subway's 2026 menu changes; exact launch date and official confirmation not yet found.",
-      "category": "sandwich",
-      "startDate": "2026-08-17",
-      "endDate": null,
-      "status": "active",
-      "source": "https://www.thetakeout.com/2177132/new-changes-coming-to-subway-2026/",
-      "image": null,
-      "imageUrl": null
-    },
-    {
-      "chain": "Subway",
-      "item": "Smashed Falafel Sub (leaked, unconfirmed)",
-      "description": "Reportedly part of Subway's 2026 menu changes alongside Breaded Chicken; exact launch date and official confirmation not yet found.",
-      "category": "sandwich",
-      "startDate": "2026-08-17",
-      "endDate": null,
-      "status": "active",
-      "source": "https://www.thetakeout.com/2177132/new-changes-coming-to-subway-2026/",
-      "image": null,
-      "imageUrl": null
-    },
-    {
-      "chain": "Subway",
       "item": "Poppi Prebiotic Soda Line",
       "description": "Strawberry Lemon and Orange poppi prebiotic sodas added to Subway's permanent beverage lineup nationwide, part of Subway's 10-year exclusive US beverage deal with PepsiCo.",
       "category": "drink",
@@ -3639,19 +3607,6 @@
       }
     },
     {
-      "chain": "Chipotle",
-      "item": "Back-to-School: School Spirit BOGO & Chipotle Sundays",
-      "description": "One-day BOGO entree deal on Thursday, Aug 20 (3pm-close local time) for guests wearing school apparel/accessories (limit 5 free entrees per check), plus three weeks of 'Chipotle Sundays' - Aug 23, Aug 30, and Sept 6 - where ordering 2+ entrees on the app or chipotle.com after 3pm with code SUNDAYS gets a free entree. Tied to back-to-school season and the Chipotle U Rewards student loyalty program.",
-      "category": "event",
-      "startDate": "2026-08-20",
-      "endDate": "2026-09-06",
-      "status": "active",
-      "source": "https://www.prnewswire.com/news-releases/chipotle-celebrates-back-to-school-season-with-school-spirit-bogo-and-chipotle-sundays-deal-302852387.html",
-      "imageUrl": null,
-      "image": "chipotle-back-to-school-school-spirit-bogo-chipotle-sundays.jpg",
-      "imageAuto": true
-    },
-    {
       "chain": "Starbucks",
       "item": "Unicorn Frappuccino (one-weekend return)",
       "description": "Starbucks brought back its original 2017 Unicorn Frappuccino recipe (mango flavors, tangy blue drizzle, whipped cream, pink/blue topping) for one weekend only, grande size only.",
@@ -3683,19 +3638,6 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-has-an-answer-to-the-value-wars-a-value-feast-fit-for-the-moment-302728926.html",
       "image": "kfc-value-feast-7-9-11-box-feasts-featuring-the-kfc-snacker.jpg",
-      "lastConfirmed": "2026-08-19",
-      "imageAuto": true
-    },
-    {
-      "chain": "KFC",
-      "item": "$10 Weekday Bucket Lineup + Honey Chili Crisp & Jalapeño Ranch Sauces",
-      "description": "KFC expanded its former '$10 Tuesday' bucket deal into a $10 bucket available every weekday, alongside two new house-made sauces: Honey Chili Crisp and Jalapeño Ranch.",
-      "category": "chicken",
-      "startDate": "2026-05-04",
-      "endDate": "while supplies last",
-      "status": "active",
-      "source": "https://www.prnewswire.com/news-releases/kfc-expands-10-tuesday-into-a-weekday-bucket-lineup-introduces-two-new-sauces-302761613.html",
-      "image": "kfc-10-weekday-bucket-lineup-honey-chili-crisp-jalape-o-ranch-sauces.jpg",
       "lastConfirmed": "2026-08-19",
       "imageAuto": true
     },
@@ -3854,7 +3796,7 @@
       "category": "event",
       "startDate": "2026-08-23",
       "endDate": "2026-09-06",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.prnewswire.com/news-releases/chipotle-celebrates-back-to-school-season-with-school-spirit-bogo-and-chipotle-sundays-deal-302852387.html",
       "image": "chipotle-chipotle-sundays.jpg",
       "imageAuto": true
@@ -3901,7 +3843,7 @@
       "category": "drink",
       "startDate": "2026-08-24",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.nrn.com/beverage-trends/sonic-s-fall-drink-lineup-is-cold-and-pumpkin-free",
       "image": "sonic-hotumn-fall-drink-lineup.jpg",
       "imageAuto": true
@@ -3917,42 +3859,6 @@
       "source": "https://www.businesswire.com/news/home/20260518500381/en/SONIC-Expands-Its-Refreshers-Platform-Adding-Frozen-Refreshers-Featuring-a-Brand-New-Watermelon-Peach-Flavor",
       "image": null,
       "lastConfirmed": "2026-08-19"
-    },
-    {
-      "chain": "Zaxby's",
-      "item": "Alabama White BBQ Sauce",
-      "description": "First-ever limited-edition Zaxby's sauce: a mayonnaise-based, tangy/peppery Alabama-style white BBQ sauce, promoted with Alabama native reality-TV star Rob Rausch. Available nationwide in restaurants, app, and online while supplies last.",
-      "category": "food",
-      "startDate": "2026-08-04",
-      "endDate": "while supplies last",
-      "status": "active",
-      "source": "https://www.prnewswire.com/news-releases/zaxbys-and-rob-rausch-bring-an-iconic-southern-flavor-to-fans-nationwide-with-limited-drop-of-alabama-white-bbq-sauce-302840598.html",
-      "image": "zaxby-s-alabama-white-bbq-sauce.jpg",
-      "imageAuto": true
-    },
-    {
-      "chain": "Zaxby's",
-      "item": "Chicken Bacon Ranch Menu (Wrap, Quesadilla, Loaded Fries)",
-      "description": "Limited-time lineup expanding Zaxby's Chicken Bacon Ranch flavor combo: Wrap Meal, Quesadilla, and Loaded Fries with hand-breaded Chicken Fingerz, Cheddar Jack cheese, hardwood-smoked bacon, and ranch. Press materials say it runs through end of summer 2026; exact end date not published.",
-      "category": "chicken",
-      "startDate": "2026-06-22",
-      "endDate": null,
-      "status": "active",
-      "source": "https://www.prnewswire.com/news-releases/zaxbys-doubles-down-on-a-fan-favorite-flavor-combo-with-new-chicken-bacon-ranch-menu-302805978.html",
-      "image": "zaxby-s-chicken-bacon-ranch-menu-wrap-quesadilla-loaded-fries.jpg",
-      "imageAuto": true,
-      "lastConfirmed": "2026-08-19"
-    },
-    {
-      "chain": "Raising Cane's",
-      "item": "Megan Moroney x Raising Cane's Collector's Cups",
-      "description": "Limited-edition 'Cloud 9' merch collab with country singer Megan Moroney: a rhinestone-covered 24oz tumbler and a glittery pink 'Cloud 9' souvenir cup. Available in-store and online while supplies last.",
-      "category": "event",
-      "startDate": "2026-07-30",
-      "endDate": "while supplies last",
-      "status": "active",
-      "source": "https://cw33.com/a-taste-of-north-texas/food-and-drink/megan-moroney-and-raising-canes-debut-limited-merch/",
-      "image": null
     },
     {
       "chain": "Taco Bell",
@@ -4138,7 +4044,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": null,
-      "status": "active",
+      "status": "upcoming",
       "source": "https://parade.com/news/starbucks-fall-2026-menu-causes-stir-fan-favorite-drink-missing-apple-crisp",
       "image": null
     },
@@ -4184,7 +4090,7 @@
       "category": "food",
       "startDate": "2026-08-24",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.tastingtable.com/2236477/arbys-steak-nuggets-return-potato-bowl-new-sauce/",
       "image": "arby-s-horsey-ranch-dipping-sauce.jpg",
       "imageAuto": true
@@ -4263,7 +4169,7 @@
       "category": "food",
       "startDate": "2026-08-24",
       "endDate": "2026-11-14",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-plain-waffle-a-la-carte.jpg",
       "imageAuto": true
@@ -4294,11 +4200,11 @@
     {
       "chain": "Burger King",
       "item": "Ultimate Steakhouse Whopper",
-      "description": "Guest-created 'Whopper By You' LTO chosen from over 600,000 fan submissions: 4.4 oz flame-grilled beef patty on a toasted sesame seed bun with golden onion rings, crispy bacon, sauteed mushrooms, melted Swiss cheese and peppercorn aioli. Launched nationwide Jan 6, 2026; still appearing on third-party menu trackers as of July 2026 but not independently reconfirmed today.",
+      "description": "Guest-created 'Whopper By You' LTO chosen from over 600,000 fan submissions: 4.4 oz flame-grilled beef patty on a toasted sesame seed bun with golden onion rings, crispy bacon, sauteed mushrooms, melted Swiss cheese and peppercorn aioli. Launched nationwide Jan 6, 2026 and rotated out when the Peppercorn BLT Whopper took its place in the 'Whopper By You' series on Mar 30, 2026.",
       "category": "burger",
       "startDate": "2026-01-06",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-03-29",
+      "status": "ended",
       "source": "https://news.bk.com/blog-posts/burger-king-r-kicks-off-the-year-with-a-new-guest-inspired-creation-the-ultimate-steakhouse-whopper-r",
       "image": "burger-king-ultimate-steakhouse-whopper.jpg",
       "imageAuto": true
@@ -4306,11 +4212,11 @@
     {
       "chain": "Burger King",
       "item": "Cinnamon Apple Pie",
-      "description": "Limited-time dessert launched alongside the Ultimate Steakhouse Whopper on Jan 6, 2026, in response to guest requests for a sweet treat (~$2.99). Still appearing on third-party menu trackers as of July 2026 but not independently reconfirmed today.",
+      "description": "Limited-time dessert launched alongside the Ultimate Steakhouse Whopper on Jan 6, 2026, in response to guest requests for a sweet treat (~$2.99). Off menus by the time the Firecracker Cookie Pie launched Jun 2, 2026; exact end date is a best estimate.",
       "category": "dessert",
       "startDate": "2026-01-06",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-06-01",
+      "status": "ended",
       "source": "https://www.fastfoodpost.com/burger-king-introduces-new-ultimate-steakhouse-bacon-whopper-and-cinnamon-apple-pie/",
       "image": "burger-king-cinnamon-apple-pie.jpg",
       "imageAuto": true
@@ -4335,6 +4241,28 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Banana, Walnut & Pecan Loaf",
+      "description": "New fall bakery item: banana bread loaf with walnuts and pecans, part of Starbucks' Aug 25, 2026 fall menu launch alongside the returning Pumpkin Spice Latte and Iced Banana Bread drinks.",
+      "category": "food",
+      "startDate": "2026-08-25",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Berry Clementine Daydream Refresher",
+      "description": "Berry Clementine Refresher mixed with oatmilk and topped with sweet cold foam; a 'Daydream' cold-foam variant of the base Berry Clementine Refresher, part of Dunkin's Aug 19, 2026 fall menu launch.",
+      "category": "drink",
+      "startDate": "2026-08-19",
+      "endDate": null,
+      "status": "active",
+      "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": null
     }
   ]

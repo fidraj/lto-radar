@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-25",
+  "researched": "2026-08-26",
   "items": [
     {
       "chain": "McDonald's",
@@ -987,11 +987,11 @@
       "description": "Fan-favorite sweet, tangy Southern BBQ wing flavor with golden mustard-forward taste, back nationwide for a limited time in the Flavor Rodeo. Live for Club Wingstop members since Aug 7; nationwide for all customers Aug 11.",
       "category": "chicken",
       "startDate": "2026-08-07",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-09",
+      "status": "ending-soon",
       "source": "https://www.prnewswire.com/news-releases/wingstop-saddles-up-for-the-flavor-rodeo-with-bbq-favorites-carolina-gold-and-jamaican-jerk-302841708.html",
       "image": "wingstop-carolina-gold-flavor-rodeo-return.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-26"
     },
     {
       "chain": "Wingstop",
@@ -999,11 +999,11 @@
       "description": "Returning limited-time wing flavor with warm Caribbean spices and savory herbs, part of the Flavor Rodeo lineup. Live for Club Wingstop members since Aug 7; nationwide for all customers Aug 11.",
       "category": "chicken",
       "startDate": "2026-08-07",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-09",
+      "status": "ending-soon",
       "source": "https://www.prnewswire.com/news-releases/wingstop-saddles-up-for-the-flavor-rodeo-with-bbq-favorites-carolina-gold-and-jamaican-jerk-302841708.html",
       "image": "wingstop-jamaican-jerk-flavor-rodeo-return.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-26"
     },
     {
       "chain": "Wingstop",
@@ -1539,15 +1539,15 @@
     },
     {
       "chain": "Arby's",
-      "item": "Dirty Soda lineup (leaked, unconfirmed)",
-      "description": "Leaked, unconfirmed: an internal-looking menu update spotted on Reddit suggests Arby's is testing a dirty-soda drink line, including a classic Shirley Temple and a coconut-cream \"Shirley 'n Cream\" Coke, riding the dirty-soda trend seen at McDonald's, Burger King, KFC and Crumbl. Arby's has not confirmed this or given a launch date.",
+      "item": "Classic Shirley Temple & Shirley 'n Cream (Dirty Sodas)",
+      "description": "Two new dirty-soda drinks riding the trend seen at McDonald's, BK, KFC and Crumbl: Classic Shirley Temple (Sprite + grenadine syrup, dark cherry) and Shirley 'n Cream (topped with sweet cream cold foam and cherry). Now confirmed live on Arby's official menu, timed with the Steak Nuggets relaunch.",
       "category": "drink",
-      "startDate": "2026-08-07",
+      "startDate": "2026-08-24",
       "endDate": null,
       "status": "active",
-      "source": "https://sporked.com/article/arbys-dirty-soda-release/",
+      "source": "https://www.arbys.com/menu/categories/limited-time/classic-shirley-temple/",
       "image": "arby-s-dirty-soda-lineup-leaked-unconfirmed.jpg",
-      "imageAuto": true
+      "lastConfirmed": "2026-08-26"
     },
     {
       "chain": "McDonald's",
@@ -1698,7 +1698,7 @@
       "category": "food",
       "startDate": "2026-08-10",
       "endDate": "2026-08-24",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.qsrweb.com/news/wendys-offers-free-small-chili-with-5-purchase/",
       "image": "wendy-s-free-small-chili-w-5-purchase.jpg"
     },
@@ -2045,15 +2045,14 @@
     },
     {
       "chain": "McDonald's",
-      "item": "Spicy Chicken McNuggets & Mighty Hot Sauce (leaked, unconfirmed)",
-      "description": "Reddish cayenne/chili-coated Spicy Chicken McNuggets with the fan-favorite Mighty Hot Sauce (last seen in 2021), officially confirmed and launched Feb 1, 2026, sold through early April 2026. Not actually a 2026 leak - was a real, already-completed official promo.",
+      "item": "Spicy Chicken McNuggets & Mighty Hot Sauce (2021 return)",
+      "description": "Reddish cayenne/chili-coated Spicy Chicken McNuggets with the fan-favorite Mighty Hot Sauce. The cited PRNewswire release (ID 301214528) was traced to its real publication date, Jan 25, 2021, announcing a Feb 1, 2021 return - this run had been mis-filed under 2026 by an earlier refresh. Corrected to its real 2021 dates; see the separate '(2026 return)' entry for the current run.",
       "category": "chicken",
-      "startDate": "2026-02-01",
-      "endDate": "2026-04-05",
+      "startDate": "2021-02-01",
+      "endDate": "2021-04-05",
       "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/spicy-chicken-mcnuggets-and-mighty-hot-sauce-are-returning-to-mcdonalds-but-only-because-you-asked-so-nicely-301214528.html",
-      "image": "mcdonald-s-spicy-chicken-mcnuggets-mighty-hot-sauce-leaked-unconfirmed.jpg",
-      "lastConfirmed": "2026-08-19"
+      "image": "mcdonald-s-spicy-chicken-mcnuggets-mighty-hot-sauce-leaked-unconfirmed.jpg"
     },
     {
       "chain": "Wendy's",
@@ -2617,7 +2616,7 @@
       "startDate": "2026-08-10",
       "endDate": "2026-08-10",
       "status": "ended",
-      "source": "https://www.aol.com/articles/dunkin-free-giveaway-monday-aug-113049000.html",
+      "source": "https://sporked.com/article/dunkin-is-giving-away-1-million-free-refreshers/",
       "image": null,
       "imageUrl": null
     },
@@ -4200,6 +4199,83 @@
       "source": "https://newsroom.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK",
       "image": "chipotle-chipotle-x-taylor-fritz-bogo-every-win-tastes-better.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Spicy Chicken McNuggets & Mighty Hot Sauce (2026 return)",
+      "description": "Cayenne/chili tempura-coated Spicy Chicken McNuggets return with the fan-favorite Mighty Hot dipping sauce (crushed red pepper, cayenne, garlic), back after 5 years away. Nationwide starting Sept 1, 2026.",
+      "category": "chicken",
+      "startDate": "2026-09-01",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.thetakeout.com/2231719/mcdonalds-fan-favorite-sauce-return-mighty-hot-sauce/",
+      "image": null
+    },
+    {
+      "chain": "Pizza Hut",
+      "item": "Gameday Starts with the Hut (Josh Allen x Pepsi)",
+      "description": "Football-season marketing platform fronted by Bills QB Josh Allen and Pepsi: The Big Hut Deal ($10 large 3-topping pizza, any crust), a new Triple Treat Box Game Day Edition (two pizzas, breadsticks, cinnamon sticks from $21.99), limited-edition Flick Football Pizza Boxes, and a UGC video sweepstakes at pizzahut.com/gamedaystartswithhut with a 1,000,000 Hut Rewards points grand prize. Sweepstakes entries close 10/24/26 8pm ET.",
+      "category": "event",
+      "startDate": "2026-08-25",
+      "endDate": "2026-10-24",
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/pizza-hut-teams-up-with-pepsi-and-josh-allen-to-remind-fans-gameday-starts-with-the-hut-302858823.html",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "New Chicken Nuggets & Sauces",
+      "description": "Reformulated 100% white-meat chicken nuggets (crispier breading, juicier marinade, new box) plus a new Special Savory Sauce (creamy, mayo-forward with ketchup) and a refreshed dipping sauce lineup nationwide.",
+      "category": "chicken",
+      "startDate": "2026-09-01",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.prnewswire.com/news-releases/burger-king-introduces-latest-innovation-inspired-by-guest-feedback--new-chicken-nuggets-and-sauces-302858841.html",
+      "image": null
+    },
+    {
+      "chain": "KFC",
+      "item": "Hot Ranch Big Dip + Double Crispy Hot Wings (returning)",
+      "description": "New Hot Ranch Big Dip sauce (creamy ranch blended with garlic/herb and chili pepper, 4oz, $1.49 a la carte) launches alongside the return of fan-favorite Double Crispy Hot Wings. Tied to an IShowSpeed ad campaign; available in a Double Crispy Box Meal w/ Wings & Sandwich ($13.49) or Wings & Tenders ($12.49).",
+      "category": "chicken",
+      "startDate": "2026-08-24",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/kfc-debuts-new-hot-ranch-big-dip-taps-ishowspeed-to-bring-big-dip-energy-nationwide-302858454.html",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Pumpkin Spice Original Glazed Doughnut (BOGO promo)",
+      "description": "Pumpkin spice-flavored dough finished with Original Glazed icing. Promo: buy any dozen at regular price, get a dozen Pumpkin Spice Original Glazed for $5 (code BOGO5 online, limit 2 in-shop/1 online). Distinct from the Autumn Collection's Pumpkin Spice Cake Doughnut.",
+      "category": "donut",
+      "startDate": "2026-08-27",
+      "endDate": "2026-08-30",
+      "status": "upcoming",
+      "source": "https://www.restaurantnews.com/krispy-kreme-pumpkin-spice-original-glazed-doughnuts-082526/",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "30th Anniversary Pop-Up Museum & $50M Giving Commitment",
+      "description": "Free-admission pop-up museum next to the original 'Mothership' restaurant in Baton Rouge marking Cane's 30th anniversary, featuring founder Todd Graves' original business plan, briefcase, hard hat, blueprints and the original disco ball. Announced alongside a 30th-anniversary giving commitment: $30M over 10 years to pet welfare organizations plus Todd Graves personally pledging $20M to wildlife conservation nonprofit Re:wild.",
+      "category": "event",
+      "startDate": "2026-08-25",
+      "endDate": "2026-09-24",
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/raising-canes-celebrates-30-years-with-pop-up-museum-and-50-million-in-giving/",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "30th Birthday Retail Collection",
+      "description": "Six-piece vintage-inspired 30th Birthday merch collection (T-shirts, sweatshirts, hats) reviving early Cane's logos and graphics, sold exclusively at RaisingCanesGear.com.",
+      "category": "event",
+      "startDate": "2026-08-25",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/raising-canes-celebrates-30-years-with-pop-up-museum-and-50-million-in-giving/",
+      "image": null
     }
   ]
 }

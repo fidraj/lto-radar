@@ -4209,7 +4209,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.thetakeout.com/2231719/mcdonalds-fan-favorite-sauce-return-mighty-hot-sauce/",
-      "image": null
+      "image": "mcdonald-s-spicy-chicken-mcnuggets-mighty-hot-sauce-2026-return.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Pizza Hut",
@@ -4220,7 +4221,8 @@
       "endDate": "2026-10-24",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/pizza-hut-teams-up-with-pepsi-and-josh-allen-to-remind-fans-gameday-starts-with-the-hut-302858823.html",
-      "image": null
+      "image": "pizza-hut-gameday-starts-with-the-hut-josh-allen-x-pepsi.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Burger King",
@@ -4231,7 +4233,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.prnewswire.com/news-releases/burger-king-introduces-latest-innovation-inspired-by-guest-feedback--new-chicken-nuggets-and-sauces-302858841.html",
-      "image": null
+      "image": "burger-king-new-chicken-nuggets-sauces.jpg",
+      "imageAuto": true
     },
     {
       "chain": "KFC",
@@ -4242,7 +4245,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-debuts-new-hot-ranch-big-dip-taps-ishowspeed-to-bring-big-dip-energy-nationwide-302858454.html",
-      "image": null
+      "image": "kfc-hot-ranch-big-dip-double-crispy-hot-wings-returning.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Krispy Kreme",
@@ -4253,7 +4257,8 @@
       "endDate": "2026-08-30",
       "status": "upcoming",
       "source": "https://www.restaurantnews.com/krispy-kreme-pumpkin-spice-original-glazed-doughnuts-082526/",
-      "image": null
+      "image": "krispy-kreme-pumpkin-spice-original-glazed-doughnut-bogo-promo.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Raising Cane's",

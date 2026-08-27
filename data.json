@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-26",
+  "researched": "2026-08-27",
   "items": [
     {
       "chain": "McDonald's",
@@ -11,7 +11,7 @@
       "status": "active",
       "source": "https://www.thestreet.com/restaurants/mcdonalds-launches-four-new-menu-items-chicken-caesar",
       "image": "mcdonald-s-caesar-snack-wrap.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-27"
     },
     {
       "chain": "McDonald's",
@@ -44,7 +44,7 @@
       "category": "dessert",
       "startDate": "2026-06-27",
       "endDate": "2026-09-01",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://pielocator.com/",
       "image": "mcdonald-s-blueberry-creme-pie.jpg",
       "lastConfirmed": "2026-08-19"
@@ -166,7 +166,7 @@
       "status": "ending-soon",
       "source": "https://news.bk.com/blog-posts/burger-king-r-welcomes-summer-with-an-all-new-menu-of-craveable-seasonal-innovations",
       "image": "burger-king-firecracker-cookie-pie.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-27"
     },
     {
       "chain": "Burger King",
@@ -511,7 +511,7 @@
       "category": "drink",
       "startDate": "2026-05-12",
       "endDate": "2026-08-24",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-previews-2026-summer-menu-with-tropical-flavors-and-horchata-inspired-drinks/",
       "image": "starbucks-tropical-butterfly-refresher.jpg",
       "lastConfirmed": "2026-08-19"
@@ -523,7 +523,7 @@
       "category": "drink",
       "startDate": "2026-05-12",
       "endDate": "2026-08-24",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-previews-2026-summer-menu-with-tropical-flavors-and-horchata-inspired-drinks/",
       "image": "starbucks-horchata-shaken-espresso-horchata-frappuccino.jpg",
       "lastConfirmed": "2026-08-19"
@@ -535,7 +535,7 @@
       "category": "drink",
       "startDate": "2026-05-12",
       "endDate": "2026-08-24",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://starbucksreserveonly.com/starbucks-summer-menu/",
       "image": "starbucks-summer-berry-refreshers-lineup.jpg",
       "lastConfirmed": "2026-08-19"
@@ -547,7 +547,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": "starbucks-pumpkin-spice-latte-fall-return.jpg",
       "lastConfirmed": "2026-08-19"
@@ -559,7 +559,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": "starbucks-chaider.jpg",
       "lastConfirmed": "2026-08-19"
@@ -571,7 +571,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": "starbucks-iced-banana-bread-latte-iced-banana-bread-chai.jpg",
       "lastConfirmed": "2026-08-19"
@@ -917,7 +917,7 @@
       "category": "event",
       "startDate": "2026-08-03",
       "endDate": "2026-08-30",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": null,
       "lastConfirmed": "2026-08-19"
@@ -929,7 +929,7 @@
       "category": "event",
       "startDate": "2026-07-13",
       "endDate": "2026-08-30",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://livingonthecheap.com/popeyes-five-dollar-faves-value-menu/",
       "image": "popeyes-5-faves-menu-with-new-butterfly-shrimp.jpg",
       "lastConfirmed": "2026-08-19"
@@ -944,7 +944,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/popeyes-launches-new-cheese-bites.html",
       "image": "popeyes-cheese-bites.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-27"
     },
     {
       "chain": "Popeyes",
@@ -1012,7 +1012,7 @@
       "category": "food",
       "startDate": "2026-08-07",
       "endDate": "2026-09-09",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.nrn.com/fast-casual/wingstop-launches-delivery-cowboys-to-celebrate-flavor-comeback",
       "image": null
     },
@@ -1023,7 +1023,7 @@
       "category": "drink",
       "startDate": "2026-08-07",
       "endDate": "2026-09-09",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://parade.com/food/coca-cola-debuts-a-new-one-of-a-kind-flavor-but-only-for-a-limited-time",
       "image": "wingstop-sprite-strawberry-rodeo.jpg"
     },
@@ -1046,7 +1046,7 @@
       "category": "event",
       "startDate": "2026-07-30",
       "endDate": "2026-08-26",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://countrynow.com/megan-moroneys-new-raising-canes-collectors-cups-are-here-including-her-iconic-rhinestone-tumbler/",
       "image": "raising-cane-s-megan-moroney-rhinestone-tumbler.jpg"
     },
@@ -1174,7 +1174,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/05/pizza-hut-new-crispy-parm-pan-pizza.html",
       "image": "pizza-hut-crispy-parm-pan-pizza.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-27"
     },
     {
       "chain": "Domino's",
@@ -1183,7 +1183,7 @@
       "category": "event",
       "startDate": "2026-08-03",
       "endDate": "2026-08-30",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.stocktitan.net/news/DPZ/domino-s-is-paying-customers-to-beta-test-its-new-website-and-pvh4yxlif1pm.html",
       "image": "domino-s-5-off-beta-test-promo.jpg"
     },
@@ -1220,7 +1220,7 @@
       "status": "active",
       "source": "https://newsroom.subway.com/2026-04-28-Subway-R-Introduces-Its-First-Ever-Value-Menu-with-15-Entrees-Under-5",
       "image": "subway-fresh-value-menu-deli-faves-sub-of-the-day.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-27"
     },
     {
       "chain": "McDonald's",
@@ -1269,7 +1269,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": "starbucks-pumpkin-cream-lineup-iced-pumpkin-cream-shaken-espresso-chai-matcha.jpg"
     },
@@ -1280,7 +1280,7 @@
       "category": "food",
       "startDate": "2026-08-25",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": null
     },
@@ -1291,7 +1291,7 @@
       "category": "dessert",
       "startDate": "2026-08-25",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": null
     },
@@ -1339,7 +1339,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://news.dunkindonuts.com/blog/iced-beverage-buckets-august-2026",
-      "image": "dunkin-iced-beverage-buckets.jpg"
+      "image": "dunkin-iced-beverage-buckets.jpg",
+      "lastConfirmed": "2026-08-27"
     },
     {
       "chain": "Burger King",
@@ -1507,7 +1508,7 @@
       "category": "chicken",
       "startDate": "2026-08-03",
       "endDate": "2026-08-30",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.nrn.com/quick-service/popeyes-latest-value-deal-features-its-new-tenders",
       "image": "popeyes-9-99-tenders-deal.jpg",
       "lastConfirmed": "2026-08-25"
@@ -1643,7 +1644,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://sporked.com/article/burger-king-free-whoppers/",
-      "image": "burger-king-free-whopper-via-text-promotion.jpg"
+      "image": "burger-king-free-whopper-via-text-promotion.jpg",
+      "lastConfirmed": "2026-08-27"
     },
     {
       "chain": "Starbucks",
@@ -1793,7 +1795,7 @@
       "category": "drink",
       "startDate": "2026-07-01",
       "endDate": "2026-08-24",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-smores-frappuccino-returns-after-six-years-with-new-a-new-smores-cold-brew/",
       "image": "starbucks-s-mores-frappuccino-s-mores-cold-brew-iced-s-mores-chai.jpg"
     },
@@ -1930,7 +1932,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
-      "image": "arby-s-steak-nuggets.jpg"
+      "image": "arby-s-steak-nuggets.jpg",
+      "lastConfirmed": "2026-08-27"
     },
     {
       "chain": "Jack in the Box",
@@ -2135,7 +2138,7 @@
       "category": "event",
       "startDate": "2026-08-03",
       "endDate": "2026-08-30",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.eatdrinkdeals.com/sonic-specials-sonic-coupons/",
       "image": "sonic-rewards-app-weekly-bogo-burger.jpg",
       "lastConfirmed": "2026-08-19",
@@ -2258,7 +2261,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://about.starbucks.com/press/2026/exploring-the-future-of-refreshment-with-sparkling-refresher-and-spritz/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-08-27"
     },
     {
       "chain": "Sonic",
@@ -2465,7 +2469,7 @@
       "category": "event",
       "startDate": "2026-08-14",
       "endDate": "2026-08-24",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.qsrmagazine.com/news/kfc-announces-bogo-promotion-for-new-popcorn-chicken-big-box/",
       "image": "kfc-popcorn-chicken-big-box-bogo-promotion.jpg"
     },
@@ -2603,7 +2607,7 @@
       "category": "food",
       "startDate": "2026-08-25",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": null,
       "imageUrl": null
@@ -2664,7 +2668,7 @@
       "category": "food",
       "startDate": "2026-08-26",
       "endDate": "2026-10-21",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.qsrmagazine.com/news/chipotle-to-launch-build-your-own-chipotle-family-meals-for-first-time/",
       "image": null,
       "imageUrl": null
@@ -2905,17 +2909,17 @@
     },
     {
       "chain": "Burger King",
-      "item": "Dragon Ball Super Collab (leaked, unconfirmed)",
-      "description": "Leaked-image reports point to a Dragon Ball Super tie-in expected in early September 2026 — not yet confirmed by Burger King. Rumored elements include a Super Saiyan Sauce, a Goku collectible cup, a new soft drink, Dragon Ball-themed paper crowns, and kids'-meal toys (Base Goku, Super Saiyan God Goku, Base Vegeta, Super Saiyan Vegeta, Piccolo, Beerus).",
+      "item": "Dragon Ball Super Collab",
+      "description": "Officially confirmed Dragon Ball Super tie-in launching in the US around Sept 1, 2026 (already live internationally, e.g. Mongolia, in late Aug 2026). Confirmed elements: a Super Saiyan Sauce, Goku-themed cup, redesigned Dragon Ball crown, and six kids'-meal collectible figures - base Goku, base Vegeta, Piccolo, Beerus, Super Saiyan Blue Goku, and Super Saiyan Blue Vegeta.",
       "category": "event",
       "startDate": "2026-09-01",
       "endDate": null,
       "status": "upcoming",
-      "source": "https://gamerant.com/dragon-ball-burger-king-menu-2026/",
+      "source": "https://www.cbr.com/dragon-ball-burger-king-super-saiyan-blue-goku-vegeta-collab/",
       "image": "burger-king-dragon-ball-super-collab-leaked-unconfirmed.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-08-27"
     },
     {
       "chain": "Chipotle",
@@ -3163,7 +3167,7 @@
       "image": "pizza-hut-10-any-pizza-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-27"
     },
     {
       "chain": "Pizza Hut",
@@ -3223,7 +3227,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "imageUrl": null,
       "image": null
@@ -3235,7 +3239,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "imageUrl": null,
       "image": null
@@ -3628,7 +3632,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": null
     },
@@ -3686,11 +3690,11 @@
       "description": "Chipotle's best-performing LTO protein (grilled chicken in a honey + chipotle pepper glaze) returned nationwide (US/Canada/UK/France/Germany) on April 28, 2026, billed as 'kicking off the summer season,' with $0 delivery fee April 28-May 11. Its prior 2025 run ended Aug 14, 2025, so a similar-season wind-down around now (mid/late Aug 2026) is likely though not yet confirmed.",
       "category": "chicken",
       "startDate": "2026-04-28",
-      "endDate": null,
+      "endDate": "2026-08-30",
       "status": "ending-soon",
-      "source": "https://ir.chipotle.com/2026-04-21-CHIPOTLE-KICKS-OFF-THE-SUMMER-SEASON-WITH-THE-RETURN-OF-HIGHLY-POPULAR-CHIPOTLE-HONEY-CHICKEN",
+      "source": "https://newsroom.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK",
       "image": "chipotle-chipotle-honey-chicken.jpg",
-      "lastConfirmed": "2026-08-25",
+      "lastConfirmed": "2026-08-27",
       "imageAuto": true
     },
     {
@@ -3722,7 +3726,7 @@
       "category": "event",
       "startDate": "2026-08-23",
       "endDate": "2026-09-06",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.prnewswire.com/news-releases/chipotle-celebrates-back-to-school-season-with-school-spirit-bogo-and-chipotle-sundays-deal-302852387.html",
       "image": "chipotle-chipotle-sundays.jpg",
       "imageAuto": true
@@ -3772,7 +3776,8 @@
       "status": "active",
       "source": "https://www.nrn.com/beverage-trends/sonic-s-fall-drink-lineup-is-cold-and-pumpkin-free",
       "image": "sonic-hotumn-fall-drink-lineup.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-08-27"
     },
     {
       "chain": "Taco Bell",
@@ -3921,7 +3926,7 @@
       "category": "burger",
       "startDate": "2026-08-18",
       "endDate": "2026-09-02",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.brandeating.com/2026/08/jack-in-box-tests-ufo-shaped-burgers.html",
       "image": "jack-in-the-box-cosmic-jack-combos-single-location-test.jpg",
       "imageAuto": true
@@ -3933,7 +3938,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://parade.com/news/starbucks-fall-2026-menu-causes-stir-fan-favorite-drink-missing-apple-crisp",
       "image": null
     },
@@ -4070,7 +4075,7 @@
       "category": "event",
       "startDate": "2026-08-27",
       "endDate": "2026-09-22",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.raisingcanes.com/plush-puppy/",
       "image": null
     },
@@ -4139,7 +4144,7 @@
       "category": "food",
       "startDate": "2026-08-25",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": null
     },
@@ -4255,7 +4260,7 @@
       "category": "donut",
       "startDate": "2026-08-27",
       "endDate": "2026-08-30",
-      "status": "upcoming",
+      "status": "ending-soon",
       "source": "https://www.restaurantnews.com/krispy-kreme-pumpkin-spice-original-glazed-doughnuts-082526/",
       "image": "krispy-kreme-pumpkin-spice-original-glazed-doughnut-bogo-promo.jpg",
       "imageAuto": true
@@ -4280,6 +4285,50 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/raising-canes-celebrates-30-years-with-pop-up-museum-and-50-million-in-giving/",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "10-Piece Nuggets for $1.99 (App Exclusive)",
+      "description": "App-exclusive digital offer: 10-piece Classic or Spicy Chicken Nuggets for $1.99 with any purchase, redeemable daily through the Wendy's app at participating U.S. restaurants.",
+      "category": "chicken",
+      "startDate": "2026-08-24",
+      "endDate": "2026-09-27",
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/nugget-lovers-rejoice-get-10-piece-wendys-nuggets-for-just-1-99-with-in-app-offer-302857563.html",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Chocolate Fudge & Caramel Empanadas",
+      "description": "Two warm, crispy empanadas ($2.99 for two) - one filled with salted caramel, one with chocolate fudge; launched nationwide March 3, 2026 alongside Live Mas Live 2026, later added to the Luxe Value Menu March 19, 2026. No independently-confirmed end date found; endDate is a best estimate based on Taco Bell's typical 4-8 week LTO cycle.",
+      "category": "dessert",
+      "startDate": "2026-03-03",
+      "endDate": "2026-04-30",
+      "status": "ended",
+      "source": "https://www.tacobell.com/newsroom/taco-bell-launches-chocolate-fudge-and-caramel-empanadas",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Cow Appreciation Day 2026",
+      "description": "Annual one-day promotion, revived for Chick-fil-A's 80th-anniversary 'Newstalgia' celebration: guests dressed in cow-themed attire received one free entree (Chicken Sandwich, Spicy Chicken Sandwich, or 8-ct Nuggets), in-restaurant only, 7am-7pm. Expanded to Canada for the first time this year.",
+      "category": "event",
+      "startDate": "2026-07-14",
+      "endDate": "2026-07-14",
+      "status": "ended",
+      "source": "https://www.chick-fil-a.com/customer-support/events-and-promotions/cow-appreciation-day/what-is-cow-appreciation-day",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Free Double Protein Day (Honey Chicken Farewell)",
+      "description": "One-day-only promo: free double protein (meat or Sofritas) added to one full-priced burrito, bowl, or salad entree via the Chipotle app, Chipotle.com or Chipotle.ca using code PROTEIN, while supplies last. Timed to the final week of Chipotle Honey Chicken. Not valid in-restaurant, via third-party delivery, or on High Protein Cup, tacos, quesadillas or kids' meals; US and Canada only.",
+      "category": "food",
+      "startDate": "2026-08-27",
+      "endDate": "2026-08-27",
+      "status": "ending-soon",
+      "source": "https://newsroom.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK",
       "image": null
     }
   ]

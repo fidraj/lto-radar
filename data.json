@@ -4297,7 +4297,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/02/burger-king-maple-bourbon-bbq-whopper-burger-king-2026.html",
-      "image": null
+      "image": "burger-king-maple-bourbon-bbq-whopper-2026-return.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",
@@ -4319,7 +4320,8 @@
       "endDate": null,
       "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/pizza-hut-teams-up-with-tom-brady-to-kick-off-pizza-before-the-hut-campaign-and-celebrates-pizza-huts-biggest-pizza-for-the-biggest-games-now-10-302654404.html",
-      "image": null
+      "image": "pizza-hut-pizza-before-the-hut-tom-brady-10-big-new-yorker.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Popeyes",

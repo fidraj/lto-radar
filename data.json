@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-27",
+  "researched": "2026-08-28",
   "items": [
     {
       "chain": "McDonald's",
@@ -275,18 +275,6 @@
       "status": "ended",
       "source": "https://dunkincoffeemenu.com/dunkin-august-2026-menu/",
       "image": "dunkin-blueberry-breeze-refresher.jpg",
-      "lastConfirmed": "2026-08-19"
-    },
-    {
-      "chain": "Dunkin'",
-      "item": "Fall Pumpkin Lineup (official return date confirmed)",
-      "description": "Dunkin's fall 2026 menu, confirmed via the brand's own Instagram announcement for an Aug 19 pumpkin return; concrete items added separately.",
-      "category": "drink",
-      "startDate": "2026-08-19",
-      "endDate": null,
-      "status": "active",
-      "source": "https://parade.com/food/dunkin-confirms-pumpkin-return-date-fall-menu-2026-launch-fans-demand-spider-donut-spidey-d",
-      "image": null,
       "lastConfirmed": "2026-08-19"
     },
     {
@@ -603,7 +591,7 @@
     {
       "chain": "KFC",
       "item": "Tropical Passionfruit Lemonade",
-      "description": "New summer beverage available straight or mixed with Starry or Mtn Dew Sweet Lightning, or as an iced tea; part of KFC's summer 2026 beverage push.",
+      "description": "New summer beverage available straight or mixed with Starry or Mtn Dew Sweet Lightning, or as an iced tea; part of KFC's summer 2024 beverage push.",
       "category": "drink",
       "startDate": "2024-06-10",
       "endDate": "2024-09-30",
@@ -656,7 +644,7 @@
     {
       "chain": "Chick-fil-A",
       "item": "Pretzel Cheddar Club Sandwich",
-      "description": "New fall 2026 sandwich: boneless chicken breast (original, spicy, or grilled), lettuce, tomato, cheddar, applewood smoked bacon, and Creamy Dijon Mustard Sauce on a buttery pretzel bun.",
+      "description": "New fall 2025 sandwich: boneless chicken breast (original, spicy, or grilled), lettuce, tomato, cheddar, applewood smoked bacon, and Creamy Dijon Mustard Sauce on a buttery pretzel bun.",
       "category": "sandwich",
       "startDate": "2025-08-18",
       "endDate": "2025-11-08",
@@ -1394,7 +1382,7 @@
       "category": "event",
       "startDate": "2026-08-06",
       "endDate": "2026-08-27",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.brandeating.com/2026/07/99-cent-corn-dog-days-at-sonic-july-2026.html",
       "image": "sonic-99-corn-dog-thursdays.jpg"
     },
@@ -1598,7 +1586,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-08-28"
     },
     {
       "chain": "KFC",
@@ -2005,8 +1994,8 @@
       "description": "Seven new-market restaurant openings (including first stores in Rocky Mount, NC and Statesboro, GA) plus 4 remodeled reopenings, marking 30 years since the Aug 28, 1996 founding.",
       "category": "event",
       "startDate": "2026-08-01",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-08-24",
+      "status": "ended",
       "source": "https://www.fastcompany.com/91584029/raising-canes-opening-stores-august-2026-list-of-new-restaurants",
       "image": null
     },
@@ -2798,7 +2787,7 @@
       "description": "One of Chipotle's most-requested items, marinated with seared morita peppers, ground achiote, a splash of pineapple, fresh lime and hand-chopped cilantro; returned to kick off 2026 menu innovation, then left the rotation to make room for the returning Chipotle Honey Chicken.",
       "category": "chicken",
       "startDate": "2026-02-10",
-      "endDate": "2026-04-28",
+      "endDate": "2026-04-27",
       "status": "ended",
       "source": "https://newsroom.chipotle.com/2026-01-27-CHIPOTLE-KICKS-OFF-2026-MENU-INNOVATION-WITH-THE-RETURN-OF-CHICKEN-AL-PASTOR,-ONE-OF-ITS-MOST-REQUESTED-ITEMS",
       "image": "chipotle-chicken-al-pastor-returned-since-ended.jpg",
@@ -2989,11 +2978,11 @@
     {
       "chain": "Chick-fil-A",
       "item": "Golden Fan Cup Sweepstakes & Classic Cups (Newstalgia campaign)",
-      "description": "Year-long 80th-anniversary 'Newstalgia' celebration: $3.99 retro-design Classic Cups (four rotating archive styles) sold nationwide; one includes a hidden Golden Fan Cup card good for free Chick-fil-A for a year (52 entrées) for 3,000 winners.",
+      "description": "Year-long 80th-anniversary 'Newstalgia' celebration: $3.99 retro-design Classic Cups (four rotating archive styles) sold nationwide, one including a hidden Golden Fan Cup card good for free Chick-fil-A for a year (52 entrees) for 3,000 winners. The sweepstakes entry window closed July 1, 2026 per official rules; Classic Cups themselves continued selling while supplies lasted.",
       "category": "event",
       "startDate": "2026-01-05",
-      "endDate": "2026-12-31",
-      "status": "active",
+      "endDate": "2026-07-01",
+      "status": "ended",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-launches-collectible-classic-cups-and-yearlong-celebration",
       "image": "chick-fil-a-golden-fan-cup-sweepstakes-classic-cups-newstalgia-campaign.jpg",
       "imageUrl": null,
@@ -3107,8 +3096,8 @@
       "description": "Tied to the 30th-anniversary restaurant-opening wave: at new/reopened locations, the first 100 dine-in customers to buy a combo meal receive a gift (hat or beanie) plus a 'Be Our Guest' card good for one free Box Combo on a future visit. Reported via a secondary summary; original article could not be independently verified.",
       "category": "event",
       "startDate": "2026-08-01",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-08-24",
+      "status": "ended",
       "source": "https://www.thestreet.com/restaurants/30-year-old-restaurant-announces-big-new-update-for-customers-raising-canes-opening-new-locations",
       "image": null,
       "imageUrl": null
@@ -3290,10 +3279,10 @@
     {
       "chain": "Dairy Queen",
       "item": "BOGO Blizzard App Deal",
-      "description": "DQ Rewards app-exclusive offer reported by menu-aggregator sites: buy one Blizzard Treat, get a second free, following the Aug 3-30 Double Flip 99-cent deal. Not yet corroborated by an official DQ press release.",
+      "description": "DQ Rewards app-exclusive offer: buy one Blizzard Treat, get a second free, Sept 9-22, 2026, following the Aug 3-30 Double Flip 99-cent deal. Matches DQ's Sept 9-22 pattern from 2024/2025.",
       "category": "dessert",
       "startDate": "2026-09-09",
-      "endDate": "2026-09-25",
+      "endDate": "2026-09-22",
       "status": "upcoming",
       "source": "https://www.dairyqueen.com/en-us/bogo-blizzard/",
       "imageUrl": null,
@@ -3615,28 +3604,6 @@
       }
     },
     {
-      "chain": "Starbucks",
-      "item": "Unicorn Frappuccino (one-weekend return)",
-      "description": "Starbucks brought back its original 2017 Unicorn Frappuccino recipe (mango flavors, tangy blue drizzle, whipped cream, pink/blue topping) for one weekend only, grande size only.",
-      "category": "drink",
-      "startDate": "2026-08-15",
-      "endDate": "2026-08-17",
-      "status": "ended",
-      "source": "https://www.brandeating.com/2026/08/starbucks-unicorn-frappuccino-returns-weekend-august-15-2026.html",
-      "image": null
-    },
-    {
-      "chain": "Starbucks",
-      "item": "New Pumpkin Beverages: Iced Pumpkin Cream Shaken Espresso, Pumpkin Spice Chai & Iced Pumpkin Cream Matcha",
-      "description": "New pumpkin-flavored drinks joining the returning Pumpkin Cream Cold Brew, Iced Pumpkin Cream Chai, and Pumpkin Spice Frappuccino as part of the fall 2026 menu launch.",
-      "category": "drink",
-      "startDate": "2026-08-25",
-      "endDate": null,
-      "status": "active",
-      "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
-      "image": null
-    },
-    {
       "chain": "KFC",
       "item": "Value Feast: $7/$9/$11 Box Feasts (featuring the KFC Snacker)",
       "description": "Three-tier value lineup: $7 Box Feast (Snacker, 5 nuggets, fries, medium drink, sauce), $9 Box Feast (two Snackers + sides), $11 Box Feast (chicken sandwich, two tenders, fries, medium drink).",
@@ -3672,17 +3639,6 @@
       "source": "https://parade.com/food/dunkin-confirms-pumpkin-return-date-fall-menu-2026-launch-fans-demand-spider-donut-spidey-d",
       "image": null,
       "lastConfirmed": "2026-08-23"
-    },
-    {
-      "chain": "Chipotle",
-      "item": "Chicken al Pastor",
-      "description": "Fan-requested protein (adobo, morita peppers, ground achiote, pineapple, lime, cilantro) returned nationwide Feb 10, 2026 as a limited-time offering, then was pulled from the menu to make room for Honey Chicken's return on April 28, 2026.",
-      "category": "chicken",
-      "startDate": "2026-02-10",
-      "endDate": "2026-04-27",
-      "status": "ended",
-      "source": "https://newsroom.chipotle.com/2026-01-27-CHIPOTLE-KICKS-OFF-2026-MENU-INNOVATION-WITH-THE-RETURN-OF-CHICKEN-AL-PASTOR,-ONE-OF-ITS-MOST-REQUESTED-ITEMS",
-      "image": null
     },
     {
       "chain": "Chipotle",
@@ -4327,10 +4283,65 @@
       "category": "food",
       "startDate": "2026-08-27",
       "endDate": "2026-08-27",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://newsroom.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK",
       "image": "chipotle-free-double-protein-day-honey-chicken-farewell.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Burger King",
+      "item": "Maple Bourbon BBQ Whopper (2026 return)",
+      "description": "1/4 lb flame-grilled beef patty with maple bourbon BBQ sauce, crispy onions and jalapenos, smoky maple candied bacon and American cheese on a sesame bun; originated from the 2024 Million Dollar Whopper Contest, returned for a limited time.",
+      "category": "burger",
+      "startDate": "2026-02-24",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.brandeating.com/2026/02/burger-king-maple-bourbon-bbq-whopper-burger-king-2026.html",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Hot Streak Quest (PGA TOUR 2K25 Collab)",
+      "description": "First-of-its-kind in-game quest integration in PGA TOUR 2K25's Season 7 MyCAREER mode: three Chipotle-themed chapters let players earn real-world Free Entree and Free Double Protein codes (80,000 total) plus exclusive in-game gear and a physical limited-edition Chipotle fork-shaped divot tool.",
+      "category": "event",
+      "startDate": "2026-07-08",
+      "endDate": "2026-07-29",
+      "status": "ended",
+      "source": "https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION",
+      "image": null
+    },
+    {
+      "chain": "Pizza Hut",
+      "item": "\"Pizza Before the Hut\" Tom Brady $10 Big New Yorker",
+      "description": "NFL-season promo fronted by Tom Brady: 16\" Big New Yorker pizza for $10, tied to a broadcast-mention stunt campaign for Pizza Hut's biggest pizza during the biggest games.",
+      "category": "food",
+      "startDate": "2026-01-07",
+      "endDate": null,
+      "status": "ended",
+      "source": "https://www.prnewswire.com/news-releases/pizza-hut-teams-up-with-tom-brady-to-kick-off-pizza-before-the-hut-campaign-and-celebrates-pizza-huts-biggest-pizza-for-the-biggest-games-now-10-302654404.html",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "12 for $12 Wings/Tenders Deal (returning)",
+      "description": "Popeyes Rewards members can get 12-piece bone-in or boneless wings, or 12-piece tenders (classic/spicy/blackened), for $12 via app/website only, one redemption per order. This deal has recurred multiple times through 2026.",
+      "category": "chicken",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-31",
+      "status": "ending-soon",
+      "source": "https://qz.com/popeyes-12-for-12-wings-tenders-deal-082726",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "National Chicken Wing Day Free Wings Promo",
+      "description": "Tied to National Chicken Wing Day (July 29): free 6-piece bone-in wings in-store with purchase of a 6-piece bone-in order; free spicy 6-piece bone-in wings for Popeyes Rewards app/web members; BOGO 6-piece wings (bone-in or boneless) via Uber Eats/DoorDash.",
+      "category": "chicken",
+      "startDate": "2026-07-29",
+      "endDate": "2026-08-03",
+      "status": "ended",
+      "source": "https://www.foxbusiness.com/lifestyle/how-get-free-chicken-from-popeyes-raising-canes-next-week",
+      "image": null
     }
   ]
 }

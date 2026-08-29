@@ -4365,7 +4365,8 @@
       "endDate": "while supplies last",
       "status": "upcoming",
       "source": "https://news.dunkindonuts.com/news/dunkin-tennis-takeover-august-2026",
-      "image": null
+      "image": "dunkin-limited-edition-mini-tennis-can-tennis-takeover.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Dairy Queen",

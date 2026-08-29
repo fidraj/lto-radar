@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-28",
+  "researched": "2026-08-29",
   "items": [
     {
       "chain": "McDonald's",
@@ -716,7 +716,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/sonic-launches-2026-summer-menu.html",
       "image": "sonic-tropical-heat-sonic-smasher.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Sonic",
@@ -728,7 +728,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/sonic-launches-2026-summer-menu.html",
       "image": "sonic-tropical-cream-slush.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Sonic",
@@ -740,7 +740,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/sonic-pours-new-red-white-and-blue-slush-float/",
       "image": "sonic-red-white-blue-slush-float.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Sonic",
@@ -752,7 +752,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/sonic-new-7-dollar-big-meal-deal.html",
       "image": "sonic-7-big-deal-meal.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Arby's",
@@ -764,7 +764,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
       "image": "arby-s-quarter-pound-bbq-menu-pulled-pork-chopped-brisket.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Arby's",
@@ -776,7 +776,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
       "image": "arby-s-bbq-mac-bowl.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Arby's",
@@ -788,7 +788,7 @@
       "status": "ending-soon",
       "source": "https://www.brandeating.com/2026/05/arbys-pecan-chicken-salad-sandwich-and-orange-cream-shake-summer-2026.html",
       "image": "arby-s-pecan-chicken-salad-sandwich.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Arby's",
@@ -800,7 +800,7 @@
       "status": "ending-soon",
       "source": "https://www.brandeating.com/2026/05/arbys-pecan-chicken-salad-sandwich-and-orange-cream-shake-summer-2026.html",
       "image": "arby-s-orange-cream-shake.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Jack in the Box",
@@ -848,7 +848,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-welcomes-back-the-chicken-supreme-and-introduces-jibbis/",
       "image": "jack-in-the-box-chicken-supreme-75th-anniversary-return.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Dairy Queen",
@@ -1047,7 +1047,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://themusicuniverse.com/megan-moroney-teams-with-raising-canes-for-exclusive-cloud-9-collectors-cups/",
-      "image": "raising-cane-s-megan-moroney-cloud-9-souvenir-cup.jpg"
+      "image": "raising-cane-s-megan-moroney-cloud-9-souvenir-cup.jpg",
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Zaxby's",
@@ -1127,7 +1128,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/pizza-hut-introduces-new-throwback-value-menu-to-celebrate-its-most-iconic-menu-items-302824512.html",
-      "image": "pizza-hut-throwback-value-menu.jpg"
+      "image": "pizza-hut-throwback-value-menu.jpg",
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Pizza Hut",
@@ -1150,7 +1152,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/pizza-hut-new-triple-cheese-mac-smores-sticks-value-menu.html",
-      "image": "pizza-hut-triple-cheese-mac-new.jpg"
+      "image": "pizza-hut-triple-cheese-mac-new.jpg",
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Pizza Hut",
@@ -1304,7 +1307,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260601211848/en/SONIC-Debuts-the-$7-Big-Deal-Meal-Bringing-More-of-What-Guests-Want-for-Less",
       "image": "sonic-1-99-value-menu.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Sonic",
@@ -1316,7 +1319,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260518500381/en/SONIC-Expands-Its-Refreshers-Platform-Adding-Frozen-Refreshers-Featuring-a-Brand-New-Watermelon-Peach-Flavor",
       "image": "sonic-frozen-refreshers-incl-new-watermelon-peach.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Dunkin'",
@@ -1347,20 +1350,20 @@
       "item": "Cheesy G Sliders",
       "description": "Flatbread-wrapped fried-shell sliders with steak or chicken and a three-cheese blend; announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed launch date yet.",
       "category": "food",
-      "startDate": "2026-08-07",
+      "startDate": null,
       "endDate": null,
-      "status": "active",
+      "status": "upcoming",
       "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
       "image": null
     },
     {
       "chain": "Taco Bell",
       "item": "Mountain Dew Baja Midnight Pie",
-      "description": "Follow-up to the Baja Blast Pie, announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed launch date yet; early reports point to a winter holidays 2026 debut, following the original Baja Blast Pie's Nov 2025 launch pattern.",
+      "description": "Follow-up to the Baja Blast Pie, announced as part of Taco Bell's 2026 Live Más Live menu roadmap. Confirmed nationwide release Nov 6, 2026, timed for Thanksgiving week, matching the original Baja Blast Pie's Nov 2025 launch pattern.",
       "category": "dessert",
-      "startDate": "2026-08-07",
+      "startDate": "2026-11-06",
       "endDate": null,
-      "status": "active",
+      "status": "upcoming",
       "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
       "image": null
     },
@@ -1369,9 +1372,9 @@
       "item": "Milk Bar Birthday Cake Empanada",
       "description": "Dessert collaboration with Milk Bar, announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed launch date yet.",
       "category": "dessert",
-      "startDate": "2026-08-05",
+      "startDate": null,
       "endDate": null,
-      "status": "active",
+      "status": "upcoming",
       "source": "https://www.prnewswire.com/news-releases/taco-bell-reveals-its-2026-menu-innovations-at-live-mas-live-a-night-at-the-palladium--a-star-powered-hollywood-spectacle-now-streaming-on-peacock-302709053.html",
       "image": null
     },
@@ -1395,7 +1398,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-new-buffalo-ranch-chicken-sandwich/",
-      "image": "arby-s-buffalo-ranch-chicken-sandwich.jpg"
+      "image": "arby-s-buffalo-ranch-chicken-sandwich.jpg",
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Wingstop",
@@ -1417,7 +1421,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-and-rob-rausch-bring-an-iconic-southern-flavor-to-fans-nationwide-with-limited-drop-of-alabama-white-bbq-sauce-302840598.html",
-      "image": "zaxby-s-alabama-white-bbq-sauce-limited-drop.jpg"
+      "image": "zaxby-s-alabama-white-bbq-sauce-limited-drop.jpg",
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Starbucks",
@@ -1463,7 +1468,7 @@
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/arbys-launches-lineup-of-1-99-sliders/",
       "image": "arby-s-1-99-sliders-lineup.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Jack in the Box",
@@ -1475,7 +1480,7 @@
       "status": "active",
       "source": "https://www.qsrweb.com/news/jack-in-the-box-launches-slider-meal-75k-giveaway-for-anniversary/",
       "image": "jack-in-the-box-smashed-jack-sliders.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Jack in the Box",
@@ -1487,7 +1492,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-adds-new-sweet-reaper-mozzarella-sticks-as-classic-version-returns/",
       "image": "jack-in-the-box-sweet-reaper-mozzarella-sticks.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Popeyes",
@@ -1571,9 +1576,9 @@
       "item": "Firecracker Burrito",
       "description": "Red flour tortilla burrito with seasoned rice, nacho cheese sauce, seasoned beef, Fiesta tortilla strips, creamy chipotle sauce, reduced-fat sour cream, and a sprinkling of cayenne poppin' crystals for a popping-candy effect; announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed nationwide launch date yet.",
       "category": "food",
-      "startDate": "2026-08-08",
+      "startDate": null,
       "endDate": null,
-      "status": "active",
+      "status": "upcoming",
       "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
       "image": null
     },
@@ -1656,7 +1661,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://sporked.com/article/popeyes-just-sneakily-added-new-onion-rings/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Chipotle",
@@ -1899,7 +1905,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/arbys-introduces-new-meat-3-box-meal.html",
       "image": "arby-s-meat-3-box-meal.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Arby's",
@@ -1934,7 +1940,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/A-Matcha-Made-in-Heaven-Jack-in-the-Box-Launches-Matcha-Beverage-Lineup-Nationwide/default.aspx",
       "image": "jack-in-the-box-matcha-beverage-platform-matcha-iced-latte-oreo-matcha-shake.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Jack in the Box",
@@ -1946,7 +1952,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Serves-Up-New-Protein-Bowl-Flavors-and-2-for-6-Jack-Wraps-Including-the-Best-Rated-Wrap-in-Fast-Food/default.aspx",
       "image": "jack-in-the-box-protein-bowls-teriyaki-fajita-and-2-for-6-jack-wraps.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Jack in the Box",
@@ -1986,7 +1992,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/popeyes-officially-dips-into-the-party-with-their-first-ever-signature-sauce-designed-to-enhance-the-dipping-experience-302503975.html",
       "image": "popeyes-chicken-dippers.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Raising Cane's",
@@ -2160,7 +2166,7 @@
       "status": "active",
       "source": "https://x.com/JackBox/status/2008632993057849430",
       "image": null,
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Popeyes",
@@ -2263,7 +2269,7 @@
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/sonic-adds-garlic-parmesan-ranch-crispy-tender-wrap-to-1-99-menu/",
       "image": "sonic-garlic-parmesan-ranch-crispy-tender-wrap.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Sonic",
@@ -2309,7 +2315,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://ir.dominos.com/news-releases/news-release-details/dominosr-fires-summer-new-smores-lava-cakes",
-      "image": "domino-s-s-mores-lava-cakes.jpg"
+      "image": "domino-s-s-mores-lava-cakes.jpg",
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Popeyes",
@@ -2549,7 +2556,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.mensjournal.com/food/jack-in-the-box-new-menu-protein-wraps-bowls",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "McDonald's",
@@ -2942,9 +2950,9 @@
       "item": "Salt & Straw Tacolate Chiller",
       "description": "Sippable, blended frozen version of Taco Bell's 'Tacolate' (choco-taco-inspired) dessert, made in collaboration with ice cream brand Salt & Straw; announced among 20+ new items at Taco Bell's 2026 Live Más Live reveal. No confirmed nationwide launch date yet.",
       "category": "drink",
-      "startDate": "2026-08-15",
+      "startDate": null,
       "endDate": null,
-      "status": "active",
+      "status": "upcoming",
       "source": "https://www.cookist.com/taco-bell-unveils-20-new-menu-items-for-2026-and-makes-nacho-fries-permanent/",
       "image": null,
       "imageUrl": null
@@ -3076,7 +3084,8 @@
       "status": "active",
       "source": "https://ktla.com/food/jack-in-the-box-marks-75th-anniversary-with-yearlong-celebration-featuring-new-foods-giveaways/",
       "image": null,
-      "imageUrl": null
+      "imageUrl": null,
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Dairy Queen",
@@ -3479,7 +3488,7 @@
       "image": "domino-s-perfect-combo-deal-19-99.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-25",
+      "lastConfirmed": "2026-08-29",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2012-06-18",
@@ -3564,7 +3573,7 @@
       "image": "raising-cane-s-raising-cane-s-x-gigapet.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-25",
+      "lastConfirmed": "2026-08-29",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2025-11-19",
@@ -4087,9 +4096,9 @@
       "item": "Queso Cracked Cantina Bowl",
       "description": "Rice bowl with Cantina chicken, black beans, lettuce, purple cabbage, reduced-fat sour cream, pico de gallo, cotija dip, chile lime seasoning, and crispy cheddar cheese chips; announced among 20+ new items at Taco Bell's 2026 Live Mas Live reveal. No confirmed nationwide launch date yet.",
       "category": "food",
-      "startDate": "2026-08-05",
+      "startDate": null,
       "endDate": null,
-      "status": "active",
+      "status": "upcoming",
       "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
       "image": null
     },
@@ -4241,7 +4250,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/raising-canes-celebrates-30-years-with-pop-up-museum-and-50-million-in-giving/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Wendy's",
@@ -4294,8 +4304,8 @@
       "description": "1/4 lb flame-grilled beef patty with maple bourbon BBQ sauce, crispy onions and jalapenos, smoky maple candied bacon and American cheese on a sesame bun; originated from the 2024 Million Dollar Whopper Contest, returned for a limited time.",
       "category": "burger",
       "startDate": "2026-02-24",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-06-01",
+      "status": "ended",
       "source": "https://www.brandeating.com/2026/02/burger-king-maple-bourbon-bbq-whopper-burger-king-2026.html",
       "image": "burger-king-maple-bourbon-bbq-whopper-2026-return.jpg",
       "imageAuto": true
@@ -4317,11 +4327,12 @@
       "description": "NFL-season promo fronted by Tom Brady: 16\" Big New Yorker pizza for $10, tied to a broadcast-mention stunt campaign for Pizza Hut's biggest pizza during the biggest games.",
       "category": "food",
       "startDate": "2026-01-07",
-      "endDate": null,
+      "endDate": "2026-02-08",
       "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/pizza-hut-teams-up-with-tom-brady-to-kick-off-pizza-before-the-hut-campaign-and-celebrates-pizza-huts-biggest-pizza-for-the-biggest-games-now-10-302654404.html",
       "image": "pizza-hut-pizza-before-the-hut-tom-brady-10-big-new-yorker.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-08-29"
     },
     {
       "chain": "Popeyes",
@@ -4339,10 +4350,54 @@
       "item": "National Chicken Wing Day Free Wings Promo",
       "description": "Tied to National Chicken Wing Day (July 29): free 6-piece bone-in wings in-store with purchase of a 6-piece bone-in order; free spicy 6-piece bone-in wings for Popeyes Rewards app/web members; BOGO 6-piece wings (bone-in or boneless) via Uber Eats/DoorDash.",
       "category": "chicken",
-      "startDate": "2026-07-29",
-      "endDate": "2026-08-03",
+      "startDate": "2025-07-29",
+      "endDate": "2025-08-03",
       "status": "ended",
       "source": "https://www.foxbusiness.com/lifestyle/how-get-free-chicken-from-popeyes-raising-canes-next-week",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Limited-Edition Mini Tennis Can (Tennis Takeover)",
+      "description": "One-day promo tied to Dunkin's Tennis Takeover: guests who buy 3 MUNCHKINS Donut Hole Treats get a free Limited-Edition Mini Tennis Can (a 3-count Munchkins assortment in tennis-ball-can packaging), limited to the first 20 guests per participating store, on Sun. Aug 30, 2026. Runs alongside new HEAD x Dunkin' tennis merch.",
+      "category": "event",
+      "startDate": "2026-08-30",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://news.dunkindonuts.com/news/dunkin-tennis-takeover-august-2026",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Strawberry Angel Food Cake Blizzard Treat",
+      "description": "Spring 'Countdown to Summer' Blizzard: light angel food cake pieces and real strawberries blended with DQ soft serve, garnished with whipped topping. Launched alongside a BOGO 99-cent app deal (Mar 30-Apr 26) and the returning S'mores and Cotton Candy Blizzards. End date is a best estimate - DQ did not announce a specific sellout date for the flavor itself, only for the BOGO offer.",
+      "category": "dessert",
+      "startDate": "2026-03-30",
+      "endDate": "2026-08-25",
+      "status": "ended",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Dairy-Queen-Serves-Up-Early-Access-to-Summer-Vibes-with-Countdown-to-Summer-Collection-Featuring-a-New-Blizzard-Treat-and-the-Return-of-Two-Fan-Favorites/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "S'mores Blizzard Treat (Countdown to Summer return)",
+      "description": "Returning flavor in DQ's March 2026 'Countdown to Summer' collection: marshmallow-filled DQ chocolate bars and graham cracker blended with soft serve. Ran alongside the new Strawberry Angel Food Cake Blizzard and the Cotton Candy Blizzard. End date is a best estimate.",
+      "category": "dessert",
+      "startDate": "2026-03-30",
+      "endDate": "2026-08-25",
+      "status": "ended",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Dairy-Queen-Serves-Up-Early-Access-to-Summer-Vibes-with-Countdown-to-Summer-Collection-Featuring-a-New-Blizzard-Treat-and-the-Return-of-Two-Fan-Favorites/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Cotton Candy Blizzard Treat (Countdown to Summer return)",
+      "description": "Returning flavor in DQ's March 2026 'Countdown to Summer' collection: colorful cotton candy sprinkles blended with soft serve. Ran alongside the new Strawberry Angel Food Cake Blizzard and the S'mores Blizzard. End date is a best estimate.",
+      "category": "dessert",
+      "startDate": "2026-03-30",
+      "endDate": "2026-08-25",
+      "status": "ended",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Dairy-Queen-Serves-Up-Early-Access-to-Summer-Vibes-with-Countdown-to-Summer-Collection-Featuring-a-New-Blizzard-Treat-and-the-Return-of-Two-Fan-Favorites/default.aspx",
       "image": null
     }
   ]

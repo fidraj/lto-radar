@@ -1,5 +1,5 @@
 {
-  "researched": "2026-08-30",
+  "researched": "2026-08-31",
   "items": [
     {
       "chain": "McDonald's",
@@ -1650,7 +1650,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-energy-refreshers-go-blended-adding-a-smooth-frozen-twist/",
-      "image": "starbucks-blended-energy-refreshers-lineup.jpg"
+      "image": "starbucks-blended-energy-refreshers-lineup.jpg",
+      "lastConfirmed": "2026-08-31"
     },
     {
       "chain": "Popeyes",
@@ -2232,18 +2233,18 @@
       "category": "food",
       "startDate": "2026-08-31",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://ir.dominos.com/news-releases/news-release-details/after-more-65-years-dominosr-launch-first-pizza-worthy-its-name",
       "image": "domino-s-the-domino-detroit-style-personal-pizza.jpg"
     },
     {
       "chain": "Dunkin'",
       "item": "Parke Daydream Refresher (Parke collab)",
-      "description": "Strawberry-flavored pink Refresher collab with clothing brand Parke: triple strawberry flavors (including Strawberry Dragonfruit and a strawberry flavor shot) with oatmilk, topped with pink Strawberry Cold Foam. Launched nationwide July 17, 2026 alongside a limited-edition Parke x Dunkin' apparel/tumbler collection; no official end date announced.",
+      "description": "Strawberry-flavored pink Refresher collab with clothing brand Parke: triple strawberry flavors (including Strawberry Dragonfruit and a strawberry flavor shot) with oatmilk, topped with pink Strawberry Cold Foam. Launched nationwide July 17, 2026 alongside a limited-edition Parke x Dunkin' apparel/tumbler collection; no official end date announced, but estimated ended ~Aug 18, 2026 when Dunkin' rotated in its fall/tennis Refreshers lineup (paired summer Refreshers Pink Daydream and Golden Hour/Blueberry Breeze all ended the same week) - re-verify if contradicted.",
       "category": "drink",
       "startDate": "2026-07-17",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-08-18",
+      "status": "ended",
       "source": "https://news.dunkindonuts.com/news/dunkin-x-parke-july-2026",
       "image": "dunkin-parke-daydream-refresher-parke-collab.jpg"
     },
@@ -2262,11 +2263,11 @@
     {
       "chain": "Sonic",
       "item": "Garlic Parmesan Ranch Crispy Tender Wrap",
-      "description": "All-white-meat crispy chicken tender with melty cheddar cheese, lettuce, tomatoes, and garlic parmesan ranch sauce in a soft flour tortilla; added to Sonic's $1.99 Menu alongside the Cheesy Baja Crispy Tender Wrap, Jr. Bacon Cheeseburger, Vanilla Soft Serve Cup, and Small Root Beer Float.",
+      "description": "All-white-meat crispy chicken tender with melty cheddar cheese, lettuce, tomatoes, and garlic parmesan ranch sauce in a soft flour tortilla; added to Sonic's $1.99 Menu alongside the Cheesy Baja Crispy Tender Wrap, Jr. Bacon Cheeseburger, Vanilla Soft Serve Cup, and Small Root Beer Float. (Estimated end date: Sonic's $1.99 wrap rotation swaps to the BBQ Ranch Crispy Tender Wrap on Sept 1 - re-verify.)",
       "category": "food",
       "startDate": "2026-07-01",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-08-31",
+      "status": "ending-soon",
       "source": "https://www.qsrmagazine.com/news/sonic-adds-garlic-parmesan-ranch-crispy-tender-wrap-to-1-99-menu/",
       "image": "sonic-garlic-parmesan-ranch-crispy-tender-wrap.jpg",
       "lastConfirmed": "2026-08-30"
@@ -4225,7 +4226,7 @@
       "category": "donut",
       "startDate": "2026-08-27",
       "endDate": "2026-08-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.restaurantnews.com/krispy-kreme-pumpkin-spice-original-glazed-doughnuts-082526/",
       "image": "krispy-kreme-pumpkin-spice-original-glazed-doughnut-bogo-promo.jpg",
       "imageAuto": true
@@ -4432,6 +4433,72 @@
       "endDate": "2026-03-31",
       "status": "ended",
       "source": "https://www.qsrmagazine.com/news/arbys-launches-new-italian-beef-dip-sandwich/",
+      "image": null
+    },
+    {
+      "chain": "KFC",
+      "item": "Hot Ranch Loaded Wedges",
+      "description": "Large order of KFC's crispy potato wedges topped with pickle slices and drizzled with the new Hot Ranch sauce; launched alongside the returning Hot Ranch Big Dip and Double Crispy Hot Wings.",
+      "category": "food",
+      "startDate": "2026-08-24",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/kfc-debuts-new-hot-ranch-big-dip-taps-ishowspeed-to-bring-big-dip-energy-nationwide-302858454.html",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Frosty Key Tags 2026",
+      "description": "$3 key tag (in-store, on the Wendy's app, or via the Dave Thomas Foundation for Adoption) redeemable for a free Jr. Frosty with any purchase every day through the end of 2026; proceeds benefit the Dave Thomas Foundation for Adoption. Key tags were sold roughly Feb 2 - Apr 5, 2026.",
+      "category": "event",
+      "startDate": "2026-02-02",
+      "endDate": "2026-12-31",
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/wendys-frosty-key-tags-return-for-limited-time/",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Cheesy Bacon Cheeseburger",
+      "description": "Quarter-pound beef patty with applewood-smoked bacon, two slices of American cheese, and cheddar cheese sauce on a toasted bun; launched nationwide as a limited-time item. No confirmed end date found in current sourcing - re-verify.",
+      "category": "burger",
+      "startDate": "2026-02-16",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/fresh-bold-protein-packed-wendys-introduces-two-savory-menu-innovations-302684680.html",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Chicken Tenders Ranch Wrap",
+      "description": "Crispy chicken tenders, lettuce, cheddar cheese, and ranch dressing wrapped in a tortilla; launched nationwide as a limited-time item alongside the Cheesy Bacon Cheeseburger. No confirmed end date found in current sourcing - re-verify.",
+      "category": "sandwich",
+      "startDate": "2026-02-16",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/fresh-bold-protein-packed-wendys-introduces-two-savory-menu-innovations-302684680.html",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "\"Go for 2\" $2 Original Glazed Dozen (Labor Day weekend)",
+      "description": "Buy any dozen doughnuts at regular price, get an Original Glazed dozen for $2; Labor Day weekend college-football tie-in promo, replacing the prior week's Pumpkin Spice BOGO deal.",
+      "category": "donut",
+      "startDate": "2026-08-29",
+      "endDate": "2026-09-02",
+      "status": "active",
+      "source": "https://6abc.com/post/krispy-kreme-celebrating-labor-day-weekend-2-dozen-donut-deal/15252141/",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Spicy Sauced & Loaded Potato Wedges",
+      "description": "Potato wedges topped with cheddar sauce, bacon crumbles, Spicy Good Good Sauce and jalapenos; launched alongside a Plain Potato Wedges option as part of the Sauced & Loaded Potato Wedges return.",
+      "category": "food",
+      "startDate": "2026-08-07",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.brandeating.com/2026/08/potato-wedges-are-back-at-jack-in-box.html",
       "image": null
     }
   ]

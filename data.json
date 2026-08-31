@@ -4444,7 +4444,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-debuts-new-hot-ranch-big-dip-taps-ishowspeed-to-bring-big-dip-energy-nationwide-302858454.html",
-      "image": null
+      "image": "kfc-hot-ranch-loaded-wedges.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Wendy's",
@@ -4477,7 +4478,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/fresh-bold-protein-packed-wendys-introduces-two-savory-menu-innovations-302684680.html",
-      "image": null
+      "image": "wendy-s-chicken-tenders-ranch-wrap.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Krispy Kreme",

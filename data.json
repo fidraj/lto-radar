@@ -4484,11 +4484,11 @@
     {
       "chain": "Krispy Kreme",
       "item": "\"Go for 2\" $2 Original Glazed Dozen (Labor Day weekend)",
-      "description": "Buy any dozen doughnuts at regular price, get an Original Glazed dozen for $2; Labor Day weekend college-football tie-in promo, replacing the prior week's Pumpkin Spice BOGO deal.",
+      "description": "Buy any dozen doughnuts at regular price, get an Original Glazed dozen for $2; Labor Day weekend college-football tie-in promo, replacing the prior week's Pumpkin Spice BOGO deal. Ran Labor Day weekend 2025 (article year misread as 2026 in a prior run - CI flagged the mismatch).",
       "category": "donut",
-      "startDate": "2026-08-29",
-      "endDate": "2026-09-02",
-      "status": "active",
+      "startDate": "2025-08-29",
+      "endDate": "2025-09-02",
+      "status": "ended",
       "source": "https://6abc.com/post/krispy-kreme-celebrating-labor-day-weekend-2-dozen-donut-deal/15252141/",
       "image": null
     },

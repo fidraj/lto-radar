@@ -4501,7 +4501,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/potato-wedges-are-back-at-jack-in-box.html",
-      "image": null
+      "image": "jack-in-the-box-spicy-sauced-loaded-potato-wedges.jpg",
+      "imageAuto": true
     }
   ]
 }

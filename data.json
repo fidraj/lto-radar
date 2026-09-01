@@ -4515,7 +4515,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.today.com/food/restaurants/spongebob-one-piece-happy-meal-mcdonalds-rcna595388",
-      "image": null
+      "image": "mcdonald-s-spongebob-x-one-piece-happy-meal.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Wingstop",
@@ -4537,7 +4538,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.qsrweb.com/news/popeyes-creates-pineapple-drink-line-for-end-of-summer/",
-      "image": null
+      "image": "popeyes-pineapple-beverage-line.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Popeyes",
@@ -4559,7 +4561,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/chipotle-marks-a-brand-first-with-all-new-pollo-asado-and-the-debut-of-chili-lime-chips-302863254.html",
-      "image": null
+      "image": "chipotle-pollo-asado-new-recipe.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",

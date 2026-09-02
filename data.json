@@ -2264,7 +2264,7 @@
     {
       "chain": "Sonic",
       "item": "Garlic Parmesan Ranch Crispy Tender Wrap",
-      "description": "All-white-meat crispy chicken tender with melty cheddar cheese, lettuce, tomatoes, and garlic parmesan ranch sauce in a soft flour tortilla; added to Sonic's $1.99 Menu alongside the Cheesy Baja Crispy Tender Wrap, Jr. Bacon Cheeseburger, Vanilla Soft Serve Cup, and Small Root Beer Float. (Estimated end date: Sonic's $1.99 wrap rotation swaps to the BBQ Ranch Crispy Tender Wrap on Sept 1 - re-verify.)",
+      "description": "All-white-meat crispy chicken tender with melty cheddar cheese, lettuce, tomatoes, and garlic parmesan ranch sauce in a soft flour tortilla; added to Sonic's $1.99 Menu alongside the Cheesy Baja Crispy Tender Wrap, Jr. Bacon Cheeseburger, Vanilla Soft Serve Cup, and Small Root Beer Float. Estimated end date based on Sonic's typical ~8-week $1.99 wrap rotation cycle; the previously-cited 'swaps to BBQ Ranch Crispy Tender Wrap on Sept 1' rationale was wrong (that Sonic release turned out to be dated Sept 2025, not 2026 - see the separate corrected entry) - re-verify if contradicted.",
       "category": "food",
       "startDate": "2026-07-01",
       "endDate": "2026-08-31",
@@ -2276,13 +2276,19 @@
     {
       "chain": "Sonic",
       "item": "BBQ Ranch Crispy Tender Wrap",
-      "description": "Upcoming addition to Sonic's $1.99 Menu: all-white-meat crispy chicken tender with lettuce, tomatoes, cheddar cheese, and Sonic's BBQ Ranch sauce in a soft flour tortilla, reportedly set to join the $1.99 lineup starting September 1, 2026.",
+      "description": "All-white-meat crispy chicken tender with lettuce, tomatoes, cheddar cheese, and Sonic's BBQ Ranch sauce in a soft flour tortilla, added to the $1.99 Menu. The cited QSR Magazine coverage was traced to its real publication window, Sept 1, 2025 (confirmed via multiple syndicated local-news mirrors and AOL's copy of the same wire story) - this run had been mis-filed under 2026 by an earlier refresh that assumed the current year. Corrected to its real 2025 date; no 2026 relaunch of this specific wrap has been announced (Sonic's 2026 $1.99 Menu instead features the Cheesy Baja Crispy Tender Wrap and Garlic Parmesan Ranch Crispy Tender Wrap).",
       "category": "food",
-      "startDate": "2026-09-01",
-      "endDate": null,
-      "status": "upcoming",
-      "source": "https://www.qsrmagazine.com/news/sonic-announces-bbq-ranch-crispy-tender-wrap/",
-      "image": "sonic-bbq-ranch-crispy-tender-wrap.jpg"
+      "startDate": "2025-09-01",
+      "endDate": "2026-06-01",
+      "status": "ended",
+      "source": "https://parade.com/food/sonic-adds-bbq-ranch-crispy-tender-wrap-to-1-99-menu",
+      "image": "sonic-bbq-ranch-crispy-tender-wrap.jpg",
+      "lastConfirmed": "2026-09-02",
+      "verified": {
+        "on": "2026-09-02",
+        "startDate": "2025-09-01",
+        "endDate": "2026-06-01"
+      }
     },
     {
       "chain": "Burger King",
@@ -2913,12 +2919,12 @@
       "category": "event",
       "startDate": "2026-09-01",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.cbr.com/dragon-ball-burger-king-super-saiyan-blue-goku-vegeta-collab/",
       "image": "burger-king-dragon-ball-super-collab-leaked-unconfirmed.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-27"
+      "lastConfirmed": "2026-09-02"
     },
     {
       "chain": "Chipotle",
@@ -2958,6 +2964,30 @@
       "source": "https://www.cookist.com/taco-bell-unveils-20-new-menu-items-for-2026-and-makes-nacho-fries-permanent/",
       "image": null,
       "imageUrl": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "You Seem Pretty Pink for a Baja Blast (Olivia Rodrigo collab)",
+      "description": "Mountain Dew Baja Blast's tropical lime flavor blended with pink lemonade notes, in custom packaging themed to Olivia Rodrigo's album 'You Seem Pretty Sad for a Girl So in Love'; debuted Aug 29, 2026 exclusively at 38 Live Más Cafés (Southern California, Dallas, Houston, Las Vegas) tied to her Daisy Chain Fields Festival, ahead of a nationwide rollout at all Taco Bell restaurants Sept 24, 2026.",
+      "category": "drink",
+      "startDate": "2026-08-29",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tacobell.com/newsroom/olivia-rodrigo-baja-blast",
+      "image": null,
+      "lastConfirmed": "2026-09-02"
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Salt & Straw Churro Ice Cream Taco + Choco-Waffle Chiller",
+      "description": "New Churro Ice Cream in a crispy waffle-cone shell, finished with puffed rice and dark-chocolate coating (~$3.99), nationwide at Taco Bell restaurants starting Sept 1, 2026; a companion Choco-Waffle Chiller drink is exclusive to Live Más Café locations. Distinct from the still-unlaunched 'Salt & Straw Tacolate Chiller' teased at Live Más Live. Rewards members can enter a Tuesday Drops sweepstakes Sept 8 for a limited-edition cooler.",
+      "category": "dessert",
+      "startDate": "2026-09-01",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tacobell.com/newsroom/salt-and-straw",
+      "image": null,
+      "lastConfirmed": "2026-09-02"
     },
     {
       "chain": "Dunkin'",
@@ -4180,10 +4210,11 @@
       "category": "chicken",
       "startDate": "2026-09-01",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.thetakeout.com/2231719/mcdonalds-fan-favorite-sauce-return-mighty-hot-sauce/",
       "image": "mcdonald-s-spicy-chicken-mcnuggets-mighty-hot-sauce-2026-return.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-02"
     },
     {
       "chain": "Pizza Hut",
@@ -4204,10 +4235,11 @@
       "category": "chicken",
       "startDate": "2026-09-01",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.prnewswire.com/news-releases/burger-king-introduces-latest-innovation-inspired-by-guest-feedback--new-chicken-nuggets-and-sauces-302858841.html",
       "image": "burger-king-new-chicken-nuggets-sauces.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-02"
     },
     {
       "chain": "KFC",
@@ -4463,25 +4495,27 @@
     {
       "chain": "Wendy's",
       "item": "Cheesy Bacon Cheeseburger",
-      "description": "Quarter-pound beef patty with applewood-smoked bacon, two slices of American cheese, and cheddar cheese sauce on a toasted bun; launched nationwide as a limited-time item. No confirmed end date found in current sourcing - re-verify.",
+      "description": "Quarter-pound beef patty with applewood-smoked bacon, two slices of American cheese, and cheddar cheese sauce on a toasted bun; launched nationwide 2026-02-16 as a limited-time item. Never reconfirmed since launch: Wendy's Aug 3, 2026 fall press release and current 'new menu items' page cover only the Pretzel Bacon Pub lineup, Apple Crumble Frosty Fusion and other current items, with no mention of this sandwich, and no food-news coverage exists past its March 2026 launch reviews. Best-estimate end date given the ~10-week silence and Wendy's typical LTO cycle; no official discontinuation announcement found.",
       "category": "burger",
       "startDate": "2026-02-16",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-05-01",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/fresh-bold-protein-packed-wendys-introduces-two-savory-menu-innovations-302684680.html",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-09-02"
     },
     {
       "chain": "Wendy's",
       "item": "Chicken Tenders Ranch Wrap",
-      "description": "Crispy chicken tenders, lettuce, cheddar cheese, and ranch dressing wrapped in a tortilla; launched nationwide as a limited-time item alongside the Cheesy Bacon Cheeseburger. No confirmed end date found in current sourcing - re-verify.",
+      "description": "Crispy chicken tenders, lettuce, cheddar cheese, and ranch dressing wrapped in a tortilla; launched nationwide 2026-02-16 as a limited-time item alongside the Cheesy Bacon Cheeseburger. Never reconfirmed since launch: Wendy's Aug 3, 2026 fall press release and current 'new menu items' page cover only the Pretzel Bacon Pub lineup, Apple Crumble Frosty Fusion and other current items, with no mention of this wrap, and no food-news coverage exists past its March 2026 launch reviews. Best-estimate end date given the ~10-week silence and Wendy's typical LTO cycle; no official discontinuation announcement found.",
       "category": "sandwich",
       "startDate": "2026-02-16",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-05-01",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/fresh-bold-protein-packed-wendys-introduces-two-savory-menu-innovations-302684680.html",
       "image": "wendy-s-chicken-tenders-ranch-wrap.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-02"
     },
     {
       "chain": "Krispy Kreme",

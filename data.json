@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-01",
+  "researched": "2026-09-02",
   "items": [
     {
       "chain": "McDonald's",
@@ -44,7 +44,7 @@
       "category": "dessert",
       "startDate": "2026-06-27",
       "endDate": "2026-09-01",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://pielocator.com/",
       "image": "mcdonald-s-blueberry-creme-pie.jpg",
       "lastConfirmed": "2026-08-19"
@@ -857,7 +857,7 @@
       "category": "dessert",
       "startDate": "2026-08-03",
       "endDate": "2026-08-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": "dairy-queen-caramel-apple-cheesecake-blizzard.jpg",
       "lastConfirmed": "2026-08-22"
@@ -905,7 +905,7 @@
       "category": "event",
       "startDate": "2026-08-03",
       "endDate": "2026-08-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": null,
       "lastConfirmed": "2026-08-19"
@@ -917,7 +917,7 @@
       "category": "event",
       "startDate": "2026-07-13",
       "endDate": "2026-08-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://livingonthecheap.com/popeyes-five-dollar-faves-value-menu/",
       "image": "popeyes-5-faves-menu-with-new-butterfly-shrimp.jpg",
       "lastConfirmed": "2026-08-19"
@@ -1093,7 +1093,7 @@
       "category": "dessert",
       "startDate": "2026-05-04",
       "endDate": "2026-08-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.brandeating.com/2026/07/new-at-zaxbys-chicken-bacon-ranch-lineup.html",
       "image": "zaxby-s-banana-pudding-milkshake-returning.jpg"
     },
@@ -1104,7 +1104,7 @@
       "category": "event",
       "startDate": "2026-06-01",
       "endDate": "2026-08-31",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE",
       "image": "chipotle-summer-of-extras.jpg"
     },
@@ -1115,7 +1115,7 @@
       "category": "event",
       "startDate": "2026-06-16",
       "endDate": "2026-08-28",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO",
       "image": "chipotle-chipotle-x-riot-games-2xko-collab.jpg"
     },
@@ -1138,7 +1138,7 @@
       "category": "dessert",
       "startDate": "2026-07-14",
       "endDate": "2026-08-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.fastfoodpost.com/pizza-hut-debuts-throwback-value-menu-with-new-6-triple-cheese-mac-5-smores-sticks-and-more/",
       "image": null,
       "imageSkip": true
@@ -1174,7 +1174,7 @@
       "category": "event",
       "startDate": "2026-08-03",
       "endDate": "2026-08-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.stocktitan.net/news/DPZ/domino-s-is-paying-customers-to-beta-test-its-new-website-and-pvh4yxlif1pm.html",
       "image": "domino-s-5-off-beta-test-promo.jpg"
     },
@@ -1442,7 +1442,7 @@
       "category": "event",
       "startDate": "2026-06-01",
       "endDate": "2026-08-31",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/pizza-hut-announces-the-summer-of-hut-originals--a-new-platform-celebrating-the-iconic-food-experiences-and-fans-that-made-the-brand-302794448.html",
       "image": "pizza-hut-book-it-summer-of-stories.jpg"
     },
@@ -1501,7 +1501,7 @@
       "category": "chicken",
       "startDate": "2026-08-03",
       "endDate": "2026-08-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.nrn.com/quick-service/popeyes-latest-value-deal-features-its-new-tenders",
       "image": "popeyes-9-99-tenders-deal.jpg",
       "lastConfirmed": "2026-08-25"
@@ -2135,7 +2135,7 @@
       "category": "event",
       "startDate": "2026-08-03",
       "endDate": "2026-08-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.eatdrinkdeals.com/sonic-specials-sonic-coupons/",
       "image": "sonic-rewards-app-weekly-bogo-burger.jpg",
       "lastConfirmed": "2026-08-19",
@@ -2268,7 +2268,7 @@
       "category": "food",
       "startDate": "2026-07-01",
       "endDate": "2026-08-31",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.qsrmagazine.com/news/sonic-adds-garlic-parmesan-ranch-crispy-tender-wrap-to-1-99-menu/",
       "image": "sonic-garlic-parmesan-ranch-crispy-tender-wrap.jpg",
       "lastConfirmed": "2026-08-30"
@@ -2581,7 +2581,7 @@
       "category": "event",
       "startDate": "2025-01-21",
       "endDate": "2026-08-31",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.brandeating.com/2025/01/burger-king-new-7-dollar-trio-deal-and-updated-5-dollar-duo-deal.html",
       "image": "burger-king-5-duo-7-trio-value-meal-deal.jpg",
       "imageUrl": null
@@ -3504,7 +3504,7 @@
       "category": "event",
       "startDate": "2026-07-20",
       "endDate": "2026-08-31",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://news.bk.com/blog-posts/burger-king-continues-turning-guest-feedback-into-action-with-the-your-way-champion-and-whopper-guarantee",
       "image": "burger-king-whopper-guarantee-w-your-way-champion-program.jpg",
       "imageUrl": null,
@@ -3658,7 +3658,7 @@
       "category": "chicken",
       "startDate": "2026-04-28",
       "endDate": "2026-08-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://newsroom.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK",
       "image": "chipotle-chipotle-honey-chicken.jpg",
       "lastConfirmed": "2026-08-27",
@@ -3893,7 +3893,7 @@
       "category": "burger",
       "startDate": "2026-08-18",
       "endDate": "2026-09-02",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.brandeating.com/2026/08/jack-in-box-tests-ufo-shaped-burgers.html",
       "image": "jack-in-the-box-cosmic-jack-combos-single-location-test.jpg",
       "imageAuto": true
@@ -4344,7 +4344,7 @@
       "category": "chicken",
       "startDate": "2026-08-24",
       "endDate": "2026-08-31",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://qz.com/popeyes-12-for-12-wings-tenders-deal-082726",
       "image": null
     },

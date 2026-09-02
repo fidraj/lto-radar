@@ -4521,13 +4521,19 @@
     {
       "chain": "Wingstop",
       "item": "Smoky Chipotle Rub (Wingstop Drop)",
-      "description": "New dry-rub wing flavor combining smoky BBQ with fire-roasted peppers, honey and paprika notes; timed to the NFL season opener/kickoff.",
+      "description": "New dry-rub wing flavor combining smoky BBQ with fire-roasted peppers, honey and paprika notes; timed to the NFL season opener, with rookie QB Cam Ward (his debut season) praising the flavor. The cited PRNewswire release (ID 302545241) was traced to its real publication date, Sept 3, 2025 - this run had been mis-filed under 2026 by an earlier refresh, which assumed the current year from a source with no obvious dateline. Corrected to its real 2025 date/window; no 2026 relaunch has been announced.",
       "category": "chicken",
-      "startDate": "2026-09-03",
-      "endDate": null,
-      "status": "upcoming",
-      "source": "https://ir.wingstop.com/wingstop-drops-smoky-chipotle-rub-bringing-all-new-flavor-to-season-opener/",
-      "image": null
+      "startDate": "2025-09-03",
+      "endDate": "2025-09-30",
+      "status": "ended",
+      "source": "https://www.prnewswire.com/news-releases/wingstop-drops-smoky-chipotle-rub-bringing-all-new-flavor-to-season-opener-302545241.html",
+      "image": null,
+      "lastConfirmed": "2026-09-02",
+      "verified": {
+        "on": "2026-09-02",
+        "startDate": "2025-09-03",
+        "endDate": "2025-09-30"
+      }
     },
     {
       "chain": "Popeyes",

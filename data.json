@@ -4660,8 +4660,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-collaborates-with-iconic-candy-brand-nerds-to-launch-the-nerds-strawberry-milkshake-nationwide-302863154.html",
-      "image": null,
-      "lastConfirmed": "2026-09-03"
+      "image": "zaxby-s-nerds-strawberry-milkshake-nationwide.jpg",
+      "lastConfirmed": "2026-09-03",
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",

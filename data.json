@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-02",
+  "researched": "2026-09-03",
   "items": [
     {
       "chain": "McDonald's",
@@ -56,10 +56,10 @@
       "category": "dessert",
       "startDate": "2026-08-29",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://pielocator.com/",
       "image": "mcdonald-s-pumpkin-creme-pie.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-03"
     },
     {
       "chain": "McDonald's",
@@ -869,10 +869,10 @@
       "category": "dessert",
       "startDate": "2026-08-31",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": "dairy-queen-brown-sugar-cookie-dough-blizzard.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-03"
     },
     {
       "chain": "Dairy Queen",
@@ -881,10 +881,10 @@
       "category": "drink",
       "startDate": "2026-08-31",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-03"
     },
     {
       "chain": "Dairy Queen",
@@ -893,10 +893,10 @@
       "category": "dessert",
       "startDate": "2026-08-31",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": "dairy-queen-pumpkin-pie-blizzard-returning.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-03"
     },
     {
       "chain": "Dairy Queen",
@@ -1002,7 +1002,8 @@
       "endDate": "2026-09-09",
       "status": "ending-soon",
       "source": "https://www.nrn.com/fast-casual/wingstop-launches-delivery-cowboys-to-celebrate-flavor-comeback",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-09-03"
     },
     {
       "chain": "Wingstop",
@@ -1013,7 +1014,8 @@
       "endDate": "2026-09-09",
       "status": "ending-soon",
       "source": "https://parade.com/food/coca-cola-debuts-a-new-one-of-a-kind-flavor-but-only-for-a-limited-time",
-      "image": "wingstop-sprite-strawberry-rodeo.jpg"
+      "image": "wingstop-sprite-strawberry-rodeo.jpg",
+      "lastConfirmed": "2026-09-03"
     },
     {
       "chain": "Wingstop",
@@ -2038,10 +2040,10 @@
       "category": "drink",
       "startDate": "2026-08-29",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://parade.com/food/mcdonalds-announces-3-returning-menu-items-customers-say-all-is-right-with-the-world-again-pumpkin-spice-latte-coffee-pie",
       "image": null,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-03"
     },
     {
       "chain": "McDonald's",
@@ -4398,10 +4400,11 @@
       "category": "event",
       "startDate": "2026-08-30",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://news.dunkindonuts.com/news/dunkin-tennis-takeover-august-2026",
       "image": "dunkin-limited-edition-mini-tennis-can-tennis-takeover.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-03"
     },
     {
       "chain": "Dairy Queen",
@@ -4624,6 +4627,62 @@
       "endDate": "2026-09-30",
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/dominos-giving-away-1-million-worth-of-new-pizzas-for-one/",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Aerocano",
+      "description": "Starbucks Blonde Espresso air-whipped to create a light foam and cascading visual effect; a modern take on the Iced Americano. Previously available in Asia, Latin America and the Caribbean, debuting in the US alongside the fall menu, timed to National Coffee Day.",
+      "category": "drink",
+      "startDate": "2026-09-29",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://about.starbucks.com/stories/2026/starbucks-to-add-the-aerocano-and-mini-pies-to-the-fall-lineup-sept-29/",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Mini Pies (Apple Crumble, Pecan & Pumpkin)",
+      "description": "Three new fall bakery items debuting alongside the Aerocano: Apple Crumble Mini Pie (tender apples, buttery streusel), Pecan Mini Pie (toasted pecans, caramelized sweetness), and Pumpkin Mini Pie (creamy pumpkin, warm fall spices).",
+      "category": "dessert",
+      "startDate": "2026-09-29",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://about.starbucks.com/stories/2026/starbucks-to-add-the-aerocano-and-mini-pies-to-the-fall-lineup-sept-29/",
+      "image": null
+    },
+    {
+      "chain": "Zaxby's",
+      "item": "NERDS Strawberry Milkshake (nationwide)",
+      "description": "Hand-spun Strawberry Milkshake blended with NERDS candy, topped with NERDS Gummy Clusters, Rainbow NERDS candy and a maraschino cherry; previously tested in select markets, now nationwide by popular demand for a limited time.",
+      "category": "dessert",
+      "startDate": "2026-08-31",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/zaxbys-collaborates-with-iconic-candy-brand-nerds-to-launch-the-nerds-strawberry-milkshake-nationwide-302863154.html",
+      "image": null,
+      "lastConfirmed": "2026-09-03"
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Free Pumpkin Spice Signature Latte (Sept 8 promo)",
+      "description": "Free hot or iced Pumpkin Spice Signature Latte (pumpkin, vanilla and warm fall spices, whipped cream, caramel drizzle, cinnamon sugar) with any qualifying purchase, 2-6pm local time, Sept 8, 2026. Munchkins, gift cards and water don't qualify as a purchase.",
+      "category": "event",
+      "startDate": "2026-09-08",
+      "endDate": "2026-09-08",
+      "status": "upcoming",
+      "source": "https://sporked.com/article/you-can-get-a-free-dunkin-psl-on-this-one-day/",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "1 Million Free Espresso Beverages Giveaway",
+      "description": "Dunkin' Rewards members could redeem a code for one free espresso beverage to celebrate the start of pumpkin season; first 1 million redemptions, while supplies lasted.",
+      "category": "event",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-30",
+      "status": "ended",
+      "source": "https://news.dunkindonuts.com/blog/dunkinR-is-celebrating-pumpkin-season-with-1-million-free-espresso-beverages",
       "image": null
     }
   ]

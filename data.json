@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-03",
+  "researched": "2026-09-04",
   "items": [
     {
       "chain": "McDonald's",
@@ -367,7 +367,7 @@
       "status": "active",
       "source": "https://www.restaurantnews.com/krispy-kreme-pumpkin-spice-autumn-seasonal-collection-080726/",
       "image": "krispy-kreme-pumpkin-spice-collection-anticipated.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Wendy's",
@@ -586,7 +586,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": "kfc-popcorn-chicken-returning.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "KFC",
@@ -698,12 +698,12 @@
     {
       "chain": "Krispy Kreme",
       "item": "$1 Original Glazed Dozen (with any dozen)",
-      "description": "Rewards deal: buy any dozen, get an Original Glazed dozen for $1. Sign up for Krispy Kreme Rewards by Aug 26; offer window runs through Aug 12.",
+      "description": "Rewards deal: buy any dozen, get an Original Glazed dozen for $1. New and existing Krispy Kreme Rewards members; offer ran through Aug 26, 2026.",
       "category": "event",
       "startDate": "2026-07-30",
-      "endDate": "2026-08-12",
+      "endDate": "2026-08-26",
       "status": "ended",
-      "source": "https://www.krispykreme.com/promos",
+      "source": "https://www.krispykreme.com/offers",
       "image": "krispy-kreme-1-original-glazed-dozen-with-any-dozen.jpg"
     },
     {
@@ -752,7 +752,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/sonic-new-7-dollar-big-meal-deal.html",
       "image": "sonic-7-big-deal-meal.jpg",
-      "lastConfirmed": "2026-09-01"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Arby's",
@@ -764,7 +764,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
       "image": "arby-s-quarter-pound-bbq-menu-pulled-pork-chopped-brisket.jpg",
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Arby's",
@@ -776,7 +776,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
       "image": "arby-s-bbq-mac-bowl.jpg",
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Arby's",
@@ -932,7 +932,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/popeyes-launches-new-cheese-bites.html",
       "image": "popeyes-cheese-bites.jpg",
-      "lastConfirmed": "2026-08-27"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Popeyes",
@@ -967,7 +967,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/6-dollar-big-box-meal-back-at-popeyes-summer-2026.html",
       "image": "popeyes-blueberry-lemon-cheesecake-cup.jpg",
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Wingstop",
@@ -1167,7 +1167,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/05/pizza-hut-new-crispy-parm-pan-pizza.html",
       "image": "pizza-hut-crispy-parm-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-01"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Domino's",
@@ -1206,11 +1206,11 @@
     {
       "chain": "Subway",
       "item": "Fresh Value Menu (Deli Faves & Sub of the Day)",
-      "description": "Subway's first-ever nationwide value menu: 15 entrees under $5. 'Deli Faves' offers four customizable 6\" subs for $3.99 (BLT, Cold Cut Combo, Spicy Pepperoni, Ham & Salami); 'Sub of the Day' offers a different 6\" sub for $4.99 each day of the week. Complements the existing Protein Pockets.",
+      "description": "Subway's first-ever nationwide value menu: 15 entrees under $5. 'Deli Faves' offers four customizable 6\" subs for $3.99 (BLT, Cold Cut Combo, Spicy Pepperoni, Ham & Salami); 'Sub of the Day' offers a different 6\" sub for $4.99 each day of the week. Announced as a permanent addition to the menu, not a rotating LTO, so closed out here on its launch date; complements the existing Protein Pockets.",
       "category": "sandwich",
       "startDate": "2026-04-28",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-04-28",
+      "status": "ended",
       "source": "https://newsroom.subway.com/2026-04-28-Subway-R-Introduces-Its-First-Ever-Value-Menu-with-15-Entrees-Under-5",
       "image": "subway-fresh-value-menu-deli-faves-sub-of-the-day.jpg",
       "lastConfirmed": "2026-08-30"
@@ -1309,7 +1309,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260601211848/en/SONIC-Debuts-the-$7-Big-Deal-Meal-Bringing-More-of-What-Guests-Want-for-Less",
       "image": "sonic-1-99-value-menu.jpg",
-      "lastConfirmed": "2026-09-01"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Sonic",
@@ -1470,7 +1470,7 @@
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/arbys-launches-lineup-of-1-99-sliders/",
       "image": "arby-s-1-99-sliders-lineup.jpg",
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Jack in the Box",
@@ -1531,7 +1531,7 @@
       "status": "active",
       "source": "https://sporked.com/article/burger-king-bacon-cheddar-hash-whopper-news/",
       "image": "burger-king-bacon-cheddar-hash-whopper-regional-test.jpg",
-      "lastConfirmed": "2026-09-01"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Arby's",
@@ -1594,7 +1594,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": null,
-      "lastConfirmed": "2026-08-28"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "KFC",
@@ -1629,7 +1629,7 @@
       "status": "active",
       "source": "https://newsroom.chipotle.com/2025-12-18-CHIPOTLE-UNVEILS-ITS-FIRST-EVER-HIGH-PROTEIN-MENU-FEATURING-A-NEW-SNACK-READY-HIGH-PROTEIN-CUP",
       "image": "chipotle-high-protein-menu.jpg",
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Burger King",
@@ -1646,14 +1646,14 @@
     {
       "chain": "Starbucks",
       "item": "Blended Energy Refreshers lineup",
-      "description": "Frozen twist on Starbucks' Energy Refreshers platform: Blended Mango Dragonfruit Lemonade, Blended Mango Strawberry Lemonade, Blended Pink Energy Drink, plus limited-time Blended Passionfruit Guava Lemonade and Blended Matcha Lemonade, made with real fruit pieces, ice, and a choice of lemonade or coconut milk.",
+      "description": "Frozen twist on Starbucks' Energy Refreshers platform: Blended Mango Dragonfruit Lemonade, Blended Mango Strawberry Lemonade, Blended Pink Energy Drink, plus limited-time Blended Passionfruit Guava Lemonade and Blended Matcha Lemonade. Discontinued around Aug 28, 2026 after baristas reported respiratory and skin complaints from airborne dust off the blending powder; Starbucks pulled the powder nationwide.",
       "category": "drink",
       "startDate": "2026-07-14",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-08-28",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-energy-refreshers-go-blended-adding-a-smooth-frozen-twist/",
       "image": "starbucks-blended-energy-refreshers-lineup.jpg",
-      "lastConfirmed": "2026-08-31"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Popeyes",
@@ -1677,7 +1677,7 @@
       "status": "active",
       "source": "https://parade.com/news/chipotle-just-started-testing-crispy-chicken-fans-want-it-nationwide",
       "image": null,
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "McDonald's",
@@ -1772,7 +1772,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/taco-bell-tests-new-sweet-chipotle-lime-crispy-chicken.html",
       "image": "taco-bell-sweet-chipotle-lime-crispy-chicken-regional-test-unconfirmed.jpg",
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Taco Bell",
@@ -2302,7 +2302,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/burger-king-expands-its-iconic-original-chicken-sandwich-lineup-with-two-bold-new-flavors-302818370.html",
       "image": "burger-king-loaded-jalape-o-original-chicken-sandwich.jpg",
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Burger King",
@@ -2314,7 +2314,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/burger-king-expands-its-iconic-original-chicken-sandwich-lineup-with-two-bold-new-flavors-302818370.html",
       "image": "burger-king-club-original-chicken-sandwich.jpg",
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Domino's",
@@ -2641,7 +2641,8 @@
       "status": "active",
       "source": "https://www.restaurantnews.com/krispy-kreme-pokemon-doughnut-collection-081326/",
       "image": "krispy-kreme-pok-mon-doughnut-collection.jpg",
-      "imageUrl": null
+      "imageUrl": null,
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Arby's",
@@ -2773,7 +2774,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/taco-bell-enchirito-returns-plus-new-cinnamon-sugar-churros.html",
       "image": null,
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Taco Bell",
@@ -2893,7 +2894,7 @@
       "image": "mcdonald-s-mcvalue-under-3-menu-4-breakfast-meal-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-01"
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "McDonald's",
@@ -3245,7 +3246,7 @@
       "imageUrl": null,
       "image": "burger-king-flame-grilled-chicken-sandwiches-wraps-regional-test.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-08-30",
+      "lastConfirmed": "2026-09-04",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2026-07-08",
@@ -3607,7 +3608,7 @@
       "image": "raising-cane-s-raising-cane-s-x-gigapet.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-29",
+      "lastConfirmed": "2026-09-04",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2025-11-19",
@@ -3656,7 +3657,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-has-an-answer-to-the-value-wars-a-value-feast-fit-for-the-moment-302728926.html",
       "image": "kfc-value-feast-7-9-11-box-feasts-featuring-the-kfc-snacker.jpg",
-      "lastConfirmed": "2026-08-25",
+      "lastConfirmed": "2026-09-04",
       "imageAuto": true
     },
     {
@@ -3740,7 +3741,7 @@
       "status": "active",
       "source": "https://www.foodbeast.com/news/pizza-huts-3-personal-pan-pizza-might-be-the-best-value-move-in-fast-food-right-now/",
       "image": "pizza-hut-3-tuesday-personal-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-01",
+      "lastConfirmed": "2026-09-04",
       "imageAuto": true
     },
     {
@@ -4590,10 +4591,11 @@
       "description": "Second return of the $6 Big Box (2-pc chicken or 3 tenders, 2 sides, biscuit) for fall season, a separate run from the earlier June-July 2026 promotion.",
       "category": "chicken",
       "startDate": "2026-08-31",
-      "endDate": null,
+      "endDate": "2026-09-27",
       "status": "active",
-      "source": "https://www.qsrmagazine.com/news/popeyes-6-big-box-returns-fall-season/",
-      "image": null
+      "source": "https://www.milehighonthecheap.com/popeyes-big-box-meal-deal/",
+      "image": null,
+      "lastConfirmed": "2026-09-04"
     },
     {
       "chain": "Chipotle",
@@ -4684,6 +4686,64 @@
       "endDate": "2026-08-30",
       "status": "ended",
       "source": "https://news.dunkindonuts.com/blog/dunkinR-is-celebrating-pumpkin-season-with-1-million-free-espresso-beverages",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Zab's Chicken Ranch Nacho Fries",
+      "description": "Nacho Fries topped with slow-roasted chicken, pico de gallo, three-cheese blend, nacho cheese sauce, and Zab's \"St. Augustine Style\" Datil Pepper hot sauce blended with Taco Bell's Spicy Ranch — Taco Bell's first Zab's Hot Sauce collab and its first Datil Pepper sauce.",
+      "category": "taco",
+      "startDate": "2026-04-16",
+      "endDate": "2026-05-20",
+      "status": "ended",
+      "source": "https://www.prnewswire.com/news-releases/taco-bell-teams-up-with-zabs-hot-sauce-to-turn-nacho-fries-into-a-canvas-for-sweet-heat-302741136.html",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "FlameThrower Chicken Strip Basket & Swicy Chicken Strip Sandwich",
+      "description": "DQ's new \"Swicy\" (sweet + spicy) menu: FlameThrower Chicken Strip Basket with four all-white-meat chicken strips in a spicy-smoky FlameThrower sauce, served with vanilla soft serve for dipping, fries, and Texas toast; plus a Spicy Chicken Strip Sandwich with the same sauce.",
+      "category": "chicken",
+      "startDate": "2026-01-26",
+      "endDate": null,
+      "status": "active",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
+      "image": null,
+      "lastConfirmed": "2026-09-04"
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "DQ Sparklers & Coolers: Pineapple Lemonade with Tajín",
+      "description": "Part of DQ's \"Swicy\" menu launch: Pineapple Lemonade DQ Sparkler (sparkling water + Misty Slush) and Pineapple Lemonade DQ Cooler (soft serve + Misty Slush blend), both with a Tajín kick.",
+      "category": "drink",
+      "startDate": "2026-01-26",
+      "endDate": null,
+      "status": "active",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
+      "image": null,
+      "lastConfirmed": "2026-09-04"
+    },
+    {
+      "chain": "Pizza Hut",
+      "item": "Hut Crust: New Hand-Tossed Recipe & Garlic-Parm Seasoning",
+      "description": "Pizza Hut's first Hand-Tossed crust recipe change in over a decade — a lighter, airier dough finished with a new Garlic-Parm Hut Blend (parmesan, garlic, butter) seasoning, launched under a new \"Hut Crust\" platform alongside a $10 large 3-topping pizza deal (Hand-Tossed, Tavern Style, or Thin 'N Crispy crust).",
+      "category": "food",
+      "startDate": "2026-03-11",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/pizza-hut-launches-hut-crust-platform-for-crust-lovers--sets-out-to-hire-first-of-its-kind-hut-crust-connoisseur-302711458.html",
+      "image": null,
+      "lastConfirmed": "2026-09-04"
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Free Chicken Biscuit Giveaway",
+      "description": "Nationwide giveaway via the Chick-fil-A App: members could claim a free Chicken Biscuit during breakfast hours, no purchase necessary; part of the chain's 80th-anniversary \"Newstalgia\" celebration.",
+      "category": "event",
+      "startDate": "2026-02-17",
+      "endDate": "2026-02-28",
+      "status": "ended",
+      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-launches-nationwide-chicken-biscuit-giveaway",
       "image": null
     }
   ]

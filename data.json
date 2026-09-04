@@ -4732,8 +4732,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/pizza-hut-launches-hut-crust-platform-for-crust-lovers--sets-out-to-hire-first-of-its-kind-hut-crust-connoisseur-302711458.html",
-      "image": null,
-      "lastConfirmed": "2026-09-04"
+      "image": "pizza-hut-hut-crust-new-hand-tossed-recipe-garlic-parm-seasoning.jpg",
+      "lastConfirmed": "2026-09-04",
+      "imageAuto": true
     },
     {
       "chain": "Chick-fil-A",

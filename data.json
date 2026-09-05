@@ -4779,8 +4779,9 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://news.dunkindonuts.com/news/dunkin-and-febreze-limited-edition-scent-collection-september-2026",
-      "image": null,
-      "lastConfirmed": "2026-09-05"
+      "image": "dunkin-febreze-x-dunkin-scent-collection.jpg",
+      "lastConfirmed": "2026-09-05",
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",
@@ -4791,8 +4792,9 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://news.dunkindonuts.com/blog/serve-sip-swing-dunkin-tennis-merch-collection-september-2026",
-      "image": null,
-      "lastConfirmed": "2026-09-05"
+      "image": "dunkin-head-x-dunkin-tennis-merch-collection-serve-sip-swing.jpg",
+      "lastConfirmed": "2026-09-05",
+      "imageAuto": true
     },
     {
       "chain": "Starbucks",
@@ -4814,8 +4816,9 @@
       "endDate": "2026-09-07",
       "status": "ending-soon",
       "source": "https://www.wfxb.com/2026/09/04/several-eateries-have-deals-for-labor-day-weekend/",
-      "image": null,
-      "lastConfirmed": "2026-09-05"
+      "image": "krispy-kreme-labor-day-weekend-2-original-glazed-dozen-2026.jpg",
+      "lastConfirmed": "2026-09-05",
+      "imageAuto": true
     },
     {
       "chain": "Sonic",
@@ -4925,8 +4928,9 @@
       "endDate": "2026-09-29",
       "status": "active",
       "source": "https://www.eatdrinkdeals.com/subway-coupons-promo-codes/",
-      "image": null,
-      "lastConfirmed": "2026-09-05"
+      "image": "subway-6-99-any-footlong-sub-club-september-2026.jpg",
+      "lastConfirmed": "2026-09-05",
+      "imageAuto": true
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-04",
+  "researched": "2026-09-05",
   "items": [
     {
       "chain": "McDonald's",
@@ -11,7 +11,7 @@
       "status": "active",
       "source": "https://www.thestreet.com/restaurants/mcdonalds-launches-four-new-menu-items-chicken-caesar",
       "image": "mcdonald-s-caesar-snack-wrap.jpg",
-      "lastConfirmed": "2026-08-27"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "McDonald's",
@@ -23,7 +23,7 @@
       "status": "active",
       "source": "https://www.primetimer.com/news/mcdonald-s-introduces-four-new-limited-time-menu-items-across-the-u-s",
       "image": "mcdonald-s-bacon-caesar-mccrispy.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "McDonald's",
@@ -35,7 +35,7 @@
       "status": "active",
       "source": "https://www.foodie.com/2230390/fast-food-best-new-menu-items-august-2026/",
       "image": "mcdonald-s-honey-brown-butter-bacon-egg-cheese-biscuit.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "McDonald's",
@@ -98,15 +98,15 @@
     },
     {
       "chain": "McDonald's",
-      "item": "Boo Buckets 40th Anniversary (rumored)",
-      "description": "Halloween Happy Meal pails expected back for their 40th anniversary in October; leaked monster designs (witch, vampire, skeleton, werewolf, cat) are unconfirmed by McDonald's.",
+      "item": "Boo Buckets (40th Anniversary)",
+      "description": "Halloween Happy Meal pails returning for their 40th anniversary, officially confirmed by McDonald's (Good Morning America / ABC News): nationwide Oct 14, 2026, running through Halloween (Oct 31) or while supplies last. Confirmed designs are McPunk'n (orange), McGoblin (green), a new Vampire (purple), and Mummy (glow-in-the-dark white) - different from the earlier unconfirmed witch/werewolf/cat leak.",
       "category": "event",
-      "startDate": "2026-10-01",
-      "endDate": null,
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-31",
       "status": "upcoming",
-      "source": "https://news.piratesandprincesses.net/p/mcdonalds-2026-boo-buckets-leaked",
+      "source": "https://www.goodmorningamerica.com/food/story/mcdonalds-new-halloween-boo-buckets-back-limited-time-126246418",
       "image": "mcdonald-s-boo-buckets-40th-anniversary-rumored.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Burger King",
@@ -118,7 +118,7 @@
       "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-welcomes-summer-with-an-all-new-menu-of-craveable-seasonal-innovations",
       "image": "burger-king-loaded-jalape-o-whopper.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Burger King",
@@ -142,7 +142,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/new-at-burger-king-2026-summer-menu.html",
       "image": null,
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Burger King",
@@ -178,7 +178,7 @@
       "status": "active",
       "source": "https://sporked.com/article/burger-king-menu-item-returns-summer-2026/",
       "image": "burger-king-crown-nuggets-back-after-15-years.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Burger King",
@@ -574,7 +574,7 @@
       "status": "active",
       "source": "https://www.barchart.com/story/news/2265578/supergirl-summer-takes-off-at-kfc-with-new-supergirl-ultimate-meal-character-inspired-sauce-showdowns-and-must-have-limited-edition-collectibles",
       "image": "kfc-supergirl-ultimate-meal.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "KFC",
@@ -586,7 +586,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": "kfc-popcorn-chicken-returning.jpg",
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "KFC",
@@ -745,14 +745,14 @@
     {
       "chain": "Sonic",
       "item": "$7 Big Deal Meal",
-      "description": "Value combo: Sonic Cheeseburger, small Premium Chicken Bites, medium fountain drink, and choice of medium Tots or Fries for $7. Value Menu also refreshed with a Vanilla Soft Serve Cup.",
+      "description": "Value combo: Sonic Cheeseburger, medium Tots or Fries, and a medium fountain drink for $7. Refreshed for football season (Sept 2, 2026) with a new Vanilla Sundae swapped in for the original Premium Chicken Bites side, tied to a 'My Greatest 7' ad campaign featuring Baker Mayfield and Bijan Robinson.",
       "category": "event",
       "startDate": "2026-06-08",
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/sonic-new-7-dollar-big-meal-deal.html",
       "image": "sonic-7-big-deal-meal.jpg",
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Arby's",
@@ -764,7 +764,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
       "image": "arby-s-quarter-pound-bbq-menu-pulled-pork-chopped-brisket.jpg",
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Arby's",
@@ -776,7 +776,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
       "image": "arby-s-bbq-mac-bowl.jpg",
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Arby's",
@@ -932,7 +932,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/popeyes-launches-new-cheese-bites.html",
       "image": "popeyes-cheese-bites.jpg",
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Popeyes",
@@ -967,7 +967,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/6-dollar-big-box-meal-back-at-popeyes-summer-2026.html",
       "image": "popeyes-blueberry-lemon-cheesecake-cup.jpg",
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Wingstop",
@@ -1062,7 +1062,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-doubles-down-on-a-fan-favorite-flavor-combo-with-new-chicken-bacon-ranch-menu-302805978.html",
       "image": "zaxby-s-chicken-bacon-ranch-wrap-meal.jpg",
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Zaxby's",
@@ -1074,7 +1074,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/zaxbys-debuts-chicken-bacon-ranch-menu-with-wraps-quesadillas-and-loaded-fries/",
       "image": "zaxby-s-chicken-bacon-ranch-quesadilla.jpg",
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Zaxby's",
@@ -1086,7 +1086,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/zaxbys-debuts-chicken-bacon-ranch-menu-with-wraps-quesadillas-and-loaded-fries/",
       "image": "zaxby-s-chicken-bacon-ranch-loaded-fries.jpg",
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Zaxby's",
@@ -1127,11 +1127,11 @@
       "description": "Nostalgia-themed limited-time menu: $3 Personal Pan Pizza, $10 Medium Stuffed Crust, $4 Breadsticks, $4 Cinnamon Sticks, plus new Triple Cheese Mac and S'mores Sticks — with a matching throwback merch drop.",
       "category": "food",
       "startDate": "2026-07-14",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-08-31",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/pizza-hut-introduces-new-throwback-value-menu-to-celebrate-its-most-iconic-menu-items-302824512.html",
       "image": "pizza-hut-throwback-value-menu.jpg",
-      "lastConfirmed": "2026-08-29"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Pizza Hut",
@@ -1309,7 +1309,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260601211848/en/SONIC-Debuts-the-$7-Big-Deal-Meal-Bringing-More-of-What-Guests-Want-for-Less",
       "image": "sonic-1-99-value-menu.jpg",
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Sonic",
@@ -1321,7 +1321,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260518500381/en/SONIC-Expands-Its-Refreshers-Platform-Adding-Frozen-Refreshers-Featuring-a-Brand-New-Watermelon-Peach-Flavor",
       "image": "sonic-frozen-refreshers-incl-new-watermelon-peach.jpg",
-      "lastConfirmed": "2026-08-29"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Dunkin'",
@@ -1531,7 +1531,7 @@
       "status": "active",
       "source": "https://sporked.com/article/burger-king-bacon-cheddar-hash-whopper-news/",
       "image": "burger-king-bacon-cheddar-hash-whopper-regional-test.jpg",
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Arby's",
@@ -1594,7 +1594,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": null,
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "KFC",
@@ -1629,7 +1629,7 @@
       "status": "active",
       "source": "https://newsroom.chipotle.com/2025-12-18-CHIPOTLE-UNVEILS-ITS-FIRST-EVER-HIGH-PROTEIN-MENU-FEATURING-A-NEW-SNACK-READY-HIGH-PROTEIN-CUP",
       "image": "chipotle-high-protein-menu.jpg",
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Burger King",
@@ -1677,7 +1677,7 @@
       "status": "active",
       "source": "https://parade.com/news/chipotle-just-started-testing-crispy-chicken-fans-want-it-nationwide",
       "image": null,
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "McDonald's",
@@ -1724,7 +1724,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/taco-bell-takes-fajita-obsession-beyond-the-sizzle-with-new-fajita-street-chalupas-and-chicken-fajita-nacho-fries-302800749.html",
       "image": "taco-bell-fajita-street-chalupas-chicken-fajita-nacho-fries.jpg",
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Taco Bell",
@@ -1772,7 +1772,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/taco-bell-tests-new-sweet-chipotle-lime-crispy-chicken.html",
       "image": "taco-bell-sweet-chipotle-lime-crispy-chicken-regional-test-unconfirmed.jpg",
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Taco Bell",
@@ -1996,7 +1996,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/popeyes-officially-dips-into-the-party-with-their-first-ever-signature-sauce-designed-to-enhance-the-dipping-experience-302503975.html",
       "image": "popeyes-chicken-dippers.jpg",
-      "lastConfirmed": "2026-09-01"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Raising Cane's",
@@ -2182,7 +2182,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/back-for-good-popeyes-makes-fan-favorite-chicken-wraps-a-permanent-menu-offering-and-debuts-new-blackened-ranch-flavor-302760814.html",
       "image": "popeyes-honey-bbq-chicken-sandwich-honey-bbq-bacon-cheese-sandwich.jpg",
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Dairy Queen",
@@ -2430,7 +2430,7 @@
       "status": "active",
       "source": "https://www.wendys.com/blog/New-Jalapeno-Menu-Items",
       "image": "wendy-s-jalape-o-ranch-cheeseburger.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Wendy's",
@@ -2442,7 +2442,7 @@
       "status": "active",
       "source": "https://www.wendys.com/blog/New-Jalapeno-Menu-Items",
       "image": "wendy-s-jalape-o-breakfast-biscuit.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Wendy's",
@@ -2454,7 +2454,7 @@
       "status": "active",
       "source": "https://www.wendys.com/blog/New-Jalapeno-Menu-Items",
       "image": "wendy-s-jalape-o-bacon-breakfast-potatoes.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Wendy's",
@@ -2774,7 +2774,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/taco-bell-enchirito-returns-plus-new-cinnamon-sugar-churros.html",
       "image": null,
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Taco Bell",
@@ -2894,7 +2894,7 @@
       "image": "mcdonald-s-mcvalue-under-3-menu-4-breakfast-meal-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "McDonald's",
@@ -2918,7 +2918,7 @@
     {
       "chain": "Burger King",
       "item": "Dragon Ball Super Collab",
-      "description": "Officially confirmed Dragon Ball Super tie-in launching in the US around Sept 1, 2026 (already live internationally, e.g. Mongolia, in late Aug 2026). Confirmed elements: a Super Saiyan Sauce, Goku-themed cup, redesigned Dragon Ball crown, and six kids'-meal collectible figures - base Goku, base Vegeta, Piccolo, Beerus, Super Saiyan Blue Goku, and Super Saiyan Blue Vegeta.",
+      "description": "Officially confirmed Dragon Ball Super tie-in that launched in the US Sept 1, 2026 (already live internationally, e.g. Mongolia, in late Aug 2026). Confirmed elements: a Super Saiyan Sauce, Goku-themed cup, redesigned Dragon Ball crown, six kids'-meal collectible figures (base Goku, base Vegeta, Piccolo, Beerus, Super Saiyan Blue Goku, Super Saiyan Blue Vegeta), and a Dragon Ball Burst Lemonade (Mango Peach Lemonade with mango-flavored popping boba) as part of the Power Up Pack.",
       "category": "event",
       "startDate": "2026-09-01",
       "endDate": null,
@@ -2927,7 +2927,7 @@
       "image": "burger-king-dragon-ball-super-collab-leaked-unconfirmed.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-02"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Chipotle",
@@ -2941,7 +2941,7 @@
       "image": "chipotle-cilantro-lime-sauce.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Chipotle",
@@ -3200,7 +3200,7 @@
       "image": "pizza-hut-10-any-pizza-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-01"
+      "lastConfirmed": "2026-09-05"
     },
     {
       "chain": "Pizza Hut",
@@ -3523,7 +3523,7 @@
       "image": "domino-s-perfect-combo-deal-19-99.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-29",
+      "lastConfirmed": "2026-09-05",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2012-06-18",
@@ -3608,7 +3608,7 @@
       "image": "raising-cane-s-raising-cane-s-x-gigapet.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-04",
+      "lastConfirmed": "2026-09-05",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2025-11-19",
@@ -3657,7 +3657,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-has-an-answer-to-the-value-wars-a-value-feast-fit-for-the-moment-302728926.html",
       "image": "kfc-value-feast-7-9-11-box-feasts-featuring-the-kfc-snacker.jpg",
-      "lastConfirmed": "2026-09-04",
+      "lastConfirmed": "2026-09-05",
       "imageAuto": true
     },
     {
@@ -3741,7 +3741,7 @@
       "status": "active",
       "source": "https://www.foodbeast.com/news/pizza-huts-3-personal-pan-pizza-might-be-the-best-value-move-in-fast-food-right-now/",
       "image": "pizza-hut-3-tuesday-personal-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-04",
+      "lastConfirmed": "2026-09-05",
       "imageAuto": true
     },
     {
@@ -4746,6 +4746,187 @@
       "status": "ended",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-launches-nationwide-chicken-biscuit-giveaway",
       "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Sweet N' Spicy Honey BBQ Glazed Tenders",
+      "description": "McDonald's Buttermilk Crispy Tenders (all white meat) hand-tossed and glazed to order in a new sweet n' spicy honey BBQ glaze made with brown sugar, chili pepper, garlic powder and paprika; available in 4, 6 and 10-piece orders nationwide for a limited time.",
+      "category": "chicken",
+      "startDate": "2026-08-20",
+      "endDate": null,
+      "status": "active",
+      "source": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/honey_bbq_tenders.html",
+      "image": null,
+      "lastConfirmed": "2026-09-05"
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Mac & Cheese Kid's Meal",
+      "description": "Chick-fil-A's first-ever non-chicken Kid's Meal entree: a medium portion of the chain's baked mac & cheese (Parmesan, cheddar and Romano cheeses) with a choice of small side, a kid's drink and a prize; bacon addable for extra. Rolled out nationwide (plus Canada and Puerto Rico) June 8, 2026 as a permanent Kid's Meal option, not a limited-time item.",
+      "category": "food",
+      "startDate": "2026-06-08",
+      "endDate": "2026-06-08",
+      "status": "ended",
+      "source": "https://www.chick-fil-a.com/menu/kids-meals/mac-cheese-kids-meal",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Febreze x Dunkin' Scent Collection",
+      "description": "First-of-its-kind home fragrance collaboration between Febreze and Dunkin': three scents (Strawberry Frosted Donut, Cinnamon Roll, Vanilla Latte) across Febreze AIR, PLUG, BATHROOM and CAR product lines, starting at $3.97, sold exclusively at Walmart.",
+      "category": "event",
+      "startDate": "2026-09-01",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://news.dunkindonuts.com/news/dunkin-and-febreze-limited-edition-scent-collection-september-2026",
+      "image": null,
+      "lastConfirmed": "2026-09-05"
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "HEAD x Dunkin' Tennis Merch Collection (\"Serve, Sip, Swing\")",
+      "description": "Limited-edition tennis-inspired merch collection centered on two HEAD x Dunkin' tennis bags ($99 each) in Dunkin's orange-and-pink colors, dropping exclusively on DunkinRunsOnMerch.com while supplies last. Part of the same Tennis Takeover campaign as the separately-tracked one-day Mini Tennis Can giveaway.",
+      "category": "event",
+      "startDate": "2026-09-04",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://news.dunkindonuts.com/blog/serve-sip-swing-dunkin-tennis-merch-collection-september-2026",
+      "image": null,
+      "lastConfirmed": "2026-09-05"
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Peanuts \"Great Pumpkin\" Merchandise Collection",
+      "description": "Limited-edition 10-piece global merch collection inspired by 'It's the Great Pumpkin, Charlie Brown' (60th anniversary of the special): a 24oz cold cup, 14oz ceramic mug, 16oz stainless tumbler with Woodstock charm, Snoopy plush, bag charm, mini tote, enamel pin set and a two-per-customer Snoopy glass cold cup.",
+      "category": "event",
+      "startDate": "2026-09-15",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://about.starbucks.com/stories/2026/starbucks-and-peanuts-celebrate-fall-with-a-global-merch-collection-inspired-by-the-great-pumpkin/",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Labor Day Weekend $2 Original Glazed Dozen (2026)",
+      "description": "Buy a dozen Original Glazed doughnuts or a 16-count box of Original Glazed Minis at regular price, get a second dozen Original Glazed for $2 (limit 2), through Labor Day, Sept 7, 2026. The 2026 repeat of Krispy Kreme's annual Labor Day $2-dozen deal (distinct from the already-tracked, corrected-to-2025 'Go for 2' promo).",
+      "category": "event",
+      "startDate": "2026-08-31",
+      "endDate": "2026-09-07",
+      "status": "ending-soon",
+      "source": "https://www.wfxb.com/2026/09/04/several-eateries-have-deals-for-labor-day-weekend/",
+      "image": null,
+      "lastConfirmed": "2026-09-05"
+    },
+    {
+      "chain": "Sonic",
+      "item": "Teachers' Circle Back-to-School Week",
+      "description": "SONIC's Teachers' Circle rewards program (free for K-12 and college/university educators via the SONIC App) offered a bundle of free food and drink redemptions for back-to-school season, redeemable Aug 19 through Sept 1, 2026. Kept for the record.",
+      "category": "event",
+      "startDate": "2026-08-19",
+      "endDate": "2026-09-01",
+      "status": "ended",
+      "source": "https://stories.inspirebrands.com/sonic-celebrates-back-to-school-season-with-free-food-and-drinks-for-educators/",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Choco Frosted Donut Blizzard Treat (Sweet Morning Memories Breakfast Collection)",
+      "description": "Nostalgic breakfast-themed Blizzard: choco frosted donut pieces and sprinkles blended with DQ soft serve. Part of the 'Sweet Morning Memories' Breakfast Collection with the Fruity Pebbles Shake and Cinnamon Toast Crunch Dipped Cone, launched nationwide April 27, 2026. No official end date was published; endDate is a best estimate (DQ's typical ~6-week limited-run cycle), since it had clearly been superseded well before the later 'Countdown to Summer' and fall pushes already tracked.",
+      "category": "dessert",
+      "startDate": "2026-04-27",
+      "endDate": "2026-06-08",
+      "status": "ended",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Dairy-Queen-Channels-Sweet-Morning-Memories-with-New-Breakfast-Collection-of-Treats-/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Fruity Pebbles Shake (Sweet Morning Memories Breakfast Collection)",
+      "description": "Fruity Pebbles cereal blended with DQ vanilla soft serve and real milk, garnished with whipped topping. Part of the April 27, 2026 Breakfast Collection launch. No official end date was published; endDate is a best estimate.",
+      "category": "drink",
+      "startDate": "2026-04-27",
+      "endDate": "2026-06-08",
+      "status": "ended",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Dairy-Queen-Channels-Sweet-Morning-Memories-with-New-Breakfast-Collection-of-Treats-/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Cinnamon Toast Crunch Dipped Cone (Sweet Morning Memories Breakfast Collection)",
+      "description": "Vanilla soft serve dipped in a cinnamon-cereal-flavored coating with crunchy cereal bits and Cinnadust garnish. Third item in the April 27, 2026 Breakfast Collection. No official end date was published; endDate is a best estimate.",
+      "category": "dessert",
+      "startDate": "2026-04-27",
+      "endDate": "2026-06-08",
+      "status": "ended",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Dairy-Queen-Channels-Sweet-Morning-Memories-with-New-Breakfast-Collection-of-Treats-/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "2026 Seafood Menu (Butterfly Shrimp Tackle Box, Surf & Turf, Flounder Sandwich)",
+      "description": "Presidents' Day-timed seafood lineup, distinct from the later July '$5 Faves' butterfly shrimp addition: Butterfly Shrimp Tackle Box (8pc, choice of Garlic Parmesan/Lemon Pepper/Buffalo/Ghost Pepper seasoning, side + biscuit, $5.99), Surf & Turf (4 shrimp + 2 chicken tenders, side + biscuit, $5.99), plus the Flounder Fish Sandwich and Fried Pickles. Rolled out nationwide Feb 16, 2026. No official end date was published; endDate is a best estimate (end of the Lent/Easter season), since the July '$5 Faves' listing independently called butterfly shrimp 'NEW' again, implying this earlier run had already lapsed.",
+      "category": "food",
+      "startDate": "2026-02-16",
+      "endDate": "2026-04-05",
+      "status": "ended",
+      "source": "https://www.thetakeout.com/2103131/popeyes-2026-seafood-menu-review-seasoned-shrimp/",
+      "image": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "Wingstop x PopUp Bagels Lemon Pepper Schmear",
+      "description": "Limited-edition collab cream cheese schmear made with Wingstop's Lemon Pepper seasoning, sold exclusively at PopUp Bagels locations (not Wingstop restaurants), Jan 29 through Feb 11, 2026.",
+      "category": "food",
+      "startDate": "2026-01-29",
+      "endDate": "2026-02-11",
+      "status": "ended",
+      "source": "https://www.prnewswire.com/news-releases/wingstop-and-popup-bagels-team-up-on-lemon-pepper-schmear-for-bold-flavor-all-day-long-302667304.html",
+      "image": null
+    },
+    {
+      "chain": "Domino's",
+      "item": "50% Off All Pizzas - NFL Draft Week",
+      "description": "All menu-priced pizzas (any size, any of the six crust types including Handmade Pan and Parmesan Stuffed Crust, including Specialty Pizzas) 50% off when ordered online via dominos.com or the app, timed to NFL Draft week. Distinct from the later July 27-Aug 2, 2026 'Summer Savings' 50% off iteration already tracked.",
+      "category": "food",
+      "startDate": "2026-04-20",
+      "endDate": "2026-04-26",
+      "status": "ended",
+      "source": "https://ir.dominos.com/news-releases/news-release-details/dominosr-delivers-draft-week-win-all-pizza-50",
+      "image": null
+    },
+    {
+      "chain": "Domino's",
+      "item": "National Dairy Month 50% Off Pizzas",
+      "description": "All menu-priced pizzas (any size/crust, including Specialty Pizzas) 50% off for orders via dominos.com, the app, phone, or in-store, tied to June Dairy Month. A separate, later iteration of the recurring 50%-off promo from the already-tracked July 27-Aug 2 'Summer Savings' and April 20-26 'NFL Draft Week' deals.",
+      "category": "food",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-07",
+      "status": "ended",
+      "source": "https://ir.dominos.com/news-releases/news-release-details/dominosr-kicks-national-dairy-month-50-pizzas-june-1-7",
+      "image": null
+    },
+    {
+      "chain": "Domino's",
+      "item": "Emergency Pizza for U.S. Red Cards (World Cup 2026)",
+      "description": "Soccer-tied giveaway: customers registered at dominos.com/emergency-pizzas-for-soccer by June 10, 2026; if a U.S. men's national team player received a red card at any point during the 2026 World Cup (through July 19), Domino's randomly selected 60,000+ registrants to win a free medium 2-topping 'Emergency Pizza,' redeemable by Rewards members through Aug 2, 2026. Companion promo gave away 75,000 additional free Emergency Pizza codes to EA SPORTS FC 26 players on Fridays between May 18 and June 5, 2026, plus a Domino's x Saturdays Football merch collab.",
+      "category": "event",
+      "startDate": "2026-05-18",
+      "endDate": "2026-08-02",
+      "status": "ended",
+      "source": "https://ir.dominos.com/news-releases/news-release-details/dominosr-help-ease-pain-us-red-card-giving-away-1-million-worth",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "$6.99 Any Footlong (Sub Club, September 2026)",
+      "description": "Sub Club members-only offer: any Footlong sub on the menu for $6.99 via the Subway app or Subway.com (excludes Fresh Fit, Deli Faves, 5 Meat Italian, and Big Hot Pastrami). Automatically loaded into existing members' wallets; limit one per member. A later, renewed iteration of the recurring $6.99 footlong deal distinct from the already-tracked June 11-Aug 19, 2026 run.",
+      "category": "sandwich",
+      "startDate": "2026-09-02",
+      "endDate": "2026-09-29",
+      "status": "active",
+      "source": "https://www.eatdrinkdeals.com/subway-coupons-promo-codes/",
+      "image": null,
+      "lastConfirmed": "2026-09-05"
     }
   ]
 }

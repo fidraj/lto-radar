@@ -98,15 +98,15 @@
     },
     {
       "chain": "McDonald's",
-      "item": "Boo Buckets (40th Anniversary)",
-      "description": "Halloween Happy Meal pails returning for their 40th anniversary, officially confirmed by McDonald's (Good Morning America / ABC News): nationwide Oct 14, 2026, running through Halloween (Oct 31) or while supplies last. Confirmed designs are McPunk'n (orange), McGoblin (green), a new Vampire (purple), and Mummy (glow-in-the-dark white) - different from the earlier unconfirmed witch/werewolf/cat leak.",
+      "item": "Boo Buckets 40th Anniversary (rumored)",
+      "description": "Halloween Happy Meal pails expected back for their 40th anniversary (first launched 1986); a leak claims McPunk'n, McGoblin, a new Vampire and glow-in-the-dark Mummy designs for an Oct 14, 2026 nationwide release, but this is unconfirmed by McDonald's - the widely-cited \"official\" GMA/ABC News article with this date actually covers the 2025 Boo Buckets return (ghost, pumpkin, goblin, cat, zombie, Oct 21, 2025), not a 2026 confirmation.",
       "category": "event",
       "startDate": "2026-10-14",
-      "endDate": "2026-10-31",
+      "endDate": null,
       "status": "upcoming",
-      "source": "https://www.goodmorningamerica.com/food/story/mcdonalds-new-halloween-boo-buckets-back-limited-time-126246418",
+      "source": "https://news.piratesandprincesses.net/p/mcdonalds-2026-boo-buckets-leaked",
       "image": "mcdonald-s-boo-buckets-40th-anniversary-rumored.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-06"
     },
     {
       "chain": "Burger King",
@@ -4823,10 +4823,10 @@
     {
       "chain": "Sonic",
       "item": "Teachers' Circle Back-to-School Week",
-      "description": "SONIC's Teachers' Circle rewards program (free for K-12 and college/university educators via the SONIC App) offered a bundle of free food and drink redemptions for back-to-school season, redeemable Aug 19 through Sept 1, 2026. Kept for the record.",
+      "description": "SONIC's Teachers' Circle rewards program (free for K-12 and college/university educators via the SONIC App) offered a bundle of free food and drink redemptions for back-to-school season, redeemable Aug 19 through Sept 1, 2024. Kept for the record; source article is dated 2024, not 2026 as a prior refresh mis-filed it - no 2026 recurrence of this exact article/date has been confirmed.",
       "category": "event",
-      "startDate": "2026-08-19",
-      "endDate": "2026-09-01",
+      "startDate": "2024-08-19",
+      "endDate": "2024-09-01",
       "status": "ended",
       "source": "https://stories.inspirebrands.com/sonic-celebrates-back-to-school-season-with-free-food-and-drinks-for-educators/",
       "image": null

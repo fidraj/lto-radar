@@ -1622,14 +1622,14 @@
     {
       "chain": "Chipotle",
       "item": "High Protein Menu",
-      "description": "Chipotle's first-ever High Protein Menu: High Protein Cup, Double High Protein Bowl, High Protein-High Fiber Bowl, High Protein-Low Calorie Salad, Double High Protein Burrito, and Adobo Chicken Taco (15-81g protein per item); expanded in August 2026 with app-exclusive creator/athlete-inspired builds.",
+      "description": "Chipotle's first-ever High Protein Menu: High Protein Cup, Double High Protein Bowl, High Protein-High Fiber Bowl, High Protein-Low Calorie Salad, Double High Protein Burrito, and Adobo Chicken Taco (15-81g protein per item); expanded in August 2026 with app-exclusive creator/athlete-inspired builds. Framed by coverage as a permanent menu platform rather than a rotating LTO, so closed out on its launch date per the board's own-menu-item convention.",
       "category": "food",
       "startDate": "2025-12-23",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2025-12-23",
+      "status": "ended",
       "source": "https://newsroom.chipotle.com/2025-12-18-CHIPOTLE-UNVEILS-ITS-FIRST-EVER-HIGH-PROTEIN-MENU-FEATURING-A-NEW-SNACK-READY-HIGH-PROTEIN-CUP",
       "image": "chipotle-high-protein-menu.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-06"
     },
     {
       "chain": "Burger King",
@@ -3400,7 +3400,7 @@
       "image": "taco-bell-melty-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-23"
+      "lastConfirmed": "2026-09-06"
     },
     {
       "chain": "Taco Bell",
@@ -3414,7 +3414,7 @@
       "image": "taco-bell-fresca-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-08-23"
+      "lastConfirmed": "2026-09-06"
     },
     {
       "chain": "Wingstop",
@@ -4608,7 +4608,8 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/chipotle-marks-a-brand-first-with-all-new-pollo-asado-and-the-debut-of-chili-lime-chips-302863254.html",
       "image": "chipotle-pollo-asado-new-recipe.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-06"
     },
     {
       "chain": "Chipotle",

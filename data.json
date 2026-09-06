@@ -2071,18 +2071,19 @@
     {
       "chain": "Burger King",
       "item": "$5 Your Way Meal",
-      "description": "Value bundle (choice of Whopper Jr., Bacon Cheeseburger, or Chicken Jr., plus fries, 4-pc nuggets and a drink) for $5; Restaurant Brands International said on its Aug 8 earnings call that the deal performed well enough to be extended through October 7, 2026.",
+      "description": "Value bundle (choice of Whopper Jr., Bacon Cheeseburger, or Chicken Jr., plus fries, 4-pc nuggets and a drink) for $5; Restaurant Brands International said on its Aug 8, 2024 earnings call that the deal performed well enough to be extended through October 7, 2024. Superseded by later BK value promos (the $5 Duo / $7 Trio Value Meal Deal, tracked separately).",
       "category": "event",
       "startDate": "2024-06-10",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2024-10-07",
+      "status": "ended",
       "source": "https://www.qsrmagazine.com/news/burger-kings-5-your-way-meal-will-last-all-summer/",
       "image": "burger-king-5-your-way-meal.jpg",
-      "lastConfirmed": "2026-08-30",
+      "lastConfirmed": "2026-09-06",
       "verified": {
-        "on": "2026-08-19",
+        "on": "2026-09-06",
         "startDate": "2024-06-10",
-        "endDate": null
+        "endDate": "2024-10-07",
+        "note": "Prior verified block (2026-08-19) had endDate null; the item's own description cited RBI's Aug 8 earnings call extension 'through October 7' but mis-transposed the year as 2026 instead of 2024, so it never got closed out. Corrected per CNBC 2024-05-24, Today.com ~Aug 2024, and Deseret 2024-05-28, which all confirm this was a 2024-only promo (Jun 10 - Oct 7, 2024)."
       }
     },
     {

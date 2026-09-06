@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-05",
+  "researched": "2026-09-06",
   "items": [
     {
       "chain": "McDonald's",
@@ -650,7 +650,13 @@
       "endDate": "2025-11-08",
       "status": "ended",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-launches-new-cherry-berry-beverage-alongside-pretzel-cheddar-club-sandwich",
-      "image": "chick-fil-a-pretzel-cheddar-club-sandwich.jpg"
+      "image": "chick-fil-a-pretzel-cheddar-club-sandwich.jpg",
+      "lastConfirmed": "2026-09-06",
+      "verified": {
+        "on": "2026-09-06",
+        "startDate": "2025-08-18",
+        "endDate": "2025-11-08"
+      }
     },
     {
       "chain": "Chick-fil-A",
@@ -3524,7 +3530,7 @@
       "image": "domino-s-perfect-combo-deal-19-99.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-05",
+      "lastConfirmed": "2026-09-06",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2012-06-18",
@@ -4728,14 +4734,14 @@
     {
       "chain": "Pizza Hut",
       "item": "Hut Crust: New Hand-Tossed Recipe & Garlic-Parm Seasoning",
-      "description": "Pizza Hut's first Hand-Tossed crust recipe change in over a decade — a lighter, airier dough finished with a new Garlic-Parm Hut Blend (parmesan, garlic, butter) seasoning, launched under a new \"Hut Crust\" platform alongside a $10 large 3-topping pizza deal (Hand-Tossed, Tavern Style, or Thin 'N Crispy crust).",
+      "description": "Pizza Hut's first Hand-Tossed crust recipe change in over a decade — a lighter, airier dough finished with a new Garlic-Parm Hut Blend (parmesan, garlic, butter) seasoning, launched under a new \"Hut Crust\" platform. Coverage frames this as a permanent recipe/seasoning change to the core Hand-Tossed crust (not a rotating LTO); only the accompanying $10 large 3-topping bundle price was time-limited (separately tracked). Closed out on its launch date per the board's own permanent-menu-item convention.",
       "category": "food",
       "startDate": "2026-03-11",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-03-11",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/pizza-hut-launches-hut-crust-platform-for-crust-lovers--sets-out-to-hire-first-of-its-kind-hut-crust-connoisseur-302711458.html",
       "image": "pizza-hut-hut-crust-new-hand-tossed-recipe-garlic-parm-seasoning.jpg",
-      "lastConfirmed": "2026-09-04",
+      "lastConfirmed": "2026-09-06",
       "imageAuto": true
     },
     {
@@ -4864,6 +4870,29 @@
       "endDate": "2026-06-08",
       "status": "ended",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Dairy-Queen-Channels-Sweet-Morning-Memories-with-New-Breakfast-Collection-of-Treats-/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "MVP Dip Lineup with $6.99 Chicken Strip Basket Deal",
+      "description": "New dip trio (Strip Dip creamy tangy black-pepper dip, Ghost Pepper Dip, house-made Hidden Valley Ranch) served with a $6.99 four-piece Chicken Strip Basket (Original or FlameThrower strips), fries and a drink; tied to a college-football season ad push.",
+      "category": "chicken",
+      "startDate": "2026-08-31",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.businesswire.com/news/home/20260831819447/en/Dairy-Queen-Kicks-Off-Football-Season-with-$6.99-DQ-Chicken-Strip-Basket-Deal-and-NEW-MVP-Dip-Lineup",
+      "image": null,
+      "lastConfirmed": "2026-09-06"
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Free Signature Stackburger for National Cheeseburger Day",
+      "description": "DQ Rewards members get a free single Original Cheeseburger Signature Stackburger with any $1+ app/online order at participating DQ Grill & Chill locations, in honor of National Cheeseburger Day.",
+      "category": "event",
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-18",
+      "status": "upcoming",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Giving-Rewards-Members-a-Free-Single-Original-Cheeseburger-Signature-Stackburger-in-Honor-of-National-Cheeseburger-Day-/default.aspx",
       "image": null
     },
     {

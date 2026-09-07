@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-06",
+  "researched": "2026-09-07",
   "items": [
     {
       "chain": "McDonald's",
@@ -379,7 +379,7 @@
       "status": "active",
       "source": "https://www.irwendys.com/news/news-details/2026/Crisp-Days-Meet-Cozy-Bites-Wendys-Brings-Pub-Worthy-Fall-Flavor-with-New-and-Returning-Seasonal-Favorites/default.aspx",
       "image": "wendy-s-pretzel-bacon-pub-cheeseburger.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Wendy's",
@@ -391,7 +391,7 @@
       "status": "active",
       "source": "https://www.irwendys.com/news/news-details/2026/Crisp-Days-Meet-Cozy-Bites-Wendys-Brings-Pub-Worthy-Fall-Flavor-with-New-and-Returning-Seasonal-Favorites/default.aspx",
       "image": "wendy-s-pretzel-bacon-pub-chicken-sandwich.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Wendy's",
@@ -403,7 +403,7 @@
       "status": "active",
       "source": "https://www.irwendys.com/news/news-details/2026/Crisp-Days-Meet-Cozy-Bites-Wendys-Brings-Pub-Worthy-Fall-Flavor-with-New-and-Returning-Seasonal-Favorites/default.aspx",
       "image": "wendy-s-bacon-pub-fries.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Wendy's",
@@ -415,7 +415,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/wendys-new-apple-crumble-frosty-fusion.html",
       "image": "wendy-s-apple-crumble-frosty-fusion.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Wendy's",
@@ -874,11 +874,11 @@
       "description": "New fall Blizzard arriving with the fall treat collection: brown sugar cookie dough pieces and brown sugar topping blended with DQ soft serve. Limited time starting Aug 31.",
       "category": "dessert",
       "startDate": "2026-08-31",
-      "endDate": null,
+      "endDate": "2026-09-27",
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": "dairy-queen-brown-sugar-cookie-dough-blizzard.jpg",
-      "lastConfirmed": "2026-09-03"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Dairy Queen",
@@ -1068,7 +1068,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-doubles-down-on-a-fan-favorite-flavor-combo-with-new-chicken-bacon-ranch-menu-302805978.html",
       "image": "zaxby-s-chicken-bacon-ranch-wrap-meal.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Zaxby's",
@@ -1080,7 +1080,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/zaxbys-debuts-chicken-bacon-ranch-menu-with-wraps-quesadillas-and-loaded-fries/",
       "image": "zaxby-s-chicken-bacon-ranch-quesadilla.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Zaxby's",
@@ -1092,7 +1092,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/zaxbys-debuts-chicken-bacon-ranch-menu-with-wraps-quesadillas-and-loaded-fries/",
       "image": "zaxby-s-chicken-bacon-ranch-loaded-fries.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Zaxby's",
@@ -1915,7 +1915,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/arbys-introduces-new-meat-3-box-meal.html",
       "image": "arby-s-meat-3-box-meal.jpg",
-      "lastConfirmed": "2026-08-29"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Arby's",
@@ -2727,7 +2727,7 @@
       "status": "active",
       "source": "https://rollingout.com/2026/08/11/mcdonalds-unveils-bold-new-drink-menu-17/",
       "image": null,
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "McDonald's",
@@ -2757,7 +2757,7 @@
       "status": "active",
       "source": "https://www.irwendys.com/news/news-details/2026/Wendys-Introduces-New-Biggie-Deals-Menu-starting-at-4/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-01"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Taco Bell",
@@ -2934,7 +2934,7 @@
       "image": "burger-king-dragon-ball-super-collab-leaked-unconfirmed.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Chipotle",
@@ -2985,7 +2985,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/newsroom/olivia-rodrigo-baja-blast",
       "image": null,
-      "lastConfirmed": "2026-09-02"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Taco Bell",
@@ -3784,7 +3784,7 @@
       "source": "https://www.nrn.com/beverage-trends/sonic-s-fall-drink-lineup-is-cold-and-pumpkin-free",
       "image": "sonic-hotumn-fall-drink-lineup.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-08-27"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Taco Bell",
@@ -4224,7 +4224,7 @@
       "source": "https://www.thetakeout.com/2231719/mcdonalds-fan-favorite-sauce-return-mighty-hot-sauce/",
       "image": "mcdonald-s-spicy-chicken-mcnuggets-mighty-hot-sauce-2026-return.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-02"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "Pizza Hut",
@@ -4249,7 +4249,7 @@
       "source": "https://www.prnewswire.com/news-releases/burger-king-introduces-latest-innovation-inspired-by-guest-feedback--new-chicken-nuggets-and-sauces-302858841.html",
       "image": "burger-king-new-chicken-nuggets-sauces.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-02"
+      "lastConfirmed": "2026-09-07"
     },
     {
       "chain": "KFC",
@@ -4962,6 +4962,17 @@
       "image": "subway-6-99-any-footlong-sub-club-september-2026.jpg",
       "lastConfirmed": "2026-09-05",
       "imageAuto": true
+    },
+    {
+      "chain": "Burger King",
+      "item": "National Cheeseburger Week Royal Perks Deals",
+      "description": "Week of free/BOGO items for Royal Perks members with a $3 minimum purchase: Sept 14 free Rodeo Burger, Sept 15 BOGO Whopper Jr., Sept 16 free Croissan'wich, Sept 17 free Hamburger, Sept 18 (National Cheeseburger Day) free Bacon Cheeseburger, Sept 19 free 4pc Nuggets, Sept 20 free Original Chicken Sandwich.",
+      "category": "event",
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-20",
+      "status": "upcoming",
+      "source": "https://www.qsrmagazine.com/news/burger-king-to-honor-national-cheeseburger-day-with-series-of-deals-for-rewards-members/",
+      "image": null
     }
   ]
 }

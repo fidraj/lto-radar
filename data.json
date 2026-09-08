@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-07",
+  "researched": "2026-09-08",
   "items": [
     {
       "chain": "McDonald's",
@@ -854,7 +854,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-welcomes-back-the-chicken-supreme-and-introduces-jibbis/",
       "image": "jack-in-the-box-chicken-supreme-75th-anniversary-return.jpg",
-      "lastConfirmed": "2026-09-01"
+      "lastConfirmed": "2026-09-08"
     },
     {
       "chain": "Dairy Queen",
@@ -1476,7 +1476,7 @@
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/arbys-launches-lineup-of-1-99-sliders/",
       "image": "arby-s-1-99-sliders-lineup.jpg",
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-08"
     },
     {
       "chain": "Jack in the Box",
@@ -1500,7 +1500,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-adds-new-sweet-reaper-mozzarella-sticks-as-classic-version-returns/",
       "image": "jack-in-the-box-sweet-reaper-mozzarella-sticks.jpg",
-      "lastConfirmed": "2026-09-01"
+      "lastConfirmed": "2026-09-08"
     },
     {
       "chain": "Popeyes",
@@ -1683,7 +1683,7 @@
       "status": "active",
       "source": "https://parade.com/news/chipotle-just-started-testing-crispy-chicken-fans-want-it-nationwide",
       "image": null,
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-08"
     },
     {
       "chain": "McDonald's",
@@ -1962,7 +1962,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Serves-Up-New-Protein-Bowl-Flavors-and-2-for-6-Jack-Wraps-Including-the-Best-Rated-Wrap-in-Fast-Food/default.aspx",
       "image": "jack-in-the-box-protein-bowls-teriyaki-fajita-and-2-for-6-jack-wraps.jpg",
-      "lastConfirmed": "2026-09-01"
+      "lastConfirmed": "2026-09-08"
     },
     {
       "chain": "Jack in the Box",
@@ -2042,14 +2042,14 @@
     {
       "chain": "McDonald's",
       "item": "McCafe Pumpkin Spice Latte",
-      "description": "Espresso steamed with pumpkin and cinnamon flavored syrup, served hot or iced; returns alongside the Pumpkin & Creme Pie at participating restaurants nationwide starting Aug 29.",
+      "description": "Espresso steamed with pumpkin and cinnamon flavored syrup, served hot or iced. A Parade.com article had claimed a nationwide Aug 29 return, but McDonald's confirmed in early September it discontinued PSL for fall 2026 after a 13-year run, replacing it with the new Caramel Apple Pie drinks lineup (already tracked separately).",
       "category": "drink",
       "startDate": "2026-08-29",
-      "endDate": "while supplies last",
-      "status": "active",
-      "source": "https://parade.com/food/mcdonalds-announces-3-returning-menu-items-customers-say-all-is-right-with-the-world-again-pumpkin-spice-latte-coffee-pie",
+      "endDate": "2026-09-04",
+      "status": "ended",
+      "source": "https://rollingout.com/2026/09/04/mcdonalds-drops-a-fall-favorite/",
       "image": null,
-      "lastConfirmed": "2026-09-03"
+      "lastConfirmed": "2026-09-08"
     },
     {
       "chain": "McDonald's",
@@ -4717,7 +4717,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-08"
     },
     {
       "chain": "Dairy Queen",
@@ -4729,7 +4729,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-08"
     },
     {
       "chain": "Pizza Hut",
@@ -4972,6 +4972,50 @@
       "endDate": "2026-09-20",
       "status": "upcoming",
       "source": "https://www.qsrmagazine.com/news/burger-king-to-honor-national-cheeseburger-day-with-series-of-deals-for-rewards-members/",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Frosty Frights Halloween Toys & Boo! Books",
+      "description": "12 new Kids' Meal Halloween toys (Numb Chuck, Sir Choc-O-Lot, E.A.T., Cold Foot, Shiver Wing, Taranchilla) plus an exclusive 13th collectible via a Wendy's Rewards app drop; $1 \"Boo! Books\" coupon booklets (5 free Jr. Frosty coupons + a $1.99 Kids' Meal coupon) benefit the Dave Thomas Foundation for Adoption.",
+      "category": "event",
+      "startDate": "2026-09-14",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.qsrmagazine.com/news/wendys-halloween-lineup-returns-with-boo-books-and-collectible-toys/",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Volcano Quesarito Comeback",
+      "description": "$4.99 Quesarito featuring new Volcano Sauce (cheese blended with spice), successor to the original Lava Sauce.",
+      "category": "food",
+      "startDate": "2026-01-08",
+      "endDate": "2026-01-21",
+      "status": "ended",
+      "source": "https://www.prnewswire.com/news-releases/taco-bell-dials-up-the-heat-with-the-volcano-quesarito-comeback-featuring-new-volcano-sauce-302655626.html",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Cantina Chicken Rolled Quesadilla",
+      "description": "Rolled Quesadilla format made permanently with slow-roasted Cantina Chicken; launched alongside the limited-time Crispy Chicken Crunchwrap Slider (tracked separately). Board tracks LTOs only, so closed out on its permanent-menu launch date.",
+      "category": "food",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "status": "ended",
+      "source": "https://www.prnewswire.com/news-releases/taco-bell-debuts-bold-new-chicken-innovations-remixing-two-fan-favorite-forms-302715335.html",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "September 2026 Restaurant Expansion Wave",
+      "description": "Six new restaurant openings, including first-ever locations in Saginaw, MI; Gresham, OR; and San Francisco, CA (Fisherman's Wharf), plus new stores in Cleveland, TN; Westminster, CO; and Nashville, TN, continuing the chain's 30th-anniversary growth push.",
+      "category": "event",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-30",
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/raising-canes-plans-six-restaurant-openings-in-september/",
       "image": null
     }
   ]

@@ -5027,7 +5027,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/kfc-tests-new-zinger-sandwich.html",
-      "image": null
+      "image": "kfc-zinger-sandwich-regional-test-return.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Zaxby's",

@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-08",
+  "researched": "2026-09-09",
   "items": [
     {
       "chain": "McDonald's",
@@ -1061,11 +1061,11 @@
     {
       "chain": "Zaxby's",
       "item": "Chicken Bacon Ranch Wrap Meal",
-      "description": "Giant Chicken Finger Wrap with 3 hand-breaded Chicken Fingerz, mixed greens, carrots, red cabbage, Cheddar Jack, bacon, cucumbers, tomatoes and ranch, served with crinkle fries and a drink; limited-time through end of summer.",
+      "description": "Giant Chicken Finger Wrap with 3 hand-breaded Chicken Fingerz, mixed greens, carrots, red cabbage, Cheddar Jack, bacon, cucumbers, tomatoes and ranch, served with crinkle fries and a drink; limited-time through end of summer. Best-estimate endDate (Labor Day) - a summer-framed item with no official end announcement found, but consistently unconfirmable as still running across multiple research passes.",
       "category": "sandwich",
       "startDate": "2026-06-22",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-02",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-doubles-down-on-a-fan-favorite-flavor-combo-with-new-chicken-bacon-ranch-menu-302805978.html",
       "image": "zaxby-s-chicken-bacon-ranch-wrap-meal.jpg",
       "lastConfirmed": "2026-09-07"
@@ -1073,11 +1073,11 @@
     {
       "chain": "Zaxby's",
       "item": "Chicken Bacon Ranch Quesadilla",
-      "description": "Made-to-order giant quesadilla packed with 3 hand-breaded Chicken Fingerz, Cheddar Jack, bacon and ranch on a flour tortilla; limited-time through end of summer.",
+      "description": "Made-to-order giant quesadilla packed with 3 hand-breaded Chicken Fingerz, Cheddar Jack, bacon and ranch on a flour tortilla; limited-time through end of summer. Best-estimate endDate (Labor Day) - a summer-framed item with no official end announcement found, but consistently unconfirmable as still running across multiple research passes.",
       "category": "food",
       "startDate": "2026-06-22",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-02",
+      "status": "ended",
       "source": "https://www.fastfoodpost.com/zaxbys-debuts-chicken-bacon-ranch-menu-with-wraps-quesadillas-and-loaded-fries/",
       "image": "zaxby-s-chicken-bacon-ranch-quesadilla.jpg",
       "lastConfirmed": "2026-09-07"
@@ -1085,11 +1085,11 @@
     {
       "chain": "Zaxby's",
       "item": "Chicken Bacon Ranch Loaded Fries",
-      "description": "Crinkle fries topped with hand-breaded fried chicken, Cheddar Jack, bacon and ranch; limited-time through end of summer.",
+      "description": "Crinkle fries topped with hand-breaded fried chicken, Cheddar Jack, bacon and ranch; limited-time through end of summer. Best-estimate endDate (Labor Day) - a summer-framed item with no official end announcement found, but consistently unconfirmable as still running across multiple research passes.",
       "category": "food",
       "startDate": "2026-06-22",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-02",
+      "status": "ended",
       "source": "https://www.fastfoodpost.com/zaxbys-debuts-chicken-bacon-ranch-menu-with-wraps-quesadillas-and-loaded-fries/",
       "image": "zaxby-s-chicken-bacon-ranch-loaded-fries.jpg",
       "lastConfirmed": "2026-09-07"
@@ -1173,7 +1173,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/05/pizza-hut-new-crispy-parm-pan-pizza.html",
       "image": "pizza-hut-crispy-parm-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-09"
     },
     {
       "chain": "Domino's",
@@ -1488,7 +1488,7 @@
       "status": "active",
       "source": "https://www.qsrweb.com/news/jack-in-the-box-launches-slider-meal-75k-giveaway-for-anniversary/",
       "image": "jack-in-the-box-smashed-jack-sliders.jpg",
-      "lastConfirmed": "2026-09-01"
+      "lastConfirmed": "2026-09-09"
     },
     {
       "chain": "Jack in the Box",
@@ -1600,7 +1600,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": null,
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-09"
     },
     {
       "chain": "KFC",
@@ -1730,7 +1730,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/taco-bell-takes-fajita-obsession-beyond-the-sizzle-with-new-fajita-street-chalupas-and-chicken-fajita-nacho-fries-302800749.html",
       "image": "taco-bell-fajita-street-chalupas-chicken-fajita-nacho-fries.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-09"
     },
     {
       "chain": "Taco Bell",
@@ -1742,7 +1742,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/taco-bell-new-pepper-jack-steak-nacho-fries.html",
       "image": "taco-bell-pepper-jack-steak-nacho-fries.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-09"
     },
     {
       "chain": "Taco Bell",
@@ -1754,7 +1754,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/new-taco-bell-crispy-chicken-chipotle-bacon-melt-burrito.html",
       "image": "taco-bell-crispy-chicken-chipotle-bacon-melt-burrito.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-09"
     },
     {
       "chain": "Taco Bell",
@@ -1778,7 +1778,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/taco-bell-tests-new-sweet-chipotle-lime-crispy-chicken.html",
       "image": "taco-bell-sweet-chipotle-lime-crispy-chicken-regional-test-unconfirmed.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-09"
     },
     {
       "chain": "Taco Bell",
@@ -1950,7 +1950,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/A-Matcha-Made-in-Heaven-Jack-in-the-Box-Launches-Matcha-Beverage-Lineup-Nationwide/default.aspx",
       "image": "jack-in-the-box-matcha-beverage-platform-matcha-iced-latte-oreo-matcha-shake.jpg",
-      "lastConfirmed": "2026-09-01"
+      "lastConfirmed": "2026-09-09"
     },
     {
       "chain": "Jack in the Box",
@@ -2065,11 +2065,11 @@
     {
       "chain": "Wendy's",
       "item": "Watermelon Drinks Trio (Watermelon Lemonade, Watermelon Sprite, Watermelon Sparkling Energy)",
-      "description": "Spring/summer beverage lineup: Watermelon Lemonade (Dave's Craft Lemonade with watermelon puree), Sprite Watermelon, and Watermelon Sparkling Energy (80-120mg caffeine); launched nationwide April 27, 2026 and reported still on menus as of early August.",
+      "description": "Spring/summer beverage lineup: Watermelon Lemonade (Dave's Craft Lemonade with watermelon puree), Sprite Watermelon, and Watermelon Sparkling Energy (80-120mg caffeine); launched nationwide April 27, 2026 and reported still on menus as of early August. Best-estimate endDate (Labor Day) - no official end announcement found, but Wendy's fall lineup (Apple Crumble Frosty Fusion, Frosty Frights) has since replaced summer items.",
       "category": "drink",
       "startDate": "2026-04-27",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-02",
+      "status": "ended",
       "source": "https://www.wendys.com/blog/lemonade-flavor-lineup",
       "image": "wendy-s-watermelon-drinks-trio-watermelon-lemonade-watermelon-sprite-watermelon-.jpg",
       "lastConfirmed": "2026-08-30"
@@ -2170,11 +2170,11 @@
     {
       "chain": "Jack in the Box",
       "item": "2 Tacos for 75 Cents (First Tuesday Monthly, 75th Anniversary)",
-      "description": "Recurring 75th-anniversary value promo exclusive to the Jack app: 2 classic tacos for 75 cents with a $1+ purchase, offered on the first Tuesday of every month throughout 2026 (launched Jan 6, 2026; most recent occurrence Aug 4, 2026; next Sept 1, 2026).",
+      "description": "Recurring 75th-anniversary value promo exclusive to the Jack app: 2 classic tacos for 75 cents with a $1+ purchase, offered on the first Tuesday of every month throughout 2026 (launched Jan 6, 2026; most recent occurrence Aug 4, 2026; next Sept 1, 2026). Folded into a final 75th-anniversary window (Jun 16-Jul 7, 2026) and ended; no evidence of resuming since.",
       "category": "event",
       "startDate": "2026-01-06",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-07-07",
+      "status": "ended",
       "source": "https://x.com/JackBox/status/2008632993057849430",
       "image": null,
       "lastConfirmed": "2026-09-01"
@@ -2781,7 +2781,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/taco-bell-enchirito-returns-plus-new-cinnamon-sugar-churros.html",
       "image": null,
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-09"
     },
     {
       "chain": "Taco Bell",
@@ -3406,7 +3406,7 @@
       "image": "taco-bell-melty-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-06"
+      "lastConfirmed": "2026-09-09"
     },
     {
       "chain": "Taco Bell",
@@ -3420,7 +3420,7 @@
       "image": "taco-bell-fresca-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-06"
+      "lastConfirmed": "2026-09-09"
     },
     {
       "chain": "Wingstop",
@@ -3748,7 +3748,7 @@
       "status": "active",
       "source": "https://www.foodbeast.com/news/pizza-huts-3-personal-pan-pizza-might-be-the-best-value-move-in-fast-food-right-now/",
       "image": "pizza-hut-3-tuesday-personal-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-05",
+      "lastConfirmed": "2026-09-09",
       "imageAuto": true
     },
     {
@@ -5016,6 +5016,28 @@
       "endDate": "2026-09-30",
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/raising-canes-plans-six-restaurant-openings-in-september/",
+      "image": null
+    },
+    {
+      "chain": "KFC",
+      "item": "Zinger Sandwich (regional test return)",
+      "description": "Spicy hand-breaded chicken breast filet, shredded lettuce, and Colonel's Mayo on a toasted brioche bun; a comeback of a sandwich absent from KFC's US menu since around 2018, currently testing only in Southern California (San Diego, Los Angeles). Not yet a confirmed nationwide item.",
+      "category": "chicken",
+      "startDate": "2026-01-28",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.brandeating.com/2026/01/kfc-tests-new-zinger-sandwich.html",
+      "image": null
+    },
+    {
+      "chain": "Zaxby's",
+      "item": "Dry Rubs Lineup (Lemon Pepper, Garlic Parmesan, Nashville Hot)",
+      "description": "Three new dry rub flavors added across the Wings & Things Meal, Chicken Finger Plate, and Traditional Wings Meal, plus a limited-time Zax Rewardz offer to add rub flavor to crinkle fries; launched alongside the Peaches & Cream Milkshake. Went permanent to the core menu at launch, not a rotating LTO.",
+      "category": "chicken",
+      "startDate": "2026-02-23",
+      "endDate": "2026-02-23",
+      "status": "ended",
+      "source": "https://www.prnewswire.com/news-releases/zaxbys-turns-up-the-flavor-with-launch-of-new-dry-rubs-lineup-and-refreshing-peaches--cream-milkshake-302693601.html",
       "image": null
     }
   ]

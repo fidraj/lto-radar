@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-09",
+  "researched": "2026-09-10",
   "items": [
     {
       "chain": "McDonald's",
@@ -586,7 +586,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": "kfc-popcorn-chicken-returning.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "KFC",
@@ -758,7 +758,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/sonic-new-7-dollar-big-meal-deal.html",
       "image": "sonic-7-big-deal-meal.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Arby's",
@@ -770,7 +770,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
       "image": "arby-s-quarter-pound-bbq-menu-pulled-pork-chopped-brisket.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Arby's",
@@ -782,7 +782,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
       "image": "arby-s-bbq-mac-bowl.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Arby's",
@@ -794,7 +794,7 @@
       "status": "ending-soon",
       "source": "https://www.brandeating.com/2026/05/arbys-pecan-chicken-salad-sandwich-and-orange-cream-shake-summer-2026.html",
       "image": "arby-s-pecan-chicken-salad-sandwich.jpg",
-      "lastConfirmed": "2026-08-29"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Arby's",
@@ -806,7 +806,7 @@
       "status": "ending-soon",
       "source": "https://www.brandeating.com/2026/05/arbys-pecan-chicken-salad-sandwich-and-orange-cream-shake-summer-2026.html",
       "image": "arby-s-orange-cream-shake.jpg",
-      "lastConfirmed": "2026-08-29"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Jack in the Box",
@@ -854,7 +854,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-welcomes-back-the-chicken-supreme-and-introduces-jibbis/",
       "image": "jack-in-the-box-chicken-supreme-75th-anniversary-return.jpg",
-      "lastConfirmed": "2026-09-08"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Dairy Queen",
@@ -938,7 +938,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/popeyes-launches-new-cheese-bites.html",
       "image": "popeyes-cheese-bites.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Popeyes",
@@ -1173,7 +1173,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/05/pizza-hut-new-crispy-parm-pan-pizza.html",
       "image": "pizza-hut-crispy-parm-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-09"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Domino's",
@@ -1253,11 +1253,11 @@
     {
       "chain": "Starbucks",
       "item": "Orange Cream beverage lineup",
-      "description": "Nostalgic creamsicle-inspired drinks: Orange Cream Cold Brew, Iced Orange Cream Latte, Iced Orange Cream Matcha, Iced Orange Cream Chai, and Orange Cream Frappuccino, plus a Dandy Worldwide merch collab.",
+      "description": "Nostalgic creamsicle-inspired drinks: Orange Cream Cold Brew, Iced Orange Cream Latte, Iced Orange Cream Matcha, Iced Orange Cream Chai, and Orange Cream Frappuccino, plus a Dandy Worldwide merch collab. Best-estimate end date: every other Starbucks summer-2026 beverage lineup (Tropical Butterfly Refresher, Horchata, Summer-Berry, S'mores) ended 2026-08-24, the day before the fall menu launched 2026-08-25; no direct discontinuation source found for this item specifically.",
       "category": "drink",
       "startDate": "2026-07-28",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-08-24",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/enjoy-peak-summer-nostalgia-with-orange-cream-drinks-and-new-dandy-merch-collab/",
       "image": "starbucks-orange-cream-beverage-lineup.jpg"
     },
@@ -1315,7 +1315,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260601211848/en/SONIC-Debuts-the-$7-Big-Deal-Meal-Bringing-More-of-What-Guests-Want-for-Less",
       "image": "sonic-1-99-value-menu.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Sonic",
@@ -1327,7 +1327,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260518500381/en/SONIC-Expands-Its-Refreshers-Platform-Adding-Frozen-Refreshers-Featuring-a-Brand-New-Watermelon-Peach-Flavor",
       "image": "sonic-frozen-refreshers-incl-new-watermelon-peach.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Dunkin'",
@@ -1488,7 +1488,7 @@
       "status": "active",
       "source": "https://www.qsrweb.com/news/jack-in-the-box-launches-slider-meal-75k-giveaway-for-anniversary/",
       "image": "jack-in-the-box-smashed-jack-sliders.jpg",
-      "lastConfirmed": "2026-09-09"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Jack in the Box",
@@ -1500,7 +1500,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-adds-new-sweet-reaper-mozzarella-sticks-as-classic-version-returns/",
       "image": "jack-in-the-box-sweet-reaper-mozzarella-sticks.jpg",
-      "lastConfirmed": "2026-09-08"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Popeyes",
@@ -1600,7 +1600,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": null,
-      "lastConfirmed": "2026-09-09"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "KFC",
@@ -1950,7 +1950,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/A-Matcha-Made-in-Heaven-Jack-in-the-Box-Launches-Matcha-Beverage-Lineup-Nationwide/default.aspx",
       "image": "jack-in-the-box-matcha-beverage-platform-matcha-iced-latte-oreo-matcha-shake.jpg",
-      "lastConfirmed": "2026-09-09"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Jack in the Box",
@@ -1962,7 +1962,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Serves-Up-New-Protein-Bowl-Flavors-and-2-for-6-Jack-Wraps-Including-the-Best-Rated-Wrap-in-Fast-Food/default.aspx",
       "image": "jack-in-the-box-protein-bowls-teriyaki-fajita-and-2-for-6-jack-wraps.jpg",
-      "lastConfirmed": "2026-09-08"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Jack in the Box",
@@ -2002,7 +2002,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/popeyes-officially-dips-into-the-party-with-their-first-ever-signature-sauce-designed-to-enhance-the-dipping-experience-302503975.html",
       "image": "popeyes-chicken-dippers.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Raising Cane's",
@@ -2189,7 +2189,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/back-for-good-popeyes-makes-fan-favorite-chicken-wraps-a-permanent-menu-offering-and-debuts-new-blackened-ranch-flavor-302760814.html",
       "image": "popeyes-honey-bbq-chicken-sandwich-honey-bbq-bacon-cheese-sandwich.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Dairy Queen",
@@ -2268,7 +2268,7 @@
       "status": "active",
       "source": "https://about.starbucks.com/press/2026/exploring-the-future-of-refreshment-with-sparkling-refresher-and-spritz/",
       "image": null,
-      "lastConfirmed": "2026-08-27"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Sonic",
@@ -2750,11 +2750,11 @@
     {
       "chain": "Wendy's",
       "item": "Biggie Deals Value Menu ($4/$6/$8 tiers)",
-      "description": "Value menu platform with $4 Biggie Bites, $6 Biggie Bag (sandwich + 4pc nuggets + Jr. fry + small drink), and $8 Biggie Bundle.",
+      "description": "Value menu platform with $4 Biggie Bites, $6 Biggie Bag (sandwich + 4pc nuggets + Jr. fry + small drink), and $8 Biggie Bundle. Confirmed as a permanent platform (not a rotating LTO) per Nation's Restaurant News' 2026 QSR 50 report.",
       "category": "event",
       "startDate": "2026-01-14",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-01-14",
+      "status": "ended",
       "source": "https://www.irwendys.com/news/news-details/2026/Wendys-Introduces-New-Biggie-Deals-Menu-starting-at-4/default.aspx",
       "image": null,
       "lastConfirmed": "2026-09-07"
@@ -2901,7 +2901,7 @@
       "image": "mcdonald-s-mcvalue-under-3-menu-4-breakfast-meal-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "McDonald's",
@@ -3521,7 +3521,7 @@
     {
       "chain": "Domino's",
       "item": "Perfect Combo Deal ($19.99)",
-      "description": "Value bundle: two medium 1-topping pizzas, a 16-piece order of Parmesan Bread Bites, an 8-piece order of Cinnamon Twists, and a 2-liter Coca-Cola product for $19.99 total, available for delivery, Carside Delivery, or carryout.",
+      "description": "Value bundle: two medium 1-topping pizzas, a 16-piece order of Parmesan Bread Bites, an 8-piece order of Cinnamon Twists, and a 2-liter Coca-Cola product for $19.99 total, available for delivery, Carside Delivery, or carryout. A perennial Domino's deal periodically relaunched/promoted (e.g. a Feb 2026 game-day push) rather than one continuous run since its original 2012 debut; confirmed still live today at dominos.com/en/deals/9226.",
       "category": "food",
       "startDate": "2012-06-18",
       "endDate": null,
@@ -3530,7 +3530,7 @@
       "image": "domino-s-perfect-combo-deal-19-99.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-06",
+      "lastConfirmed": "2026-09-10",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2012-06-18",
@@ -3664,7 +3664,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-has-an-answer-to-the-value-wars-a-value-feast-fit-for-the-moment-302728926.html",
       "image": "kfc-value-feast-7-9-11-box-feasts-featuring-the-kfc-snacker.jpg",
-      "lastConfirmed": "2026-09-05",
+      "lastConfirmed": "2026-09-10",
       "imageAuto": true
     },
     {
@@ -3748,7 +3748,7 @@
       "status": "active",
       "source": "https://www.foodbeast.com/news/pizza-huts-3-personal-pan-pizza-might-be-the-best-value-move-in-fast-food-right-now/",
       "image": "pizza-hut-3-tuesday-personal-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-09",
+      "lastConfirmed": "2026-09-10",
       "imageAuto": true
     },
     {
@@ -4717,7 +4717,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-08"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Dairy Queen",
@@ -4729,7 +4729,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-08"
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Pizza Hut",
@@ -5028,7 +5028,8 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/kfc-tests-new-zinger-sandwich.html",
       "image": "kfc-zinger-sandwich-regional-test-return.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-10"
     },
     {
       "chain": "Zaxby's",
@@ -5039,6 +5040,61 @@
       "endDate": "2026-02-23",
       "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-turns-up-the-flavor-with-launch-of-new-dry-rubs-lineup-and-refreshing-peaches--cream-milkshake-302693601.html",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Apple Cider Original Glazed Doughnut",
+      "description": "Original Glazed doughnut made with apple cider-spiced dough and cinnamon, part of the Autumn Collection. For four days only, a dozen Apple Cider Original Glazed Doughnuts is $5 with purchase of any dozen at regular price.",
+      "category": "donut",
+      "startDate": "2026-09-10",
+      "endDate": "2026-09-13",
+      "status": "active",
+      "source": "https://www.restaurantnews.com/krispy-apple-cider-original-glazed-doughnut-090926/",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Football Doughnut (Fall & Football Dozen)",
+      "description": "Football-shaped unglazed shell doughnut filled with white Kreme, dipped in chocolate icing with white icing laces; sold individually and in a pre-packed Fall & Football Dozen with Pumpkin Spice Cake, Maple Cheesecake, and Original Glazed doughnuts.",
+      "category": "donut",
+      "startDate": "2026-09-10",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.restaurantnews.com/krispy-apple-cider-original-glazed-doughnut-090926/",
+      "image": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "Lemon Pepper Trio (Chili Crunch & Chili Glaze)",
+      "description": "Two new variants join the Original Lemon Pepper: Lemon Pepper Chili Crunch (dry rub finished with crispy Korean chili crunch) and Lemon Pepper Chili Glaze (citrusy glaze with sweet heat, topped with chili crunch). Early access for Club Wingstop members Sept 10, nationwide Sept 15, tied to football season kickoff.",
+      "category": "chicken",
+      "startDate": "2026-09-10",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/wingstop-kicks-off-football-season-with-new-lemon-pepper-trio-and-its-first-ever-wing-pass-302872818.html",
+      "image": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "Wing Pass (first-ever, $27.99)",
+      "description": "Wingstop's first-ever season-long pass: up to 18 Watch Party Bundles (one per NFL regular-season week), each with 20 classic wings in up to 4 flavors, a large fry, and large ranch, for $27.99 total. Limited to 100 passes, exclusive to Club Wingstop members, on sale via wingstop.com starting Sept 10 at 12pm CT — expected to sell out almost immediately.",
+      "category": "event",
+      "startDate": "2026-09-10",
+      "endDate": "while supplies last",
+      "status": "ending-soon",
+      "source": "https://www.prnewswire.com/news-releases/wingstop-kicks-off-football-season-with-new-lemon-pepper-trio-and-its-first-ever-wing-pass-302872818.html",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "Banana Collection (Banana Pudding Shake, Blast, Dirty Dr Pepper & Cream Slush)",
+      "description": "All-new banana lineup: the returning fan-favorite Banana Pudding Shake plus new Banana Pudding Blast, Banana Dirty Dr Pepper, and Banana Pudding Cream Slush.",
+      "category": "drink",
+      "startDate": "2026-08-24",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.businesswire.com/news/home/20260824345240/en/SONIC-Goes-Bananas-with-an-All-New-Banana-Collection-Featuring-the-Return-of-the-Fan-Favorite-Banana-Pudding-Shake",
       "image": null
     }
   ]

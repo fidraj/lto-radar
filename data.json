@@ -5051,7 +5051,8 @@
       "endDate": "2026-09-13",
       "status": "active",
       "source": "https://www.restaurantnews.com/krispy-apple-cider-original-glazed-doughnut-090926/",
-      "image": null
+      "image": "krispy-kreme-apple-cider-original-glazed-doughnut.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Krispy Kreme",
@@ -5062,7 +5063,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.restaurantnews.com/krispy-apple-cider-original-glazed-doughnut-090926/",
-      "image": null
+      "image": "krispy-kreme-football-doughnut-fall-football-dozen.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Wingstop",
@@ -5073,7 +5075,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/wingstop-kicks-off-football-season-with-new-lemon-pepper-trio-and-its-first-ever-wing-pass-302872818.html",
-      "image": null
+      "image": "wingstop-lemon-pepper-trio-chili-crunch-chili-glaze.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Wingstop",
@@ -5084,7 +5087,8 @@
       "endDate": "while supplies last",
       "status": "ending-soon",
       "source": "https://www.prnewswire.com/news-releases/wingstop-kicks-off-football-season-with-new-lemon-pepper-trio-and-its-first-ever-wing-pass-302872818.html",
-      "image": null
+      "image": "wingstop-wing-pass-first-ever-27-99.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Sonic",

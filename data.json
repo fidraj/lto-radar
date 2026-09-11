@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-10",
+  "researched": "2026-09-11",
   "items": [
     {
       "chain": "McDonald's",
@@ -1173,7 +1173,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/05/pizza-hut-new-crispy-parm-pan-pizza.html",
       "image": "pizza-hut-crispy-parm-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-11"
     },
     {
       "chain": "Domino's",
@@ -1730,7 +1730,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/taco-bell-takes-fajita-obsession-beyond-the-sizzle-with-new-fajita-street-chalupas-and-chicken-fajita-nacho-fries-302800749.html",
       "image": "taco-bell-fajita-street-chalupas-chicken-fajita-nacho-fries.jpg",
-      "lastConfirmed": "2026-09-09"
+      "lastConfirmed": "2026-09-11"
     },
     {
       "chain": "Taco Bell",
@@ -1742,7 +1742,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/taco-bell-new-pepper-jack-steak-nacho-fries.html",
       "image": "taco-bell-pepper-jack-steak-nacho-fries.jpg",
-      "lastConfirmed": "2026-09-09"
+      "lastConfirmed": "2026-09-11"
     },
     {
       "chain": "Taco Bell",
@@ -1754,7 +1754,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/new-taco-bell-crispy-chicken-chipotle-bacon-melt-burrito.html",
       "image": "taco-bell-crispy-chicken-chipotle-bacon-melt-burrito.jpg",
-      "lastConfirmed": "2026-09-09"
+      "lastConfirmed": "2026-09-11"
     },
     {
       "chain": "Taco Bell",
@@ -2645,11 +2645,11 @@
       "category": "donut",
       "startDate": "2026-08-18",
       "endDate": "2026-09-13",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.restaurantnews.com/krispy-kreme-pokemon-doughnut-collection-081326/",
       "image": "krispy-kreme-pok-mon-doughnut-collection.jpg",
       "imageUrl": null,
-      "lastConfirmed": "2026-09-04"
+      "lastConfirmed": "2026-09-11"
     },
     {
       "chain": "Arby's",
@@ -2781,7 +2781,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/taco-bell-enchirito-returns-plus-new-cinnamon-sugar-churros.html",
       "image": null,
-      "lastConfirmed": "2026-09-09"
+      "lastConfirmed": "2026-09-11"
     },
     {
       "chain": "Taco Bell",
@@ -2901,7 +2901,7 @@
       "image": "mcdonald-s-mcvalue-under-3-menu-4-breakfast-meal-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-11"
     },
     {
       "chain": "McDonald's",
@@ -3406,7 +3406,7 @@
       "image": "taco-bell-melty-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-09"
+      "lastConfirmed": "2026-09-11"
     },
     {
       "chain": "Taco Bell",
@@ -3420,7 +3420,7 @@
       "image": "taco-bell-fresca-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-09"
+      "lastConfirmed": "2026-09-11"
     },
     {
       "chain": "Wingstop",
@@ -3748,7 +3748,7 @@
       "status": "active",
       "source": "https://www.foodbeast.com/news/pizza-huts-3-personal-pan-pizza-might-be-the-best-value-move-in-fast-food-right-now/",
       "image": "pizza-hut-3-tuesday-personal-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-10",
+      "lastConfirmed": "2026-09-11",
       "imageAuto": true
     },
     {
@@ -3849,11 +3849,11 @@
       "category": "event",
       "startDate": "2026-08-19",
       "endDate": "2026-09-04",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": "dunkin-alix-s-earle-y-riser-meal-alix-earle-collab.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-08-30"
+      "lastConfirmed": "2026-09-11"
     },
     {
       "chain": "Dunkin'",
@@ -4681,9 +4681,10 @@
       "category": "event",
       "startDate": "2026-09-08",
       "endDate": "2026-09-08",
-      "status": "upcoming",
+      "status": "ended",
       "source": "https://sporked.com/article/you-can-get-a-free-dunkin-psl-on-this-one-day/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-09-11"
     },
     {
       "chain": "Dunkin'",
@@ -4717,7 +4718,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-11"
     },
     {
       "chain": "Dairy Queen",
@@ -4822,10 +4823,10 @@
       "category": "event",
       "startDate": "2026-08-31",
       "endDate": "2026-09-07",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.wfxb.com/2026/09/04/several-eateries-have-deals-for-labor-day-weekend/",
       "image": "krispy-kreme-labor-day-weekend-2-original-glazed-dozen-2026.jpg",
-      "lastConfirmed": "2026-09-05",
+      "lastConfirmed": "2026-09-11",
       "imageAuto": true
     },
     {
@@ -5099,6 +5100,149 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260824345240/en/SONIC-Goes-Bananas-with-an-All-New-Banana-Collection-Featuring-the-Return-of-the-Fan-Favorite-Banana-Pudding-Shake",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Munchie Meal of Horror (Simpsons Treehouse of Horror)",
+      "description": "75th-anniversary Halloween collab menu launched nationwide Sept 10, 2026: guests choose a Double Krusty Burger of Terror or Double Chicken Sandwich of Terror, served with two tacos, seasoned curly fries and a drink, packaged in an exclusive Treehouse of Horror box; comes with one of six special-edition glow-in-the-dark Simpsons cups. Available at participating locations, via the Jack app and JackintheBox.com while supplies last.",
+      "category": "event",
+      "startDate": "2026-09-10",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Krusty Burger of Terror / Chicken Sandwich of Terror",
+      "description": "Part of the Simpsons Treehouse of Horror collab: Krusty-inspired burger and chicken sandwich topped with a new Spooky Simpsons Sauce (a smoky BBQ ketchup made for the tie-in). Sold on their own and as the entree choice in the Munchie Meal of Horror.",
+      "category": "burger",
+      "startDate": "2026-09-10",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Forbidden D'oh!nut Holes",
+      "description": "New dessert tied to the Simpsons Treehouse of Horror collab: warm cinnamon-sugar-dusted donut holes topped with pink frosting and rainbow sprinkles, a nod to the show's iconic pink doughnut.",
+      "category": "dessert",
+      "startDate": "2026-09-10",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Decades #TBTB In-App Scavenger Hunt",
+      "description": "Interactive in-app scavenger hunt tied to the Decades #TBTB (2016 throwback) menu, with a new unlockable offer each week over a three-week window; runs alongside the Naked Chicken Chalupa, Meximelt, Beefy Crunch Burrito, and Caramel Apple Empanada throwback items.",
+      "category": "event",
+      "startDate": "2026-08-25",
+      "endDate": "2026-09-14",
+      "status": "ending-soon",
+      "source": "https://www.prnewswire.com/news-releases/taco-bell-brings-the-2016-vibes-back-to-fans-nationwide-with-decades-tbtb-menu-302853433.html",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Halloween Refreshers & Energy Lineup (Werewolf Punch, Midnight Potion, Dark Spell Daydream, Sour Apple Energy, Sour Apple/Midnight Apple Dunkin' Zero)",
+      "description": "New Halloween 'spooky season' Refreshers and energy drinks confirmed via Dunkin's official newsroom post 'Spooky Season Runs on Dunkin'': Werewolf Punch and Midnight Potion Refreshers (both built on the existing Berry Clementine Refresher base) plus Dark Spell Daydream, Sour Apple Energy, and two sugar-free Dunkin' Zero apple flavors. Confirmed nationwide launch Sept 30, 2026.",
+      "category": "drink",
+      "startDate": "2026-09-30",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://news.dunkindonuts.com/news/spooky-season-runs-on-dunkin",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Halloween Coffee & Matcha Lineup (Terror-misu Cloud Latte, Nutty Nightmare Iced Coffee, Creepy Crawler Coffee Chiller, Franki Matcha, Potion Macchiato)",
+      "description": "New Halloween-themed hot/iced coffee and matcha drinks confirmed via Dunkin's official newsroom post 'Spooky Season Runs on Dunkin'', including the debut of a new frozen-coffee syrup in the Creepy Crawler Coffee Chiller and the new Potion Macchiato. Nationwide launch Sept 30, 2026.",
+      "category": "drink",
+      "startDate": "2026-09-30",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://news.dunkindonuts.com/news/spooky-season-runs-on-dunkin",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Halloween MUNCHKINS Bucket & Spider Donut (returning)",
+      "description": "50-count Munchkins donut-hole 'bucket' and the returning Spider Donut (frosted donut with a chocolate Munchkins hole for a body plus icing legs/eyes); named in Dunkin's official Halloween newsroom post headline. Secondary outlets (Sporked, social leaks) report an Oct 14, 2026 in-restaurant rollout as a second wave after the Sept 30 drinks wave, but Dunkin's own post does not give a distinct date for these bakery items separate from Sept 30 - treat Oct 14 as unconfirmed pending closer-to-launch verification.",
+      "category": "donut",
+      "startDate": "2026-10-14",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://news.dunkindonuts.com/news/spooky-season-runs-on-dunkin",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "DunKings Halloween Costumes (merch)",
+      "description": "Official Halloween costume merchandise tied to Dunkin's 'DunKings' ad-campaign characters, unveiled alongside the Potion Macchiato and Halloween MUNCHKINS Bucket in Dunkin's official Halloween newsroom announcement.",
+      "category": "event",
+      "startDate": "2026-09-30",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://news.dunkindonuts.com/news/spooky-season-runs-on-dunkin",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Free Chicken Biscuit Promotion (Upstate SC & Asheville)",
+      "description": "Regional (NOT nationwide) promo: free Original or Spicy Chicken Biscuit redeemable via the Chick-fil-A app during breakfast hours (until 10:30am), Mon Sept 8 - Sat Sept 13, 2026, at participating Upstate South Carolina and Asheville, NC locations only; limit one per Chick-fil-A One account. Distinct from the already-tracked NATIONWIDE Feb 17-28, 2026 Free Chicken Biscuit Giveaway.",
+      "category": "event",
+      "startDate": "2026-09-08",
+      "endDate": "2026-09-13",
+      "status": "ending-soon",
+      "source": "https://www.wspa.com/news/local-news/chick-fil-a-to-offer-free-biscuits-to-upstate-asheville/",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Strawberry Mango Mochi Blizzard (Blizzard Cup Lineup)",
+      "description": "World Cup-themed Blizzard Cup Lineup flavor: mango-flavored mochi pieces and strawberry topping blended with DQ soft serve. Announced in DQ's official newsroom (press release dated 2026-06-23) and launched nationwide 2026-06-29. Superseded by the Caramel Apple Cheesecake Blizzard, DQ's next Blizzard of the Month, which launched 2026-08-03 (already tracked) - endDate is a best estimate based on that handoff since no explicit end date was published.",
+      "category": "dessert",
+      "startDate": "2026-06-29",
+      "endDate": "2026-08-02",
+      "status": "ended",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Dairy-Queen-Scores-Big-with-New-Global-Flavors-and-a-Patriotic-Misty-Slush-Float-/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Biscoff Cookie Blizzard (Blizzard Cup Lineup)",
+      "description": "World Cup-themed Blizzard Cup Lineup flavor: crunchy, caramelized Biscoff cookies blended with DQ soft serve. Launched nationwide 2026-06-29 alongside the Strawberry Mango Mochi and Abuelita Hot Chocolate Blizzards. EndDate is a best estimate (see Strawberry Mango Mochi Blizzard entry for reasoning).",
+      "category": "dessert",
+      "startDate": "2026-06-29",
+      "endDate": "2026-08-02",
+      "status": "ended",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Dairy-Queen-Scores-Big-with-New-Global-Flavors-and-a-Patriotic-Misty-Slush-Float-/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Abuelita Hot Chocolate Blizzard (Blizzard Cup Lineup)",
+      "description": "World Cup-themed Blizzard Cup Lineup flavor: ABUELITA Mexican Hot Chocolate Mix, choco chunks, fudge-covered marshmallows and cocoa fudge blended with DQ soft serve. Launched nationwide 2026-06-29 alongside the Strawberry Mango Mochi and Biscoff Cookie Blizzards. EndDate is a best estimate (see Strawberry Mango Mochi Blizzard entry for reasoning).",
+      "category": "dessert",
+      "startDate": "2026-06-29",
+      "endDate": "2026-08-02",
+      "status": "ended",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Dairy-Queen-Scores-Big-with-New-Global-Flavors-and-a-Patriotic-Misty-Slush-Float-/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Patriotic Misty Slush Float",
+      "description": "July 4th-themed limited-time float, $2.50, announced in the same DQ newsroom release as the Blizzard Cup Lineup (press release dated 2026-06-23). Exact launch/end dates for the float itself were not confirmed beyond the press-release date and its July 4th tie-in; dates given here are a best estimate and should be treated as approximate.",
+      "category": "drink",
+      "startDate": "2026-06-23",
+      "endDate": "2026-07-06",
+      "status": "ended",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Dairy-Queen-Scores-Big-with-New-Global-Flavors-and-a-Patriotic-Misty-Slush-Float-/default.aspx",
       "image": null
     }
   ]

@@ -5144,7 +5144,8 @@
       "endDate": "2026-09-14",
       "status": "ending-soon",
       "source": "https://www.prnewswire.com/news-releases/taco-bell-brings-the-2016-vibes-back-to-fans-nationwide-with-decades-tbtb-menu-302853433.html",
-      "image": null
+      "image": "taco-bell-decades-tbtb-in-app-scavenger-hunt.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",
@@ -5155,7 +5156,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://news.dunkindonuts.com/news/spooky-season-runs-on-dunkin",
-      "image": null
+      "image": "dunkin-halloween-refreshers-energy-lineup-werewolf-punch-midnight-potion-dark-sp.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",
@@ -5166,7 +5168,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://news.dunkindonuts.com/news/spooky-season-runs-on-dunkin",
-      "image": null
+      "image": "dunkin-halloween-coffee-matcha-lineup-terror-misu-cloud-latte-nutty-nightmare-ic.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",
@@ -5177,7 +5180,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://news.dunkindonuts.com/news/spooky-season-runs-on-dunkin",
-      "image": null
+      "image": "dunkin-halloween-munchkins-bucket-spider-donut-returning.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",
@@ -5188,7 +5192,8 @@
       "endDate": "while supplies last",
       "status": "upcoming",
       "source": "https://news.dunkindonuts.com/news/spooky-season-runs-on-dunkin",
-      "image": null
+      "image": "dunkin-dunkings-halloween-costumes-merch.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chick-fil-A",

@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-11",
+  "researched": "2026-09-12",
   "items": [
     {
       "chain": "McDonald's",
@@ -11,7 +11,7 @@
       "status": "active",
       "source": "https://www.thestreet.com/restaurants/mcdonalds-launches-four-new-menu-items-chicken-caesar",
       "image": "mcdonald-s-caesar-snack-wrap.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "McDonald's",
@@ -23,7 +23,7 @@
       "status": "active",
       "source": "https://www.primetimer.com/news/mcdonald-s-introduces-four-new-limited-time-menu-items-across-the-u-s",
       "image": "mcdonald-s-bacon-caesar-mccrispy.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "McDonald's",
@@ -35,7 +35,7 @@
       "status": "active",
       "source": "https://www.foodie.com/2230390/fast-food-best-new-menu-items-august-2026/",
       "image": "mcdonald-s-honey-brown-butter-bacon-egg-cheese-biscuit.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "McDonald's",
@@ -118,7 +118,7 @@
       "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-welcomes-summer-with-an-all-new-menu-of-craveable-seasonal-innovations",
       "image": "burger-king-loaded-jalape-o-whopper.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Burger King",
@@ -154,7 +154,7 @@
       "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-welcomes-summer-with-an-all-new-menu-of-craveable-seasonal-innovations",
       "image": "burger-king-orange-dreamsicle-freezee-king.jpg",
-      "lastConfirmed": "2026-08-25"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Burger King",
@@ -178,7 +178,7 @@
       "status": "active",
       "source": "https://sporked.com/article/burger-king-menu-item-returns-summer-2026/",
       "image": "burger-king-crown-nuggets-back-after-15-years.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Burger King",
@@ -586,7 +586,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": "kfc-popcorn-chicken-returning.jpg",
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "KFC",
@@ -758,7 +758,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/sonic-new-7-dollar-big-meal-deal.html",
       "image": "sonic-7-big-deal-meal.jpg",
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Arby's",
@@ -854,7 +854,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-welcomes-back-the-chicken-supreme-and-introduces-jibbis/",
       "image": "jack-in-the-box-chicken-supreme-75th-anniversary-return.jpg",
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Dairy Queen",
@@ -938,7 +938,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/popeyes-launches-new-cheese-bites.html",
       "image": "popeyes-cheese-bites.jpg",
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Popeyes",
@@ -982,7 +982,7 @@
       "category": "chicken",
       "startDate": "2026-08-07",
       "endDate": "2026-09-09",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/wingstop-saddles-up-for-the-flavor-rodeo-with-bbq-favorites-carolina-gold-and-jamaican-jerk-302841708.html",
       "image": "wingstop-carolina-gold-flavor-rodeo-return.jpg",
       "lastConfirmed": "2026-08-26"
@@ -994,7 +994,7 @@
       "category": "chicken",
       "startDate": "2026-08-07",
       "endDate": "2026-09-09",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/wingstop-saddles-up-for-the-flavor-rodeo-with-bbq-favorites-carolina-gold-and-jamaican-jerk-302841708.html",
       "image": "wingstop-jamaican-jerk-flavor-rodeo-return.jpg",
       "lastConfirmed": "2026-08-26"
@@ -1006,7 +1006,7 @@
       "category": "food",
       "startDate": "2026-08-07",
       "endDate": "2026-09-09",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.nrn.com/fast-casual/wingstop-launches-delivery-cowboys-to-celebrate-flavor-comeback",
       "image": null,
       "lastConfirmed": "2026-09-03"
@@ -1018,7 +1018,7 @@
       "category": "drink",
       "startDate": "2026-08-07",
       "endDate": "2026-09-09",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://parade.com/food/coca-cola-debuts-a-new-one-of-a-kind-flavor-but-only-for-a-limited-time",
       "image": "wingstop-sprite-strawberry-rodeo.jpg",
       "lastConfirmed": "2026-09-03"
@@ -1173,7 +1173,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/05/pizza-hut-new-crispy-parm-pan-pizza.html",
       "image": "pizza-hut-crispy-parm-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-11"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Domino's",
@@ -1315,7 +1315,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260601211848/en/SONIC-Debuts-the-$7-Big-Deal-Meal-Bringing-More-of-What-Guests-Want-for-Less",
       "image": "sonic-1-99-value-menu.jpg",
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Sonic",
@@ -1476,7 +1476,7 @@
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/arbys-launches-lineup-of-1-99-sliders/",
       "image": "arby-s-1-99-sliders-lineup.jpg",
-      "lastConfirmed": "2026-09-08"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Jack in the Box",
@@ -1488,7 +1488,7 @@
       "status": "active",
       "source": "https://www.qsrweb.com/news/jack-in-the-box-launches-slider-meal-75k-giveaway-for-anniversary/",
       "image": "jack-in-the-box-smashed-jack-sliders.jpg",
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Jack in the Box",
@@ -1500,7 +1500,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-adds-new-sweet-reaper-mozzarella-sticks-as-classic-version-returns/",
       "image": "jack-in-the-box-sweet-reaper-mozzarella-sticks.jpg",
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Popeyes",
@@ -1530,14 +1530,14 @@
     {
       "chain": "Burger King",
       "item": "Bacon Cheddar Hash Whopper (regional test)",
-      "description": "Test-market Whopper: quarter-pound flame-grilled beef patty with bacon, an egg patty, cheddar cheese sauce, hash browns and hollandaise aioli on a sesame bun. First spotted Jan 8, 2026 in Raleigh, NC and Portland, OR only; as of early August still not confirmed for nationwide rollout despite fan requests — a regional test, not a national LTO.",
+      "description": "Test-market Whopper: quarter-pound flame-grilled beef patty with bacon, an egg patty, cheddar cheese sauce, hash browns and hollandaise aioli on a sesame bun. First spotted Jan 8, 2026 in Raleigh, NC and Portland, OR only. As of early September 2026, it is reportedly listed on Burger King's breakfast board more broadly per food-menu trackers, though no official nationwide-rollout press release has been found — still treated here as a regional/expanding test, not a confirmed national LTO.",
       "category": "burger",
       "startDate": "2026-01-08",
       "endDate": null,
       "status": "active",
       "source": "https://sporked.com/article/burger-king-bacon-cheddar-hash-whopper-news/",
       "image": "burger-king-bacon-cheddar-hash-whopper-regional-test.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Arby's",
@@ -1600,7 +1600,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": null,
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "KFC",
@@ -1683,7 +1683,7 @@
       "status": "active",
       "source": "https://parade.com/news/chipotle-just-started-testing-crispy-chicken-fans-want-it-nationwide",
       "image": null,
-      "lastConfirmed": "2026-09-08"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "McDonald's",
@@ -1915,7 +1915,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/arbys-introduces-new-meat-3-box-meal.html",
       "image": "arby-s-meat-3-box-meal.jpg",
-      "lastConfirmed": "2026-09-07"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Arby's",
@@ -1950,7 +1950,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/A-Matcha-Made-in-Heaven-Jack-in-the-Box-Launches-Matcha-Beverage-Lineup-Nationwide/default.aspx",
       "image": "jack-in-the-box-matcha-beverage-platform-matcha-iced-latte-oreo-matcha-shake.jpg",
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Jack in the Box",
@@ -1962,7 +1962,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Serves-Up-New-Protein-Bowl-Flavors-and-2-for-6-Jack-Wraps-Including-the-Best-Rated-Wrap-in-Fast-Food/default.aspx",
       "image": "jack-in-the-box-protein-bowls-teriyaki-fajita-and-2-for-6-jack-wraps.jpg",
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Jack in the Box",
@@ -1995,14 +1995,14 @@
     {
       "chain": "Popeyes",
       "item": "Chicken Dippers",
-      "description": "Thin, hand-battered all-white-breast-meat chicken strips, thinner and crispier than tenders, served with dip; $4.99.",
+      "description": "Thin, hand-battered all-white-breast-meat chicken strips, thinner and crispier than tenders, served with dip; $4.99. Originally billed as a 2025-summer LTO with an expected wind-down around Aug 31, 2025, but it has continued to appear on Popeyes' current menu listings well over a year later with no reports of discontinuation found.",
       "category": "chicken",
       "startDate": "2025-07-14",
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/popeyes-officially-dips-into-the-party-with-their-first-ever-signature-sauce-designed-to-enhance-the-dipping-experience-302503975.html",
       "image": "popeyes-chicken-dippers.jpg",
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Raising Cane's",
@@ -2261,14 +2261,14 @@
     {
       "chain": "Starbucks",
       "item": "Sparkling Refresher & Spritz (regional test)",
-      "description": "Small market test of handcrafted sparkling beverages in about 100 coffeehouses across Austin, San Antonio, and St. Louis, beginning July 28, 2026. Two lines: Sparkling Refreshers (e.g. Super Mango Energy Refresher, Sparkling Strawberry Acai Lemonade Energy Refresher) and Spritzes (Sparkling Cold Brew Sour Spritz, Strawberry Sunset Spritz, Golden Peach Spritz, Strawberry Matcha Spritz). Testing customer demand ahead of a possible wider rollout; no confirmed nationwide date or end date.",
+      "description": "Small market test of handcrafted sparkling beverages in about 100 coffeehouses across Austin, San Antonio, and St. Louis, beginning July 28, 2026. Two lines: Sparkling Refreshers (e.g. Super Mango Energy Refresher, Sparkling Strawberry Acai Lemonade Energy Refresher) and Spritzes (Sparkling Cold Brew Sour Spritz, Strawberry Sunset Spritz, Golden Peach Spritz, Strawberry Matcha Spritz). Testing customer demand ahead of a possible wider rollout; still described as an active regional test as of mid-September 2026 coverage (Nation's Restaurant News), with no news found of a nationwide expansion or end date yet.",
       "category": "drink",
       "startDate": "2026-07-28",
       "endDate": null,
       "status": "active",
       "source": "https://about.starbucks.com/press/2026/exploring-the-future-of-refreshment-with-sparkling-refresher-and-spritz/",
       "image": null,
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Sonic",
@@ -2333,7 +2333,7 @@
       "status": "active",
       "source": "https://ir.dominos.com/news-releases/news-release-details/dominosr-fires-summer-new-smores-lava-cakes",
       "image": "domino-s-s-mores-lava-cakes.jpg",
-      "lastConfirmed": "2026-08-29"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Popeyes",
@@ -2649,7 +2649,7 @@
       "source": "https://www.restaurantnews.com/krispy-kreme-pokemon-doughnut-collection-081326/",
       "image": "krispy-kreme-pok-mon-doughnut-collection.jpg",
       "imageUrl": null,
-      "lastConfirmed": "2026-09-11"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Arby's",
@@ -2948,7 +2948,7 @@
       "image": "chipotle-cilantro-lime-sauce.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Chipotle",
@@ -3207,7 +3207,7 @@
       "image": "pizza-hut-10-any-pizza-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Pizza Hut",
@@ -3334,7 +3334,7 @@
       "category": "dessert",
       "startDate": "2026-09-09",
       "endDate": "2026-09-22",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.dairyqueen.com/en-us/bogo-blizzard/",
       "imageUrl": null,
       "image": "dairy-queen-bogo-blizzard-app-deal-leaked-unconfirmed.jpg",
@@ -3530,7 +3530,7 @@
       "image": "domino-s-perfect-combo-deal-19-99.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-10",
+      "lastConfirmed": "2026-09-12",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2012-06-18",
@@ -3615,7 +3615,7 @@
       "image": "raising-cane-s-raising-cane-s-x-gigapet.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-05",
+      "lastConfirmed": "2026-09-12",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2025-11-19",
@@ -3664,7 +3664,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-has-an-answer-to-the-value-wars-a-value-feast-fit-for-the-moment-302728926.html",
       "image": "kfc-value-feast-7-9-11-box-feasts-featuring-the-kfc-snacker.jpg",
-      "lastConfirmed": "2026-09-10",
+      "lastConfirmed": "2026-09-12",
       "imageAuto": true
     },
     {
@@ -3733,7 +3733,7 @@
       "category": "event",
       "startDate": "2026-08-23",
       "endDate": "2026-09-06",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/chipotle-celebrates-back-to-school-season-with-school-spirit-bogo-and-chipotle-sundays-deal-302852387.html",
       "image": "chipotle-chipotle-sundays.jpg",
       "imageAuto": true
@@ -3748,7 +3748,7 @@
       "status": "active",
       "source": "https://www.foodbeast.com/news/pizza-huts-3-personal-pan-pizza-might-be-the-best-value-move-in-fast-food-right-now/",
       "image": "pizza-hut-3-tuesday-personal-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-11",
+      "lastConfirmed": "2026-09-12",
       "imageAuto": true
     },
     {
@@ -4718,7 +4718,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-11"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Dairy Queen",
@@ -4730,7 +4730,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-10"
+      "lastConfirmed": "2026-09-12"
     },
     {
       "chain": "Pizza Hut",
@@ -5248,6 +5248,52 @@
       "endDate": "2026-07-06",
       "status": "ended",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Dairy-Queen-Scores-Big-with-New-Global-Flavors-and-a-Patriotic-Misty-Slush-Float-/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Harvest Spiced Chai Latte",
+      "description": "New fall drink launched alongside Dunkin's Aug. 19, 2026 fall menu: a blend of chai spices with coconut flavor and milk, topped with marshmallow cold foam and cinnamon sugar. Listed on Dunkin's own site under 'Latest Drops'; not called out by name in the main Alix Earle/Tiramisu press release, so tracked separately here.",
+      "category": "drink",
+      "startDate": "2026-08-19",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.dunkindonuts.com/menu/categories/latest-drops/harvest-spiced-chai-latte/",
+      "image": null,
+      "lastConfirmed": "2026-09-12"
+    },
+    {
+      "chain": "KFC",
+      "item": "$5 Bowls: Matty's Cheesy Nuggy Gravy Bowl, Mac & Cheese Bowl & Cheese Curds",
+      "description": "Comfort-first value lineup of $5 Bowls: Matty's Cheesy Nuggy Gravy Bowl (a poutine-inspired collab with chef Matty Matheson — Secret Recipe fries, brown gravy, chicken nuggets and fried cheese curds), plus the returning Mac & Cheese Bowl and Spicy Mac & Cheese Bowl (mac & cheese topped with nuggets and a three-cheese blend), the Famous Bowl, and new a la carte Cheese Curds. Still listed as available on multiple KFC menu-price trackers as of August/September 2026; no official end date announced.",
+      "category": "food",
+      "startDate": "2026-01-05",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/kfc-is-giving-your-january-food-choices-a-glow-up-with-a-comfort-first-value-lineup-302654011.html",
+      "image": null,
+      "lastConfirmed": "2026-09-12"
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Free Double Cheeseburger for National Cheeseburger Day (app exclusive)",
+      "description": "One-day app-exclusive offer: free Double Cheeseburger with any $1+ purchase via the McDonald's app to celebrate National Cheeseburger Day (Sept 18); one per customer, taxes may apply, delivery excluded, participation varies by location.",
+      "category": "event",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "status": "upcoming",
+      "source": "https://www.newsnationnow.com/entertainment-news/food/mcdonalds-cheeseburger-day-free-on-app/",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "1¢ Jr. Bacon Cheeseburger for National Cheeseburger Day (app exclusive)",
+      "description": "App-exclusive digital offer: Jr. Bacon Cheeseburger for 1 cent with any purchase, tied to National Cheeseburger Day (Sept 18); redeemable via the Wendy's app, reported to run roughly Sept 16 through Sept 22, 2026.",
+      "category": "event",
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-22",
+      "status": "upcoming",
+      "source": "https://www.wendys.com/media/18386",
       "image": null
     }
   ]

@@ -5271,8 +5271,9 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-is-giving-your-january-food-choices-a-glow-up-with-a-comfort-first-value-lineup-302654011.html",
-      "image": null,
-      "lastConfirmed": "2026-09-12"
+      "image": "kfc-5-bowls-matty-s-cheesy-nuggy-gravy-bowl-mac-cheese-bowl-cheese-curds.jpg",
+      "lastConfirmed": "2026-09-12",
+      "imageAuto": true
     },
     {
       "chain": "McDonald's",

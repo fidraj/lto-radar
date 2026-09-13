@@ -5326,8 +5326,9 @@
       "endDate": "2026-10-30",
       "status": "upcoming",
       "source": "https://www.prnewswire.com/news-releases/wendys-is-serving-up-a-frightfully-fun-halloween-with-boo-books-and-frosty-frights-302868252.html",
-      "image": null,
-      "lastConfirmed": "2026-09-13"
+      "image": "wendy-s-frosty-frights-secret-13th-figure-brain-freeze.jpg",
+      "lastConfirmed": "2026-09-13",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -5362,8 +5363,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.tasteofhome.com/article/dairy-queen-fall-menu-2026/",
-      "image": null,
-      "lastConfirmed": "2026-09-13"
+      "image": "dairy-queen-french-silk-pie-blizzard-treat.jpg",
+      "lastConfirmed": "2026-09-13",
+      "imageAuto": true
     },
     {
       "chain": "Raising Cane's",

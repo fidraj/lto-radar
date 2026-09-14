@@ -2648,7 +2648,7 @@
       "category": "donut",
       "startDate": "2026-08-18",
       "endDate": "2026-09-13",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.restaurantnews.com/krispy-kreme-pokemon-doughnut-collection-081326/",
       "image": "krispy-kreme-pok-mon-doughnut-collection.jpg",
       "imageUrl": null,
@@ -4214,7 +4214,7 @@
       "category": "event",
       "startDate": "2026-08-24",
       "endDate": "2026-09-13",
-      "status": "active",
+      "status": "ended",
       "source": "https://newsroom.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK",
       "image": "chipotle-chipotle-x-taylor-fritz-bogo-every-win-tastes-better.jpg",
       "imageAuto": true
@@ -4630,7 +4630,7 @@
       "category": "food",
       "startDate": "2026-08-31",
       "endDate": "2026-09-13",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/chipotle-marks-a-brand-first-with-all-new-pollo-asado-and-the-debut-of-chili-lime-chips-302863254.html",
       "image": null
     },
@@ -5210,7 +5210,7 @@
       "category": "event",
       "startDate": "2026-09-08",
       "endDate": "2026-09-13",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.wspa.com/news/local-news/chick-fil-a-to-offer-free-biscuits-to-upstate-asheville/",
       "image": null
     },
@@ -5370,26 +5370,25 @@
     {
       "chain": "Raising Cane's",
       "item": "UK Expansion Announcement (Piccadilly Circus, London)",
-      "description": "Raising Cane's announced plans to open its first UK restaurant in London's Piccadilly Circus, part of a 2027 international expansion.",
+      "description": "Raising Cane's confirmed its first European restaurant will take over the former Angus Steakhouse site at 21-22 Coventry Street, Piccadilly Circus, opening late 2026.",
       "category": "event",
-      "startDate": "2026-09-10",
+      "startDate": "2026-06-29",
       "endDate": null,
       "status": "upcoming",
-      "source": "https://thehill.com/homenews/nexstar_media_wire/5680318-chicken-chain-continues-growing-where-new-raising-canes-are-opening-soon/",
+      "source": "https://www.timeout.com/london/news/raising-canes-first-london-location-angus-steakhouse-062926",
       "image": null,
-      "lastConfirmed": "2026-09-13"
+      "lastConfirmed": "2026-09-14"
     },
     {
       "chain": "Raising Cane's",
       "item": "Mexico Expansion (Monterrey)",
-      "description": "Raising Cane's announced its first Mexico location, opening in Monterrey in late 2026.",
+      "description": "Raising Cane's signed a development agreement with Mexican operator Alsea to open its first Mexico restaurant, in Monterrey, in the second half of 2026.",
       "category": "event",
-      "startDate": "2026-09-10",
-      "endDate": null,
-      "status": "upcoming",
-      "source": "https://www.theadvocate.com/baton_rouge/news/business/raising-canes-expanding-to-mexico/article_f65f65fe-8d1c-433a-9227-15efa0e08d92.html",
-      "image": null,
-      "lastConfirmed": "2026-09-13"
+      "startDate": "2025-12-08",
+      "endDate": "2025-12-08",
+      "status": "ended",
+      "source": "https://www.alsea.net/uploads/en/documents/general_documents/0812_ALSEA_SIGNS_DEVELOPMENT_AGREEMENT.pdf",
+      "image": null
     },
     {
       "chain": "Pizza Hut",

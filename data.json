@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-13",
+  "researched": "2026-09-14",
   "items": [
     {
       "chain": "McDonald's",
@@ -5084,7 +5084,8 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/wingstop-kicks-off-football-season-with-new-lemon-pepper-trio-and-its-first-ever-wing-pass-302872818.html",
       "image": "wingstop-lemon-pepper-trio-chili-crunch-chili-glaze.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-14"
     },
     {
       "chain": "Wingstop",
@@ -5401,6 +5402,62 @@
       "source": "https://www.pizzahut.com/c/content/triple-treat-box-gameday-edition",
       "image": null,
       "lastConfirmed": "2026-09-13"
+    },
+    {
+      "chain": "KFC",
+      "item": "Free 10-pc Double Crispy Hot Wings with $15+ Digital Order (KFC Rewards)",
+      "description": "KFC Rewards members get a free 10-piece bucket of Double Crispy Hot Wings (choice of two sauces) with any digital (app/website) order of $15 or more; limit one per account, through Sept 21. Exact start date is a best estimate - no official KFC newsroom release found, sourced from a food-deals roundup cross-confirmed by several independent regional outlets agreeing on identical terms.",
+      "category": "chicken",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-21",
+      "status": "active",
+      "source": "https://www.brandeating.com/p/current-menu-promotions.html",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "\"THAT Chicken from Popeyes\" Brand Campaign",
+      "description": "National brand-repositioning marketing campaign with creative agency Anomaly, built around a New Orleans brass-band anthem, launched alongside the returning fall $6 Big Box promotion.",
+      "category": "event",
+      "startDate": "2026-08-31",
+      "endDate": null,
+      "status": "active",
+      "source": "https://news.popeyes.com/blog-posts/popeyes-introduces-that-chicken-from-popeyes-a-bold-new-brand-campaign-inspired-by-the-real-louisiana-kitchen",
+      "image": null,
+      "lastConfirmed": "2026-09-14"
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "$5 Apple Cider Original Glazed Dozen (with purchase of any dozen)",
+      "description": "4-day promo tied to the new Apple Cider Original Glazed Doughnut launch: a dozen Apple Cider Original Glazed doughnuts for $5 with purchase of any dozen at regular price.",
+      "category": "donut",
+      "startDate": "2026-09-10",
+      "endDate": "2026-09-13",
+      "status": "ended",
+      "source": "https://www.businesswire.com/news/home/20260909499646/en/KRISPY-KREME-Sweetens-Season-with-NEW-Apple-Cider-Original-Glazed-Doughnut-and-Fall-Football-Dozen",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Frank's RedHot Diablo Crispy Chicken lineup",
+      "description": "Crispy Chicken Soft Taco, Burrito, Strips (4pc) and Nacho Fries made with a new Frank's RedHot x Taco Bell Diablo sauce collaboration; part of Taco Bell's push to make Crispy Chicken a permanent menu platform.",
+      "category": "chicken",
+      "startDate": "2026-10-16",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.tacobell.com/newsroom/crispy-chicken-returns-to-taco-bell-with-a-bold-buffalo-kick-introducing",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Butter Chicken Taco (Global Taco Vote winner)",
+      "description": "Shredded slow-roasted chicken in tomato cream sauce with onion, cilantro, lettuce and cheddar in a fried chalupa shell; won Taco Bell's global fan vote over Thailand's Kickin' Chicken Taco. No confirmed launch date yet.",
+      "category": "taco",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.tacobell.com/newsroom/two-global-fan-favorite-tacos-one-fan-decision",
+      "image": null
     }
   ]
 }

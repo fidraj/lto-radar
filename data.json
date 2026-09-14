@@ -5423,8 +5423,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://news.popeyes.com/blog-posts/popeyes-introduces-that-chicken-from-popeyes-a-bold-new-brand-campaign-inspired-by-the-real-louisiana-kitchen",
-      "image": null,
-      "lastConfirmed": "2026-09-14"
+      "image": "popeyes-that-chicken-from-popeyes-brand-campaign.jpg",
+      "lastConfirmed": "2026-09-14",
+      "imageAuto": true
     },
     {
       "chain": "Krispy Kreme",

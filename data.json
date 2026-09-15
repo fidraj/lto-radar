@@ -4191,8 +4191,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.restaurantdive.com/news/arbys-cheesesteak-permanent-menu-addition/822933/",
-      "image": null,
-      "lastConfirmed": "2026-09-15"
+      "image": "arby-s-half-pound-cheesesteak.jpg",
+      "lastConfirmed": "2026-09-15",
+      "imageAuto": true
     },
     {
       "chain": "Wingstop",

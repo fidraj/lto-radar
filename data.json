@@ -5519,7 +5519,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://hauntedattractionnetwork.com/sonic-wacky-pack-universal-monsters-2026/",
-      "image": null
+      "image": "sonic-wacky-pack-universal-monsters-toys-halloween.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Pizza Hut",

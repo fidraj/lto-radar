@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-17",
+  "researched": "2026-09-18",
   "items": [
     {
       "chain": "McDonald's",
@@ -971,7 +971,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/6-dollar-big-box-meal-back-at-popeyes-summer-2026.html",
       "image": "popeyes-blueberry-lemon-cheesecake-cup.jpg",
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-18"
     },
     {
       "chain": "Wingstop",
@@ -1348,8 +1348,8 @@
       "description": "Fan-created 'Whopper By You' LTO: quarter-pound flame-grilled beef patty with peppercorn mayo, bacon, lettuce, tomato and American cheese on a sesame bun; also available as Jr., meal, and Impossible variants. Previously missed from earlier tracking.",
       "category": "burger",
       "startDate": "2026-03-30",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-06-01",
+      "status": "ended",
       "source": "https://www.nrn.com/quick-service/burger-king-turns-to-peppercorn-for-latest-whopper-by-you",
       "image": "burger-king-peppercorn-blt-whopper.jpg",
       "lastConfirmed": "2026-08-25"
@@ -1431,7 +1431,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-and-rob-rausch-bring-an-iconic-southern-flavor-to-fans-nationwide-with-limited-drop-of-alabama-white-bbq-sauce-302840598.html",
       "image": "zaxby-s-alabama-white-bbq-sauce-limited-drop.jpg",
-      "lastConfirmed": "2026-08-29"
+      "lastConfirmed": "2026-09-18"
     },
     {
       "chain": "Starbucks",
@@ -1550,7 +1550,7 @@
       "status": "active",
       "source": "https://www.arbys.com/menu/categories/limited-time/classic-shirley-temple/",
       "image": "arby-s-dirty-soda-lineup-leaked-unconfirmed.jpg",
-      "lastConfirmed": "2026-08-26"
+      "lastConfirmed": "2026-09-18"
     },
     {
       "chain": "McDonald's",
@@ -1938,7 +1938,7 @@
       "status": "active",
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
       "image": "arby-s-steak-nuggets.jpg",
-      "lastConfirmed": "2026-08-27"
+      "lastConfirmed": "2026-09-18"
     },
     {
       "chain": "Jack in the Box",
@@ -2667,7 +2667,8 @@
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
       "image": null,
       "imageUrl": null,
-      "imageSkip": true
+      "imageSkip": true,
+      "lastConfirmed": "2026-09-18"
     },
     {
       "chain": "Arby's",
@@ -2679,7 +2680,8 @@
       "status": "active",
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
       "image": "arby-s-steak-n-mac-bowl-steak-nuggets.jpg",
-      "imageUrl": null
+      "imageUrl": null,
+      "lastConfirmed": "2026-09-18"
     },
     {
       "chain": "Chipotle",
@@ -4003,7 +4005,8 @@
       "status": "active",
       "source": "https://www.tastingtable.com/2236477/arbys-steak-nuggets-return-potato-bowl-new-sauce/",
       "image": "arby-s-horsey-ranch-dipping-sauce.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-18"
     },
     {
       "chain": "Pizza Hut",
@@ -5595,6 +5598,83 @@
       "source": "https://www.focusdailynews.com/dq-fans-can-enjoy-a-free-hungr-buster-september-14-18/",
       "image": "dairy-queen-texas-dq-free-hungr-buster-with-cheese-national-cheeseburger-day.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Baby Gorgeous Meal (Lisa Barlow x Bravo collab)",
+      "description": "Digital-exclusive collab meal inspired by 'Real Housewives of Salt Lake City' star Lisa Barlow's go-to Wendy's order: 10-piece Chicken Nuggets, medium Hot & Crispy Fries, a medium drink and a dipping sauce; available only via the Wendy's App and DoorDash. Wendy's Rewards members who order the meal in the app Sept 16-30 are automatically entered into the Baby Gorgeous Sweepstakes (prizes up to a $10,000 cash grand prize plus Bravo-related prizes).",
+      "category": "event",
+      "startDate": "2026-09-16",
+      "endDate": "2026-11-16",
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/hi-baby-gorgeous-wendys-is-officially-serving-lisa-barlows-baby-gorgeous-meal-302880576.html",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Black Cat Halloween Merch Collection",
+      "description": "Four-piece Halloween merch drop at select US coffeehouses: Black Cat Mug ($19.95, pumpkin-shaped ceramic mug with a black cat peering over the lip), Cauldron Mug ($16.95, 14oz black ceramic), Black Cat stainless steel cold cup with glow-in-the-dark artwork ($29.95), and Black Cat Bearista plush bag charm ($14.95). Distinct from the Black Cat Frappuccino and Venti Black Night Cookie, which are the same press release's food/drink items but launch separately on Oct 22 (already tracked).",
+      "category": "event",
+      "startDate": "2026-09-15",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://about.starbucks.com/stories/2026/black-cat-frappuccino-blended-beverage-arrives-at-starbucks-oct-22-plus-a-new-halloween-cookie-and-merchandise/",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Avocado Sriracha BLT & Sweet Chili Lime Crunch Sandwiches (regional test)",
+      "description": "Two regional test chicken sandwiches, each in Original, Spicy, or Grilled filet options: Avocado Sriracha BLT (lettuce, tomato, seasoned avocado mash, hardwood-smoked bacon, Sriracha Swirl Toast, cayenne ranch sauce) tested only in Oklahoma City, OK; Sweet Chili Lime Crunch (kale/cabbage ginger-lime slaw, sweet chili drizzle, sliced buttered white bun) tested only in Greensboro/High Point/Winston-Salem, NC. Second round of testing after a prior limited release in Georgia in late 2025. NOT a nationwide item.",
+      "category": "sandwich",
+      "startDate": "2026-02-02",
+      "endDate": "2026-03-07",
+      "status": "ended",
+      "source": "https://www.qsrmagazine.com/news/chick-fil-a-tests-new-sandwiches-in-oklahoma-and-north-carolina-markets/",
+      "image": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Fish Sandwiches (Crispy Fish Sandwich & King's Hawaiian Fish Deluxe)",
+      "description": "Annual Lenten-season return of Arby's fish lineup: Crispy Fish Sandwich (crispy fish fillet, shredded lettuce, tartar sauce on a toasted sesame bun) and King's Hawaiian Fish Deluxe (adds cheddar cheese and tomato on a King's Hawaiian roll), both made with wild-caught Alaskan Pollock. Returned to participating locations nationwide in January 2026 ahead of Lent. Start/end dates are best estimates from launch coverage (exact day not found in a persistent source); no official press-released end date located, but this is a seasonal item that had ended well before today (2026-09-18).",
+      "category": "sandwich",
+      "startDate": "2026-01-20",
+      "endDate": "2026-04-20",
+      "status": "ended",
+      "source": "https://www.brandeating.com/2026/01/fish-sandwiches-back-arbys-2026.html",
+      "image": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Free 5-Count Steak Nuggets with $10 Purchase (Loaded Rewards)",
+      "description": "Arby's Loaded Rewards members can get a free 5-piece order of Steak Nuggets with a $10 minimum purchase via the Arby's app or website, Sept. 15-18, 2026. Capped at 100,000 total redemptions nationwide (while supplies last); excludes 9pc Steak Nuggets and Steak Nugget Bowls, not valid on 3rd-party delivery, limit 1. Distinct from the Aug. 24, 2026 Steak Nuggets menu relaunch already tracked.",
+      "category": "event",
+      "startDate": "2026-09-15",
+      "endDate": "2026-09-18",
+      "status": "ending-soon",
+      "source": "https://parade.com/food/arbys-free-steak-nuggets-are-almost-gone-heres-how-to-see-if-you-can-still-get-them",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "$1.99 Jr. Double Cheeseburger (National Cheeseburger Day)",
+      "description": "One-day National Cheeseburger Day deal: Jr. Double Cheeseburger for $1.99 when ordered in-store or via the Sonic App on Friday, Sept. 18, 2026.",
+      "category": "event",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "status": "ending-soon",
+      "source": "https://parade.com/food/national-cheeseburger-day-is-bringing-bogo-burgers-1-deals-and-more",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Free Jr. Cheeseburger with $1+ Purchase (National Cheeseburger Day)",
+      "description": "One-day National Cheeseburger Day deal exclusive to the Jack App: free Jr. Cheeseburger with any purchase of $1 or more, Friday, Sept. 18, 2026.",
+      "category": "event",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "status": "ending-soon",
+      "source": "https://parade.com/food/national-cheeseburger-day-is-bringing-bogo-burgers-1-deals-and-more",
+      "image": null
     }
   ]
 }

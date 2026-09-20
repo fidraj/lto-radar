@@ -5731,7 +5731,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.tacobell.com/food/specialties/steak-gordita-crunch-duos-2pk",
-      "image": null
+      "image": "taco-bell-gordita-crunch-duos-steak-chicken.jpg",
+      "imageAuto": true
     }
   ]
 }

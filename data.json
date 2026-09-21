@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-20",
+  "researched": "2026-09-21",
   "items": [
     {
       "chain": "McDonald's",
@@ -1846,7 +1846,7 @@
       "status": "active",
       "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/what-are-the-chick-fil-a-iced-coffee-and-cream-cold-brew-beverages",
       "image": "chick-fil-a-cream-cold-brew.jpg",
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-21"
     },
     {
       "chain": "Dunkin'",
@@ -2165,7 +2165,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/potato-wedges-are-back-at-jack-in-box.html",
       "image": "jack-in-the-box-sauced-loaded-potato-wedges-return.jpg",
-      "lastConfirmed": "2026-08-23"
+      "lastConfirmed": "2026-09-21"
     },
     {
       "chain": "Jack in the Box",
@@ -3134,7 +3134,7 @@
       "source": "https://ktla.com/food/jack-in-the-box-marks-75th-anniversary-with-yearlong-celebration-featuring-new-foods-giveaways/",
       "image": null,
       "imageUrl": null,
-      "lastConfirmed": "2026-08-29"
+      "lastConfirmed": "2026-09-21"
     },
     {
       "chain": "Dairy Queen",
@@ -4111,7 +4111,8 @@
       "status": "active",
       "source": "https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES",
       "image": "chipotle-chipotle-x-salish-matter-order.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-21"
     },
     {
       "chain": "Burger King",
@@ -4567,7 +4568,8 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/potato-wedges-are-back-at-jack-in-box.html",
       "image": "jack-in-the-box-spicy-sauced-loaded-potato-wedges.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-21"
     },
     {
       "chain": "McDonald's",
@@ -5134,7 +5136,7 @@
       "description": "75th-anniversary Halloween collab menu launched nationwide Sept 10, 2026: guests choose a Double Krusty Burger of Terror or Double Chicken Sandwich of Terror, served with two tacos, seasoned curly fries and a drink, packaged in an exclusive Treehouse of Horror box; comes with one of six special-edition glow-in-the-dark Simpsons cups. Available at participating locations, via the Jack app and JackintheBox.com while supplies last.",
       "category": "event",
       "startDate": "2026-09-10",
-      "endDate": "while supplies last",
+      "endDate": "2026-10-31",
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
       "image": null
@@ -5145,7 +5147,7 @@
       "description": "Part of the Simpsons Treehouse of Horror collab: Krusty-inspired burger and chicken sandwich topped with a new Spooky Simpsons Sauce (a smoky BBQ ketchup made for the tie-in). Sold on their own and as the entree choice in the Munchie Meal of Horror.",
       "category": "burger",
       "startDate": "2026-09-10",
-      "endDate": "while supplies last",
+      "endDate": "2026-10-31",
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
       "image": null
@@ -5156,7 +5158,7 @@
       "description": "New dessert tied to the Simpsons Treehouse of Horror collab: warm cinnamon-sugar-dusted donut holes topped with pink frosting and rainbow sprinkles, a nod to the show's iconic pink doughnut.",
       "category": "dessert",
       "startDate": "2026-09-10",
-      "endDate": "while supplies last",
+      "endDate": "2026-10-31",
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
       "image": null
@@ -5319,7 +5321,7 @@
       "category": "event",
       "startDate": "2026-09-16",
       "endDate": "2026-09-22",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.wendys.com/media/18386",
       "image": null
     },
@@ -5707,7 +5709,7 @@
       "category": "event",
       "startDate": "2026-09-17",
       "endDate": "2026-09-20",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.wingstop.com/offers",
       "image": null
     },
@@ -5733,6 +5735,117 @@
       "source": "https://www.tacobell.com/food/specialties/steak-gordita-crunch-duos-2pk",
       "image": "taco-bell-gordita-crunch-duos-steak-chicken.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Steak & Guac Nacho Fries",
+      "description": "Seasoned fries topped with grilled marinated steak, Creamy Chipotle sauce, warm nacho cheese sauce, reduced-fat sour cream and guacamole.",
+      "category": "food",
+      "startDate": "2026-03-19",
+      "endDate": "2026-04-15",
+      "status": "ended",
+      "source": "https://www.brandeating.com/2026/04/taco-bell-new-steak-and-guac-nacho-fries.html",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Pink Passionfruit Refresca Freeze",
+      "description": "Frozen pink-passionfruit slushy with pineapple flavor and freeze-dried strawberry pieces, added to the Refresca lineup.",
+      "category": "drink",
+      "startDate": "2026-03-19",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tacobell.com/food/drinks/pink-passionfruit-refresca-freeze",
+      "image": null,
+      "lastConfirmed": "2026-09-21"
+    },
+    {
+      "chain": "Burger King",
+      "item": "Hello Kitty & Friends King Jr. Meal (leaked, unconfirmed)",
+      "description": "Reported/leaked collab: King Jr. Meal blind-box toys featuring Hello Kitty, Kuromi, My Melody, Cinnamoroll and Keroppi (plus a rare Gold Hello Kitty variant). Surfaced via leaked franchisee materials; not yet officially confirmed by Burger King or Sanrio.",
+      "category": "event",
+      "startDate": "2026-10-10",
+      "endDate": "2026-11-30",
+      "status": "upcoming",
+      "source": "https://essential-japan.com/news/burger-king-x-hello-kitty-and-friends-collab-leaks-ahead-of-october-us-launch/",
+      "image": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "30 Wings for $30 Weekly Thursday Bundle",
+      "description": "Recurring value bundle: 30-piece classic or boneless wings (up to 3 flavors) for $30, in-store/carryout/delivery via Wingstop.com or the app. Requires Club Wingstop enrollment.",
+      "category": "chicken",
+      "startDate": "2026-09-09",
+      "endDate": "2026-12-31",
+      "status": "active",
+      "source": "https://www.wingstop.com/offers",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "Megan Thee Stallion \"Hottie Sauce\"",
+      "description": "New signature sauce (honey, cider vinegar, Aleppo pepper) created with Megan Thee Stallion, available on the Chicken Sandwich and as a nugget dip nationwide; part of a broader deal making Megan a Popeyes franchise owner.",
+      "category": "food",
+      "startDate": "2026-10-19",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://news.popeyes.com/blog-posts/megan-thee-stallion-popeyes-r-team-up-for-unprecedented-ownership-product-creation-fashion-drop-and-philanthropic-collaboration-to-disrupt-the-fast-food-industry",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "PSL Society Merchandise Collection",
+      "description": "Limited-edition fall drinkware/merch drop tied to the Pumpkin Spice Latte's return: PSL-themed cups, mugs and a hat, sold at US coffeehouses while supplies last.",
+      "category": "event",
+      "startDate": "2026-08-25",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://about.starbucks.com/stories/2026/pumpkin-spice-latte-fans-this-ones-for-you-starbucks-unveils-psl-society-merchandise/",
+      "image": null
+    },
+    {
+      "chain": "KFC",
+      "item": "Handheld Pot Pie (regional test, unconfirmed)",
+      "description": "Test-market item: KFC's classic chicken pot pie reworked into a flaky handheld crust instead of a pie tin, ~$3.99, or $7.99 as a combo. Testing since late January 2026 in select SC/GA/AL/RI locations; no nationwide rollout announced.",
+      "category": "food",
+      "startDate": "2026-01-27",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.brandeating.com/2026/01/kfc-tests-new-handheld-pot-pie.html",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "$1.49 4pc Mozzarella Sticks (Tuesdays)",
+      "description": "SONIC App/online-only deal: one 4-piece Mozzarella Sticks order for $1.49 (regularly ~$3.49), valid only on Tuesday Sept. 22 and Tuesday Sept. 29, 2026.",
+      "category": "food",
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-29",
+      "status": "upcoming",
+      "source": "https://www.ktalnews.com/news/local-news/sonic-mozzarella-sticks-deal/",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Matchday BOGO (World Cup Soccer Jersey Promo)",
+      "description": "Chipotle's first-ever Matchday BOGO: guests wearing a soccer jersey to participating US/Canada restaurants after 3pm local time on June 11, 2026 got a buy-one-get-one-free entree, capped at 5 free items/check; tied to a jersey giveaway via Chipotle Rewards Exchange.",
+      "category": "event",
+      "startDate": "2026-06-11",
+      "endDate": "2026-06-11",
+      "status": "ended",
+      "source": "https://newsroom.chipotle.com/2026-06-08-CHIPOTLE-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-SOCCER-JERSEYS",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Soccer's Hydration Break – $1 Million in Free Burritos (World Cup Final)",
+      "description": "One-time promo during the FIFA World Cup Final (July 19, 2026): an Instagram video game revealed a text-to-win code; the first 100,000 respondents got a free-entree offer valid through July 24, 2026.",
+      "category": "event",
+      "startDate": "2026-07-16",
+      "endDate": "2026-07-24",
+      "status": "ended",
+      "source": "https://newsroom.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS",
+      "image": null
     }
   ]
 }

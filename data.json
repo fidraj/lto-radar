@@ -5756,8 +5756,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.tacobell.com/food/drinks/pink-passionfruit-refresca-freeze",
-      "image": null,
-      "lastConfirmed": "2026-09-21"
+      "image": "taco-bell-pink-passionfruit-refresca-freeze.jpg",
+      "lastConfirmed": "2026-09-21",
+      "imageAuto": true
     },
     {
       "chain": "Burger King",
@@ -5768,7 +5769,8 @@
       "endDate": "2026-11-30",
       "status": "upcoming",
       "source": "https://essential-japan.com/news/burger-king-x-hello-kitty-and-friends-collab-leaks-ahead-of-october-us-launch/",
-      "image": null
+      "image": "burger-king-hello-kitty-friends-king-jr-meal-leaked-unconfirmed.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Wingstop",
@@ -5790,7 +5792,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://news.popeyes.com/blog-posts/megan-thee-stallion-popeyes-r-team-up-for-unprecedented-ownership-product-creation-fashion-drop-and-philanthropic-collaboration-to-disrupt-the-fast-food-industry",
-      "image": null
+      "image": "popeyes-megan-thee-stallion-hottie-sauce.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Starbucks",
@@ -5812,7 +5815,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/kfc-tests-new-handheld-pot-pie.html",
-      "image": null
+      "image": "kfc-handheld-pot-pie-regional-test-unconfirmed.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Sonic",

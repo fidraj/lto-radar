@@ -5882,7 +5882,8 @@
       "endDate": "2026-09-25",
       "status": "upcoming",
       "source": "https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS",
-      "image": null
+      "image": "chipotle-national-quesadilla-day-free-quesadilla.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Arby's",

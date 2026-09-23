@@ -5928,8 +5928,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://stories.inspirebrands.com/introducing-the-new-all-american-sonic-smasher-lineup-and-6-all-american-smasher-meal/",
-      "image": null,
-      "lastConfirmed": "2026-09-23"
+      "image": "sonic-all-american-smasher-lineup-6-all-american-smasher-meal.jpg",
+      "lastConfirmed": "2026-09-23",
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",

@@ -5952,7 +5952,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.tacobell.com/food/specialties/diablo-ranch-steak-nacho-fries",
-      "image": null
+      "image": "taco-bell-diablo-ranch-steak-nacho-fries.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -5963,7 +5964,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.tacobell.com/food/burritos/diablo-ranch-crispy-chicken-crunchwrap-slider",
-      "image": null
+      "image": "taco-bell-diablo-ranch-crispy-chicken-crunchwrap-slider.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",

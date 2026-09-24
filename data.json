@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-23",
+  "researched": "2026-09-24",
   "items": [
     {
       "chain": "McDonald's",
@@ -936,7 +936,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/popeyes-launches-new-cheese-bites.html",
       "image": "popeyes-cheese-bites.jpg",
-      "lastConfirmed": "2026-09-19"
+      "lastConfirmed": "2026-09-24"
     },
     {
       "chain": "Popeyes",
@@ -1573,7 +1573,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/food/drinks/pineapple-freeze",
       "image": "taco-bell-pineapple-freeze-pineapple-whip-freeze.jpg",
-      "lastConfirmed": "2026-09-17",
+      "lastConfirmed": "2026-09-24",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2026-07-27",
@@ -1683,7 +1683,7 @@
       "status": "active",
       "source": "https://parade.com/news/chipotle-just-started-testing-crispy-chicken-fans-want-it-nationwide",
       "image": null,
-      "lastConfirmed": "2026-09-20"
+      "lastConfirmed": "2026-09-24"
     },
     {
       "chain": "McDonald's",
@@ -1962,7 +1962,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Serves-Up-New-Protein-Bowl-Flavors-and-2-for-6-Jack-Wraps-Including-the-Best-Rated-Wrap-in-Fast-Food/default.aspx",
       "image": "jack-in-the-box-protein-bowls-teriyaki-fajita-and-2-for-6-jack-wraps.jpg",
-      "lastConfirmed": "2026-09-20"
+      "lastConfirmed": "2026-09-24"
     },
     {
       "chain": "Jack in the Box",
@@ -3260,7 +3260,7 @@
       "imageUrl": null,
       "image": "burger-king-flame-grilled-chicken-sandwiches-wraps-regional-test.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-17",
+      "lastConfirmed": "2026-09-24",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2026-07-08",
@@ -3624,7 +3624,7 @@
       "image": "raising-cane-s-raising-cane-s-x-gigapet.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-19",
+      "lastConfirmed": "2026-09-24",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2025-11-19",
@@ -4752,7 +4752,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-20"
+      "lastConfirmed": "2026-09-24"
     },
     {
       "chain": "Pizza Hut",
@@ -5429,7 +5429,7 @@
       "category": "chicken",
       "startDate": "2026-09-01",
       "endDate": "2026-09-21",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.brandeating.com/p/current-menu-promotions.html",
       "image": null
     },
@@ -5941,6 +5941,94 @@
       "endDate": "2026-09-17",
       "status": "ended",
       "source": "https://retailtimes.co.uk/brits-struggle-to-pronounce-chipotle-so-its-giving-away-phonetic-t-shirts-at-new-holborn-restaurant/",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Diablo Ranch Steak Nacho Fries",
+      "description": "Golden, crisp Nacho Fries topped with grilled marinated steak, creamy Hidden Valley Diablo Ranch Sauce, warm nacho cheese sauce, a blend of mozzarella, pepper jack and cheddar cheeses, and fresh pico de gallo; $5.49 nationwide at participating locations.",
+      "category": "food",
+      "startDate": "2026-09-17",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tacobell.com/food/specialties/diablo-ranch-steak-nacho-fries",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Diablo Ranch Crispy Chicken Crunchwrap Slider",
+      "description": "Crispy Chicken Crunchwrap Sliders return for a limited time with a new Hidden Valley Diablo Ranch Sauce: all-white-meat marinated chicken in a crunchy tortilla-chip coating, pico de gallo, and a three-cheese blend folded into a grilled Crunchwrap; $2.69, replacing the prior Creamy Chipotle/Jalapeno Honey Mustard version.",
+      "category": "chicken",
+      "startDate": "2026-09-17",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tacobell.com/food/burritos/diablo-ranch-crispy-chicken-crunchwrap-slider",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Diablo Ranch Steak Nacho Fries x Grubhub Sweepstakes",
+      "description": "Grubhub delivery promo tied to the Diablo Ranch Steak Nacho Fries launch: free Diablo Ranch Steak Nacho Fries on qualifying Grubhub delivery orders of $22+, plus a social-media sweepstakes (follow Grubhub and tag a friend on an Instagram/TikTok post, #GrubhubSteakUpgradeSweepstakes) for a $1,000 Grubhub gift card.",
+      "category": "event",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-04",
+      "status": "upcoming",
+      "source": "https://cw33.com/news/get-free-diablo-ranch-steak-nacho-fries-on-grubhub/",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "MONOPOLY Game at McDonald's (2026 return)",
+      "description": "Collect-to-win game returns: peel a game piece on eligible menu items (large fries, hot/cold drinks, select breakfast items) and scan it in the McDonald's app for instant food prizes, rewards points, a digital Chance Card play, or collect-set prizes (cash up to $1M, a car, a Carnival cruise, up to $50,000 toward a home down payment or college debt). Physical game pieces available Oct 6 - Nov 1 while supplies last; digital Chance Card play continues through Nov 8. Confirmed via official McDonald's press release dated Sept 22, 2026.",
+      "category": "event",
+      "startDate": "2026-10-06",
+      "endDate": "2026-11-08",
+      "status": "upcoming",
+      "source": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/monopoly-returns-more-chances-towin.html",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Original Glazed Coffee Flavored Doughnut",
+      "description": "New limited-time doughnut combining Krispy Kreme's Original Glazed doughnut with smooth, creamy coffee flavor, launched to celebrate National Coffee Day. Available for four days only, Sat. Sept 26 through National Coffee Day, Tues. Sept 29, 2026, at participating shops nationwide.",
+      "category": "donut",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-29",
+      "status": "upcoming",
+      "source": "https://www.businesswire.com/news/home/20260923137810/en/KRISPY-KREME-Brews-Up-New-Original-Glazed-Coffee-Flavored-Doughnut-Just-in-Time-for-National-Coffee-Day",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "$5 Original Glazed Coffee Flavored Dozen (with purchase of any dozen)",
+      "description": "4-day promo tied to the new Original Glazed Coffee Flavored Doughnut launch: a dozen Original Glazed Coffee Flavored doughnuts for $5 with purchase of any dozen at regular price. Limit two per guest in-shop/drive-thru; limit one via the mobile app using promo code COFFEE, while supplies last. Runs Sept 26-29, 2026.",
+      "category": "donut",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-29",
+      "status": "upcoming",
+      "source": "https://www.businesswire.com/news/home/20260923137810/en/KRISPY-KREME-Brews-Up-New-Original-Glazed-Coffee-Flavored-Doughnut-Just-in-Time-for-National-Coffee-Day",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Free Coffee on National Coffee Day (Sept 29)",
+      "description": "One-day promo: guests who visit participating Krispy Kreme shops on National Coffee Day, Tues. Sept 29, 2026, can get a free small or medium hot or iced coffee with any purchase.",
+      "category": "event",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "status": "upcoming",
+      "source": "https://www.businesswire.com/news/home/20260923137810/en/KRISPY-KREME-Brews-Up-New-Original-Glazed-Coffee-Flavored-Doughnut-Just-in-Time-for-National-Coffee-Day",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "Kidd's Kids Fundraiser (15th Anniversary)",
+      "description": "On Tuesday, September 15, 2026, participating Raising Cane's restaurants nationwide donated $1 from every Box Combo purchased (dine-in, drive-thru, or app) to Kidd's Kids — a nonprofit providing all-expenses-paid Walt Disney World trips for children with critical illnesses — up to $100,000 total. The one-day fundraiser marked 15 years of Cane's partnership with Kidd's Kids, timed alongside Cane's 30th anniversary and Kidd's Kids' 35th anniversary; the partnership has raised more than $1.3 million and supported 150+ families since 2012.",
+      "category": "event",
+      "startDate": "2026-09-15",
+      "endDate": "2026-09-15",
+      "status": "ended",
+      "source": "https://victoriaadvocate.com/2026/09/13/raising-canes-celebrates-30-years-of-raising-spirits-35-years-of-kidds-kids-and-15-years-of-making-magic-together/",
       "image": null
     }
   ]

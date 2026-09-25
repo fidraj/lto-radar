@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-24",
+  "researched": "2026-09-25",
   "items": [
     {
       "chain": "McDonald's",
@@ -758,7 +758,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/sonic-new-7-dollar-big-meal-deal.html",
       "image": "sonic-7-big-deal-meal.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Arby's",
@@ -770,7 +770,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
       "image": "arby-s-quarter-pound-bbq-menu-pulled-pork-chopped-brisket.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Arby's",
@@ -852,7 +852,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-welcomes-back-the-chicken-supreme-and-introduces-jibbis/",
       "image": "jack-in-the-box-chicken-supreme-75th-anniversary-return.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Dairy Queen",
@@ -971,7 +971,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/6-dollar-big-box-meal-back-at-popeyes-summer-2026.html",
       "image": "popeyes-blueberry-lemon-cheesecake-cup.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Wingstop",
@@ -1054,7 +1054,7 @@
       "status": "active",
       "source": "https://themusicuniverse.com/megan-moroney-teams-with-raising-canes-for-exclusive-cloud-9-collectors-cups/",
       "image": "raising-cane-s-megan-moroney-cloud-9-souvenir-cup.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Zaxby's",
@@ -1171,7 +1171,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/05/pizza-hut-new-crispy-parm-pan-pizza.html",
       "image": "pizza-hut-crispy-parm-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Domino's",
@@ -1316,7 +1316,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260601211848/en/SONIC-Debuts-the-$7-Big-Deal-Meal-Bringing-More-of-What-Guests-Want-for-Less",
       "image": "sonic-1-99-value-menu.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Sonic",
@@ -1340,7 +1340,7 @@
       "status": "active",
       "source": "https://news.dunkindonuts.com/blog/iced-beverage-buckets-august-2026",
       "image": "dunkin-iced-beverage-buckets.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Burger King",
@@ -1431,7 +1431,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-and-rob-rausch-bring-an-iconic-southern-flavor-to-fans-nationwide-with-limited-drop-of-alabama-white-bbq-sauce-302840598.html",
       "image": "zaxby-s-alabama-white-bbq-sauce-limited-drop.jpg",
-      "lastConfirmed": "2026-09-22"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Starbucks",
@@ -1477,7 +1477,7 @@
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/arbys-launches-lineup-of-1-99-sliders/",
       "image": "arby-s-1-99-sliders-lineup.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Jack in the Box",
@@ -1501,7 +1501,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-adds-new-sweet-reaper-mozzarella-sticks-as-classic-version-returns/",
       "image": "jack-in-the-box-sweet-reaper-mozzarella-sticks.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Popeyes",
@@ -1531,14 +1531,14 @@
     {
       "chain": "Burger King",
       "item": "Bacon Cheddar Hash Whopper (regional test)",
-      "description": "Test-market Whopper: quarter-pound flame-grilled beef patty with bacon, an egg patty, cheddar cheese sauce, hash browns and hollandaise aioli on a sesame bun. First spotted Jan 8, 2026 in Raleigh, NC and Portland, OR only. As of early September 2026, it is reportedly listed on Burger King's breakfast board more broadly per food-menu trackers, though no official nationwide-rollout press release has been found — still treated here as a regional/expanding test, not a confirmed national LTO.",
+      "description": "Test-market Whopper: quarter-pound flame-grilled beef patty with bacon, an egg patty, cheddar cheese sauce, hash browns and hollandaise aioli on a sesame bun. First spotted Jan 8, 2026 in Raleigh, NC and Portland, OR only. As of late September 2026, coverage (Sporked, The Takeout, Food Bible) confirms it remains a regional test only in those two markets, with no nationwide-rollout announcement from Burger King.",
       "category": "burger",
       "startDate": "2026-01-08",
       "endDate": null,
       "status": "active",
       "source": "https://sporked.com/article/burger-king-bacon-cheddar-hash-whopper-news/",
       "image": "burger-king-bacon-cheddar-hash-whopper-regional-test.jpg",
-      "lastConfirmed": "2026-09-20"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Arby's",
@@ -1683,7 +1683,7 @@
       "status": "active",
       "source": "https://parade.com/news/chipotle-just-started-testing-crispy-chicken-fans-want-it-nationwide",
       "image": null,
-      "lastConfirmed": "2026-09-24"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "McDonald's",
@@ -1846,7 +1846,7 @@
       "status": "active",
       "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/what-are-the-chick-fil-a-iced-coffee-and-cream-cold-brew-beverages",
       "image": "chick-fil-a-cream-cold-brew.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Dunkin'",
@@ -1915,7 +1915,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/arbys-introduces-new-meat-3-box-meal.html",
       "image": "arby-s-meat-3-box-meal.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Arby's",
@@ -2002,7 +2002,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/popeyes-officially-dips-into-the-party-with-their-first-ever-signature-sauce-designed-to-enhance-the-dipping-experience-302503975.html",
       "image": "popeyes-chicken-dippers.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Raising Cane's",
@@ -2165,7 +2165,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/potato-wedges-are-back-at-jack-in-box.html",
       "image": "jack-in-the-box-sauced-loaded-potato-wedges-return.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Jack in the Box",
@@ -2189,7 +2189,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/back-for-good-popeyes-makes-fan-favorite-chicken-wraps-a-permanent-menu-offering-and-debuts-new-blackened-ranch-flavor-302760814.html",
       "image": "popeyes-honey-bbq-chicken-sandwich-honey-bbq-bacon-cheese-sandwich.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Dairy Queen",
@@ -2269,7 +2269,7 @@
       "status": "active",
       "source": "https://about.starbucks.com/press/2026/exploring-the-future-of-refreshment-with-sparkling-refresher-and-spritz/",
       "image": null,
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Sonic",
@@ -2334,7 +2334,7 @@
       "status": "active",
       "source": "https://ir.dominos.com/news-releases/news-release-details/dominosr-fires-summer-new-smores-lava-cakes",
       "image": "domino-s-s-mores-lava-cakes.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Popeyes",
@@ -2908,7 +2908,7 @@
       "image": "mcdonald-s-mcvalue-under-3-menu-4-breakfast-meal-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "McDonald's",
@@ -2955,7 +2955,7 @@
       "image": "chipotle-cilantro-lime-sauce.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Chipotle",
@@ -3214,7 +3214,7 @@
       "image": "pizza-hut-10-any-pizza-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Pizza Hut",
@@ -3415,7 +3415,7 @@
       "image": "taco-bell-melty-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Taco Bell",
@@ -3429,7 +3429,7 @@
       "image": "taco-bell-fresca-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Wingstop",
@@ -3673,7 +3673,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-has-an-answer-to-the-value-wars-a-value-feast-fit-for-the-moment-302728926.html",
       "image": "kfc-value-feast-7-9-11-box-feasts-featuring-the-kfc-snacker.jpg",
-      "lastConfirmed": "2026-09-23",
+      "lastConfirmed": "2026-09-25",
       "imageAuto": true
     },
     {
@@ -3757,7 +3757,7 @@
       "status": "active",
       "source": "https://www.foodbeast.com/news/pizza-huts-3-personal-pan-pizza-might-be-the-best-value-move-in-fast-food-right-now/",
       "image": "pizza-hut-3-tuesday-personal-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-23",
+      "lastConfirmed": "2026-09-25",
       "imageAuto": true
     },
     {
@@ -4569,7 +4569,7 @@
       "source": "https://www.brandeating.com/2026/08/potato-wedges-are-back-at-jack-in-box.html",
       "image": "jack-in-the-box-spicy-sauced-loaded-potato-wedges.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "McDonald's",
@@ -4740,7 +4740,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Dairy Queen",
@@ -4752,7 +4752,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-24"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Pizza Hut",
@@ -5300,7 +5300,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-is-giving-your-january-food-choices-a-glow-up-with-a-comfort-first-value-lineup-302654011.html",
       "image": "kfc-5-bowls-matty-s-cheesy-nuggy-gravy-bowl-mac-cheese-bowl-cheese-curds.jpg",
-      "lastConfirmed": "2026-09-23",
+      "lastConfirmed": "2026-09-25",
       "imageAuto": true
     },
     {
@@ -5757,7 +5757,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/food/drinks/pink-passionfruit-refresca-freeze",
       "image": "taco-bell-pink-passionfruit-refresca-freeze.jpg",
-      "lastConfirmed": "2026-09-23",
+      "lastConfirmed": "2026-09-25",
       "imageAuto": true
     },
     {
@@ -5895,7 +5895,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/arbys-introduces-new-meat-3-box-meal.html",
       "image": null,
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-25"
     },
     {
       "chain": "Taco Bell",
@@ -5929,7 +5929,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/introducing-the-new-all-american-sonic-smasher-lineup-and-6-all-american-smasher-meal/",
       "image": "sonic-all-american-smasher-lineup-6-all-american-smasher-meal.jpg",
-      "lastConfirmed": "2026-09-23",
+      "lastConfirmed": "2026-09-25",
       "imageAuto": true
     },
     {
@@ -6031,6 +6031,39 @@
       "endDate": "2026-09-15",
       "status": "ended",
       "source": "https://victoriaadvocate.com/2026/09/13/raising-canes-celebrates-30-years-of-raising-spirits-35-years-of-kidds-kids-and-15-years-of-making-magic-together/",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Dunkin' x L.L.Bean \"Ultimate Fall Blend\" Collection",
+      "description": "First-ever Dunkin' x L.L.Bean collab: Dunkin'-branded Birdseye Sweater and Boat and Tote Bag apparel plus a limited-edition L.L.Bean Coffee Tote, backed by a Bootmobile Tour from Maine to Massachusetts (Sept 21-29) and a Boston Seaport launch event; full apparel line drops Sept 29 to coincide with National Coffee Day.",
+      "category": "event",
+      "startDate": "2026-09-21",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://news.dunkindonuts.com/news/dunkin-llbean-collab-2026",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "Countdown to Halloween Freebies (SONIC App)",
+      "description": "SONIC Rewards app freebies leading up to Halloween: free Cheeseburger, Small Classic Shake, Small Premium Chicken Bites or medium Tots/Fries Oct 20-26; free entree, Trick or Treat Blast, medium Slush or small snack Oct 27-Nov 2; capped by SONIC's traditional 50-cent Corn Dog all day on Halloween (Oct 31).",
+      "category": "event",
+      "startDate": "2026-10-20",
+      "endDate": "2026-11-02",
+      "status": "upcoming",
+      "source": "https://stories.inspirebrands.com/countdown-to-halloween-with-spooky-freebies-in-the-sonic-app/",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "\"Feed Your SUBconscious\" Brand Platform (Will Arnett)",
+      "description": "New national ad campaign and brand platform starring Will Arnett as \"America's Inner Voice,\" launching Subway's Feed Your SUBconscious positioning.",
+      "category": "event",
+      "startDate": "2026-09-21",
+      "endDate": null,
+      "status": "active",
+      "source": "https://newsroom.subway.com/2026-09-21-Subway-R-Launches-New-Feed-Your-SUBconscious-TM-Brand-Platform-Starring-Will-Arnett-as-Americas-Inner-Voice,1",
       "image": null
     }
   ]

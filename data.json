@@ -6042,7 +6042,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://news.dunkindonuts.com/news/dunkin-llbean-collab-2026",
-      "image": null
+      "image": "dunkin-dunkin-x-l-l-bean-ultimate-fall-blend-collection.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Sonic",
@@ -6053,7 +6054,8 @@
       "endDate": "2026-11-02",
       "status": "upcoming",
       "source": "https://stories.inspirebrands.com/countdown-to-halloween-with-spooky-freebies-in-the-sonic-app/",
-      "image": null
+      "image": "sonic-countdown-to-halloween-freebies-sonic-app.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Subway",
@@ -6064,7 +6066,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://newsroom.subway.com/2026-09-21-Subway-R-Launches-New-Feed-Your-SUBconscious-TM-Brand-Platform-Starring-Will-Arnett-as-Americas-Inner-Voice,1",
-      "image": null
+      "image": "subway-feed-your-subconscious-brand-platform-will-arnett.jpg",
+      "imageAuto": true
     }
   ]
 }

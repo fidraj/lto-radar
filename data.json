@@ -6090,7 +6090,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.nrn.com/quick-service/taco-bell-expands-beverage-lineup-with-new-energy-drinks",
-      "image": null
+      "image": "taco-bell-chicken-enchilada-nacho-fries.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -6101,7 +6102,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.nrn.com/quick-service/taco-bell-expands-beverage-lineup-with-new-energy-drinks",
-      "image": null
+      "image": "taco-bell-pineapple-citrus-strawberry-tropics-energy-lineup.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",

@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-25",
+  "researched": "2026-09-26",
   "items": [
     {
       "chain": "McDonald's",
@@ -813,7 +813,7 @@
       "category": "sandwich",
       "startDate": "2026-07-21",
       "endDate": "2026-09-30",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-launches-philly-cheesesteak-sandwich-philly-style-bonus-jack-and-philly-munchie-meal/",
       "image": "jack-in-the-box-philly-cheesesteak-sandwich.jpg",
       "lastConfirmed": "2026-08-19"
@@ -825,7 +825,7 @@
       "category": "burger",
       "startDate": "2026-07-21",
       "endDate": "2026-09-30",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-launches-philly-cheesesteak-sandwich-philly-style-bonus-jack-and-philly-munchie-meal/",
       "image": "jack-in-the-box-philly-style-bonus-jack.jpg",
       "lastConfirmed": "2026-08-19"
@@ -837,7 +837,7 @@
       "category": "event",
       "startDate": "2026-07-21",
       "endDate": "2026-09-30",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-launches-philly-cheesesteak-sandwich-philly-style-bonus-jack-and-philly-munchie-meal/",
       "image": "jack-in-the-box-philly-munchie-meal-collectible-jibbi.jpg",
       "lastConfirmed": "2026-08-19"
@@ -3179,9 +3179,10 @@
       "description": "Teachers and college students get a free large 1-topping pizza with purchase of any large menu-priced pizza; eligibility verified via SheerID on Pizza Hut's dedicated back-to-school landing page. Recurring annual promo, live during the 2026 back-to-school season.",
       "category": "food",
       "startDate": "2026-08-15",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-30",
+      "status": "ending-soon",
       "source": "https://www.pizzahut.com/c/content/back-to-school",
+      "lastConfirmed": "2026-09-26",
       "image": null,
       "imageUrl": null
     },
@@ -3343,7 +3344,7 @@
       "category": "dessert",
       "startDate": "2026-09-09",
       "endDate": "2026-09-22",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.dairyqueen.com/en-us/bogo-blizzard/",
       "imageUrl": null,
       "image": "dairy-queen-bogo-blizzard-app-deal-leaked-unconfirmed.jpg",
@@ -4097,7 +4098,7 @@
       "category": "event",
       "startDate": "2026-08-27",
       "endDate": "2026-09-22",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.raisingcanes.com/plush-puppy/",
       "image": null
     },
@@ -4300,7 +4301,7 @@
       "category": "event",
       "startDate": "2026-08-25",
       "endDate": "2026-09-24",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.qsrmagazine.com/news/raising-canes-celebrates-30-years-with-pop-up-museum-and-50-million-in-giving/",
       "image": null
     },
@@ -4620,7 +4621,7 @@
       "category": "chicken",
       "startDate": "2026-08-31",
       "endDate": "2026-09-27",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.milehighonthecheap.com/popeyes-big-box-meal-deal/",
       "image": null,
       "lastConfirmed": "2026-09-04"
@@ -4689,7 +4690,7 @@
       "description": "Hand-spun Strawberry Milkshake blended with NERDS candy, topped with NERDS Gummy Clusters, Rainbow NERDS candy and a maraschino cherry; previously tested in select markets, now nationwide by popular demand for a limited time.",
       "category": "dessert",
       "startDate": "2026-08-31",
-      "endDate": null,
+      "endDate": "2026-10-26",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-collaborates-with-iconic-candy-brand-nerds-to-launch-the-nerds-strawberry-milkshake-nationwide-302863154.html",
       "image": "zaxby-s-nerds-strawberry-milkshake-nationwide.jpg",
@@ -4994,7 +4995,7 @@
       "category": "event",
       "startDate": "2026-09-14",
       "endDate": "2026-09-20",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.qsrmagazine.com/news/burger-king-to-honor-national-cheeseburger-day-with-series-of-deals-for-rewards-members/",
       "image": null,
       "lastConfirmed": "2026-09-15"
@@ -5321,7 +5322,7 @@
       "category": "event",
       "startDate": "2026-09-16",
       "endDate": "2026-09-22",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.wendys.com/media/18386",
       "image": null
     },
@@ -5413,12 +5414,12 @@
     {
       "chain": "Pizza Hut",
       "item": "Triple Treat Box Gameday Edition",
-      "description": "Two medium 1-topping pizzas, 5 breadsticks and 10 cinnamon sticks for $21.99 (optional 2L Pepsi add-on), part of the football-season Gameday push.",
+      "description": "Two medium 1-topping pizzas, 5 breadsticks and 10 cinnamon sticks for $21.99 (optional 2L Pepsi add-on), part of the football-season Gameday push launched alongside the Pepsi/Josh Allen \"Gameday Starts with the Hut\" campaign.",
       "category": "food",
-      "startDate": "2026-09-09",
+      "startDate": "2026-08-25",
       "endDate": null,
       "status": "active",
-      "source": "https://www.pizzahut.com/c/content/triple-treat-box-gameday-edition",
+      "source": "https://www.prnewswire.com/news-releases/pizza-hut-teams-up-with-pepsi-and-josh-allen-to-remind-fans-gameday-starts-with-the-hut-302858823.html",
       "image": null,
       "lastConfirmed": "2026-09-15"
     },
@@ -5575,7 +5576,7 @@
       "category": "event",
       "startDate": "2026-09-22",
       "endDate": "2026-09-22",
-      "status": "upcoming",
+      "status": "ended",
       "source": "https://www.nbcchicago.com/news/local/dunkin-donuts-giving-away-1-million-free-coffees-again-this-month-how-to-get-yours/3925486/",
       "image": null
     },
@@ -5586,7 +5587,7 @@
       "category": "event",
       "startDate": "2026-09-22",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "ended",
       "source": "https://thefreebieguy.com/best-dunkin-deals-freebies/",
       "image": null
     },
@@ -5715,12 +5716,12 @@
     },
     {
       "chain": "Wingstop",
-      "item": "Wing Pass (second drop, Sept 24)",
-      "description": "Second release of 100 more Wing Passes ($27.99 each, 360 wings over the football season) for Club Wingstop members via wingstop.com, after the original Sept 10 drop sold out within minutes.",
+      "item": "Wing Pass (second drop, Sept 24) - unconfirmed",
+      "description": "Second release of 100 more Wing Passes ($27.99 each, 360 wings over the football season) for Club Wingstop members via wingstop.com, after the original Sept 10 drop sold out within minutes. Sourced only from a single aggregator (dailyvoice.com); a Sept 24 official Wingstop release instead announced a different promo, the Game Day Punch Card, describing it as Wingstop's second football promotion of the season - no independent evidence this Wing Pass batch actually dropped as described.",
       "category": "event",
       "startDate": "2026-09-24",
       "endDate": "2026-09-24",
-      "status": "upcoming",
+      "status": "ended",
       "source": "https://dailyvoice.com/article/wingstop-launches-2799-wing-passes-for-football-season/",
       "image": null
     },
@@ -5825,7 +5826,7 @@
       "category": "food",
       "startDate": "2026-09-22",
       "endDate": "2026-09-29",
-      "status": "upcoming",
+      "status": "ending-soon",
       "source": "https://www.ktalnews.com/news/local-news/sonic-mozzarella-sticks-deal/",
       "image": null
     },
@@ -5880,7 +5881,7 @@
       "category": "event",
       "startDate": "2026-09-24",
       "endDate": "2026-09-25",
-      "status": "upcoming",
+      "status": "ended",
       "source": "https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS",
       "image": "chipotle-national-quesadilla-day-free-quesadilla.jpg",
       "imageAuto": true
@@ -5996,7 +5997,7 @@
       "category": "donut",
       "startDate": "2026-09-26",
       "endDate": "2026-09-29",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.businesswire.com/news/home/20260923137810/en/KRISPY-KREME-Brews-Up-New-Original-Glazed-Coffee-Flavored-Doughnut-Just-in-Time-for-National-Coffee-Day",
       "image": null
     },
@@ -6007,7 +6008,7 @@
       "category": "donut",
       "startDate": "2026-09-26",
       "endDate": "2026-09-29",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.businesswire.com/news/home/20260923137810/en/KRISPY-KREME-Brews-Up-New-Original-Glazed-Coffee-Flavored-Doughnut-Just-in-Time-for-National-Coffee-Day",
       "image": null
     },
@@ -6068,6 +6069,83 @@
       "source": "https://newsroom.subway.com/2026-09-21-Subway-R-Launches-New-Feed-Your-SUBconscious-TM-Brand-Platform-Starring-Will-Arnett-as-Americas-Inner-Voice,1",
       "image": "subway-feed-your-subconscious-brand-platform-will-arnett.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Nostalgic Yellow Packaging Return",
+      "description": "Wendy's is reintroducing its iconic 1960s-90s yellow color scheme across burger wrappers, fry cartons, cups, nugget boxes and other packaging, rolling out location-by-location starting Sept 28, 2026; the chain says the look will run through 2027, a response to years of fan requests for the throwback design (Wendy's switched to red-and-white branding in the early 1990s).",
+      "category": "event",
+      "startDate": "2026-09-28",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.foxnews.com/food-drink/wendys-revives-nostalgic-yellow-packaging-decades-away",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Chicken Enchilada Nacho Fries",
+      "description": "Nacho Fries topped with slow-roasted chicken, red enchilada sauce, warm nacho cheese sauce, a three-cheese blend (mozzarella, pepper jack, cheddar), fiesta tortilla strips, pico de gallo and sour cream; $5.49, launched nationwide alongside a new energy-drink lineup.",
+      "category": "food",
+      "startDate": "2026-08-25",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.nrn.com/quick-service/taco-bell-expands-beverage-lineup-with-new-energy-drinks",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Pineapple Citrus & Strawberry Tropics Energy lineup",
+      "description": "Three new caffeinated drinks (120mg caffeine plus vitamin B each): Pineapple Citrus Energy Refresher and Strawberry Tropics Energy Refresher (20oz, $4.49), plus a frozen Pineapple Citrus Energy Freeze (16oz $3.99 / 20oz $4.29); launched nationwide alongside the Chicken Enchilada Nacho Fries.",
+      "category": "drink",
+      "startDate": "2026-08-25",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.nrn.com/quick-service/taco-bell-expands-beverage-lineup-with-new-energy-drinks",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Grilled Steak (or Chicken) Three Cheese Taco (regional test)",
+      "description": "'Sonoran-style' soft taco test: warm flour tortilla grilled with a three-cheese (mozzarella/pepper jack/cheddar) blend, filled with grilled marinated steak or slow-roasted chicken, Creamy Jalapeño Sauce, seasoned potato crispies, pico de gallo and chile-lime seasoning; $4.49. Testing only in select Nashville-area locations as of September 2026, no nationwide confirmation.",
+      "category": "taco",
+      "startDate": "2026-09-01",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.brandeating.com/2026/09/taco-bell-tests-new-grilled-steak-three-cheese-taco.html",
+      "image": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "Game Day Punch Card",
+      "description": "Club Wingstop loyalty promo: buy three Watch Party Bundles (20 classic wings, large seasoned fries, large ranch) and get a fourth free, plus a $50 Ticketmaster Ticket Cash code; the season's second football-tie-in promo after the Sept 10 Wing Pass sold out in minutes.",
+      "category": "event",
+      "startDate": "2026-09-24",
+      "endDate": "2026-10-21",
+      "status": "active",
+      "source": "https://ir.wingstop.com/wingstop-announces-the-game-day-punch-card/",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Red Bull Back-to-School Offers (Jack Pack Rewards)",
+      "description": "App-exclusive back-to-school bundle offers pairing Jack favorites with Red Bull: $1 Breakfast Jack with purchase of a Red Bull Can or Red Bull Infusion, $1 Red Bull Can with purchase of a Breakfast Croissant, and free regular fries or dessert with purchase of a Red Bull Infusion; redeemable once per week via the Jack App.",
+      "category": "event",
+      "startDate": "2026-08-24",
+      "endDate": "2026-09-13",
+      "status": "ended",
+      "source": "https://www.today.com/food/restaurants/back-to-school-food-deals-2026-rcna592965",
+      "image": null
+    },
+    {
+      "chain": "Pizza Hut",
+      "item": "Melts Monday",
+      "description": "Any of Pizza Hut's 4 Melts recipes (Buffalo Chicken, Chicken Bacon Parmesan, Meat Lover's, Pepperoni Lover's) for $4.99 each, every Monday, at participating locations while supplies last, limit 4.",
+      "category": "food",
+      "startDate": "2026-09-08",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.pizzahut.com/c/content/melts-monday",
+      "image": null
     }
   ]
 }

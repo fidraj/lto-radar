@@ -4661,7 +4661,8 @@
       "endDate": "2026-09-30",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/dominos-asks-america-is-the-domino-pizzas-first-fast-food-icon-302861955.html",
-      "image": null
+      "image": "domino-s-is-the-domino-worthy-sweepstakes.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Starbucks",
@@ -6115,7 +6116,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/09/taco-bell-tests-new-grilled-steak-three-cheese-taco.html",
-      "image": null
+      "image": "taco-bell-grilled-steak-or-chicken-three-cheese-taco-regional-test.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Wingstop",

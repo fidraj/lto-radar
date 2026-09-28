@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-27",
+  "researched": "2026-09-28",
   "items": [
     {
       "chain": "McDonald's",
@@ -379,7 +379,7 @@
       "status": "active",
       "source": "https://www.irwendys.com/news/news-details/2026/Crisp-Days-Meet-Cozy-Bites-Wendys-Brings-Pub-Worthy-Fall-Flavor-with-New-and-Returning-Seasonal-Favorites/default.aspx",
       "image": "wendy-s-pretzel-bacon-pub-cheeseburger.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Wendy's",
@@ -391,7 +391,7 @@
       "status": "active",
       "source": "https://www.irwendys.com/news/news-details/2026/Crisp-Days-Meet-Cozy-Bites-Wendys-Brings-Pub-Worthy-Fall-Flavor-with-New-and-Returning-Seasonal-Favorites/default.aspx",
       "image": "wendy-s-pretzel-bacon-pub-chicken-sandwich.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Wendy's",
@@ -403,7 +403,7 @@
       "status": "active",
       "source": "https://www.irwendys.com/news/news-details/2026/Crisp-Days-Meet-Cozy-Bites-Wendys-Brings-Pub-Worthy-Fall-Flavor-with-New-and-Returning-Seasonal-Favorites/default.aspx",
       "image": "wendy-s-bacon-pub-fries.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Wendy's",
@@ -2498,7 +2498,7 @@
       "status": "active",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-chicken-waffles-sandwich.jpg",
-      "lastConfirmed": "2026-09-13"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Chick-fil-A",
@@ -2510,7 +2510,7 @@
       "status": "active",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-s-mores-milkshake.jpg",
-      "lastConfirmed": "2026-09-13"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Chick-fil-A",
@@ -2522,7 +2522,7 @@
       "status": "active",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-s-mores-frosted-coffee.jpg",
-      "lastConfirmed": "2026-09-13"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Krispy Kreme",
@@ -2942,7 +2942,7 @@
       "image": "burger-king-dragon-ball-super-collab-leaked-unconfirmed.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Chipotle",
@@ -3005,7 +3005,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/newsroom/salt-and-straw",
       "image": null,
-      "lastConfirmed": "2026-09-02"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Dunkin'",
@@ -4090,7 +4090,7 @@
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-plain-waffle-a-la-carte.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-13"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Raising Cane's",
@@ -4243,7 +4243,7 @@
       "source": "https://www.thetakeout.com/2231719/mcdonalds-fan-favorite-sauce-return-mighty-hot-sauce/",
       "image": "mcdonald-s-spicy-chicken-mcnuggets-mighty-hot-sauce-2026-return.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Pizza Hut",
@@ -4268,7 +4268,7 @@
       "source": "https://www.prnewswire.com/news-releases/burger-king-introduces-latest-innovation-inspired-by-guest-feedback--new-chicken-nuggets-and-sauces-302858841.html",
       "image": "burger-king-new-chicken-nuggets-sauces.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "KFC",
@@ -4622,7 +4622,7 @@
       "category": "chicken",
       "startDate": "2026-08-31",
       "endDate": "2026-09-27",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.milehighonthecheap.com/popeyes-big-box-meal-deal/",
       "image": null,
       "lastConfirmed": "2026-09-04"
@@ -4673,7 +4673,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://about.starbucks.com/stories/2026/starbucks-to-add-the-aerocano-and-mini-pies-to-the-fall-lineup-sept-29/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Starbucks",
@@ -5012,7 +5013,7 @@
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/wendys-halloween-lineup-returns-with-boo-books-and-collectible-toys/",
       "image": null,
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Taco Bell",
@@ -5058,7 +5059,7 @@
       "source": "https://www.brandeating.com/2026/01/kfc-tests-new-zinger-sandwich.html",
       "image": "kfc-zinger-sandwich-regional-test-return.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Zaxby's",
@@ -5131,7 +5132,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260824345240/en/SONIC-Goes-Bananas-with-an-All-New-Banana-Collection-Featuring-the-Return-of-the-Fan-Favorite-Banana-Pudding-Shake",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Jack in the Box",
@@ -5350,7 +5352,7 @@
       "status": "upcoming",
       "source": "https://www.prnewswire.com/news-releases/wendys-is-serving-up-a-frightfully-fun-halloween-with-boo-books-and-frosty-frights-302868252.html",
       "image": "wendy-s-frosty-frights-secret-13th-figure-brain-freeze.jpg",
-      "lastConfirmed": "2026-09-13",
+      "lastConfirmed": "2026-09-28",
       "imageAuto": true
     },
     {
@@ -5423,7 +5425,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/pizza-hut-teams-up-with-pepsi-and-josh-allen-to-remind-fans-gameday-starts-with-the-hut-302858823.html",
       "image": null,
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "KFC",
@@ -5480,7 +5482,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.tacobell.com/newsroom/two-global-fan-favorite-tacos-one-fan-decision",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Dunkin'",
@@ -5525,7 +5528,8 @@
       "status": "active",
       "source": "https://hauntedattractionnetwork.com/sonic-wacky-pack-universal-monsters-2026/",
       "image": "sonic-wacky-pack-universal-monsters-toys-halloween.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Pizza Hut",
@@ -5718,13 +5722,13 @@
     },
     {
       "chain": "Wingstop",
-      "item": "Wing Pass (second drop, Sept 24) - unconfirmed",
-      "description": "Second release of 100 more Wing Passes ($27.99 each, 360 wings over the football season) for Club Wingstop members via wingstop.com, after the original Sept 10 drop sold out within minutes. Sourced only from a single aggregator (dailyvoice.com); a Sept 24 official Wingstop release instead announced a different promo, the Game Day Punch Card, describing it as Wingstop's second football promotion of the season - no independent evidence this Wing Pass batch actually dropped as described.",
+      "item": "Wing Pass (second drop, Sept 24)",
+      "description": "Second release of 100 more Wing Passes ($27.99 each, 360 wings over the football season) for Club Wingstop members via wingstop.com, sold at 1pm ET on Sept 24, after the original Sept 10 drop sold out within minutes. Confirmed via Rolling Out, Daily Voice and Food Network coverage.",
       "category": "event",
       "startDate": "2026-09-24",
       "endDate": "2026-09-24",
       "status": "ended",
-      "source": "https://dailyvoice.com/article/wingstop-launches-2799-wing-passes-for-football-season/",
+      "source": "https://www.foodnetwork.com/fn-dish/news/how-to-get-wingstop-wing-pass-2026",
       "image": null
     },
     {
@@ -5737,7 +5741,8 @@
       "status": "active",
       "source": "https://www.tacobell.com/food/specialties/steak-gordita-crunch-duos-2pk",
       "image": "taco-bell-gordita-crunch-duos-steak-chicken.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Taco Bell",
@@ -5789,11 +5794,11 @@
     {
       "chain": "Popeyes",
       "item": "Megan Thee Stallion \"Hottie Sauce\"",
-      "description": "New signature sauce (honey, cider vinegar, Aleppo pepper) created with Megan Thee Stallion, available on the Chicken Sandwich and as a nugget dip nationwide; part of a broader deal making Megan a Popeyes franchise owner.",
+      "description": "Signature sauce (honey, cider vinegar, Aleppo pepper) created with Megan Thee Stallion for the Chicken Sandwich and as a nugget dip, tied to her becoming a Popeyes franchise owner. Originally a fall 2021 launch; her actual 2026 Popeyes news is an unrelated Miami Beach franchise location opening, not a national relaunch of this sauce.",
       "category": "food",
-      "startDate": "2026-10-19",
-      "endDate": null,
-      "status": "upcoming",
+      "startDate": "2021-10-19",
+      "endDate": "2021-11-30",
+      "status": "ended",
       "source": "https://news.popeyes.com/blog-posts/megan-thee-stallion-popeyes-r-team-up-for-unprecedented-ownership-product-creation-fashion-drop-and-philanthropic-collaboration-to-disrupt-the-fast-food-industry",
       "image": "popeyes-megan-thee-stallion-hottie-sauce.jpg",
       "imageAuto": true
@@ -6183,6 +6188,72 @@
       "endDate": "2026-09-22",
       "status": "ended",
       "source": "https://parade.com/news/taco-bell-offering-1-dollar-crunchwrap-supremes-september-22-heres-how-claim-yours",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Charlie Brown Mocha Frappuccino",
+      "description": "Blended beverage swirling pumpkin spice flavors with a sweet mocha ribbon, topped with pumpkin spice cold foam and mocha drizzle; part of the Starbucks x Peanuts \"Great Pumpkin\" 60th-anniversary fall collection, surfaced via the app's Trending Beverages.",
+      "category": "drink",
+      "startDate": "2026-09-15",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://about.starbucks.com/stories/2026/do-a-happy-dance-see-the-new-starbucks-peanuts-fall-collection-inspired-by-the-great-pumpkin-and-pumpkin-spice-latte/",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Snoopy Cookie Frappuccino",
+      "description": "Blended vanilla bean and white mocha beverage topped with pumpkin spice cold foam and crunchy cookie crumbles; companion drink to the Charlie Brown Mocha Frappuccino in the same Peanuts \"Great Pumpkin\" 60th-anniversary collection.",
+      "category": "drink",
+      "startDate": "2026-09-15",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://about.starbucks.com/stories/2026/do-a-happy-dance-see-the-new-starbucks-peanuts-fall-collection-inspired-by-the-great-pumpkin-and-pumpkin-spice-latte/",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Enchanted OREO Blizzard Treat",
+      "description": "OREO cookie pieces blended with a sweet ube-flavored base and purple shimmer into DQ soft serve; centerpiece of DQ's first-ever Halloween \"Spellbound Series\" lineup.",
+      "category": "dessert",
+      "startDate": "2026-09-28",
+      "endDate": "2026-11-01",
+      "status": "active",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Bubble Brew DQ Sparkler",
+      "description": "Blood orange and lemonade sparkling drink with cold foam that bubbles up as it's stirred; part of DQ's Halloween \"Spellbound Series\" lineup.",
+      "category": "drink",
+      "startDate": "2026-09-28",
+      "endDate": "2026-11-01",
+      "status": "active",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Ghost Pepper Sauce",
+      "description": "New blazing ghost pepper dip sauce paired with the 4-piece Chicken Strip Basket; part of DQ's Halloween \"Spellbound Series\" lineup.",
+      "category": "food",
+      "startDate": "2026-09-28",
+      "endDate": "2026-11-01",
+      "status": "active",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "DQ Mystery Blizzard Buddy Plush Keychain",
+      "description": "$4 collectible plush keychain add-on with any purchase, 5 designs (Blizabeth, Flip, Blenda, Brrrnie, and rare golden \"Goldie\" which wins a year of Blizzards); part of DQ's Halloween \"Spellbound Series\" lineup.",
+      "category": "event",
+      "startDate": "2026-09-28",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
       "image": null
     }
   ]

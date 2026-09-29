@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-28",
+  "researched": "2026-09-29",
   "items": [
     {
       "chain": "McDonald's",
@@ -11,7 +11,7 @@
       "status": "active",
       "source": "https://www.thestreet.com/restaurants/mcdonalds-launches-four-new-menu-items-chicken-caesar",
       "image": "mcdonald-s-caesar-snack-wrap.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "McDonald's",
@@ -23,7 +23,7 @@
       "status": "active",
       "source": "https://www.primetimer.com/news/mcdonald-s-introduces-four-new-limited-time-menu-items-across-the-u-s",
       "image": "mcdonald-s-bacon-caesar-mccrispy.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "McDonald's",
@@ -118,7 +118,7 @@
       "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-welcomes-summer-with-an-all-new-menu-of-craveable-seasonal-innovations",
       "image": "burger-king-loaded-jalape-o-whopper.jpg",
-      "lastConfirmed": "2026-09-20"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Burger King",
@@ -154,7 +154,7 @@
       "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-welcomes-summer-with-an-all-new-menu-of-craveable-seasonal-innovations",
       "image": "burger-king-orange-dreamsicle-freezee-king.jpg",
-      "lastConfirmed": "2026-09-20"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Burger King",
@@ -474,7 +474,7 @@
       "status": "active",
       "source": "https://www.tastingtable.com/2222624/new-taco-bell-creme-brulee-crunchwrap-treat-michigan/",
       "image": "taco-bell-cr-me-br-l-e-crunchwrap-slider.jpg",
-      "lastConfirmed": "2026-09-20"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Taco Bell",
@@ -758,7 +758,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/sonic-new-7-dollar-big-meal-deal.html",
       "image": "sonic-7-big-deal-meal.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Arby's",
@@ -852,7 +852,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-welcomes-back-the-chicken-supreme-and-introduces-jibbis/",
       "image": "jack-in-the-box-chicken-supreme-75th-anniversary-return.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Dairy Queen",
@@ -1054,7 +1054,7 @@
       "status": "active",
       "source": "https://themusicuniverse.com/megan-moroney-teams-with-raising-canes-for-exclusive-cloud-9-collectors-cups/",
       "image": "raising-cane-s-megan-moroney-cloud-9-souvenir-cup.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Zaxby's",
@@ -1171,7 +1171,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/05/pizza-hut-new-crispy-parm-pan-pizza.html",
       "image": "pizza-hut-crispy-parm-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Domino's",
@@ -1316,7 +1316,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260601211848/en/SONIC-Debuts-the-$7-Big-Deal-Meal-Bringing-More-of-What-Guests-Want-for-Less",
       "image": "sonic-1-99-value-menu.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Sonic",
@@ -1328,7 +1328,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260518500381/en/SONIC-Expands-Its-Refreshers-Platform-Adding-Frozen-Refreshers-Featuring-a-Brand-New-Watermelon-Peach-Flavor",
       "image": "sonic-frozen-refreshers-incl-new-watermelon-peach.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Dunkin'",
@@ -1538,7 +1538,7 @@
       "status": "active",
       "source": "https://sporked.com/article/burger-king-bacon-cheddar-hash-whopper-news/",
       "image": "burger-king-bacon-cheddar-hash-whopper-regional-test.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Arby's",
@@ -1573,7 +1573,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/food/drinks/pineapple-freeze",
       "image": "taco-bell-pineapple-freeze-pineapple-whip-freeze.jpg",
-      "lastConfirmed": "2026-09-24",
+      "lastConfirmed": "2026-09-29",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2026-07-27",
@@ -1778,7 +1778,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/taco-bell-tests-new-sweet-chipotle-lime-crispy-chicken.html",
       "image": "taco-bell-sweet-chipotle-lime-crispy-chicken-regional-test-unconfirmed.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Taco Bell",
@@ -1846,7 +1846,7 @@
       "status": "active",
       "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/what-are-the-chick-fil-a-iced-coffee-and-cream-cold-brew-beverages",
       "image": "chick-fil-a-cream-cold-brew.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Dunkin'",
@@ -1892,7 +1892,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260807280655/en/Pumpkin-Spice-is-Back-KRISPY-KREME-Welcomes-Fall-with-New-Autumn-Seasonal-Collection-on-Aug.-11",
       "image": "krispy-kreme-apple-crisp-latte.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Sonic",
@@ -2003,7 +2003,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/popeyes-officially-dips-into-the-party-with-their-first-ever-signature-sauce-designed-to-enhance-the-dipping-experience-302503975.html",
       "image": "popeyes-chicken-dippers.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Raising Cane's",
@@ -2335,7 +2335,7 @@
       "status": "active",
       "source": "https://ir.dominos.com/news-releases/news-release-details/dominosr-fires-summer-new-smores-lava-cakes",
       "image": "domino-s-s-mores-lava-cakes.jpg",
-      "lastConfirmed": "2026-09-25"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Popeyes",
@@ -2381,7 +2381,7 @@
       "status": "active",
       "source": "https://www.forbes.com/sites/amberlovebond/2026/08/12/taco-bells-new-menu-items-are-a-tajn-lovers-dream/",
       "image": "taco-bell-taj-n-taco.jpg",
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Taco Bell",
@@ -2393,7 +2393,7 @@
       "status": "active",
       "source": "https://www.forbes.com/sites/amberlovebond/2026/08/12/taco-bells-new-menu-items-are-a-tajn-lovers-dream/",
       "image": "taco-bell-taj-n-cheesy-gordita-crunch.jpg",
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Taco Bell",
@@ -2405,7 +2405,7 @@
       "status": "active",
       "source": "https://www.forbes.com/sites/amberlovebond/2026/08/12/taco-bells-new-menu-items-are-a-tajn-lovers-dream/",
       "image": "taco-bell-taj-n-pineapple-strawberry-freeze.jpg",
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Taco Bell",
@@ -2572,14 +2572,14 @@
     {
       "chain": "Jack in the Box",
       "item": "Spicy Orange Crispy Chicken Wrap (regional test)",
-      "description": "Regional test item spotted in select markets as part of Jack in the Box's protein bowl/wrap lineup expansion — a spicy-orange-sauced crispy chicken wrap alongside existing Teriyaki and Baja Ranch flavors. Not yet confirmed for nationwide rollout.",
+      "description": "Regional test item spotted in select Las Vegas-area markets as part of Jack in the Box's protein bowl/wrap lineup expansion — a spicy-orange-sauced crispy chicken wrap alongside Teriyaki and Baja Ranch flavors. Re-dated: the only sourceable coverage (brandeating.com, Men's Journal) is from July 2025, not 2026; no nationwide rollout or 2026 relaunch found.",
       "category": "sandwich",
-      "startDate": "2026-08-13",
-      "endDate": null,
-      "status": "active",
+      "startDate": "2025-07-21",
+      "endDate": "2025-09-15",
+      "status": "ended",
       "source": "https://www.mensjournal.com/food/jack-in-the-box-new-menu-protein-wraps-bowls",
       "image": null,
-      "lastConfirmed": "2026-08-29"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "McDonald's",
@@ -3216,7 +3216,7 @@
       "image": "pizza-hut-10-any-pizza-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Pizza Hut",
@@ -3541,7 +3541,7 @@
       "image": "domino-s-perfect-combo-deal-19-99.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-23",
+      "lastConfirmed": "2026-09-29",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2012-06-18",
@@ -3675,7 +3675,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-has-an-answer-to-the-value-wars-a-value-feast-fit-for-the-moment-302728926.html",
       "image": "kfc-value-feast-7-9-11-box-feasts-featuring-the-kfc-snacker.jpg",
-      "lastConfirmed": "2026-09-27",
+      "lastConfirmed": "2026-09-29",
       "imageAuto": true
     },
     {
@@ -3759,7 +3759,7 @@
       "status": "active",
       "source": "https://www.foodbeast.com/news/pizza-huts-3-personal-pan-pizza-might-be-the-best-value-move-in-fast-food-right-now/",
       "image": "pizza-hut-3-tuesday-personal-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-27",
+      "lastConfirmed": "2026-09-29",
       "imageAuto": true
     },
     {
@@ -4609,11 +4609,12 @@
       "description": "End-of-summer limited-time beverage lineup: Pineapple Lemonade, Frozen Pineapple Lemonade, and Pineapple Iced Tea, starting at $3.49.",
       "category": "drink",
       "startDate": "2026-08-31",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-27",
+      "status": "ended",
       "source": "https://www.qsrweb.com/news/popeyes-creates-pineapple-drink-line-for-end-of-summer/",
       "image": "popeyes-pineapple-beverage-line.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Popeyes",
@@ -4744,7 +4745,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Dairy Queen",
@@ -4756,7 +4757,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Pizza Hut",
@@ -5305,7 +5306,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-is-giving-your-january-food-choices-a-glow-up-with-a-comfort-first-value-lineup-302654011.html",
       "image": "kfc-5-bowls-matty-s-cheesy-nuggy-gravy-bowl-mac-cheese-bowl-cheese-curds.jpg",
-      "lastConfirmed": "2026-09-25",
+      "lastConfirmed": "2026-09-29",
       "imageAuto": true
     },
     {
@@ -5402,7 +5403,7 @@
       "status": "upcoming",
       "source": "https://www.timeout.com/london/news/raising-canes-first-london-location-angus-steakhouse-062926",
       "image": null,
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-29"
     },
     {
       "chain": "Raising Cane's",
@@ -5765,7 +5766,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/food/drinks/pink-passionfruit-refresca-freeze",
       "image": "taco-bell-pink-passionfruit-refresca-freeze.jpg",
-      "lastConfirmed": "2026-09-27",
+      "lastConfirmed": "2026-09-29",
       "imageAuto": true
     },
     {
@@ -6254,6 +6255,61 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Daredevil Double Dipping Burritos",
+      "description": "Two snack-sized burritos filled with a choice of grilled steak or slow-roasted chicken, Avocado Ranch sauce, and a melted three-cheese blend; served with a split dip cup of Ghost Pepper sauce on one side and spicy, cheesy crisps on the other. Test-launched at select Cleveland, OH-area locations only; $5.99. Distinct from a similarly-named 2025 test.",
+      "category": "food",
+      "startDate": "2026-09-25",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.brandeating.com/2026/09/taco-bell-tests-daredevil-double-dipping-burritos.html",
+      "image": null
+    },
+    {
+      "chain": "KFC",
+      "item": "Sundays by KFC (Weekly Digital Deals)",
+      "description": "Nationwide launch of a recurring weekly digital-only promotion (KFC Rewards app/website), reclaiming Sunday with rotating deals from smaller individual meals to shareable buckets; each deal had to be redeemed by roughly 4am ET the next day. Ran through January into February 2026, no evidence of continuing past that.",
+      "category": "event",
+      "startDate": "2026-01-14",
+      "endDate": "2026-02-28",
+      "status": "ended",
+      "source": "https://www.prnewswire.com/news-releases/kfc-reclaims-sundays-with-weekly-digital-deals-designed-for-comfort-not-guilt-302661466.html",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "Honey Chicken Biscuit",
+      "description": "New sandwich innovation launched nationwide Sept 28, 2026 for $5: Popeyes chicken tucked inside a larger version of the chain's signature buttermilk biscuit, served with two packets of sweet honey sauce for drizzling. Also available in a combo starting at $9.99.",
+      "category": "sandwich",
+      "startDate": "2026-09-28",
+      "endDate": null,
+      "status": "active",
+      "source": "https://news.popeyes.com/blog-posts/born-from-bold-flavor-popeyes-r-announces-their-latest-sandwich-innovation-with-the-new-honey-chicken-biscuit",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Summon the Spirits Tour (Margarita Pop-Ups)",
+      "description": "Five-city pop-up tour bringing back Chipotle's original $6 Margarita ahead of Boorito. One weekend per city in October, 3-9pm local: Denver (Oct 2-3), New York/Brooklyn (Oct 9-10), Dallas (Oct 16-17), Los Angeles (Oct 23-24), and a Halloweekend finale in New Orleans (Oct 30-31). Guests 21+ only.",
+      "category": "drink",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-31",
+      "status": "upcoming",
+      "source": "https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Boorito 2026",
+      "description": "Chipotle's official Sept 28, 2026 newsroom release confirms Boorito, the brand's annual Halloween in-restaurant offer, is returning Oct 31, 2026, as the capstone of the Summon the Spirits Tour. Exact 2026 terms (price, costume requirement) not yet separately announced as of this writing.",
+      "category": "event",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "status": "upcoming",
+      "source": "https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO",
       "image": null
     }
   ]

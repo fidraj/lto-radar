@@ -6288,7 +6288,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://news.popeyes.com/blog-posts/born-from-bold-flavor-popeyes-r-announces-their-latest-sandwich-innovation-with-the-new-honey-chicken-biscuit",
-      "image": null
+      "image": "popeyes-honey-chicken-biscuit.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",
@@ -6310,7 +6311,8 @@
       "endDate": "2026-10-31",
       "status": "upcoming",
       "source": "https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO",
-      "image": null
+      "image": "chipotle-boorito-2026.jpg",
+      "imageAuto": true
     }
   ]
 }

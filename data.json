@@ -5296,8 +5296,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.dunkindonuts.com/menu/categories/latest-drops/harvest-spiced-chai-latte/",
-      "image": null,
-      "lastConfirmed": "2026-09-15"
+      "image": "dunkin-harvest-spiced-chai-latte.jpg",
+      "lastConfirmed": "2026-09-15",
+      "imageAuto": true
     },
     {
       "chain": "KFC",
@@ -6372,7 +6373,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
-      "image": null
+      "image": "burger-king-game-day-pretzel-burger.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Burger King",
@@ -6383,7 +6385,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
-      "image": null
+      "image": "burger-king-chicken-fries-with-nacho-cheese-sauce.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Burger King",
@@ -6394,7 +6397,8 @@
       "endDate": "2026-11-03",
       "status": "upcoming",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
-      "image": null
+      "image": "burger-king-game-day-royal-perks-sweepstakes.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Jack in the Box",
@@ -6405,7 +6409,8 @@
       "endDate": "2026-10-06",
       "status": "ending-soon",
       "source": "https://thekrazycouponlady.com/tips/store-hacks/national-taco-day-free-cheap-tacos",
-      "image": null
+      "image": "jack-in-the-box-2-free-tacos-with-purchase-national-taco-day-jack-pack-rewards.jpg",
+      "imageAuto": true
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-29",
+  "researched": "2026-09-30",
   "items": [
     {
       "chain": "McDonald's",
@@ -106,7 +106,7 @@
       "status": "upcoming",
       "source": "https://news.piratesandprincesses.net/p/mcdonalds-2026-boo-buckets-leaked",
       "image": "mcdonald-s-boo-buckets-40th-anniversary-rumored.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Burger King",
@@ -130,7 +130,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/new-at-burger-king-2026-summer-menu.html",
       "image": null,
-      "lastConfirmed": "2026-09-20"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Burger King",
@@ -142,7 +142,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/new-at-burger-king-2026-summer-menu.html",
       "image": null,
-      "lastConfirmed": "2026-09-20"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Burger King",
@@ -166,7 +166,7 @@
       "status": "ending-soon",
       "source": "https://news.bk.com/blog-posts/burger-king-r-welcomes-summer-with-an-all-new-menu-of-craveable-seasonal-innovations",
       "image": "burger-king-firecracker-cookie-pie.jpg",
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Burger King",
@@ -178,7 +178,7 @@
       "status": "active",
       "source": "https://sporked.com/article/burger-king-menu-item-returns-summer-2026/",
       "image": "burger-king-crown-nuggets-back-after-15-years.jpg",
-      "lastConfirmed": "2026-09-20"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Burger King",
@@ -379,7 +379,7 @@
       "status": "active",
       "source": "https://www.irwendys.com/news/news-details/2026/Crisp-Days-Meet-Cozy-Bites-Wendys-Brings-Pub-Worthy-Fall-Flavor-with-New-and-Returning-Seasonal-Favorites/default.aspx",
       "image": "wendy-s-pretzel-bacon-pub-cheeseburger.jpg",
-      "lastConfirmed": "2026-09-28"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Wendy's",
@@ -391,7 +391,7 @@
       "status": "active",
       "source": "https://www.irwendys.com/news/news-details/2026/Crisp-Days-Meet-Cozy-Bites-Wendys-Brings-Pub-Worthy-Fall-Flavor-with-New-and-Returning-Seasonal-Favorites/default.aspx",
       "image": "wendy-s-pretzel-bacon-pub-chicken-sandwich.jpg",
-      "lastConfirmed": "2026-09-28"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Wendy's",
@@ -403,7 +403,7 @@
       "status": "active",
       "source": "https://www.irwendys.com/news/news-details/2026/Crisp-Days-Meet-Cozy-Bites-Wendys-Brings-Pub-Worthy-Fall-Flavor-with-New-and-Returning-Seasonal-Favorites/default.aspx",
       "image": "wendy-s-bacon-pub-fries.jpg",
-      "lastConfirmed": "2026-09-28"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Wendy's",
@@ -415,7 +415,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/wendys-new-apple-crumble-frosty-fusion.html",
       "image": "wendy-s-apple-crumble-frosty-fusion.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Wendy's",
@@ -770,7 +770,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
       "image": "arby-s-quarter-pound-bbq-menu-pulled-pork-chopped-brisket.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Arby's",
@@ -782,7 +782,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
       "image": "arby-s-bbq-mac-bowl.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Arby's",
@@ -813,10 +813,10 @@
       "category": "sandwich",
       "startDate": "2026-07-21",
       "endDate": "2026-09-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-launches-philly-cheesesteak-sandwich-philly-style-bonus-jack-and-philly-munchie-meal/",
       "image": "jack-in-the-box-philly-cheesesteak-sandwich.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Jack in the Box",
@@ -825,10 +825,10 @@
       "category": "burger",
       "startDate": "2026-07-21",
       "endDate": "2026-09-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-launches-philly-cheesesteak-sandwich-philly-style-bonus-jack-and-philly-munchie-meal/",
       "image": "jack-in-the-box-philly-style-bonus-jack.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Jack in the Box",
@@ -837,10 +837,10 @@
       "category": "event",
       "startDate": "2026-07-21",
       "endDate": "2026-09-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-launches-philly-cheesesteak-sandwich-philly-style-bonus-jack-and-philly-munchie-meal/",
       "image": "jack-in-the-box-philly-munchie-meal-collectible-jibbi.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Jack in the Box",
@@ -873,7 +873,7 @@
       "category": "dessert",
       "startDate": "2026-08-31",
       "endDate": "2026-09-27",
-      "status": "active",
+      "status": "ended",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": "dairy-queen-brown-sugar-cookie-dough-blizzard.jpg",
       "lastConfirmed": "2026-09-07"
@@ -1171,7 +1171,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/05/pizza-hut-new-crispy-parm-pan-pizza.html",
       "image": "pizza-hut-crispy-parm-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-29"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Domino's",
@@ -1229,7 +1229,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/mcdonalds-usa-enters-the-world-of-energy-with-red-bull-dragonberry-energizer-302847669.html",
       "image": "mcdonald-s-red-bull-dragonberry-energizer.jpg",
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Taco Bell",
@@ -1408,7 +1408,7 @@
       "status": "active",
       "source": "https://stories.inspirebrands.com/arbys-new-buffalo-ranch-chicken-sandwich/",
       "image": "arby-s-buffalo-ranch-chicken-sandwich.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Wingstop",
@@ -1477,7 +1477,7 @@
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/arbys-launches-lineup-of-1-99-sliders/",
       "image": "arby-s-1-99-sliders-lineup.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Jack in the Box",
@@ -1543,14 +1543,14 @@
     {
       "chain": "Arby's",
       "item": "Classic Shirley Temple & Shirley 'n Cream (Dirty Sodas)",
-      "description": "Two new dirty-soda drinks riding the trend seen at McDonald's, BK, KFC and Crumbl: Classic Shirley Temple (Sprite + grenadine syrup, dark cherry) and Shirley 'n Cream (topped with sweet cream cold foam and cherry). Now confirmed live on Arby's official menu, timed with the Steak Nuggets relaunch.",
+      "description": "Two dirty-soda drinks riding the trend seen at McDonald's, BK, KFC and Crumbl: Classic Shirley Temple (Sprite + grenadine syrup, dark cherry) and Shirley 'n Cream (topped with sweet cream cold foam and cherry). Still listed on Arby's official menu as of Sept 2026.",
       "category": "drink",
       "startDate": "2026-08-24",
       "endDate": null,
       "status": "active",
       "source": "https://www.arbys.com/menu/categories/limited-time/classic-shirley-temple/",
       "image": "arby-s-dirty-soda-lineup-leaked-unconfirmed.jpg",
-      "lastConfirmed": "2026-09-18"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "McDonald's",
@@ -1671,7 +1671,7 @@
       "status": "active",
       "source": "https://sporked.com/article/popeyes-just-sneakily-added-new-onion-rings/",
       "image": null,
-      "lastConfirmed": "2026-08-29"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Chipotle",
@@ -1916,7 +1916,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/arbys-introduces-new-meat-3-box-meal.html",
       "image": "arby-s-meat-3-box-meal.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Arby's",
@@ -1939,7 +1939,7 @@
       "status": "active",
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
       "image": "arby-s-steak-nuggets.jpg",
-      "lastConfirmed": "2026-09-18"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Jack in the Box",
@@ -2190,7 +2190,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/back-for-good-popeyes-makes-fan-favorite-chicken-wraps-a-permanent-menu-offering-and-debuts-new-blackened-ranch-flavor-302760814.html",
       "image": "popeyes-honey-bbq-chicken-sandwich-honey-bbq-bacon-cheese-sandwich.jpg",
-      "lastConfirmed": "2026-09-25"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Dairy Queen",
@@ -2311,7 +2311,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/burger-king-expands-its-iconic-original-chicken-sandwich-lineup-with-two-bold-new-flavors-302818370.html",
       "image": "burger-king-loaded-jalape-o-original-chicken-sandwich.jpg",
-      "lastConfirmed": "2026-09-20"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Burger King",
@@ -2323,7 +2323,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/burger-king-expands-its-iconic-original-chicken-sandwich-lineup-with-two-bold-new-flavors-302818370.html",
       "image": "burger-king-club-original-chicken-sandwich.jpg",
-      "lastConfirmed": "2026-09-20"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Domino's",
@@ -2592,7 +2592,7 @@
       "source": "https://sporked.com/article/mcdonalds-just-announced-a-hello-kitty-x-godzilla-happy-meal-collab/",
       "image": "mcdonald-s-hello-kitty-friends-x-godzilla-happy-meal.jpg",
       "imageUrl": null,
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Burger King",
@@ -2669,7 +2669,7 @@
       "image": null,
       "imageUrl": null,
       "imageSkip": true,
-      "lastConfirmed": "2026-09-18"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Arby's",
@@ -2682,7 +2682,7 @@
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
       "image": "arby-s-steak-n-mac-bowl-steak-nuggets.jpg",
       "imageUrl": null,
-      "lastConfirmed": "2026-09-18"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Chipotle",
@@ -2735,7 +2735,7 @@
       "status": "active",
       "source": "https://rollingout.com/2026/08/11/mcdonalds-unveils-bold-new-drink-menu-17/",
       "image": null,
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "McDonald's",
@@ -3144,7 +3144,7 @@
       "category": "drink",
       "startDate": "2026-02-23",
       "endDate": "2026-10-01",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.businesswire.com/news/home/20260219906887/en/Dairy-Queen-and-the-Savannah-Bananas-Announce-New-Partnership-Bringing-Flips-Fun-and-Free-Shakes-to-Fans-Nationwide",
       "image": null,
       "imageUrl": null
@@ -3248,7 +3248,7 @@
       "source": "https://rollingout.com/2026/08/11/mcdonalds-unveils-bold-new-drink-menu-17/",
       "imageUrl": null,
       "image": null,
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Burger King",
@@ -3886,7 +3886,7 @@
       "category": "sandwich",
       "startDate": "2026-08-10",
       "endDate": "2026-10-04",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.mcdonalds.com/us/en-us/deals.html",
       "image": null
     },
@@ -4009,7 +4009,7 @@
       "source": "https://www.tastingtable.com/2236477/arbys-steak-nuggets-return-potato-bowl-new-sauce/",
       "image": "arby-s-horsey-ranch-dipping-sauce.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-18"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Pizza Hut",
@@ -4325,7 +4325,7 @@
       "category": "chicken",
       "startDate": "2026-08-24",
       "endDate": "2026-09-27",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/nugget-lovers-rejoice-get-10-piece-wendys-nuggets-for-just-1-99-with-in-app-offer-302857563.html",
       "image": null
     },
@@ -4660,7 +4660,7 @@
       "category": "event",
       "startDate": "2026-08-31",
       "endDate": "2026-09-30",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.prnewswire.com/news-releases/dominos-asks-america-is-the-domino-pizzas-first-fast-food-icon-302861955.html",
       "image": "domino-s-is-the-domino-worthy-sweepstakes.jpg",
       "imageAuto": true
@@ -4672,10 +4672,10 @@
       "category": "drink",
       "startDate": "2026-09-29",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-to-add-the-aerocano-and-mini-pies-to-the-fall-lineup-sept-29/",
       "image": null,
-      "lastConfirmed": "2026-09-28"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Starbucks",
@@ -4684,9 +4684,10 @@
       "category": "dessert",
       "startDate": "2026-09-29",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-to-add-the-aerocano-and-mini-pies-to-the-fall-lineup-sept-29/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Zaxby's",
@@ -4698,7 +4699,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-collaborates-with-iconic-candy-brand-nerds-to-launch-the-nerds-strawberry-milkshake-nationwide-302863154.html",
       "image": "zaxby-s-nerds-strawberry-milkshake-nationwide.jpg",
-      "lastConfirmed": "2026-09-15",
+      "lastConfirmed": "2026-09-30",
       "imageAuto": true
     },
     {
@@ -4793,7 +4794,7 @@
       "status": "active",
       "source": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/honey_bbq_tenders.html",
       "image": null,
-      "lastConfirmed": "2026-09-05"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Chick-fil-A",
@@ -4985,11 +4986,11 @@
       "description": "Sub Club members-only offer: any Footlong sub on the menu for $6.99 via the Subway app or Subway.com (excludes Fresh Fit, Deli Faves, 5 Meat Italian, and Big Hot Pastrami). Automatically loaded into existing members' wallets; limit one per member. A later, renewed iteration of the recurring $6.99 footlong deal distinct from the already-tracked June 11-Aug 19, 2026 run.",
       "category": "sandwich",
       "startDate": "2026-09-02",
-      "endDate": "2026-09-29",
+      "endDate": "2026-10-11",
       "status": "active",
       "source": "https://www.eatdrinkdeals.com/subway-coupons-promo-codes/",
       "image": "subway-6-99-any-footlong-sub-club-september-2026.jpg",
-      "lastConfirmed": "2026-09-05",
+      "lastConfirmed": "2026-09-30",
       "imageAuto": true
     },
     {
@@ -5045,7 +5046,7 @@
       "category": "event",
       "startDate": "2026-09-01",
       "endDate": "2026-09-30",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.qsrmagazine.com/news/raising-canes-plans-six-restaurant-openings-in-september/",
       "image": null
     },
@@ -5109,7 +5110,7 @@
       "source": "https://www.prnewswire.com/news-releases/wingstop-kicks-off-football-season-with-new-lemon-pepper-trio-and-its-first-ever-wing-pass-302872818.html",
       "image": "wingstop-lemon-pepper-trio-chili-crunch-chili-glaze.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-14"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Wingstop",
@@ -5184,26 +5185,28 @@
     {
       "chain": "Dunkin'",
       "item": "Halloween Refreshers & Energy Lineup (Werewolf Punch, Midnight Potion, Dark Spell Daydream, Sour Apple Energy, Sour Apple/Midnight Apple Dunkin' Zero)",
-      "description": "New Halloween 'spooky season' Refreshers and energy drinks: Werewolf Punch and Midnight Potion Refreshers (both built on the existing Berry Clementine Refresher base) plus Dark Spell Daydream, Sour Apple Energy, and two sugar-free Dunkin' Zero apple flavors. Nationwide launch Sept 30, 2026 (leaked, unconfirmed by Dunkin's own newsroom for 2026 - reported via content creator @markie_devo, Sept 2, 2026, and corroborated by multiple food-news outlets; the news.dunkindonuts.com press release sharing this exact title/lineup is Dunkin's 2024 release, reused as a recurring campaign name, not this year's confirmation).",
+      "description": "New Halloween 'spooky season' Refreshers and energy drinks built on new Green Apple Dunkin' Zero and Purple Marshmallow Cold Foam: Werewolf Punch Refresher (blackberry, clementine, mango, pineapple + lemonade), Midnight Potion Refresher (Berry Clementine + blueberry + green tea), Dark Spell Daydream Refresher, Sour Apple Energy, and Sour Apple/Midnight Apple Dunkin' Zero. Officially confirmed via Dunkin' parent Inspire Brands' newsroom, launched nationwide Sept 30, 2026.",
       "category": "drink",
       "startDate": "2026-09-30",
       "endDate": null,
-      "status": "upcoming",
-      "source": "https://www.thetakeout.com/2249701/dunkin-new-halloween-menu-starbucks-rival-internet-reaction/",
+      "status": "active",
+      "source": "https://stories.inspirebrands.com/dunkin-new-halloween-sips/",
       "image": "dunkin-halloween-refreshers-energy-lineup-werewolf-punch-midnight-potion-dark-sp.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Dunkin'",
       "item": "Halloween Coffee & Matcha Lineup (Terror-misu Cloud Latte, Nutty Nightmare Iced Coffee, Creepy Crawler Coffee Chiller, Franki Matcha, Potion Macchiato)",
-      "description": "New Halloween-themed hot/iced coffee and matcha drinks, including the debut of a new frozen-coffee syrup in the Creepy Crawler Coffee Chiller and the new Potion Macchiato. Nationwide launch Sept 30, 2026 (leaked, unconfirmed by Dunkin's own newsroom for 2026 - reported via content creator @markie_devo, Sept 2, 2026, and corroborated by multiple food-news outlets; the news.dunkindonuts.com press release sharing this exact title/lineup is Dunkin's 2024 release, reused as a recurring campaign name, not this year's confirmation).",
+      "description": "New Halloween-themed hot/iced coffee and matcha drinks topped with Purple Marshmallow Cold Foam: Terror-misu Cloud Latte, Nutty Nightmare Iced Coffee, Creepy Crawler Coffee Chiller (debut of a new frozen-coffee syrup), Franki Matcha, Potion Macchiato. Officially confirmed via Dunkin' parent Inspire Brands' newsroom, launched nationwide Sept 30, 2026.",
       "category": "drink",
       "startDate": "2026-09-30",
       "endDate": null,
-      "status": "upcoming",
-      "source": "https://www.thetakeout.com/2249701/dunkin-new-halloween-menu-starbucks-rival-internet-reaction/",
+      "status": "active",
+      "source": "https://stories.inspirebrands.com/dunkin-new-halloween-sips/",
       "image": "dunkin-halloween-coffee-matcha-lineup-terror-misu-cloud-latte-nutty-nightmare-ic.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Dunkin'",
@@ -5224,7 +5227,7 @@
       "category": "event",
       "startDate": "2026-09-30",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.thetakeout.com/2249701/dunkin-new-halloween-menu-starbucks-rival-internet-reaction/",
       "image": "dunkin-dunkings-halloween-costumes-merch.jpg",
       "imageAuto": true
@@ -5572,7 +5575,7 @@
       "category": "event",
       "startDate": "2026-09-29",
       "endDate": "2026-09-29",
-      "status": "upcoming",
+      "status": "ended",
       "source": "https://www.tacobell.com/newsroom/olivia-rodrigo-baja-blast",
       "image": null
     },
@@ -5706,7 +5709,7 @@
       "category": "donut",
       "startDate": "2026-09-17",
       "endDate": "2026-09-20",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.businesswire.com/news/home/20260916305023/en/KRISPY-KREME-Returns-Original-Glazed-Blueberry-Flavored-Doughnut-for-a-Final-Summer-Sendoff",
       "image": null
     },
@@ -5825,7 +5828,8 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/kfc-tests-new-handheld-pot-pie.html",
       "image": "kfc-handheld-pot-pie-regional-test-unconfirmed.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Sonic",
@@ -5834,7 +5838,7 @@
       "category": "food",
       "startDate": "2026-09-22",
       "endDate": "2026-09-29",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.ktalnews.com/news/local-news/sonic-mozzarella-sticks-deal/",
       "image": null
     },
@@ -5867,7 +5871,7 @@
       "category": "donut",
       "startDate": "2026-09-22",
       "endDate": "2026-10-04",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://investors.krispykreme.com/news-releases/news-release-details/krispy-kremer-celebrates-first-day-fall-all-new-churro-doughnut",
       "image": null
     },
@@ -5904,7 +5908,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/arbys-introduces-new-meat-3-box-meal.html",
       "image": null,
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Taco Bell",
@@ -5983,7 +5987,7 @@
       "category": "event",
       "startDate": "2026-09-28",
       "endDate": "2026-10-04",
-      "status": "upcoming",
+      "status": "ending-soon",
       "source": "https://cw33.com/news/get-free-diablo-ranch-steak-nacho-fries-on-grubhub/",
       "image": null
     },
@@ -6005,7 +6009,7 @@
       "category": "donut",
       "startDate": "2026-09-26",
       "endDate": "2026-09-29",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.businesswire.com/news/home/20260923137810/en/KRISPY-KREME-Brews-Up-New-Original-Glazed-Coffee-Flavored-Doughnut-Just-in-Time-for-National-Coffee-Day",
       "image": null
     },
@@ -6016,7 +6020,7 @@
       "category": "donut",
       "startDate": "2026-09-26",
       "endDate": "2026-09-29",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.businesswire.com/news/home/20260923137810/en/KRISPY-KREME-Brews-Up-New-Original-Glazed-Coffee-Flavored-Doughnut-Just-in-Time-for-National-Coffee-Day",
       "image": null
     },
@@ -6027,7 +6031,7 @@
       "category": "event",
       "startDate": "2026-09-29",
       "endDate": "2026-09-29",
-      "status": "upcoming",
+      "status": "ended",
       "source": "https://www.businesswire.com/news/home/20260923137810/en/KRISPY-KREME-Brews-Up-New-Original-Glazed-Coffee-Flavored-Doughnut-Just-in-Time-for-National-Coffee-Day",
       "image": null
     },
@@ -6085,9 +6089,10 @@
       "category": "event",
       "startDate": "2026-09-28",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.foxnews.com/food-drink/wendys-revives-nostalgic-yellow-packaging-decades-away",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-09-30"
     },
     {
       "chain": "Taco Bell",
@@ -6152,9 +6157,9 @@
       "item": "Melts Monday",
       "description": "Any of Pizza Hut's 4 Melts recipes (Buffalo Chicken, Chicken Bacon Parmesan, Meat Lover's, Pepperoni Lover's) for $4.99 each, every Monday, at participating locations while supplies last, limit 4.",
       "category": "food",
-      "startDate": "2026-09-08",
-      "endDate": null,
-      "status": "active",
+      "startDate": "2025-09-08",
+      "endDate": "2026-01-05",
+      "status": "ended",
       "source": "https://www.pizzahut.com/c/content/melts-monday",
       "image": null
     },
@@ -6313,6 +6318,94 @@
       "source": "https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO",
       "image": "chipotle-boorito-2026.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Class of 2026 Graduation Gift Card BOGO",
+      "description": "Starting May 14, 2026, the first 10,000 guests who purchase $40+ in Chipotle graduation-themed digital e-gift cards (online gift card store only, not in-restaurant or third-party) received a code for a BOGO free entree, valid through June 30, 2026.",
+      "category": "event",
+      "startDate": "2026-05-14",
+      "endDate": "2026-06-30",
+      "status": "ended",
+      "source": "https://newsroom.chipotle.com/2026-05-11-CHIPOTLE-REVEALS-AMERICAS-MOST-CHIPOTLE-OBSESSED-COLLEGE-TOWNS-AND-CELEBRATES-THE-CLASS-OF-2026-WITH-GIFT-CARD-OFFER",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "Million Meatball Monday (National Meatball Day)",
+      "description": "On National Meatball Day (March 9, 2026), any 6-inch Meatball Sub of the Day/Meal of the Day could be upgraded to a footlong for free, in-store only, one per customer, not combinable with other offers; part of a push to serve 1 million meatballs in a day.",
+      "category": "sandwich",
+      "startDate": "2026-03-09",
+      "endDate": "2026-03-09",
+      "status": "ended",
+      "source": "https://newsroom.subway.com/2026-03-05-Subway-R-Seeks-to-Serve-1-Million-Meatballs-on-National-Meatball-Day-with-Free-Footlong-Upgrades",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "2/6/26 Two 6-Inch Subs for $6",
+      "description": "One-day-only deal: two 6-inch subs for $6 at participating US restaurants on Feb 6, 2026 (\"the only date that repeats\"), ask in-store or use code 2626PROMO on app/site; excludes Fresh Fit, Festive subs, 5 Meat Italian, Big Hot Pastrami. Sub Club members who missed it could instead use code 699FL for any footlong at $6.99 through Feb 24, 2026.",
+      "category": "sandwich",
+      "startDate": "2026-02-06",
+      "endDate": "2026-02-06",
+      "status": "ended",
+      "source": "https://newsroom.subway.com/2026-02-03-On-2-6-26,-Get-2-6-Inch-Subs-for-6-as-Subway-R-Celebrates-the-Only-Date-That-Repeats",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Texas Whopper Lineup (Jr., Original, Double)",
+      "description": "Three-burger platform bringing a previously Texas-regional favorite nationwide for a limited time: flame-grilled beef topped with bacon, jalapeños, pickles, lettuce, tomato, onions, mayo and mustard on a sesame bun, in Jr., standard, and Double (two quarter-pound patties) sizes. Burger King says it will only run nationwide for a limited time before reverting to a regional item.",
+      "category": "burger",
+      "startDate": "2026-09-01",
+      "endDate": null,
+      "status": "active",
+      "source": "https://sporked.com/article/burger-king-texas-whopper-lineup/",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Game Day Pretzel Burger",
+      "description": "New stadium-inspired LTO: 100% flame-grilled quarter-pound beef patty topped with American cheese, crispy bacon, crispy onions and Nacho Cheese Sauce on a soft SUPERPRETZEL Soft Pretzel Bun. Part of Burger King's new Game Day Menu launching nationwide.",
+      "category": "burger",
+      "startDate": "2026-10-06",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Chicken Fries with Nacho Cheese Sauce",
+      "description": "Burger King's fan-favorite Chicken Fries served with a new side of Nacho Cheese Sauce for dipping; second item in the new Game Day Menu launching nationwide alongside the Game Day Pretzel Burger.",
+      "category": "food",
+      "startDate": "2026-10-06",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Game Day Royal Perks Sweepstakes",
+      "description": "Four-week digital sweepstakes tied to the Game Day Menu launch: Royal Perks members can enter for a chance to win weekly cash prizes up to $5,000 plus BK-branded prizes. Details/entry at bk.com/Gameday.",
+      "category": "event",
+      "startDate": "2026-10-06",
+      "endDate": "2026-11-03",
+      "status": "upcoming",
+      "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "2 Free Tacos with Purchase (National Taco Day, Jack Pack Rewards)",
+      "description": "Jack Pack Rewards app members get two classic tacos free with any purchase of $1+ on National Taco Day, redeemable via the Jack App, Oct. 6, 2026.",
+      "category": "event",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-06",
+      "status": "ending-soon",
+      "source": "https://thekrazycouponlady.com/tips/store-hacks/national-taco-day-free-cheap-tacos",
+      "image": null
     }
   ]
 }

@@ -6270,7 +6270,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/09/taco-bell-tests-daredevil-double-dipping-burritos.html",
-      "image": null
+      "image": "taco-bell-daredevil-double-dipping-burritos.jpg",
+      "imageAuto": true
     },
     {
       "chain": "KFC",
@@ -6441,7 +6442,8 @@
       "endDate": "2026-10-31",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/mountain-dew-x-trolli-mango-pineapple-punch-delivers-bold-tropical-flavors-in-new-limited-edition-soda-302857552.html",
-      "image": null
+      "image": "pizza-hut-mountain-dew-x-trolli-mango-pineapple-punch.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Raising Cane's",
@@ -6452,7 +6454,8 @@
       "endDate": "2026-10-08",
       "status": "active",
       "source": "https://www.focusdailynews.com/raising-canes-celebrates-allstate-red-river-rivalry-with-ticket-giveaway-for-texas-vs-oklahoma-showdown/",
-      "image": null
+      "image": "raising-cane-s-red-river-rivalry-ticket-giveaway-2nd-annual.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Raising Cane's",

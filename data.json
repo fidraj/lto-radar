@@ -6402,12 +6402,12 @@
     },
     {
       "chain": "Jack in the Box",
-      "item": "2 Free Tacos with Purchase (National Taco Day, Jack Pack Rewards)",
-      "description": "Jack Pack Rewards app members get two classic tacos free with any purchase of $1+ on National Taco Day, redeemable via the Jack App, Oct. 6, 2026.",
+      "item": "2 Free Tacos with Purchase (National Taco Day, expected/unconfirmed)",
+      "description": "Deal-aggregator sites (Krazy Coupon Lady, Cheapism, etc.) expect Jack Pack Rewards app members to again get two classic tacos free with any purchase of $1+ around National Taco Day, based on the chain's pattern in past years - no official 2026 Jack in the Box press release found yet. True National Taco Day is Oct 4; aggregator content recycled from prior years lists Oct 6 (a Tuesday) instead, so treat the exact date as a best estimate.",
       "category": "event",
-      "startDate": "2026-10-06",
+      "startDate": "2026-10-04",
       "endDate": "2026-10-06",
-      "status": "ending-soon",
+      "status": "upcoming",
       "source": "https://thekrazycouponlady.com/tips/store-hacks/national-taco-day-free-cheap-tacos",
       "image": "jack-in-the-box-2-free-tacos-with-purchase-national-taco-day-jack-pack-rewards.jpg",
       "imageAuto": true

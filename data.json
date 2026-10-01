@@ -2693,8 +2693,9 @@
       "endDate": "2026-10-21",
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/chipotle-to-launch-build-your-own-chipotle-family-meals-for-first-time/",
-      "image": null,
-      "imageUrl": null
+      "image": "chipotle-build-your-own-chipotle-family-meal-trybyoc-10-off.jpg",
+      "imageUrl": null,
+      "imageAuto": true
     },
     {
       "chain": "McDonald's",
@@ -4522,7 +4523,8 @@
       "endDate": "2026-12-31",
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/wendys-frosty-key-tags-return-for-limited-time/",
-      "image": null
+      "image": "wendy-s-frosty-key-tags-2026.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Wendy's",
@@ -5014,8 +5016,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/wendys-halloween-lineup-returns-with-boo-books-and-collectible-toys/",
-      "image": null,
-      "lastConfirmed": "2026-09-28"
+      "image": "wendy-s-frosty-frights-halloween-toys-boo-books.jpg",
+      "lastConfirmed": "2026-09-28",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",

@@ -1,5 +1,5 @@
 {
-  "researched": "2026-09-30",
+  "researched": "2026-10-01",
   "items": [
     {
       "chain": "McDonald's",
@@ -59,7 +59,7 @@
       "status": "active",
       "source": "https://pielocator.com/",
       "image": "mcdonald-s-pumpkin-creme-pie.jpg",
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "McDonald's",
@@ -574,7 +574,7 @@
       "status": "active",
       "source": "https://www.barchart.com/story/news/2265578/supergirl-summer-takes-off-at-kfc-with-new-supergirl-ultimate-meal-character-inspired-sauce-showdowns-and-must-have-limited-edition-collectibles",
       "image": "kfc-supergirl-ultimate-meal.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "KFC",
@@ -586,7 +586,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": "kfc-popcorn-chicken-returning.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "KFC",
@@ -758,7 +758,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/sonic-new-7-dollar-big-meal-deal.html",
       "image": "sonic-7-big-deal-meal.jpg",
-      "lastConfirmed": "2026-09-29"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "Arby's",
@@ -766,11 +766,10 @@
       "description": "Returning summer BBQ lineup: quarter pound of 4-hour hickory-smoked pulled pork or 13-hour smoked chopped brisket with pickles on a toasted brioche bun, sweet or spicy BBQ sauce. Limited time nationwide.",
       "category": "sandwich",
       "startDate": "2026-04-20",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-08",
+      "status": "ended",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
-      "image": "arby-s-quarter-pound-bbq-menu-pulled-pork-chopped-brisket.jpg",
-      "lastConfirmed": "2026-09-30"
+      "image": "arby-s-quarter-pound-bbq-menu-pulled-pork-chopped-brisket.jpg"
     },
     {
       "chain": "Arby's",
@@ -778,11 +777,10 @@
       "description": "New: quarter pound of smoked pulled pork or chopped brisket layered over creamy white cheddar mac and cheese, finished with crispy onions and choice of BBQ sauce; ~$8.99-$10.99. Limited time.",
       "category": "food",
       "startDate": "2026-04-20",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-08",
+      "status": "ended",
       "source": "https://stories.inspirebrands.com/arbys-bbq-is-back-with-new-mac-bowl/",
-      "image": "arby-s-bbq-mac-bowl.jpg",
-      "lastConfirmed": "2026-09-30"
+      "image": "arby-s-bbq-mac-bowl.jpg"
     },
     {
       "chain": "Arby's",
@@ -1601,7 +1599,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": null,
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "KFC",
@@ -1683,7 +1681,7 @@
       "status": "active",
       "source": "https://parade.com/news/chipotle-just-started-testing-crispy-chicken-fans-want-it-nationwide",
       "image": null,
-      "lastConfirmed": "2026-09-25"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "McDonald's",
@@ -1726,11 +1724,10 @@
       "description": "Fajita-marinated steak or chicken chalupas ($5.99) and Chicken Fajita Nacho Fries ($5.49), nationwide.",
       "category": "taco",
       "startDate": "2026-06-18",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-07-22",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/taco-bell-takes-fajita-obsession-beyond-the-sizzle-with-new-fajita-street-chalupas-and-chicken-fajita-nacho-fries-302800749.html",
-      "image": "taco-bell-fajita-street-chalupas-chicken-fajita-nacho-fries.jpg",
-      "lastConfirmed": "2026-09-23"
+      "image": "taco-bell-fajita-street-chalupas-chicken-fajita-nacho-fries.jpg"
     },
     {
       "chain": "Taco Bell",
@@ -1766,7 +1763,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/taco-bell-tests-new-cheesy-enchilada-dipping-taco.html",
       "image": "taco-bell-cheesy-enchilada-dipping-taco-regional-test-unconfirmed.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "Taco Bell",
@@ -2270,7 +2267,7 @@
       "status": "active",
       "source": "https://about.starbucks.com/press/2026/exploring-the-future-of-refreshment-with-sparkling-refresher-and-spritz/",
       "image": null,
-      "lastConfirmed": "2026-09-25"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "Sonic",
@@ -2377,11 +2374,10 @@
       "description": "Crunchy taco shell dusted with Tajín, filled with seasoned beef, Spicy Ranch sauce, lettuce, shredded cheese and mango salsa, plus an extra Tajín packet. Part of a new nationwide collab with Tajín and Peso Pluma, launched Aug 13, 2026.",
       "category": "taco",
       "startDate": "2026-08-13",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-09",
+      "status": "ended",
       "source": "https://www.forbes.com/sites/amberlovebond/2026/08/12/taco-bells-new-menu-items-are-a-tajn-lovers-dream/",
-      "image": "taco-bell-taj-n-taco.jpg",
-      "lastConfirmed": "2026-09-29"
+      "image": "taco-bell-taj-n-taco.jpg"
     },
     {
       "chain": "Taco Bell",
@@ -2389,11 +2385,10 @@
       "description": "Gordita Crunch reworked with Tajín Clásico seasoning and extra cheese on a flatbread shell; part of the Tajín x Peso Pluma collab launched nationwide Aug 13, 2026.",
       "category": "taco",
       "startDate": "2026-08-13",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-09",
+      "status": "ended",
       "source": "https://www.forbes.com/sites/amberlovebond/2026/08/12/taco-bells-new-menu-items-are-a-tajn-lovers-dream/",
-      "image": "taco-bell-taj-n-cheesy-gordita-crunch.jpg",
-      "lastConfirmed": "2026-09-29"
+      "image": "taco-bell-taj-n-cheesy-gordita-crunch.jpg"
     },
     {
       "chain": "Taco Bell",
@@ -2401,11 +2396,10 @@
       "description": "Frozen pineapple-strawberry Freeze finished with Tajín seasoning for a sweet-tangy-spicy kick; part of the Tajín x Peso Pluma collab launched nationwide Aug 13, 2026.",
       "category": "drink",
       "startDate": "2026-08-13",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-09",
+      "status": "ended",
       "source": "https://www.forbes.com/sites/amberlovebond/2026/08/12/taco-bells-new-menu-items-are-a-tajn-lovers-dream/",
-      "image": "taco-bell-taj-n-pineapple-strawberry-freeze.jpg",
-      "lastConfirmed": "2026-09-29"
+      "image": "taco-bell-taj-n-pineapple-strawberry-freeze.jpg"
     },
     {
       "chain": "Taco Bell",
@@ -2439,7 +2433,7 @@
       "status": "active",
       "source": "https://www.wendys.com/blog/New-Jalapeno-Menu-Items",
       "image": "wendy-s-jalape-o-ranch-cheeseburger.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "Wendy's",
@@ -2451,7 +2445,7 @@
       "status": "active",
       "source": "https://www.wendys.com/blog/New-Jalapeno-Menu-Items",
       "image": "wendy-s-jalape-o-breakfast-biscuit.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "Wendy's",
@@ -2463,7 +2457,7 @@
       "status": "active",
       "source": "https://www.wendys.com/blog/New-Jalapeno-Menu-Items",
       "image": "wendy-s-jalape-o-bacon-breakfast-potatoes.jpg",
-      "lastConfirmed": "2026-09-23"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "Wendy's",
@@ -2957,7 +2951,7 @@
       "image": "chipotle-cilantro-lime-sauce.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "Chipotle",
@@ -3182,7 +3176,7 @@
       "category": "food",
       "startDate": "2026-08-15",
       "endDate": "2026-09-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.pizzahut.com/c/content/back-to-school",
       "lastConfirmed": "2026-09-26",
       "image": null,
@@ -3796,7 +3790,7 @@
       "source": "https://www.nrn.com/beverage-trends/sonic-s-fall-drink-lineup-is-cold-and-pumpkin-free",
       "image": "sonic-hotumn-fall-drink-lineup.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-07"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "Taco Bell",
@@ -3938,7 +3932,7 @@
       "status": "active",
       "source": "https://x.com/snackolator/status/2083331388304961847",
       "image": null,
-      "lastConfirmed": "2026-09-20"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "Jack in the Box",
@@ -4662,7 +4656,7 @@
       "category": "event",
       "startDate": "2026-08-31",
       "endDate": "2026-09-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/dominos-asks-america-is-the-domino-pizzas-first-fast-food-icon-302861955.html",
       "image": "domino-s-is-the-domino-worthy-sweepstakes.jpg",
       "imageAuto": true
@@ -4914,7 +4908,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260831819447/en/Dairy-Queen-Kicks-Off-Football-Season-with-$6.99-DQ-Chicken-Strip-Basket-Deal-and-NEW-MVP-Dip-Lineup",
       "image": null,
-      "lastConfirmed": "2026-09-06"
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "Dairy Queen",
@@ -5049,7 +5043,7 @@
       "category": "event",
       "startDate": "2026-09-01",
       "endDate": "2026-09-30",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.qsrmagazine.com/news/raising-canes-plans-six-restaurant-openings-in-september/",
       "image": null
     },
@@ -5773,7 +5767,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/food/drinks/pink-passionfruit-refresca-freeze",
       "image": "taco-bell-pink-passionfruit-refresca-freeze.jpg",
-      "lastConfirmed": "2026-09-29",
+      "lastConfirmed": "2026-10-01",
       "imageAuto": true
     },
     {
@@ -6231,7 +6225,8 @@
       "endDate": "2026-11-01",
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-01"
     },
     {
       "chain": "Dairy Queen",
@@ -6414,6 +6409,61 @@
       "source": "https://thekrazycouponlady.com/tips/store-hacks/national-taco-day-free-cheap-tacos",
       "image": "jack-in-the-box-2-free-tacos-with-purchase-national-taco-day-jack-pack-rewards.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Pokémon TCG 30th Anniversary Happy Meal (leaked, unconfirmed)",
+      "description": "Reportedly returning Pokémon Trading Card Game cards to US Happy Meals for the franchise's 30th anniversary: a 15-card set distributed in 4-card booster packs (1 holo + 3 non-holo, including 6 special confetti holofoils), with a toy/activity-book alternative for kids who don't want cards. Reported by PokéBeach and corroborated by several gaming-news outlets; McDonald's and The Pokémon Company have not issued their own announcement yet.",
+      "category": "event",
+      "startDate": "2026-11-05",
+      "endDate": "2026-12-09",
+      "status": "upcoming",
+      "source": "https://www.pokebeach.com/2026/09/mcdonalds-pokemon-tcg-promotion-to-launch-in-november-for-30th-anniversary",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "$1 Coffee (National Coffee Day, Royal Perks)",
+      "description": "Royal Perks members could get a hot coffee, any size, for $1 on National Coffee Day, Sept. 29, 2026.",
+      "category": "drink",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "status": "ended",
+      "source": "https://www.wfsb.com/2026/09/29/how-you-can-take-advantage-national-coffee-day/",
+      "image": null
+    },
+    {
+      "chain": "Pizza Hut",
+      "item": "Mountain Dew x Trolli Mango Pineapple Punch",
+      "description": "Second annual Mountain Dew x Trolli collab soda (mango, pineapple, hint of strawberry), sold at retail in Regular and Zero Sugar, with Regular 20oz bottles also available at participating Pizza Hut locations nationwide.",
+      "category": "drink",
+      "startDate": "2026-08-24",
+      "endDate": "2026-10-31",
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/mountain-dew-x-trolli-mango-pineapple-punch-delivers-bold-tropical-flavors-in-new-limited-edition-soda-302857552.html",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "Red River Rivalry Ticket Giveaway (2nd annual)",
+      "description": "In-restaurant, no-purchase-necessary QR-code giveaway at participating Dallas-Fort Worth, Austin, Oklahoma City, Tulsa and Wichita Falls locations for a chance to win 4 game tickets plus 4 VIP pre-game hospitality passes to the Oct. 10, 2026 Allstate Red River Rivalry (Texas vs. Oklahoma) at the Cotton Bowl in Dallas. Second year of this promotion.",
+      "category": "event",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-08",
+      "status": "active",
+      "source": "https://www.focusdailynews.com/raising-canes-celebrates-allstate-red-river-rivalry-with-ticket-giveaway-for-texas-vs-oklahoma-showdown/",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "October 2026 Restaurant Expansion Wave",
+      "description": "Continuing the 30th-anniversary growth push with new restaurant openings through October, including an East Coast cluster (Milford, CT; Dover, DE; Athens, OH; Miramar, FL; Washington, D.C.; Forest Hills, NY; Manchester, CT) alongside separately reported openings in Rib Mountain, WI, Macon, GA and Idaho Falls, ID.",
+      "category": "event",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-28",
+      "status": "upcoming",
+      "source": "https://www.yahoo.com/news/articles/raising-cane-open-locations-queens-120619813.html",
+      "image": null
     }
   ]
 }

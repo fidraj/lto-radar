@@ -110,8 +110,8 @@
     },
     {
       "chain": "Burger King",
-      "item": "Loaded Jalape\u00f1o Whopper",
-      "description": "'Whopper By You' guest-created LTO: flame-grilled beef with crispy-fried jalape\u00f1os, pickled jalape\u00f1os, creamy jalape\u00f1o sauce, lettuce, tomato and American cheese on a sesame bun (~$6.99); headline item of the summer menu.",
+      "item": "Loaded Jalapeño Whopper",
+      "description": "'Whopper By You' guest-created LTO: flame-grilled beef with crispy-fried jalapeños, pickled jalapeños, creamy jalapeño sauce, lettuce, tomato and American cheese on a sesame bun (~$6.99); headline item of the summer menu.",
       "category": "burger",
       "startDate": "2026-06-02",
       "endDate": "while supplies last",
@@ -455,7 +455,7 @@
     {
       "chain": "Taco Bell",
       "item": "Cantina Chicken Mexican Pizza",
-      "description": "Slow-roasted chicken and black beans layered between crispy tortillas with green chile sauce, three-cheese blend, cabbage, and pico de gallo, served with new Jalape\u00f1o Citrus Salsa; revealed at Live M\u00e1s Live. Launched nationwide May 21, 2026; no confirmed end date found yet. Now listed as discontinued (exact end date not published; best estimate).",
+      "description": "Slow-roasted chicken and black beans layered between crispy tortillas with green chile sauce, three-cheese blend, cabbage, and pico de gallo, served with new Jalapeño Citrus Salsa; revealed at Live Más Live. Launched nationwide May 21, 2026; no confirmed end date found yet. Now listed as discontinued (exact end date not published; best estimate).",
       "category": "taco",
       "startDate": "2026-05-21",
       "endDate": "2026-07-31",
@@ -466,7 +466,7 @@
     },
     {
       "chain": "Taco Bell",
-      "item": "Cr\u00e8me Br\u00fbl\u00e9e Crunchwrap Slider",
+      "item": "Crème Brûlée Crunchwrap Slider",
       "description": "Dessert Crunchwrap with creamy vanilla filling, crispy cinnamon-sugar tostada, and a caramelized, crackable cinnamon-sugar crust; part of Taco Bell's 20+ new items announced for 2026. Currently a $1.99 regional test in Grand Rapids, MI; nationwide rollout not yet confirmed.",
       "category": "dessert",
       "startDate": "2026-08-05",
@@ -677,7 +677,7 @@
     {
       "chain": "Chick-fil-A",
       "item": "Waffle Potato Chips (Original & Chick-fil-A Sauce)",
-      "description": "Two new ridged potato chip varieties shaped like the signature waffle fries \u2014 sea salt Original and Chick-fil-A Sauce flavored \u2014 debuting nationwide with the fall 2026 menu on Aug. 18 as a permanent side item, on-the-go snack, and catering option (not limited-time). Retail 7-oz bags also rolling out to Publix, Walmart, and Kroger in Georgia, Florida, North and South Carolina, Alabama, Tennessee, Virginia, West Virginia, Kentucky, Ohio, Arkansas, and Missouri starting early October. Now a permanent menu item.",
+      "description": "Two new ridged potato chip varieties shaped like the signature waffle fries — sea salt Original and Chick-fil-A Sauce flavored — debuting nationwide with the fall 2026 menu on Aug. 18 as a permanent side item, on-the-go snack, and catering option (not limited-time). Retail 7-oz bags also rolling out to Publix, Walmart, and Kroger in Georgia, Florida, North and South Carolina, Alabama, Tennessee, Virginia, West Virginia, Kentucky, Ohio, Arkansas, and Missouri starting early October. Now a permanent menu item.",
       "category": "food",
       "startDate": "2025-08-18",
       "endDate": "2025-08-18",
@@ -855,7 +855,7 @@
     {
       "chain": "Dairy Queen",
       "item": "Caramel Apple Cheesecake Blizzard",
-      "description": "August Blizzard of the Month: cheesecake pieces and caramel apple topping blended with DQ's vanilla soft serve \u2014 an early kickoff to fall flavor season.",
+      "description": "August Blizzard of the Month: cheesecake pieces and caramel apple topping blended with DQ's vanilla soft serve — an early kickoff to fall flavor season.",
       "category": "dessert",
       "startDate": "2026-08-03",
       "endDate": "2026-08-30",
@@ -902,7 +902,7 @@
     },
     {
       "chain": "Dairy Queen",
-      "item": "Double Flip Blizzard Deal (BOGO 99\u00a2)",
+      "item": "Double Flip Blizzard Deal (BOGO 99¢)",
       "description": "DQ Rewards members buy one Blizzard and get a second for 99 cents via the DQ App, once per day at participating US locations, Aug 3-30.",
       "category": "event",
       "startDate": "2026-08-03",
@@ -1115,7 +1115,7 @@
     {
       "chain": "Chipotle",
       "item": "Chipotle x Riot Games 2XKO Collab",
-      "description": "Chipotle's collaboration with Riot Games' fighting game 2XKO has two components: (1) the 'Real Ones Event' branded in-game lobby with limited-time missions, which ran in two phases (June 16-28 and July 21-Aug 6) and has concluded; and (2) a separate TAGTEAM promo-code offer still running \u2014 buy a regular-priced entree via the Chipotle app/site to earn a code for the in-game 'Chipotle Fresh Fit Bundle' (backpack + bucket hat, capped at 40,000 codes). The code-earning window runs through 8/28/26 or while supplies last, with in-game redemption allowed through 9/15/26.",
+      "description": "Chipotle's collaboration with Riot Games' fighting game 2XKO has two components: (1) the 'Real Ones Event' branded in-game lobby with limited-time missions, which ran in two phases (June 16-28 and July 21-Aug 6) and has concluded; and (2) a separate TAGTEAM promo-code offer still running — buy a regular-priced entree via the Chipotle app/site to earn a code for the in-game 'Chipotle Fresh Fit Bundle' (backpack + bucket hat, capped at 40,000 codes). The code-earning window runs through 8/28/26 or while supplies last, with in-game redemption allowed through 9/15/26.",
       "category": "event",
       "startDate": "2026-06-16",
       "endDate": "2026-08-28",
@@ -1126,7 +1126,7 @@
     {
       "chain": "Pizza Hut",
       "item": "Throwback Value Menu",
-      "description": "Nostalgia-themed limited-time menu: $3 Personal Pan Pizza, $10 Medium Stuffed Crust, $4 Breadsticks, $4 Cinnamon Sticks, plus new Triple Cheese Mac and S'mores Sticks \u2014 with a matching throwback merch drop.",
+      "description": "Nostalgia-themed limited-time menu: $3 Personal Pan Pizza, $10 Medium Stuffed Crust, $4 Breadsticks, $4 Cinnamon Sticks, plus new Triple Cheese Mac and S'mores Sticks — with a matching throwback merch drop.",
       "category": "food",
       "startDate": "2026-07-14",
       "endDate": "2026-08-31",
@@ -1355,7 +1355,7 @@
     {
       "chain": "Taco Bell",
       "item": "Cheesy G Sliders",
-      "description": "Flatbread-wrapped fried-shell sliders with steak or chicken and a three-cheese blend; announced as part of Taco Bell's 2026 Live M\u00e1s Live menu roadmap. No confirmed launch date yet.",
+      "description": "Flatbread-wrapped fried-shell sliders with steak or chicken and a three-cheese blend; announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed launch date yet.",
       "category": "food",
       "startDate": null,
       "endDate": null,
@@ -1366,7 +1366,7 @@
     {
       "chain": "Taco Bell",
       "item": "Mountain Dew Baja Midnight Pie",
-      "description": "Follow-up to the Baja Blast Pie, announced as part of Taco Bell's 2026 Live M\u00e1s Live menu roadmap. Confirmed nationwide release Nov 6, 2026, timed for Thanksgiving week, matching the original Baja Blast Pie's Nov 2025 launch pattern.",
+      "description": "Follow-up to the Baja Blast Pie, announced as part of Taco Bell's 2026 Live Más Live menu roadmap. Confirmed nationwide release Nov 6, 2026, timed for Thanksgiving week, matching the original Baja Blast Pie's Nov 2025 launch pattern.",
       "category": "dessert",
       "startDate": "2026-11-06",
       "endDate": null,
@@ -1377,7 +1377,7 @@
     {
       "chain": "Taco Bell",
       "item": "Milk Bar Birthday Cake Empanada",
-      "description": "Dessert collaboration with Milk Bar, announced as part of Taco Bell's 2026 Live M\u00e1s Live menu roadmap. No confirmed launch date yet.",
+      "description": "Dessert collaboration with Milk Bar, announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed launch date yet.",
       "category": "dessert",
       "startDate": null,
       "endDate": null,
@@ -1387,7 +1387,7 @@
     },
     {
       "chain": "Sonic",
-      "item": "99\u00a2 Corn Dog Thursdays",
+      "item": "99¢ Corn Dog Thursdays",
       "description": "Weekly value deal: classic corn dogs for 99 cents every Thursday throughout August 2026.",
       "category": "event",
       "startDate": "2026-08-06",
@@ -1422,7 +1422,7 @@
     {
       "chain": "Zaxby's",
       "item": "Alabama White BBQ Sauce (limited drop)",
-      "description": "First-ever limited-edition sauce: tangy, mayo-based Alabama-style white BBQ, joining Zaxby's signature sauce lineup as a side portion only (no bottles sold); promoted with Alabama native Rob Rausch. Small-batch release available in-restaurant, in the app, and on zaxbys.com \u2014 will not be restocked once sold out.",
+      "description": "First-ever limited-edition sauce: tangy, mayo-based Alabama-style white BBQ, joining Zaxby's signature sauce lineup as a side portion only (no bottles sold); promoted with Alabama native Rob Rausch. Small-batch release available in-restaurant, in the app, and on zaxbys.com — will not be restocked once sold out.",
       "category": "food",
       "startDate": "2026-08-04",
       "endDate": "while supplies last",
@@ -1581,7 +1581,7 @@
     {
       "chain": "Taco Bell",
       "item": "Firecracker Burrito",
-      "description": "Red flour tortilla burrito with seasoned rice, nacho cheese sauce, seasoned beef, Fiesta tortilla strips, creamy chipotle sauce, reduced-fat sour cream, and a sprinkling of cayenne poppin' crystals for a popping-candy effect; announced as part of Taco Bell's 2026 Live M\u00e1s Live menu roadmap. No confirmed nationwide launch date yet.",
+      "description": "Red flour tortilla burrito with seasoned rice, nacho cheese sauce, seasoned beef, Fiesta tortilla strips, creamy chipotle sauce, reduced-fat sour cream, and a sprinkling of cayenne poppin' crystals for a popping-candy effect; announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed nationwide launch date yet.",
       "category": "food",
       "startDate": null,
       "endDate": null,
@@ -1604,7 +1604,7 @@
     {
       "chain": "KFC",
       "item": "$10 Bucket of the Day (weekday lineup)",
-      "description": "$10 Tuesday expanded into a weekday value lineup: 24 nuggets Mon/Fri, 8pc drums & thighs Tue, 10 wings Wed, 8 tenders Thu; plus two new house sauces, Honey Chili Crisp and Jalape\u00f1o Ranch. Weekdays 10:30am-9pm at participating locations, May 5 - Sept 15, 2026.",
+      "description": "$10 Tuesday expanded into a weekday value lineup: 24 nuggets Mon/Fri, 8pc drums & thighs Tue, 10 wings Wed, 8 tenders Thu; plus two new house sauces, Honey Chili Crisp and Jalapeño Ranch. Weekdays 10:30am-9pm at participating locations, May 5 - Sept 15, 2026.",
       "category": "event",
       "startDate": "2026-05-05",
       "endDate": "2026-09-15",
@@ -1802,7 +1802,7 @@
     },
     {
       "chain": "KFC",
-      "item": "Honey Chili Crisp Sauce & Jalape\u00f1o Ranch Sauce",
+      "item": "Honey Chili Crisp Sauce & Jalapeño Ranch Sauce",
       "description": "Two new house-made dipping sauces launched alongside the Bucket of the Day weekday lineup.",
       "category": "food",
       "startDate": "2026-05-05",
@@ -1848,7 +1848,7 @@
     {
       "chain": "Dunkin'",
       "item": "King Kylie Collection (Kylie Jenner collab)",
-      "description": "Three pink drinks \u2014 Candy Pink Lemonade Refresher, Vanilla Pink Cloud Latte, and Pink Lemon Drop Suncloud Lemonade.",
+      "description": "Three pink drinks — Candy Pink Lemonade Refresher, Vanilla Pink Cloud Latte, and Pink Lemon Drop Suncloud Lemonade.",
       "category": "drink",
       "startDate": "2026-07-08",
       "endDate": "2026-08-18",
@@ -2156,7 +2156,7 @@
     {
       "chain": "Jack in the Box",
       "item": "Sauced & Loaded Potato Wedges (return)",
-      "description": "Returning potato wedges in three varieties: Plain, Classic Sauced & Loaded (cheddar, cheese sauce, ranch, bacon), and a new Spicy Sauced & Loaded variety (cheddar, cheese sauce, bacon, Spicy Good Good Sauce, jalape\u00f1os); nationwide return confirmed around Aug 7, 2026.",
+      "description": "Returning potato wedges in three varieties: Plain, Classic Sauced & Loaded (cheddar, cheese sauce, ranch, bacon), and a new Spicy Sauced & Loaded variety (cheddar, cheese sauce, bacon, Spicy Good Good Sauce, jalapeños); nationwide return confirmed around Aug 7, 2026.",
       "category": "food",
       "startDate": "2026-08-07",
       "endDate": null,
@@ -2300,8 +2300,8 @@
     },
     {
       "chain": "Burger King",
-      "item": "Loaded Jalape\u00f1o Original Chicken Sandwich",
-      "description": "Original Chicken Sandwich lineup expansion: long white-meat chicken patty topped with creamy jalape\u00f1o sauce, crispy fried jalape\u00f1os, pickled jalape\u00f1os, fried onions, lettuce, tomato and American cheese on an oblong sesame seed bun. Joined the menu July 7, 2026 for a limited time; no announced end date.",
+      "item": "Loaded Jalapeño Original Chicken Sandwich",
+      "description": "Original Chicken Sandwich lineup expansion: long white-meat chicken patty topped with creamy jalapeño sauce, crispy fried jalapeños, pickled jalapeños, fried onions, lettuce, tomato and American cheese on an oblong sesame seed bun. Joined the menu July 7, 2026 for a limited time; no announced end date.",
       "category": "sandwich",
       "startDate": "2026-07-07",
       "endDate": null,
@@ -2370,8 +2370,8 @@
     },
     {
       "chain": "Taco Bell",
-      "item": "Taj\u00edn Taco",
-      "description": "Crunchy taco shell dusted with Taj\u00edn, filled with seasoned beef, Spicy Ranch sauce, lettuce, shredded cheese and mango salsa, plus an extra Taj\u00edn packet. Part of a new nationwide collab with Taj\u00edn and Peso Pluma, launched Aug 13, 2026.",
+      "item": "Tajín Taco",
+      "description": "Crunchy taco shell dusted with Tajín, filled with seasoned beef, Spicy Ranch sauce, lettuce, shredded cheese and mango salsa, plus an extra Tajín packet. Part of a new nationwide collab with Tajín and Peso Pluma, launched Aug 13, 2026.",
       "category": "taco",
       "startDate": "2026-08-13",
       "endDate": "2026-09-09",
@@ -2381,8 +2381,8 @@
     },
     {
       "chain": "Taco Bell",
-      "item": "Taj\u00edn Cheesy Gordita Crunch",
-      "description": "Gordita Crunch reworked with Taj\u00edn Cl\u00e1sico seasoning and extra cheese on a flatbread shell; part of the Taj\u00edn x Peso Pluma collab launched nationwide Aug 13, 2026.",
+      "item": "Tajín Cheesy Gordita Crunch",
+      "description": "Gordita Crunch reworked with Tajín Clásico seasoning and extra cheese on a flatbread shell; part of the Tajín x Peso Pluma collab launched nationwide Aug 13, 2026.",
       "category": "taco",
       "startDate": "2026-08-13",
       "endDate": "2026-09-09",
@@ -2392,8 +2392,8 @@
     },
     {
       "chain": "Taco Bell",
-      "item": "Taj\u00edn Pineapple Strawberry Freeze",
-      "description": "Frozen pineapple-strawberry Freeze finished with Taj\u00edn seasoning for a sweet-tangy-spicy kick; part of the Taj\u00edn x Peso Pluma collab launched nationwide Aug 13, 2026.",
+      "item": "Tajín Pineapple Strawberry Freeze",
+      "description": "Frozen pineapple-strawberry Freeze finished with Tajín seasoning for a sweet-tangy-spicy kick; part of the Tajín x Peso Pluma collab launched nationwide Aug 13, 2026.",
       "category": "drink",
       "startDate": "2026-08-13",
       "endDate": "2026-09-09",
@@ -2403,8 +2403,8 @@
     },
     {
       "chain": "Taco Bell",
-      "item": "Taj\u00edn x Taco Bell Bag Charm Collection (Tuesday Drop)",
-      "description": "Ultra-limited merch drop (only 400 sets) tied to the Taj\u00edn/Peso Pluma collab: mini Taco Bell bag holding hot sauce/Taj\u00edn packets, a beaded Taj\u00edn-bottle holder, and a Peso Pluma heart charm; drops via the app's Tuesday Drops feature.",
+      "item": "Tajín x Taco Bell Bag Charm Collection (Tuesday Drop)",
+      "description": "Ultra-limited merch drop (only 400 sets) tied to the Tajín/Peso Pluma collab: mini Taco Bell bag holding hot sauce/Tajín packets, a beaded Tajín-bottle holder, and a Peso Pluma heart charm; drops via the app's Tuesday Drops feature.",
       "category": "event",
       "startDate": "2026-08-18",
       "endDate": "2026-08-18",
@@ -2425,8 +2425,8 @@
     },
     {
       "chain": "Wendy's",
-      "item": "Jalape\u00f1o Ranch Cheeseburger",
-      "description": "Spring 2026 LTO burger with jalape\u00f1o ranch sauce and sliced jalape\u00f1os; launched alongside a jalape\u00f1o-themed breakfast lineup on Apr 27, 2026. Previously missed from tracking; appears to still be running.",
+      "item": "Jalapeño Ranch Cheeseburger",
+      "description": "Spring 2026 LTO burger with jalapeño ranch sauce and sliced jalapeños; launched alongside a jalapeño-themed breakfast lineup on Apr 27, 2026. Previously missed from tracking; appears to still be running.",
       "category": "burger",
       "startDate": "2026-04-27",
       "endDate": "while supplies last",
@@ -2437,8 +2437,8 @@
     },
     {
       "chain": "Wendy's",
-      "item": "Jalape\u00f1o Breakfast Biscuit",
-      "description": "Buttery biscuit with fresh-cracked egg, sausage or bacon, American cheese and sliced jalape\u00f1os. Part of the Apr 27, 2026 jalape\u00f1o spring menu, launched the same day as the already-tracked Watermelon Drinks Trio.",
+      "item": "Jalapeño Breakfast Biscuit",
+      "description": "Buttery biscuit with fresh-cracked egg, sausage or bacon, American cheese and sliced jalapeños. Part of the Apr 27, 2026 jalapeño spring menu, launched the same day as the already-tracked Watermelon Drinks Trio.",
       "category": "sandwich",
       "startDate": "2026-04-27",
       "endDate": "while supplies last",
@@ -2449,8 +2449,8 @@
     },
     {
       "chain": "Wendy's",
-      "item": "Jalape\u00f1o Bacon Breakfast Potatoes",
-      "description": "Seasoned breakfast potatoes topped with sliced jalape\u00f1os, Applewood bacon and Swiss cheese sauce; part of the Apr 27, 2026 jalape\u00f1o spring lineup.",
+      "item": "Jalapeño Bacon Breakfast Potatoes",
+      "description": "Seasoned breakfast potatoes topped with sliced jalapeños, Applewood bacon and Swiss cheese sauce; part of the Apr 27, 2026 jalapeño spring lineup.",
       "category": "food",
       "startDate": "2026-04-27",
       "endDate": "while supplies last",
@@ -2462,7 +2462,7 @@
     {
       "chain": "Wendy's",
       "item": "Cookie Dough Frosty Fusion",
-      "description": "Cookie-dough flavored Frosty Fusion launched as part of the same Apr 27, 2026 spring rollout that introduced the jalape\u00f1o items; predates the currently-tracked Apple Crumble Frosty Fusion, which may have since replaced it on menus.",
+      "description": "Cookie-dough flavored Frosty Fusion launched as part of the same Apr 27, 2026 spring rollout that introduced the jalapeño items; predates the currently-tracked Apple Crumble Frosty Fusion, which may have since replaced it on menus.",
       "category": "dessert",
       "startDate": "2026-04-27",
       "endDate": "2026-08-03",
@@ -2566,7 +2566,7 @@
     {
       "chain": "Jack in the Box",
       "item": "Spicy Orange Crispy Chicken Wrap (regional test)",
-      "description": "Regional test item spotted in select Las Vegas-area markets as part of Jack in the Box's protein bowl/wrap lineup expansion \u2014 a spicy-orange-sauced crispy chicken wrap alongside Teriyaki and Baja Ranch flavors. Re-dated: the only sourceable coverage (brandeating.com, Men's Journal) is from July 2025, not 2026; no nationwide rollout or 2026 relaunch found.",
+      "description": "Regional test item spotted in select Las Vegas-area markets as part of Jack in the Box's protein bowl/wrap lineup expansion — a spicy-orange-sauced crispy chicken wrap alongside Teriyaki and Baja Ranch flavors. Re-dated: the only sourceable coverage (brandeating.com, Men's Journal) is from July 2025, not 2026; no nationwide rollout or 2026 relaunch found.",
       "category": "sandwich",
       "startDate": "2025-07-21",
       "endDate": "2025-09-15",
@@ -2640,8 +2640,8 @@
     },
     {
       "chain": "Krispy Kreme",
-      "item": "Pok\u00e9mon Doughnut Collection",
-      "description": "Limited-time collection celebrating 30 years of Pok\u00e9mon: Bulbasaur (Original Glazed, vanilla icing), Charmander (chocolate/toasted marshmallow filling, orange caramel icing), Squirtle (Original Glazed, cotton candy buttercreme), Pikachu (lemon-filled, vanilla icing, lightning nonpareils), Jigglypuff (Original Glazed, strawberry buttercream), plus a bonus Pok\u00e9 Ball doughnut. Includes 5 exclusive Pok\u00e9mon cups filled with Original Glazed Gold Dots and a Pok\u00e9mon-themed dozen box. Fans wearing Pok\u00e9mon attire on Sat., Aug. 22 get one free Original Glazed doughnut.",
+      "item": "Pokémon Doughnut Collection",
+      "description": "Limited-time collection celebrating 30 years of Pokémon: Bulbasaur (Original Glazed, vanilla icing), Charmander (chocolate/toasted marshmallow filling, orange caramel icing), Squirtle (Original Glazed, cotton candy buttercreme), Pikachu (lemon-filled, vanilla icing, lightning nonpareils), Jigglypuff (Original Glazed, strawberry buttercream), plus a bonus Poké Ball doughnut. Includes 5 exclusive Pokémon cups filled with Original Glazed Gold Dots and a Pokémon-themed dozen box. Fans wearing Pokémon attire on Sat., Aug. 22 get one free Original Glazed doughnut.",
       "category": "donut",
       "startDate": "2026-08-18",
       "endDate": "2026-09-13",
@@ -2723,7 +2723,7 @@
     {
       "chain": "McDonald's",
       "item": "Caramel Apple Pie Drinks",
-      "description": "Hot latte, iced latte, Frapp\u00e9 and iced coffee variants featuring caramel apple pie flavor; officially confirmed for nationwide launch Aug 17, 2026 (some locations soft-launched Aug 13).",
+      "description": "Hot latte, iced latte, Frappé and iced coffee variants featuring caramel apple pie flavor; officially confirmed for nationwide launch Aug 17, 2026 (some locations soft-launched Aug 13).",
       "category": "drink",
       "startDate": "2026-08-17",
       "endDate": null,
@@ -2789,7 +2789,7 @@
     {
       "chain": "Taco Bell",
       "item": "Crispy Chicken Crunchwrap Slider",
-      "description": "Snackable chicken spin on the Crunchwrap Supreme: Crispy Chicken Nuggets, three-cheese blend, pico de gallo, and Creamy Chipotle or Jalape\u00f1o Honey Mustard sauce, grilled in a folded tortilla; $2.49.",
+      "description": "Snackable chicken spin on the Crunchwrap Supreme: Crispy Chicken Nuggets, three-cheese blend, pico de gallo, and Creamy Chipotle or Jalapeño Honey Mustard sauce, grilled in a folded tortilla; $2.49.",
       "category": "chicken",
       "startDate": "2026-03-19",
       "endDate": "2026-07-23",
@@ -2895,7 +2895,7 @@
     {
       "chain": "McDonald's",
       "item": "McValue Under $3 Menu & $4 Breakfast Meal Deal",
-      "description": "Nationwide value platform: an Under $3 Menu (Sausage McMuffin, Sausage Biscuit, Sausage Burrito, Hash Browns, or medium McCaf\u00e9 coffee for breakfast; McChicken, McDouble, 4-pc Chicken McNuggets, small fries, or medium soft drink for lunch/dinner) plus a $4 Breakfast Meal Deal (Sausage McMuffin or Sausage Biscuit with hash browns and a small McCaf\u00e9 coffee). Launched nationwide and still running as of mid-August 2026.",
+      "description": "Nationwide value platform: an Under $3 Menu (Sausage McMuffin, Sausage Biscuit, Sausage Burrito, Hash Browns, or medium McCafé coffee for breakfast; McChicken, McDouble, 4-pc Chicken McNuggets, small fries, or medium soft drink for lunch/dinner) plus a $4 Breakfast Meal Deal (Sausage McMuffin or Sausage Biscuit with hash browns and a small McCafé coffee). Launched nationwide and still running as of mid-August 2026.",
       "category": "food",
       "startDate": "2026-04-21",
       "endDate": null,
@@ -2942,7 +2942,7 @@
     {
       "chain": "Chipotle",
       "item": "Cilantro Lime Sauce",
-      "description": "New limited-time sauce made fresh daily with cilantro, lime, Mexican spices, roasted jalape\u00f1os and sour cream; available across bowls, burritos, tacos and salads in the US and Canada.",
+      "description": "New limited-time sauce made fresh daily with cilantro, lime, Mexican spices, roasted jalapeños and sour cream; available across bowls, burritos, tacos and salads in the US and Canada.",
       "category": "food",
       "startDate": "2026-03-19",
       "endDate": null,
@@ -2969,7 +2969,7 @@
     {
       "chain": "Taco Bell",
       "item": "Salt & Straw Tacolate Chiller",
-      "description": "Sippable, blended frozen version of Taco Bell's 'Tacolate' (choco-taco-inspired) dessert, made in collaboration with ice cream brand Salt & Straw; announced among 20+ new items at Taco Bell's 2026 Live M\u00e1s Live reveal. No confirmed nationwide launch date yet.",
+      "description": "Sippable, blended frozen version of Taco Bell's 'Tacolate' (choco-taco-inspired) dessert, made in collaboration with ice cream brand Salt & Straw; announced among 20+ new items at Taco Bell's 2026 Live Más Live reveal. No confirmed nationwide launch date yet.",
       "category": "drink",
       "startDate": null,
       "endDate": null,
@@ -2981,7 +2981,7 @@
     {
       "chain": "Taco Bell",
       "item": "You Seem Pretty Pink for a Baja Blast (Olivia Rodrigo collab)",
-      "description": "Mountain Dew Baja Blast's tropical lime flavor blended with pink lemonade notes, in custom packaging themed to Olivia Rodrigo's album 'You Seem Pretty Sad for a Girl So in Love'; debuted Aug 29, 2026 exclusively at 38 Live M\u00e1s Caf\u00e9s (Southern California, Dallas, Houston, Las Vegas) tied to her Daisy Chain Fields Festival, ahead of a nationwide rollout at all Taco Bell restaurants Sept 24, 2026.",
+      "description": "Mountain Dew Baja Blast's tropical lime flavor blended with pink lemonade notes, in custom packaging themed to Olivia Rodrigo's album 'You Seem Pretty Sad for a Girl So in Love'; debuted Aug 29, 2026 exclusively at 38 Live Más Cafés (Southern California, Dallas, Houston, Las Vegas) tied to her Daisy Chain Fields Festival, ahead of a nationwide rollout at all Taco Bell restaurants Sept 24, 2026.",
       "category": "drink",
       "startDate": "2026-08-29",
       "endDate": null,
@@ -2993,7 +2993,7 @@
     {
       "chain": "Taco Bell",
       "item": "Salt & Straw Churro Ice Cream Taco + Choco-Waffle Chiller",
-      "description": "New Churro Ice Cream in a crispy waffle-cone shell, finished with puffed rice and dark-chocolate coating (~$3.99), nationwide at Taco Bell restaurants starting Sept 1, 2026; a companion Choco-Waffle Chiller drink is exclusive to Live M\u00e1s Caf\u00e9 locations. Distinct from the still-unlaunched 'Salt & Straw Tacolate Chiller' teased at Live M\u00e1s Live. Rewards members can enter a Tuesday Drops sweepstakes Sept 8 for a limited-edition cooler.",
+      "description": "New Churro Ice Cream in a crispy waffle-cone shell, finished with puffed rice and dark-chocolate coating (~$3.99), nationwide at Taco Bell restaurants starting Sept 1, 2026; a companion Choco-Waffle Chiller drink is exclusive to Live Más Café locations. Distinct from the still-unlaunched 'Salt & Straw Tacolate Chiller' teased at Live Más Live. Rewards members can enter a Tuesday Drops sweepstakes Sept 8 for a limited-edition cooler.",
       "category": "dessert",
       "startDate": "2026-09-01",
       "endDate": null,
@@ -3096,7 +3096,7 @@
     {
       "chain": "KFC",
       "item": "Twister (returning, ended)",
-      "description": "'90s-era Twister wrap returned nationwide in Classic ($4.99), Spicy ($4.99), and Bacon ($5.99) varieties \u2014 two Original Recipe tenders, lettuce, tomato, and Pepper Mayo or Zinger Sauce in a flour tortilla. No official end date was ever published; given KFC's typical 4-8 week LTO cycle and the months since launch, this item has most likely already cycled off menus (not independently confirmed).",
+      "description": "'90s-era Twister wrap returned nationwide in Classic ($4.99), Spicy ($4.99), and Bacon ($5.99) varieties — two Original Recipe tenders, lettuce, tomato, and Pepper Mayo or Zinger Sauce in a flour tortilla. No official end date was ever published; given KFC's typical 4-8 week LTO cycle and the months since launch, this item has most likely already cycled off menus (not independently confirmed).",
       "category": "sandwich",
       "startDate": "2026-02-23",
       "endDate": "2026-04-20",
@@ -3235,7 +3235,7 @@
     {
       "chain": "McDonald's",
       "item": "Vanilla Swirl & Orange Dream Crafted Sodas",
-      "description": "New McCaf\u00e9 crafted soda additions launching alongside the Red Bull Dragonberry Energizer: Vanilla Swirl (cold foam over Coca-Cola/Diet Coke/Coke Zero) and Orange Dream (Fanta with vanilla and cold foam), plus reduced-sugar Diet Dr Pepper, Dr Pepper Zero Sugar and Sprite Zero Sugar.",
+      "description": "New McCafé crafted soda additions launching alongside the Red Bull Dragonberry Energizer: Vanilla Swirl (cold foam over Coca-Cola/Diet Coke/Coke Zero) and Orange Dream (Fanta with vanilla and cold foam), plus reduced-sugar Diet Dr Pepper, Dr Pepper Zero Sugar and Sprite Zero Sugar.",
       "category": "drink",
       "startDate": "2026-08-17",
       "endDate": null,
@@ -3309,8 +3309,8 @@
     },
     {
       "chain": "Krispy Kreme",
-      "item": "Pok\u00e9mon Costume Free Doughnut Day",
-      "description": "One-day promo tied to the Pok\u00e9mon Doughnut Collection launch: guests who wear Pok\u00e9mon-themed attire to participating shops on Sat., Aug. 22, 2026 get one free Original Glazed Doughnut (limit one, in-shop/drive-thru only).",
+      "item": "Pokémon Costume Free Doughnut Day",
+      "description": "One-day promo tied to the Pokémon Doughnut Collection launch: guests who wear Pokémon-themed attire to participating shops on Sat., Aug. 22, 2026 get one free Original Glazed Doughnut (limit one, in-shop/drive-thru only).",
       "category": "event",
       "startDate": "2026-08-22",
       "endDate": "2026-08-22",
@@ -3806,7 +3806,7 @@
     {
       "chain": "Jack in the Box",
       "item": "Hot Mess Cheeseburger (returning)",
-      "description": "13-year throwback burger revival for the 75th anniversary: grilled beef patty, white cheese sauce, shredded pepper jack, pickled jalape\u00f1os and crispy onion rings on toasted sourdough; also available as a Double, or as a $13 Hot Mess Munchie Meal with two tacos, curly fries, and a drink.",
+      "description": "13-year throwback burger revival for the 75th anniversary: grilled beef patty, white cheese sauce, shredded pepper jack, pickled jalapeños and crispy onion rings on toasted sourdough; also available as a Double, or as a $13 Hot Mess Munchie Meal with two tacos, curly fries, and a drink.",
       "category": "burger",
       "startDate": "2026-02-16",
       "endDate": "2026-04-05",
@@ -4054,7 +4054,7 @@
     },
     {
       "chain": "Chick-fil-A",
-      "item": "Jalape\u00f1o Ranch Club Chicken Sandwich",
+      "item": "Jalapeño Ranch Club Chicken Sandwich",
       "description": "Spring 2026 LTO: chicken filet (Original, Spicy, or Grilled) topped with pepper Jack cheese, caramelized onion-flavored candied bacon strips, lettuce, tomato, and pickled jalapenos on a toasted buttermilk ranch bun. Nationwide March 9 - June 6, 2026, paired with the Strawberry Hibiscus beverage lineup.",
       "category": "sandwich",
       "startDate": "2026-03-09",
@@ -4066,7 +4066,7 @@
     {
       "chain": "Chick-fil-A",
       "item": "Strawberry Hibiscus beverages",
-      "description": "Spring 2026 LTO lineup of four beverages: Strawberry Hibiscus & Sprite, Strawberry Hibiscus Lemonade, Strawberry Hibiscus Frosted Lemonade (with Icedream), and Strawberry Hibiscus Sunjoy. Nationwide March 9 - June 6, 2026, alongside the Jalape\u00f1o Ranch Club Chicken Sandwich.",
+      "description": "Spring 2026 LTO lineup of four beverages: Strawberry Hibiscus & Sprite, Strawberry Hibiscus Lemonade, Strawberry Hibiscus Frosted Lemonade (with Icedream), and Strawberry Hibiscus Sunjoy. Nationwide March 9 - June 6, 2026, alongside the Jalapeño Ranch Club Chicken Sandwich.",
       "category": "drink",
       "startDate": "2026-03-09",
       "endDate": "2026-06-06",
@@ -4724,7 +4724,7 @@
     {
       "chain": "Taco Bell",
       "item": "Zab's Chicken Ranch Nacho Fries",
-      "description": "Nacho Fries topped with slow-roasted chicken, pico de gallo, three-cheese blend, nacho cheese sauce, and Zab's \"St. Augustine Style\" Datil Pepper hot sauce blended with Taco Bell's Spicy Ranch \u2014 Taco Bell's first Zab's Hot Sauce collab and its first Datil Pepper sauce.",
+      "description": "Nacho Fries topped with slow-roasted chicken, pico de gallo, three-cheese blend, nacho cheese sauce, and Zab's \"St. Augustine Style\" Datil Pepper hot sauce blended with Taco Bell's Spicy Ranch — Taco Bell's first Zab's Hot Sauce collab and its first Datil Pepper sauce.",
       "category": "taco",
       "startDate": "2026-04-16",
       "endDate": "2026-05-20",
@@ -4746,8 +4746,8 @@
     },
     {
       "chain": "Dairy Queen",
-      "item": "DQ Sparklers & Coolers: Pineapple Lemonade with Taj\u00edn",
-      "description": "Part of DQ's \"Swicy\" menu launch: Pineapple Lemonade DQ Sparkler (sparkling water + Misty Slush) and Pineapple Lemonade DQ Cooler (soft serve + Misty Slush blend), both with a Taj\u00edn kick.",
+      "item": "DQ Sparklers & Coolers: Pineapple Lemonade with Tajín",
+      "description": "Part of DQ's \"Swicy\" menu launch: Pineapple Lemonade DQ Sparkler (sparkling water + Misty Slush) and Pineapple Lemonade DQ Cooler (soft serve + Misty Slush blend), both with a Tajín kick.",
       "category": "drink",
       "startDate": "2026-01-26",
       "endDate": null,
@@ -4759,7 +4759,7 @@
     {
       "chain": "Pizza Hut",
       "item": "Hut Crust: New Hand-Tossed Recipe & Garlic-Parm Seasoning",
-      "description": "Pizza Hut's first Hand-Tossed crust recipe change in over a decade \u2014 a lighter, airier dough finished with a new Garlic-Parm Hut Blend (parmesan, garlic, butter) seasoning, launched under a new \"Hut Crust\" platform. Coverage frames this as a permanent recipe/seasoning change to the core Hand-Tossed crust (not a rotating LTO); only the accompanying $10 large 3-topping bundle price was time-limited (separately tracked). Closed out on its launch date per the board's own permanent-menu-item convention.",
+      "description": "Pizza Hut's first Hand-Tossed crust recipe change in over a decade — a lighter, airier dough finished with a new Garlic-Parm Hut Blend (parmesan, garlic, butter) seasoning, launched under a new \"Hut Crust\" platform. Coverage frames this as a permanent recipe/seasoning change to the core Hand-Tossed crust (not a rotating LTO); only the accompanying $10 large 3-topping bundle price was time-limited (separately tracked). Closed out on its launch date per the board's own permanent-menu-item convention.",
       "category": "food",
       "startDate": "2026-03-11",
       "endDate": "2026-03-11",
@@ -5112,7 +5112,7 @@
     {
       "chain": "Wingstop",
       "item": "Wing Pass (first-ever, $27.99)",
-      "description": "Wingstop's first-ever season-long pass: up to 18 Watch Party Bundles (one per NFL regular-season week), each with 20 classic wings in up to 4 flavors, a large fry, and large ranch, for $27.99 total. Limited to 100 passes, exclusive to Club Wingstop members, on sale via wingstop.com starting Sept 10 at 12pm CT \u2014 expected to sell out almost immediately.",
+      "description": "Wingstop's first-ever season-long pass: up to 18 Watch Party Bundles (one per NFL regular-season week), each with 20 classic wings in up to 4 flavors, a large fry, and large ranch, for $27.99 total. Limited to 100 passes, exclusive to Club Wingstop members, on sale via wingstop.com starting Sept 10 at 12pm CT — expected to sell out almost immediately.",
       "category": "event",
       "startDate": "2026-09-10",
       "endDate": "2026-09-10",
@@ -5300,7 +5300,7 @@
     {
       "chain": "KFC",
       "item": "$5 Bowls: Matty's Cheesy Nuggy Gravy Bowl, Mac & Cheese Bowl & Cheese Curds",
-      "description": "Comfort-first value lineup of $5 Bowls: Matty's Cheesy Nuggy Gravy Bowl (a poutine-inspired collab with chef Matty Matheson \u2014 Secret Recipe fries, brown gravy, chicken nuggets and fried cheese curds), plus the returning Mac & Cheese Bowl and Spicy Mac & Cheese Bowl (mac & cheese topped with nuggets and a three-cheese blend), the Famous Bowl, and new a la carte Cheese Curds. Still listed as available on multiple KFC menu-price trackers as of August/September 2026; no official end date announced.",
+      "description": "Comfort-first value lineup of $5 Bowls: Matty's Cheesy Nuggy Gravy Bowl (a poutine-inspired collab with chef Matty Matheson — Secret Recipe fries, brown gravy, chicken nuggets and fried cheese curds), plus the returning Mac & Cheese Bowl and Spicy Mac & Cheese Bowl (mac & cheese topped with nuggets and a three-cheese blend), the Famous Bowl, and new a la carte Cheese Curds. Still listed as available on multiple KFC menu-price trackers as of August/September 2026; no official end date announced.",
       "category": "food",
       "startDate": "2026-01-05",
       "endDate": "while supplies last",
@@ -5323,7 +5323,7 @@
     },
     {
       "chain": "Wendy's",
-      "item": "1\u00a2 Jr. Bacon Cheeseburger for National Cheeseburger Day (app exclusive)",
+      "item": "1¢ Jr. Bacon Cheeseburger for National Cheeseburger Day (app exclusive)",
       "description": "App-exclusive digital offer: Jr. Bacon Cheeseburger for 1 cent with any purchase, tied to National Cheeseburger Day (Sept 18); redeemable via the Wendy's app, reported to run roughly Sept 16 through Sept 22, 2026.",
       "category": "event",
       "startDate": "2026-09-16",
@@ -5853,7 +5853,7 @@
     },
     {
       "chain": "Chipotle",
-      "item": "Soccer's Hydration Break \u2013 $1 Million in Free Burritos (World Cup Final)",
+      "item": "Soccer's Hydration Break – $1 Million in Free Burritos (World Cup Final)",
       "description": "One-time promo during the FIFA World Cup Final (July 19, 2026): an Instagram video game revealed a text-to-win code; the first 100,000 respondents got a free-entree offer valid through July 24, 2026.",
       "category": "event",
       "startDate": "2026-07-16",
@@ -5911,7 +5911,7 @@
     {
       "chain": "Taco Bell",
       "item": "Shredded Beef Dipping Taco (returned)",
-      "description": "Slow-braised shredded beef, 3-cheese blend and creamy jalape\u00f1o sauce in a white-corn tortilla with a grilled-cheese crust, served with zesty red dipping sauce.",
+      "description": "Slow-braised shredded beef, 3-cheese blend and creamy jalapeño sauce in a white-corn tortilla with a grilled-cheese crust, served with zesty red dipping sauce.",
       "category": "taco",
       "startDate": "2026-05-21",
       "endDate": "2026-06-17",
@@ -5922,7 +5922,7 @@
     {
       "chain": "Taco Bell",
       "item": "Shredded Beef Nacho Fries",
-      "description": "Nacho Fries topped with slow-braised shredded beef, 3-cheese blend and creamy jalape\u00f1o sauce.",
+      "description": "Nacho Fries topped with slow-braised shredded beef, 3-cheese blend and creamy jalapeño sauce.",
       "category": "food",
       "startDate": "2026-05-21",
       "endDate": "2026-06-17",
@@ -5945,8 +5945,8 @@
     },
     {
       "chain": "Chipotle",
-      "item": "Holborn London Restaurant Opening (free entr\u00e9e for first 100 guests)",
-      "description": "Opening-day promotion for Chipotle's 22nd UK restaurant, in Holborn near Holborn Underground Station; first 100 guests received a free entr\u00e9e and a limited-edition phonetic 'Chih-Poat-Lay' T-shirt, part of Chipotle's continued UK expansion.",
+      "item": "Holborn London Restaurant Opening (free entrée for first 100 guests)",
+      "description": "Opening-day promotion for Chipotle's 22nd UK restaurant, in Holborn near Holborn Underground Station; first 100 guests received a free entrée and a limited-edition phonetic 'Chih-Poat-Lay' T-shirt, part of Chipotle's continued UK expansion.",
       "category": "event",
       "startDate": "2026-09-17",
       "endDate": "2026-09-17",
@@ -6036,7 +6036,7 @@
     {
       "chain": "Raising Cane's",
       "item": "Kidd's Kids Fundraiser (15th Anniversary)",
-      "description": "On Tuesday, September 15, 2026, participating Raising Cane's restaurants nationwide donated $1 from every Box Combo purchased (dine-in, drive-thru, or app) to Kidd's Kids \u2014 a nonprofit providing all-expenses-paid Walt Disney World trips for children with critical illnesses \u2014 up to $100,000 total. The one-day fundraiser marked 15 years of Cane's partnership with Kidd's Kids, timed alongside Cane's 30th anniversary and Kidd's Kids' 35th anniversary; the partnership has raised more than $1.3 million and supported 150+ families since 2012.",
+      "description": "On Tuesday, September 15, 2026, participating Raising Cane's restaurants nationwide donated $1 from every Box Combo purchased (dine-in, drive-thru, or app) to Kidd's Kids — a nonprofit providing all-expenses-paid Walt Disney World trips for children with critical illnesses — up to $100,000 total. The one-day fundraiser marked 15 years of Cane's partnership with Kidd's Kids, timed alongside Cane's 30th anniversary and Kidd's Kids' 35th anniversary; the partnership has raised more than $1.3 million and supported 150+ families since 2012.",
       "category": "event",
       "startDate": "2026-09-15",
       "endDate": "2026-09-15",
@@ -6119,7 +6119,7 @@
     {
       "chain": "Taco Bell",
       "item": "Grilled Steak (or Chicken) Three Cheese Taco (regional test)",
-      "description": "'Sonoran-style' soft taco test: warm flour tortilla grilled with a three-cheese (mozzarella/pepper jack/cheddar) blend, filled with grilled marinated steak or slow-roasted chicken, Creamy Jalape\u00f1o Sauce, seasoned potato crispies, pico de gallo and chile-lime seasoning; $4.49. Testing only in select Nashville-area locations as of September 2026, no nationwide confirmation.",
+      "description": "'Sonoran-style' soft taco test: warm flour tortilla grilled with a three-cheese (mozzarella/pepper jack/cheddar) blend, filled with grilled marinated steak or slow-roasted chicken, Creamy Jalapeño Sauce, seasoned potato crispies, pico de gallo and chile-lime seasoning; $4.49. Testing only in select Nashville-area locations as of September 2026, no nationwide confirmation.",
       "category": "taco",
       "startDate": "2026-09-01",
       "endDate": null,
@@ -6355,7 +6355,7 @@
     {
       "chain": "Burger King",
       "item": "Texas Whopper Lineup (Jr., Original, Double)",
-      "description": "Three-burger platform bringing a previously Texas-regional favorite nationwide for a limited time: flame-grilled beef topped with bacon, jalape\u00f1os, pickles, lettuce, tomato, onions, mayo and mustard on a sesame bun, in Jr., standard, and Double (two quarter-pound patties) sizes. Burger King says it will only run nationwide for a limited time before reverting to a regional item.",
+      "description": "Three-burger platform bringing a previously Texas-regional favorite nationwide for a limited time: flame-grilled beef topped with bacon, jalapeños, pickles, lettuce, tomato, onions, mayo and mustard on a sesame bun, in Jr., standard, and Double (two quarter-pound patties) sizes. Burger King says it will only run nationwide for a limited time before reverting to a regional item.",
       "category": "burger",
       "startDate": "2026-09-01",
       "endDate": null,
@@ -6413,8 +6413,8 @@
     },
     {
       "chain": "McDonald's",
-      "item": "Pok\u00e9mon TCG 30th Anniversary Happy Meal (leaked, unconfirmed)",
-      "description": "Reportedly returning Pok\u00e9mon Trading Card Game cards to US Happy Meals for the franchise's 30th anniversary: a 15-card set distributed in 4-card booster packs (1 holo + 3 non-holo, including 6 special confetti holofoils), with a toy/activity-book alternative for kids who don't want cards. Reported by Pok\u00e9Beach and corroborated by several gaming-news outlets; McDonald's and The Pok\u00e9mon Company have not issued their own announcement yet.",
+      "item": "Pokémon TCG 30th Anniversary Happy Meal (leaked, unconfirmed)",
+      "description": "Reportedly returning Pokémon Trading Card Game cards to US Happy Meals for the franchise's 30th anniversary: a 15-card set distributed in 4-card booster packs (1 holo + 3 non-holo, including 6 special confetti holofoils), with a toy/activity-book alternative for kids who don't want cards. Reported by PokéBeach and corroborated by several gaming-news outlets; McDonald's and The Pokémon Company have not issued their own announcement yet.",
       "category": "event",
       "startDate": "2026-11-05",
       "endDate": "2026-12-09",

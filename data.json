@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-01",
+  "researched": "2026-10-02",
   "items": [
     {
       "chain": "McDonald's",
@@ -98,15 +98,14 @@
     },
     {
       "chain": "McDonald's",
-      "item": "Boo Buckets 40th Anniversary (rumored)",
-      "description": "Halloween Happy Meal pails expected back for their 40th anniversary (first launched 1986); a leak claims McPunk'n, McGoblin, a new Vampire and glow-in-the-dark Mummy designs for an Oct 14, 2026 nationwide release, but this is unconfirmed by McDonald's - the widely-cited \"official\" GMA/ABC News article with this date actually covers the 2025 Boo Buckets return (ghost, pumpkin, goblin, cat, zombie, Oct 21, 2025), not a 2026 confirmation. A same-titled NBC Chicago article (checked 2026-09-27) is also the 2025 piece recirculating - still no genuine 2026 official source found.",
+      "item": "Boo Buckets 40th Anniversary",
+      "description": "Halloween Happy Meal pails for their 40th anniversary (first launched 1986), now officially confirmed for 2026: four designs - Monster, Skeleton, Mummy, and Vampire (the purple Vampire bucket is the first purple design since the original) - nationwide Oct 17, 2026.",
       "category": "event",
-      "startDate": "2026-10-14",
+      "startDate": "2026-10-17",
       "endDate": null,
       "status": "upcoming",
-      "source": "https://news.piratesandprincesses.net/p/mcdonalds-2026-boo-buckets-leaked",
-      "image": "mcdonald-s-boo-buckets-40th-anniversary-rumored.jpg",
-      "lastConfirmed": "2026-09-30"
+      "source": "https://abc7ny.com/post/mcdonalds-halloween-boo-buckets-happy-meals/15384880/",
+      "image": "mcdonald-s-boo-buckets-40th-anniversary-rumored.jpg"
     },
     {
       "chain": "Burger King",
@@ -758,7 +757,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/sonic-new-7-dollar-big-meal-deal.html",
       "image": "sonic-7-big-deal-meal.jpg",
-      "lastConfirmed": "2026-10-01"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Arby's",
@@ -934,7 +933,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/popeyes-launches-new-cheese-bites.html",
       "image": "popeyes-cheese-bites.jpg",
-      "lastConfirmed": "2026-09-24"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Popeyes",
@@ -969,7 +968,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/6-dollar-big-box-meal-back-at-popeyes-summer-2026.html",
       "image": "popeyes-blueberry-lemon-cheesecake-cup.jpg",
-      "lastConfirmed": "2026-09-25"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Wingstop",
@@ -1314,7 +1313,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260601211848/en/SONIC-Debuts-the-$7-Big-Deal-Meal-Bringing-More-of-What-Guests-Want-for-Less",
       "image": "sonic-1-99-value-menu.jpg",
-      "lastConfirmed": "2026-09-29"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Sonic",
@@ -1326,7 +1325,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260518500381/en/SONIC-Expands-Its-Refreshers-Platform-Adding-Frozen-Refreshers-Featuring-a-Brand-New-Watermelon-Peach-Flavor",
       "image": "sonic-frozen-refreshers-incl-new-watermelon-peach.jpg",
-      "lastConfirmed": "2026-09-29"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Dunkin'",
@@ -1475,7 +1474,7 @@
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/arbys-launches-lineup-of-1-99-sliders/",
       "image": "arby-s-1-99-sliders-lineup.jpg",
-      "lastConfirmed": "2026-09-30"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Jack in the Box",
@@ -1536,7 +1535,7 @@
       "status": "active",
       "source": "https://sporked.com/article/burger-king-bacon-cheddar-hash-whopper-news/",
       "image": "burger-king-bacon-cheddar-hash-whopper-regional-test.jpg",
-      "lastConfirmed": "2026-09-29"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Arby's",
@@ -1889,7 +1888,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260807280655/en/Pumpkin-Spice-is-Back-KRISPY-KREME-Welcomes-Fall-with-New-Autumn-Seasonal-Collection-on-Aug.-11",
       "image": "krispy-kreme-apple-crisp-latte.jpg",
-      "lastConfirmed": "2026-09-29"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Sonic",
@@ -1913,7 +1912,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/arbys-introduces-new-meat-3-box-meal.html",
       "image": "arby-s-meat-3-box-meal.jpg",
-      "lastConfirmed": "2026-09-30"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Arby's",
@@ -1960,7 +1959,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Serves-Up-New-Protein-Bowl-Flavors-and-2-for-6-Jack-Wraps-Including-the-Best-Rated-Wrap-in-Fast-Food/default.aspx",
       "image": "jack-in-the-box-protein-bowls-teriyaki-fajita-and-2-for-6-jack-wraps.jpg",
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Jack in the Box",
@@ -1996,8 +1995,8 @@
       "description": "Thin, hand-battered all-white-breast-meat chicken strips, thinner and crispier than tenders, served with dip; $4.99. Originally billed as a 2025-summer LTO with an expected wind-down around Aug 31, 2025, but it has continued to appear on Popeyes' current menu listings well over a year later with no reports of discontinuation found.",
       "category": "chicken",
       "startDate": "2025-07-14",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2025-08-31",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/popeyes-officially-dips-into-the-party-with-their-first-ever-signature-sauce-designed-to-enhance-the-dipping-experience-302503975.html",
       "image": "popeyes-chicken-dippers.jpg",
       "lastConfirmed": "2026-09-29"
@@ -2163,7 +2162,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/potato-wedges-are-back-at-jack-in-box.html",
       "image": "jack-in-the-box-sauced-loaded-potato-wedges-return.jpg",
-      "lastConfirmed": "2026-09-25"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Jack in the Box",
@@ -2187,7 +2186,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/back-for-good-popeyes-makes-fan-favorite-chicken-wraps-a-permanent-menu-offering-and-debuts-new-blackened-ranch-flavor-302760814.html",
       "image": "popeyes-honey-bbq-chicken-sandwich-honey-bbq-bacon-cheese-sandwich.jpg",
-      "lastConfirmed": "2026-09-30"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Dairy Queen",
@@ -2308,7 +2307,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/burger-king-expands-its-iconic-original-chicken-sandwich-lineup-with-two-bold-new-flavors-302818370.html",
       "image": "burger-king-loaded-jalape-o-original-chicken-sandwich.jpg",
-      "lastConfirmed": "2026-09-30"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Burger King",
@@ -2320,7 +2319,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/burger-king-expands-its-iconic-original-chicken-sandwich-lineup-with-two-bold-new-flavors-302818370.html",
       "image": "burger-king-club-original-chicken-sandwich.jpg",
-      "lastConfirmed": "2026-09-30"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Domino's",
@@ -2904,7 +2903,7 @@
       "image": "mcdonald-s-mcvalue-under-3-menu-4-breakfast-meal-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-27"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "McDonald's",
@@ -3044,11 +3043,11 @@
     {
       "chain": "Popeyes",
       "item": "Chicken Wraps Blackened Ranch Flavor & Wraps Bundle",
-      "description": "New Blackened Ranch flavor added to Popeyes' Chicken Wraps lineup (hand-breaded tender, lettuce, shredded cheese, pickles, sauce in a buttermilk tortilla, $3.99 each), alongside a $9.99 Wraps Bundle (two wraps + a premium lemonade or tea) at participating restaurants through Dec 31, 2026.",
+      "description": "New Blackened Ranch flavor added to Popeyes' Chicken Wraps lineup (hand-breaded tender, lettuce, shredded cheese, pickles, sauce in a buttermilk tortilla, $3.99 each), alongside a $9.99 Wraps Bundle (two wraps + a premium lemonade or tea). Officially made a PERMANENT menu offering as of its May 4, 2026 relaunch (\"Back for Good\" per PRNewswire/QSR Magazine) - no longer a limited-time item.",
       "category": "sandwich",
       "startDate": "2026-05-04",
-      "endDate": "2026-12-31",
-      "status": "active",
+      "endDate": "2026-05-04",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/back-for-good-popeyes-makes-fan-favorite-chicken-wraps-a-permanent-menu-offering-and-debuts-new-blackened-ranch-flavor-302760814.html",
       "image": "popeyes-chicken-wraps-blackened-ranch-flavor-wraps-bundle.jpg",
       "imageUrl": null,
@@ -3130,7 +3129,7 @@
       "source": "https://ktla.com/food/jack-in-the-box-marks-75th-anniversary-with-yearlong-celebration-featuring-new-foods-giveaways/",
       "image": null,
       "imageUrl": null,
-      "lastConfirmed": "2026-09-21"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Dairy Queen",
@@ -4567,7 +4566,7 @@
       "source": "https://www.brandeating.com/2026/08/potato-wedges-are-back-at-jack-in-box.html",
       "image": "jack-in-the-box-spicy-sauced-loaded-potato-wedges.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-25"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "McDonald's",
@@ -4742,7 +4741,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-29"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Dairy Queen",
@@ -4754,7 +4753,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-29"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Pizza Hut",
@@ -5182,7 +5181,7 @@
     {
       "chain": "Dunkin'",
       "item": "Halloween Refreshers & Energy Lineup (Werewolf Punch, Midnight Potion, Dark Spell Daydream, Sour Apple Energy, Sour Apple/Midnight Apple Dunkin' Zero)",
-      "description": "New Halloween 'spooky season' Refreshers and energy drinks built on new Green Apple Dunkin' Zero and Purple Marshmallow Cold Foam: Werewolf Punch Refresher (blackberry, clementine, mango, pineapple + lemonade), Midnight Potion Refresher (Berry Clementine + blueberry + green tea), Dark Spell Daydream Refresher, Sour Apple Energy, and Sour Apple/Midnight Apple Dunkin' Zero. Officially confirmed via Dunkin' parent Inspire Brands' newsroom, launched nationwide Sept 30, 2026.",
+      "description": "New Halloween 'spooky season' Refreshers and energy drinks built on new Green Apple Dunkin' Zero (plus its Candy Kiss/tropical mango and Orchard Twist/peach flavor variants) and Purple Marshmallow Cold Foam: Werewolf Punch Refresher (blackberry, clementine, mango, pineapple + lemonade), Midnight Potion Refresher (Berry Clementine + blueberry + green tea), Dark Spell Daydream Refresher, Sour Apple Energy, and Midnight Apple Dunkin' Zero (blackberry). Officially confirmed via Dunkin' parent Inspire Brands' newsroom, launched nationwide Sept 30, 2026.",
       "category": "drink",
       "startDate": "2026-09-30",
       "endDate": null,
@@ -5906,7 +5905,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/arbys-introduces-new-meat-3-box-meal.html",
       "image": null,
-      "lastConfirmed": "2026-09-30"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Taco Bell",
@@ -6366,10 +6365,10 @@
     {
       "chain": "Burger King",
       "item": "Game Day Pretzel Burger",
-      "description": "New stadium-inspired LTO: 100% flame-grilled quarter-pound beef patty topped with American cheese, crispy bacon, crispy onions and Nacho Cheese Sauce on a soft SUPERPRETZEL Soft Pretzel Bun. Part of Burger King's new Game Day Menu launching nationwide.",
+      "description": "New stadium-inspired LTO: 100% flame-grilled quarter-pound beef patty topped with American cheese, crispy bacon, crispy onions and Nacho Cheese Sauce on a soft SUPERPRETZEL Soft Pretzel Bun. Part of Burger King's new Game Day Menu launching nationwide. Estimated end date tied to the four-week Game Day promotional window (official BK release cites the companion sweepstakes running through Nov 1, 2026).",
       "category": "burger",
       "startDate": "2026-10-06",
-      "endDate": null,
+      "endDate": "2026-11-01",
       "status": "upcoming",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
       "image": "burger-king-game-day-pretzel-burger.jpg",
@@ -6378,10 +6377,10 @@
     {
       "chain": "Burger King",
       "item": "Chicken Fries with Nacho Cheese Sauce",
-      "description": "Burger King's fan-favorite Chicken Fries served with a new side of Nacho Cheese Sauce for dipping; second item in the new Game Day Menu launching nationwide alongside the Game Day Pretzel Burger.",
+      "description": "Burger King's fan-favorite Chicken Fries served with a new side of Nacho Cheese Sauce for dipping; second item in the new Game Day Menu launching nationwide alongside the Game Day Pretzel Burger. Estimated end date tied to the four-week Game Day promotional window (official BK release cites the companion sweepstakes running through Nov 1, 2026).",
       "category": "food",
       "startDate": "2026-10-06",
-      "endDate": null,
+      "endDate": "2026-11-01",
       "status": "upcoming",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
       "image": "burger-king-chicken-fries-with-nacho-cheese-sauce.jpg",
@@ -6466,6 +6465,72 @@
       "endDate": "2025-10-28",
       "status": "ended",
       "source": "https://www.qsrmagazine.com/news/raising-canes-to-open-seven-stores-in-october/",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Hand-Breaded Chicken (wings, strips, sandwich) (regional test)",
+      "description": "McDonald's is quietly testing hand-breaded chicken wings, strips, and a sandwich at a handful of Chicago-area locations, part of an $8.5B modernization push; the company plans to expand the pilot to roughly 200 US/Ireland restaurants in early 2027.",
+      "category": "chicken",
+      "startDate": "2026-09-23",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.local10.com/business/2026/09/23/more-tech-and-hand-breaded-chicken-coming-to-mcdonalds-as-part-of-85-billion-modernization-push/",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Mummy Cookie",
+      "description": "Buttery shortbread cookie topped with white chocolate in a mummy design, part of Starbucks' Oct 1 Halloween/fall seasonal drop alongside Salted Pecan Cold Foam and Iced Pecan Crunch Latte Oatmilk.",
+      "category": "dessert",
+      "startDate": "2026-10-01",
+      "endDate": null,
+      "status": "active",
+      "source": "https://passionatepennypincher.com/starbucks-fall-drinks/",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Salted Pecan Cold Foam",
+      "description": "New cold foam add-on (dairy or non-dairy) made with pecan syrup and a hint of salt, available on any beverage for $1.45. Part of the same Oct 1, 2026 seasonal drop as the Mummy Cookie.",
+      "category": "drink",
+      "startDate": "2026-10-01",
+      "endDate": null,
+      "status": "active",
+      "source": "https://passionatepennypincher.com/starbucks-fall-drinks/",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Treehouse of Horror Collectible Glow Cups (6-cup set)",
+      "description": "Six glow-in-the-dark collectible cups themed to The Simpsons' Treehouse of Horror specials, part of the Munchie Meal of Horror Simpsons tie-in.",
+      "category": "event",
+      "startDate": "2026-09-10",
+      "endDate": "2026-10-31",
+      "status": "active",
+      "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "October 2026 Restaurant Expansion Wave (Seven Stores)",
+      "description": "Seven new restaurant openings in October 2026: Wausau, WI (Oct 5, first location); San Francisco, CA and Goleta, CA (Oct 12); Springfield, OR (Oct 13, first location); Macon, GA (Oct 19, first location); Grandville, MI (Oct 22); Idaho Falls, ID (Oct 27).",
+      "category": "event",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-27",
+      "status": "upcoming",
+      "source": "https://www.qsrmagazine.com/news/raising-canes-to-open-seven-stores-in-october/",
+      "image": null
+    },
+    {
+      "chain": "Zaxby's",
+      "item": "Zax of Kindness October Milkshake Giving Campaign",
+      "description": "Throughout October 2026, Zaxby's donates to Bert's Big Adventure (a nonprofit sending families of chronically/terminally ill children to Walt Disney World) for every hand-spun milkshake purchased, timed alongside Zaxby's NERDS Strawberry Milkshake LTO. Part of a recurring monthly 'Go BIG' charity tie-in Zaxby's has run with this partner all year.",
+      "category": "drink",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-31",
+      "status": "active",
+      "source": "https://www.q997atlanta.com/2026/09/29/gobigoctober/",
       "image": null
     }
   ]

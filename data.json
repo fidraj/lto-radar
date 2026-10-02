@@ -1762,7 +1762,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/taco-bell-tests-new-cheesy-enchilada-dipping-taco.html",
       "image": "taco-bell-cheesy-enchilada-dipping-taco-regional-test-unconfirmed.jpg",
-      "lastConfirmed": "2026-10-01"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Taco Bell",
@@ -1774,7 +1774,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/taco-bell-tests-new-sweet-chipotle-lime-crispy-chicken.html",
       "image": "taco-bell-sweet-chipotle-lime-crispy-chicken-regional-test-unconfirmed.jpg",
-      "lastConfirmed": "2026-09-29"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Taco Bell",
@@ -3931,7 +3931,7 @@
       "status": "active",
       "source": "https://x.com/snackolator/status/2083331388304961847",
       "image": null,
-      "lastConfirmed": "2026-10-01"
+      "lastConfirmed": "2026-10-02"
     },
     {
       "chain": "Jack in the Box",
@@ -5766,7 +5766,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/food/drinks/pink-passionfruit-refresca-freeze",
       "image": "taco-bell-pink-passionfruit-refresca-freeze.jpg",
-      "lastConfirmed": "2026-10-01",
+      "lastConfirmed": "2026-10-02",
       "imageAuto": true
     },
     {
@@ -6531,6 +6531,39 @@
       "endDate": "2026-10-31",
       "status": "active",
       "source": "https://www.q997atlanta.com/2026/09/29/gobigoctober/",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Duo Habanero Sauce (Taco Bell x Duolingo collab)",
+      "description": "Limited-edition sauce packet with language-lesson text in 9 languages, tangy with fruity habanero heat. Free with any Doritos Locos Tacos order (limit one per qualifying item), extra packets $0.20 each. Part of the 'Global Taco Day' collab taking National Taco Day international for the first time (US, Canada, Australia, China, India, Spain, UK).",
+      "category": "food",
+      "startDate": "2026-10-06",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://www.prnewswire.com/news-releases/taco-bell-and-duolingo-take-national-taco-day-global-uniting-fans-around-one-word-the-world-already-speaks-taco-302895125.html",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Global Taco Day / October Tuesday Drops 2026 (incl. Taco Bell x Duo plushie)",
+      "description": "National Taco Day has moved to 'the first Tuesday in October' (Oct 6, 2026), with a month-long Tuesday Drops celebration every Tuesday in October for Rewards members. Confirmed: free Super Duolingo access Oct 1-6; on Oct 6 at 2pm PT, a limited-edition Taco Bell x Duo plushie (1,000 available, while supplies last) via the Tuesday Drops page, plus a one-day NYC takeover event. Later October Tuesdays' specific drops not yet announced. Distinct from the already-tracked 2024 'National Taco Day / October Tuesday Drops' historical record.",
+      "category": "event",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-27",
+      "status": "active",
+      "source": "https://www.tacobell.com/newsroom/octobertuesdaydrops",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Flamin' Hot Nacho Fries variant & Doritos Cool Ranch/Flamin' Hot Dusted Nuggets (leaked, unconfirmed)",
+      "description": "Mentioned in 2026-roadmap roundup coverage from Taco Bell's 'Live Mas Live 2026' reveal event: a Flamin' Hot Nacho Fries variant and two new Crispy Chicken Nugget dusted flavors (Doritos Cool Ranch Dusted, Flamin' Hot Dusted) to join the already-tracked Diablo Dusted Nuggets line. No confirmed launch date found yet.",
+      "category": "food",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.13newsnow.com/article/news/nation-world/taco-bell-new-menu-items-2026/507-1d87630a-69a9-4159-b1a8-006e2684a3fc",
       "image": null
     }
   ]

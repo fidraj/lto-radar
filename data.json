@@ -6520,7 +6520,8 @@
       "endDate": "2026-10-27",
       "status": "upcoming",
       "source": "https://www.qsrmagazine.com/news/raising-canes-to-open-seven-stores-in-october/",
-      "image": null
+      "image": "raising-cane-s-october-2026-restaurant-expansion-wave-seven-stores.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Zaxby's",
@@ -6531,7 +6532,8 @@
       "endDate": "2026-10-31",
       "status": "active",
       "source": "https://www.q997atlanta.com/2026/09/29/gobigoctober/",
-      "image": null
+      "image": "zaxby-s-zax-of-kindness-october-milkshake-giving-campaign.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -6542,7 +6544,8 @@
       "endDate": "while supplies last",
       "status": "upcoming",
       "source": "https://www.prnewswire.com/news-releases/taco-bell-and-duolingo-take-national-taco-day-global-uniting-fans-around-one-word-the-world-already-speaks-taco-302895125.html",
-      "image": null
+      "image": "taco-bell-duo-habanero-sauce-taco-bell-x-duolingo-collab.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",

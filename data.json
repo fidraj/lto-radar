@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-02",
+  "researched": "2026-10-03",
   "items": [
     {
       "chain": "McDonald's",
@@ -1168,7 +1168,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/05/pizza-hut-new-crispy-parm-pan-pizza.html",
       "image": "pizza-hut-crispy-parm-pan-pizza.jpg",
-      "lastConfirmed": "2026-09-30"
+      "lastConfirmed": "2026-10-03"
     },
     {
       "chain": "Domino's",
@@ -1428,7 +1428,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-and-rob-rausch-bring-an-iconic-southern-flavor-to-fans-nationwide-with-limited-drop-of-alabama-white-bbq-sauce-302840598.html",
       "image": "zaxby-s-alabama-white-bbq-sauce-limited-drop.jpg",
-      "lastConfirmed": "2026-09-25"
+      "lastConfirmed": "2026-10-03"
     },
     {
       "chain": "Starbucks",
@@ -1842,7 +1842,7 @@
       "status": "active",
       "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/what-are-the-chick-fil-a-iced-coffee-and-cream-cold-brew-beverages",
       "image": "chick-fil-a-cream-cold-brew.jpg",
-      "lastConfirmed": "2026-09-29"
+      "lastConfirmed": "2026-10-03"
     },
     {
       "chain": "Dunkin'",
@@ -2331,7 +2331,7 @@
       "status": "active",
       "source": "https://ir.dominos.com/news-releases/news-release-details/dominosr-fires-summer-new-smores-lava-cakes",
       "image": "domino-s-s-mores-lava-cakes.jpg",
-      "lastConfirmed": "2026-09-29"
+      "lastConfirmed": "2026-10-03"
     },
     {
       "chain": "Popeyes",
@@ -3535,7 +3535,7 @@
       "image": "domino-s-perfect-combo-deal-19-99.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-29",
+      "lastConfirmed": "2026-10-03",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2012-06-18",
@@ -3620,7 +3620,7 @@
       "image": "raising-cane-s-raising-cane-s-x-gigapet.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-09-27",
+      "lastConfirmed": "2026-10-03",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2025-11-19",
@@ -3669,7 +3669,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-has-an-answer-to-the-value-wars-a-value-feast-fit-for-the-moment-302728926.html",
       "image": "kfc-value-feast-7-9-11-box-feasts-featuring-the-kfc-snacker.jpg",
-      "lastConfirmed": "2026-09-29",
+      "lastConfirmed": "2026-10-03",
       "imageAuto": true
     },
     {
@@ -5306,7 +5306,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-is-giving-your-january-food-choices-a-glow-up-with-a-comfort-first-value-lineup-302654011.html",
       "image": "kfc-5-bowls-matty-s-cheesy-nuggy-gravy-bowl-mac-cheese-bowl-cheese-curds.jpg",
-      "lastConfirmed": "2026-09-29",
+      "lastConfirmed": "2026-10-03",
       "imageAuto": true
     },
     {
@@ -6309,7 +6309,7 @@
     {
       "chain": "Chipotle",
       "item": "Boorito 2026",
-      "description": "Chipotle's official Sept 28, 2026 newsroom release confirms Boorito, the brand's annual Halloween in-restaurant offer, is returning Oct 31, 2026, as the capstone of the Summon the Spirits Tour. Exact 2026 terms (price, costume requirement) not yet separately announced as of this writing.",
+      "description": "Chipotle's official Sept 28, 2026 newsroom release confirms Boorito, the brand's annual Halloween in-restaurant offer, returning Oct 31, 2026 as the capstone of the Summon the Spirits Tour. Same-day syndicated coverage (Fox affiliates) confirms the 2026 terms: $6 digital entree for Chipotle Rewards members, 3pm local time to close, redeemable in-restaurant only via the app's SCAN feature (not valid for delivery/pickup); new for 2026, select college-town locations extend hours to midnight on Halloween.",
       "category": "event",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
@@ -6401,12 +6401,12 @@
     {
       "chain": "Jack in the Box",
       "item": "2 Free Tacos with Purchase (National Taco Day, expected/unconfirmed)",
-      "description": "Deal-aggregator sites (Krazy Coupon Lady, Cheapism, etc.) expect Jack Pack Rewards app members to again get two classic tacos free with any purchase of $1+ around National Taco Day, based on the chain's pattern in past years - no official 2026 Jack in the Box press release found yet. True National Taco Day is Oct 4; aggregator content recycled from prior years lists Oct 6 (a Tuesday) instead, so treat the exact date as a best estimate.",
+      "description": "Deal-aggregator and syndicated local-news coverage (Fox/Cox Media Group affiliates, Nexstar/Gray wire pickups) describe a Jack in the Box app deal: two free tacos with any purchase, Oct 4 (National Taco Day, a Sunday in 2026) through Oct 10 - still no official Jack in the Box newsroom press release found for 2026, so treat as expected/unconfirmed.",
       "category": "event",
       "startDate": "2026-10-04",
-      "endDate": "2026-10-06",
+      "endDate": "2026-10-10",
       "status": "upcoming",
-      "source": "https://thekrazycouponlady.com/tips/store-hacks/national-taco-day-free-cheap-tacos",
+      "source": "https://www.foxla.com/news/national-taco-day-spilling-the-beans-on-the-spiciest-deals-and-freebies",
       "image": "jack-in-the-box-2-free-tacos-with-purchase-national-taco-day-jack-pack-rewards.jpg",
       "imageAuto": true
     },
@@ -6567,6 +6567,39 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.13newsnow.com/article/news/nation-world/taco-bell-new-menu-items-2026/507-1d87630a-69a9-4159-b1a8-006e2684a3fc",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Chocolate Fudge Brownie",
+      "description": "Rich semi-sweet chocolate brownie with fudgy chunks, sold individually or by the tray; launched nationwide Sept 14, 2026 alongside new Mocha Cream Cold Brew and a THRIVE Farmers coffee blend upgrade. Introduced as a year-round, permanent menu addition (not limited-time).",
+      "category": "dessert",
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-14",
+      "status": "ended",
+      "source": "https://www.qsrmagazine.com/news/chick-fil-adding-new-brownie-coffee-drinks-nationwide/",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Mocha Cream Cold Brew",
+      "description": "New seasonal limited-time drink: cold-brewed coffee with sweetened cream and chocolate-flavored syrup over ice; launched nationwide Sept 14, 2026.",
+      "category": "drink",
+      "startDate": "2026-09-14",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/chick-fil-adding-new-brownie-coffee-drinks-nationwide/",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "Tomball, TX Grand Opening (\"Lucky 20\" Giveaway)",
+      "description": "Grand opening of a new Tomball, TX location (27619 Business 249) on Oct 29, 2026, part of the chain's continued 2026 expansion. \"Lucky 20\" drawing: 20 customers (13+) win free Cane's for a year; first 100 dine-in customers (13+) who buy a combo meal get a free T-shirt and a voucher for a free combo on a future visit.",
+      "category": "event",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "status": "upcoming",
+      "source": "https://communityimpact.com/tomball-magnolia/dining/raising-canes-makes-tomball-debut-oct-29-with-grand-opening-giveaways/",
       "image": null
     }
   ]

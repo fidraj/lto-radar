@@ -6623,7 +6623,8 @@
       "endDate": "2026-10-28",
       "status": "upcoming",
       "source": "https://www.thedailymeal.com/news/new-mcdonalds-bakery-menu/100720",
-      "image": null
+      "image": "mcdonald-s-mccaf-bakery-lineup-apple-fritter-blueberry-muffin-cinnamon-roll.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Starbucks",
@@ -6656,7 +6657,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.nrn.com/beverage-trends/taco-bell-launches-a-cold-brew-lineup",
-      "image": null
+      "image": "taco-bell-cold-brew-with-purple-horchata-cold-foam.jpg",
+      "imageAuto": true
     }
   ]
 }

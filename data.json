@@ -6390,15 +6390,15 @@
     {
       "chain": "Jack in the Box",
       "item": "2 Free Tacos with Purchase (National Taco Day, expected/unconfirmed)",
-      "description": "Deal-aggregator and syndicated local-news coverage (Fox/Cox Media Group affiliates, Nexstar/Gray wire pickups) describe a Jack in the Box app deal: two free tacos with any purchase, Oct 4 (National Taco Day, a Sunday in 2026) through Oct 10 - still no official Jack in the Box newsroom press release found for 2026, so treat as expected/unconfirmed.",
+      "description": "Jack in the Box app deal: two free tacos with any $1+ purchase, Oct 4 (National Taco Day, a Sunday in 2026) through Oct 10. Corroborated by multiple independently-dated 2026 roundups (TODAY, Yahoo); the previously-cited foxla.com article turned out to be a recycled 2019 page, swapped out here. Still no official Jack in the Box newsroom press release found for 2026, so treat as expected/unconfirmed.",
       "category": "event",
       "startDate": "2026-10-04",
       "endDate": "2026-10-10",
       "status": "active",
-      "source": "https://www.foxla.com/news/national-taco-day-spilling-the-beans-on-the-spiciest-deals-and-freebies",
+      "source": "https://www.today.com/food/restaurants/national-taco-day-deals-2026-rcna599451",
       "image": "jack-in-the-box-2-free-tacos-with-purchase-national-taco-day-jack-pack-rewards.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-05"
+      "lastConfirmed": "2026-10-06"
     },
     {
       "chain": "McDonald's",

@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-05",
+  "researched": "2026-10-06",
   "items": [
     {
       "chain": "McDonald's",
@@ -5857,7 +5857,7 @@
       "category": "donut",
       "startDate": "2026-09-22",
       "endDate": "2026-10-04",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://investors.krispykreme.com/news-releases/news-release-details/krispy-kremer-celebrates-first-day-fall-all-new-churro-doughnut",
       "image": null
     },
@@ -6152,7 +6152,7 @@
     {
       "chain": "KFC",
       "item": "\"Open House\" Concept Restaurant (McKinney, TX)",
-      "description": "New KFC restaurant format testing expanded dayparts (breakfast items, mini cronuts, boba refreshers), new sides (fried green beans, spicy pickles), table service and self-order kiosks; single test location in McKinney, Texas.",
+      "description": "New KFC restaurant format testing expanded dayparts (breakfast items, mini cronuts, boba refreshers), new sides (fried green beans, spicy pickles), \"Dipped\" and \"Dunked\" tender platforms (pre-sauced or served with 20+ dip sauces), table service and self-order kiosks; single test location in McKinney, Texas, not a national rollout.",
       "category": "event",
       "startDate": "2026-09-26",
       "endDate": null,
@@ -6612,6 +6612,50 @@
       "endDate": null,
       "status": "active",
       "source": "https://10tv.com/article/life/food/wendys-unveils-pumpkin-spice-frosty-cream-cold-brew/530-36b7f66d-4cc4-4e2b-bccf-9d9c3e5c251e",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "McCafé Bakery Lineup (Apple Fritter, Blueberry Muffin, Cinnamon Roll)",
+      "description": "First additions to McDonald's core McCafé bakery case in years (the last addition was cookies in 2012); joining the permanent all-day menu nationwide, not a limited run. endDate is set to the launch day per this board's convention for promos that become standing menu items.",
+      "category": "dessert",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "status": "upcoming",
+      "source": "https://www.thedailymeal.com/news/new-mcdonalds-bakery-menu/100720",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Iced Dubai Chocolate Matcha & Iced Dubai Chocolate Mocha",
+      "description": "Viral \"Dubai chocolate\" flavor (pistachio cream cold foam, salted brown-butter topping) turned into official menu items as part of Starbucks' winter 2026 menu. Historical backfill: endDate is a best estimate (Starbucks' spring menu rotation typically arrives in early March) since no official pull date was found.",
+      "category": "drink",
+      "startDate": "2026-01-06",
+      "endDate": "2026-03-03",
+      "status": "ended",
+      "source": "https://www.axios.com/2026/01/05/starbucks-menu-2026-dubai-chocolate-protein",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Fire Queso Sauce Packet",
+      "description": "Edible, crispy \"sauce packet\" made of queso, part of the Fire Queso collection revealed at Taco Bell's \"Live Más LIVE: A Night at The Palladium\" event (premiered March 10, 2026 on Peacock); no confirmed in-restaurant launch date found yet.",
+      "category": "food",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Cold Brew with Purple Horchata Cold Foam",
+      "description": "Cold brew topped with purple cold foam (cinnamon/vanilla notes), part of a new Taco Bell cold brew lineup announced alongside the 2026 Live Más Live menu roadmap; no confirmed nationwide launch date yet.",
+      "category": "drink",
+      "startDate": null,
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.nrn.com/beverage-trends/taco-bell-launches-a-cold-brew-lineup",
       "image": null
     }
   ]

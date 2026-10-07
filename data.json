@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-06",
+  "researched": "2026-10-07",
   "items": [
     {
       "chain": "McDonald's",
@@ -6659,6 +6659,50 @@
       "source": "https://www.nrn.com/beverage-trends/taco-bell-launches-a-cold-brew-lineup",
       "image": "taco-bell-cold-brew-with-purple-horchata-cold-foam.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Hot Honey Sauce Lineup (Hot Honey McCrispy, Bacon Hot Honey McCrispy, Hot Honey Snack Wrap, Hot Honey Sausage Egg & Cheese Biscuit)",
+      "description": "New limited-time Hot Honey Sauce (honey, red bell and cayenne peppers, hint of vinegar) launched nationwide, applied across a McCrispy, a bacon McCrispy variant, a Snack Wrap, and a breakfast biscuit, plus available as a side/dip for McCrispy Strips and Chicken McNuggets. Predated the later Caesar-sauce LTO lineup (already tracked) by about 6 months.",
+      "category": "chicken",
+      "startDate": "2026-01-27",
+      "endDate": "2026-03-02",
+      "status": "ended",
+      "source": "https://www.nrn.com/quick-service/mcdonald-s-jumps-on-the-hot-honey-trend",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Spicy Chick-n-Strips & Grilled Spicy Chicken Deluxe Sandwich (regional test)",
+      "description": "Multi-phase regional test of a spicier chicken strip (hand-breaded or grilled, 3/4/10-count) seasoned with a spicy pepper blend, plus a Grilled Spicy Chicken Deluxe Sandwich and a Spicy Chick-n-Strips Biscuit; began following a fall-2025 Phoenix pilot. Expanded Jan 13, 2026 to Charlotte, NC and Arizona, then to Tampa/Chicago/Central Texas on Apr 26, 2026, later to Philadelphia and South Texas, with a final confirmed window at 2 Atlanta-area locations (Sandy Springs, Sprayberry) July 20-Sept 12, 2026. No nationwide rollout announced.",
+      "category": "chicken",
+      "startDate": "2026-01-13",
+      "endDate": "2026-09-12",
+      "status": "ended",
+      "source": "https://www.nrn.com/quick-service/chick-fil-a-is-testing-spicy-chick-n-strips",
+      "image": null
+    },
+    {
+      "chain": "KFC",
+      "item": "Free Bucket with $15+ Order (KFSPEED / IShowSpeed Collab)",
+      "description": "KFC Rewards members get a free bucket (choice of 8pc Original Recipe chicken bucket, 8pc tenders bucket, 10pc wings bucket, or 24pc nuggets bucket) with any online/app order of $15+ using promo code KFSPEED, tied to a collab with streamer IShowSpeed (Darren Watkins Jr.) — the same influencer campaign behind KFC's Aug 24, 2026 Hot Ranch Big Dip launch. Limit one redemption per account, participating locations only. Exact start date not stated in coverage; estimated from when news broke.",
+      "category": "chicken",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-11",
+      "status": "ending-soon",
+      "source": "https://abcnews.go.com/food/story/kfc-free-bucket-fried-chicken-comeback-era-123735035",
+      "image": null
+    },
+    {
+      "chain": "Domino's",
+      "item": "National Pizza Month 50% Off All Menu-Priced Pizzas",
+      "description": "All menu-priced pizzas (any size, any of the six crust types, including Specialty Pizzas and the new Detroit-style 'The Domino') 50% off for orders placed online, via the app, by phone, or in-store, Oct 5-11, 2026, marking National Pizza Month. Coverage notes this is the first time The Domino (launched Aug 31, 2026) has been offered at half off.",
+      "category": "food",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-11",
+      "status": "ending-soon",
+      "source": "https://www.nrn.com/quick-service/domino-s-flexes-its-promotional-muscle-for-national-pizza-month",
+      "image": null
     }
   ]
 }

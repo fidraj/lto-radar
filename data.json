@@ -6691,7 +6691,8 @@
       "endDate": "2026-10-11",
       "status": "ending-soon",
       "source": "https://abcnews.go.com/food/story/kfc-free-bucket-fried-chicken-comeback-era-123735035",
-      "image": null
+      "image": "kfc-free-bucket-with-15-order-kfspeed-ishowspeed-collab.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Domino's",
@@ -6702,7 +6703,8 @@
       "endDate": "2026-10-11",
       "status": "ending-soon",
       "source": "https://www.nrn.com/quick-service/domino-s-flexes-its-promotional-muscle-for-national-pizza-month",
-      "image": null
+      "image": "domino-s-national-pizza-month-50-off-all-menu-priced-pizzas.jpg",
+      "imageAuto": true
     }
   ]
 }

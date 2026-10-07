@@ -6617,12 +6617,12 @@
     {
       "chain": "McDonald's",
       "item": "McCafé Bakery Lineup (Apple Fritter, Blueberry Muffin, Cinnamon Roll)",
-      "description": "First additions to McDonald's core McCafé bakery case in years (the last addition was cookies in 2012); joining the permanent all-day menu nationwide, not a limited run. endDate is set to the launch day per this board's convention for promos that become standing menu items.",
+      "description": "First additions to McDonald's core McCafé bakery case since 2012 cookies; joined the permanent all-day menu nationwide in 2020, then discontinued/phased out in July 2023 per McDonald's announcement.",
       "category": "dessert",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "status": "upcoming",
-      "source": "https://www.thedailymeal.com/news/new-mcdonalds-bakery-menu/100720",
+      "startDate": "2020-10-28",
+      "endDate": "2023-07-15",
+      "status": "ended",
+      "source": "https://www.nrn.com/menu/mcdonald-s-discontinues-mccafe-bakery-phasing-out-three-menu-items",
       "image": "mcdonald-s-mccaf-bakery-lineup-apple-fritter-blueberry-muffin-cinnamon-roll.jpg",
       "imageAuto": true
     },

@@ -6705,6 +6705,50 @@
       "source": "https://www.nrn.com/quick-service/domino-s-flexes-its-promotional-muscle-for-national-pizza-month",
       "image": "domino-s-national-pizza-month-50-off-all-menu-priced-pizzas.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Tiramisu Velvet Latte & Tiramisu Velvet Cold Brew",
+      "description": "New holiday espresso drink (hot/iced) topped with mascarpone cold foam and a coffee-cocoa dusting, inspired by tiramisu; part of the 2026 holiday menu launch.",
+      "category": "drink",
+      "startDate": "2026-11-05",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Apple Pomegranate Refresher (+ Snowy Apple coconutmilk variant)",
+      "description": "New non-coffee holiday Refresher with apple flavor and pomegranate-flavored pearls; part of the 2026 holiday menu launch.",
+      "category": "drink",
+      "startDate": "2026-11-05",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Braised Short Rib Grilled Cheese",
+      "description": "New savory bakery-case sandwich added for the 2026 holiday menu launch.",
+      "category": "food",
+      "startDate": "2026-11-05",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Turkey & Stuffing Sandwich (updated recipe)",
+      "description": "Returning holiday sandwich with an updated recipe, part of the 2026 holiday menu launch.",
+      "category": "food",
+      "startDate": "2026-11-05",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
+      "image": null
     }
   ]
 }

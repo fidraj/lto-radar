@@ -6389,16 +6389,15 @@
     },
     {
       "chain": "Jack in the Box",
-      "item": "2 Free Tacos with Purchase (National Taco Day, expected/unconfirmed)",
-      "description": "Jack in the Box app deal: two free tacos with any $1+ purchase, Oct 4 (National Taco Day, a Sunday in 2026) through Oct 10. Corroborated by multiple independently-dated 2026 roundups (TODAY, Yahoo); the previously-cited foxla.com article turned out to be a recycled 2019 page, swapped out here. Still no official Jack in the Box newsroom press release found for 2026, so treat as expected/unconfirmed.",
+      "item": "2 Free Tacos with $1+ App Purchase (National Taco Day)",
+      "description": "Jack in the Box app deal: two free tacos with any $1+ app purchase, Oct 6, 2026 (National Taco Day) only - a single-day deal, not a week-long window. Confirmed via Deseret News (published Oct 6, 2026) and a corroborating Slickdeals listing; the earlier Oct 4-10 week-long window cited in a prior run's source matched a different year's promo.",
       "category": "event",
-      "startDate": "2026-10-04",
-      "endDate": "2026-10-10",
-      "status": "active",
-      "source": "https://www.today.com/food/restaurants/national-taco-day-deals-2026-rcna599451",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-06",
+      "status": "ended",
+      "source": "https://www.deseret.com/u-s-world/2026/10/06/national-taco-day-deals",
       "image": "jack-in-the-box-2-free-tacos-with-purchase-national-taco-day-jack-pack-rewards.jpg",
-      "imageAuto": true,
-      "lastConfirmed": "2026-10-06"
+      "imageAuto": true
     },
     {
       "chain": "McDonald's",
@@ -6441,7 +6440,7 @@
       "category": "event",
       "startDate": "2026-09-28",
       "endDate": "2026-10-08",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.focusdailynews.com/raising-canes-celebrates-allstate-red-river-rivalry-with-ticket-giveaway-for-texas-vs-oklahoma-showdown/",
       "image": "raising-cane-s-red-river-rivalry-ticket-giveaway-2nd-annual.jpg",
       "imageAuto": true
@@ -6748,6 +6747,17 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "National Tortilla Chip Day - Free Chips & Queso Blanco",
+      "description": "Free side of chips plus Queso Blanco on digital orders with code CHIPS26 (one full-priced entree required; digital/app orders only, not third-party delivery).",
+      "category": "food",
+      "startDate": "2026-02-23",
+      "endDate": "2026-02-25",
+      "status": "ended",
+      "source": "https://newsroom.chipotle.com/2026-02-19-CHIPOTLE-CELEBRATES-NATIONAL-TORTILLA-CHIP-DAY-WITH-A-THREE-DAY-FREE-CHIPS-AND-QUESO-BLANCO-OFFER",
       "image": null
     }
   ]

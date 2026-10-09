@@ -6791,7 +6791,8 @@
       "endDate": "2026-10-31",
       "status": "upcoming",
       "source": "https://www.fox29.com/news/krispy-kreme-offering-free-halloween-doughnut-to-anyone-who-shows-up-in-costume",
-      "image": null
+      "image": "krispy-kreme-halloween-costume-free-doughnut-days-2026.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Pizza Hut",
@@ -6802,7 +6803,8 @@
       "endDate": "2026-11-02",
       "status": "active",
       "source": "https://www.pmq.com/pizza-hut-unveils-my-haunt-box-to-celebrate-halloween-spirit/",
-      "image": null
+      "image": "pizza-hut-haunt-box-my-haunt-box.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Starbucks",

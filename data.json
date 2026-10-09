@@ -6848,7 +6848,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.tastingtable.com/2279365/burger-king-game-day-menu-review/",
-      "image": null
+      "image": "burger-king-chicken-fries-with-nacho-cheese-sauce.jpg",
+      "imageAuto": true
     }
   ]
 }

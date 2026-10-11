@@ -367,7 +367,7 @@
       "status": "active",
       "source": "https://www.irwendys.com/news/news-details/2026/Crisp-Days-Meet-Cozy-Bites-Wendys-Brings-Pub-Worthy-Fall-Flavor-with-New-and-Returning-Seasonal-Favorites/default.aspx",
       "image": "wendy-s-pretzel-bacon-pub-cheeseburger.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Wendy's",
@@ -379,7 +379,7 @@
       "status": "active",
       "source": "https://www.irwendys.com/news/news-details/2026/Crisp-Days-Meet-Cozy-Bites-Wendys-Brings-Pub-Worthy-Fall-Flavor-with-New-and-Returning-Seasonal-Favorites/default.aspx",
       "image": "wendy-s-pretzel-bacon-pub-chicken-sandwich.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Wendy's",
@@ -391,7 +391,7 @@
       "status": "active",
       "source": "https://www.irwendys.com/news/news-details/2026/Crisp-Days-Meet-Cozy-Bites-Wendys-Brings-Pub-Worthy-Fall-Flavor-with-New-and-Returning-Seasonal-Favorites/default.aspx",
       "image": "wendy-s-bacon-pub-fries.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Wendy's",
@@ -403,7 +403,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/wendys-new-apple-crumble-frosty-fusion.html",
       "image": "wendy-s-apple-crumble-frosty-fusion.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Wendy's",
@@ -558,11 +558,11 @@
       "description": "Movie tie-in Supergirl Ultimate Meal and Combo Meal with three 'choose your hero' sauces, a Kryptonian Kooler beverage, blind-bag collectibles, and a limited Krypto Collectible Bucket.",
       "category": "event",
       "startDate": "2026-06-08",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-07-31",
+      "status": "ended",
       "source": "https://www.barchart.com/story/news/2265578/supergirl-summer-takes-off-at-kfc-with-new-supergirl-ultimate-meal-character-inspired-sauce-showdowns-and-must-have-limited-edition-collectibles",
       "image": "kfc-supergirl-ultimate-meal.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "KFC",
@@ -741,12 +741,12 @@
       "item": "$7 Big Deal Meal",
       "description": "Value combo: Sonic Cheeseburger, medium Tots or Fries, and a medium fountain drink for $7. Refreshed for football season (Sept 2, 2026) with a new Vanilla Sundae swapped in for the original Premium Chicken Bites side, tied to a 'My Greatest 7' ad campaign featuring Baker Mayfield and Bijan Robinson.",
       "category": "event",
-      "startDate": "2026-06-08",
+      "startDate": "2026-06-01",
       "endDate": null,
       "status": "active",
-      "source": "https://www.brandeating.com/2026/06/sonic-new-7-dollar-big-meal-deal.html",
+      "source": "https://www.businesswire.com/news/home/20260601211848/en/SONIC-Debuts-the-$7-Big-Deal-Meal-Bringing-More-of-What-Guests-Want-for-Less",
       "image": "sonic-7-big-deal-meal.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Arby's",
@@ -1302,7 +1302,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260601211848/en/SONIC-Debuts-the-$7-Big-Deal-Meal-Bringing-More-of-What-Guests-Want-for-Less",
       "image": "sonic-1-99-value-menu.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Sonic",
@@ -1901,7 +1901,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/arbys-introduces-new-meat-3-box-meal.html",
       "image": "arby-s-meat-3-box-meal.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Arby's",
@@ -1924,7 +1924,7 @@
       "status": "active",
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
       "image": "arby-s-steak-nuggets.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Jack in the Box",
@@ -2651,7 +2651,7 @@
       "image": null,
       "imageUrl": null,
       "imageSkip": true,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Arby's",
@@ -2664,7 +2664,7 @@
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
       "image": "arby-s-steak-n-mac-bowl-steak-nuggets.jpg",
       "imageUrl": null,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Chipotle",
@@ -2718,7 +2718,7 @@
       "status": "active",
       "source": "https://rollingout.com/2026/08/11/mcdonalds-unveils-bold-new-drink-menu-17/",
       "image": null,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "McDonald's",
@@ -2892,7 +2892,7 @@
       "image": "mcdonald-s-mcvalue-under-3-menu-4-breakfast-meal-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "McDonald's",
@@ -3653,7 +3653,7 @@
       "item": "Value Feast: $7/$9/$11 Box Feasts (featuring the KFC Snacker)",
       "description": "Three-tier value lineup: $7 Box Feast (Snacker, 5 nuggets, fries, medium drink, sauce), $9 Box Feast (two Snackers + sides), $11 Box Feast (chicken sandwich, two tenders, fries, medium drink).",
       "category": "food",
-      "startDate": "2026-03-31",
+      "startDate": "2026-03-30",
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-has-an-answer-to-the-value-wars-a-value-feast-fit-for-the-moment-302728926.html",
@@ -3778,7 +3778,7 @@
       "source": "https://www.nrn.com/beverage-trends/sonic-s-fall-drink-lineup-is-cold-and-pumpkin-free",
       "image": "sonic-hotumn-fall-drink-lineup.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Taco Bell",
@@ -3935,18 +3935,6 @@
       "imageAuto": true
     },
     {
-      "chain": "Starbucks",
-      "item": "Apple Crisp Oatmilk Macchiato (returning)",
-      "description": "Espresso, brown sugar and cinnamon syrups over oatmilk, topped with apple-flavored cold foam and spice topping; returns as part of Starbucks' fall 2026 menu alongside the Pumpkin Spice Latte lineup.",
-      "category": "drink",
-      "startDate": "2026-08-25",
-      "endDate": null,
-      "status": "active",
-      "source": "https://parade.com/news/starbucks-fall-2026-menu-causes-stir-fan-favorite-drink-missing-apple-crisp",
-      "image": null,
-      "lastConfirmed": "2026-09-15"
-    },
-    {
       "chain": "Chipotle",
       "item": "National Avocado Day - Free Chips & Guac",
       "description": "For the first time, free chips paired with a regular side of guacamole with any full-priced entree purchase, via code AVO2026 on the app/Chipotle.com, to celebrate National Avocado Day.",
@@ -3992,7 +3980,7 @@
       "source": "https://www.tastingtable.com/2236477/arbys-steak-nuggets-return-potato-bowl-new-sauce/",
       "image": "arby-s-horsey-ranch-dipping-sauce.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Pizza Hut",
@@ -4773,12 +4761,12 @@
       "item": "Sweet N' Spicy Honey BBQ Glazed Tenders",
       "description": "McDonald's Buttermilk Crispy Tenders (all white meat) hand-tossed and glazed to order in a new sweet n' spicy honey BBQ glaze made with brown sugar, chili pepper, garlic powder and paprika; available in 4, 6 and 10-piece orders nationwide for a limited time.",
       "category": "chicken",
-      "startDate": "2026-08-20",
-      "endDate": null,
-      "status": "active",
+      "startDate": "2018-08-15",
+      "endDate": "2018-10-15",
+      "status": "ended",
       "source": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/honey_bbq_tenders.html",
       "image": null,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Chick-fil-A",
@@ -5120,7 +5108,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260824345240/en/SONIC-Goes-Bananas-with-an-All-New-Banana-Collection-Featuring-the-Return-of-the-Fan-Favorite-Banana-Pudding-Shake",
       "image": null,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Jack in the Box",
@@ -6102,7 +6090,8 @@
       "status": "active",
       "source": "https://www.nrn.com/quick-service/taco-bell-expands-beverage-lineup-with-new-energy-drinks",
       "image": "taco-bell-pineapple-citrus-strawberry-tropics-energy-lineup.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-11"
     },
     {
       "chain": "Taco Bell",

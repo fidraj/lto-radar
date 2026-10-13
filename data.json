@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-12",
+  "researched": "2026-10-13",
   "items": [
     {
       "chain": "McDonald's",
@@ -1657,7 +1657,7 @@
       "status": "active",
       "source": "https://sporked.com/article/popeyes-just-sneakily-added-new-onion-rings/",
       "image": null,
-      "lastConfirmed": "2026-10-04"
+      "lastConfirmed": "2026-10-13"
     },
     {
       "chain": "Chipotle",
@@ -1831,7 +1831,7 @@
       "status": "active",
       "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/what-are-the-chick-fil-a-iced-coffee-and-cream-cold-brew-beverages",
       "image": "chick-fil-a-cream-cold-brew.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-10-13"
     },
     {
       "chain": "Dunkin'",
@@ -5426,7 +5426,7 @@
       "status": "active",
       "source": "https://news.popeyes.com/blog-posts/popeyes-introduces-that-chicken-from-popeyes-a-bold-new-brand-campaign-inspired-by-the-real-louisiana-kitchen",
       "image": "popeyes-that-chicken-from-popeyes-brand-campaign.jpg",
-      "lastConfirmed": "2026-09-14",
+      "lastConfirmed": "2026-10-13",
       "imageAuto": true
     },
     {
@@ -6055,7 +6055,8 @@
       "status": "active",
       "source": "https://newsroom.subway.com/2026-09-21-Subway-R-Launches-New-Feed-Your-SUBconscious-TM-Brand-Platform-Starring-Will-Arnett-as-Americas-Inner-Voice,1",
       "image": "subway-feed-your-subconscious-brand-platform-will-arnett.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-13"
     },
     {
       "chain": "Wendy's",
@@ -6265,11 +6266,11 @@
     {
       "chain": "Popeyes",
       "item": "Honey Chicken Biscuit",
-      "description": "New sandwich innovation launched nationwide Sept 28, 2026 for $5: Popeyes chicken tucked inside a larger version of the chain's signature buttermilk biscuit, served with two packets of sweet honey sauce for drizzling. Also available in a combo starting at $9.99.",
+      "description": "New sandwich innovation launched nationwide Sept 28, 2026 for $5: Popeyes chicken tucked inside a larger version of the chain's signature buttermilk biscuit, served with two packets of sweet honey sauce for drizzling. Also available in a combo starting at $9.99. Confirmed PERMANENT menu item per a Popeyes spokesperson (Restaurant Dive) - no longer tracked as an LTO.",
       "category": "sandwich",
       "startDate": "2026-09-28",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-28",
+      "status": "ended",
       "source": "https://news.popeyes.com/blog-posts/born-from-bold-flavor-popeyes-r-announces-their-latest-sandwich-innovation-with-the-new-honey-chicken-biscuit",
       "image": "popeyes-honey-chicken-biscuit.jpg",
       "imageAuto": true
@@ -6283,7 +6284,8 @@
       "endDate": "2026-10-31",
       "status": "upcoming",
       "source": "https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-13"
     },
     {
       "chain": "Chipotle",
@@ -6693,7 +6695,8 @@
       "status": "ending-soon",
       "source": "https://www.nrn.com/quick-service/domino-s-flexes-its-promotional-muscle-for-national-pizza-month",
       "image": "domino-s-national-pizza-month-50-off-all-menu-priced-pizzas.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-13"
     },
     {
       "chain": "Starbucks",
@@ -6794,7 +6797,8 @@
       "status": "active",
       "source": "https://sporked.com/article/pizza-hut-haunt-box/",
       "image": "pizza-hut-haunt-box-my-haunt-box.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-13"
     },
     {
       "chain": "Starbucks",
@@ -6817,29 +6821,6 @@
       "status": "upcoming",
       "source": "https://about.starbucks.com/?p=292725",
       "image": null
-    },
-    {
-      "chain": "Burger King",
-      "item": "Game Day Pretzel Burger",
-      "description": "Quarter-pound flame-grilled beef patty with American cheese, crispy bacon, nacho cheese sauce and crispy onions, served on a warm SUPERPRETZEL Soft Pretzel Bun instead of the usual sesame bun; part of a new football-season Game Day menu at participating restaurants nationwide.",
-      "category": "burger",
-      "startDate": "2026-10-06",
-      "endDate": "while supplies last",
-      "status": "active",
-      "source": "https://www.eatthis.com/burger-king-pretzel-whopper-nacho-chicken-fries",
-      "image": null
-    },
-    {
-      "chain": "Burger King",
-      "item": "Chicken Fries with Nacho Cheese Sauce",
-      "description": "Burger King's classic Chicken Fries paired with a side of nacho cheese sauce for dipping; launched alongside the Game Day Pretzel Burger as part of the chain's football-season Game Day menu, nationwide at participating restaurants starting Oct 6, 2026.",
-      "category": "chicken",
-      "startDate": "2026-10-06",
-      "endDate": "while supplies last",
-      "status": "active",
-      "source": "https://www.tastingtable.com/2279365/burger-king-game-day-menu-review/",
-      "image": "burger-king-chicken-fries-with-nacho-cheese-sauce.jpg",
-      "imageAuto": true
     },
     {
       "chain": "McDonald's",
@@ -6873,6 +6854,61 @@
       "endDate": "2026-10-18",
       "status": "active",
       "source": "https://dannydealguru.com/grubhub-national-pizza-month-deals-2026/",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Live Más Open Golf Tournament (Kevin Hart x Topgolf)",
+      "description": "Taco Bell's inaugural nine-hole golf tournament hosted by Kevin Hart at The Ranch at Laguna Beach on November 2, 2026, pairing 36 fan qualifiers with celebrities, pro athletes and creators; features an on-course drive-thru serving exclusive golf-inspired Taco Bell food and drinks. Winning team gets to help bring back a discontinued Taco Bell menu item for a limited time in 2027.",
+      "category": "event",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "status": "upcoming",
+      "source": "https://www.tacobell.com/newsroom/inaugural-live-mas-open-golf-tournament",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Cranberry Bliss Bar, Snowman Cookie & Sugar Plum Cheese Danish (holiday returning favorites)",
+      "description": "Part of Starbucks' 2026 holiday bakery case lineup launching Nov 5 alongside the new Bearista Cake Pop: the returning Cranberry Bliss Bar, Snowman Cookie, and Sugar Plum Cheese Danish round out the seasonal bakery case nationwide.",
+      "category": "dessert",
+      "startDate": "2026-11-05",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Halloween Sprinkle Takeover Donuts",
+      "description": "Dunkin's classic Chocolate Iced, Vanilla Iced, and Strawberry Iced donuts topped with Halloween-themed sprinkles instead of the usual multicolor mix. Part of Dunkin's second-wave Halloween rollout alongside the Halloween MUNCHKINS Bucket and Spider Donut (both already tracked, same Oct 14, 2026 date). Leaked/unconfirmed by Dunkin's own newsroom for 2026 - reported via food-news roundups citing the same second-wave date.",
+      "category": "donut",
+      "startDate": "2026-10-14",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://sporked.com/article/everything-coming-to-dunkin-for-halloween/",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Monster Taco & Mummy Wrapped Monster Taco (returning, Halloween)",
+      "description": "Annual Halloween-season return of Jack in the Box's oversized crispy Monster Taco, plus the Mummy Wrapped Monster Taco variant (the Monster Taco wrapped in a warm flour tortilla with nacho cheese sauce and bacon). Timed to National Taco Day (Oct 4), running alongside but distinct from the Sept 10-launched Simpsons Treehouse of Horror collab. Exact publish date of the source report could not be independently confirmed this run; treat date as a best estimate pending a stronger source.",
+      "category": "taco",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-31",
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/jack-box-debuts-new-monster-tacos/",
+      "image": null
+    },
+    {
+      "chain": "Pizza Hut",
+      "item": "Little Hut Libraries (Little Free Library collab)",
+      "description": "Pizza Hut partnered with nonprofit Little Free Library to turn its iconic red roofs into miniature, restaurant-shaped book exchange boxes for National Book Month/National Pizza Month (October). Each box is stocked with books and a limited quantity of BOOK IT!-tied Personal Pan Pizza gift cards, while supplies last; people can apply via Little Free Library's sponsorship page to receive one for free.",
+      "category": "event",
+      "startDate": "2026-09-29",
+      "endDate": "2026-10-31",
+      "status": "active",
+      "source": "https://www.wsbtv.com/news/trending/pizza-hut-sponsors-little-hut-libraries-national-book-month-national-pizza-month/QRTNTQAWGZESRNZ3GDNW5GLYPI/",
       "image": null
     }
   ]

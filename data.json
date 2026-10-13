@@ -6854,7 +6854,8 @@
       "endDate": "2026-10-18",
       "status": "active",
       "source": "https://dannydealguru.com/grubhub-national-pizza-month-deals-2026/",
-      "image": null
+      "image": "pizza-hut-bogo-personal-pan-pizza-national-pizza-month-grubhub-leaked-unconfirme.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -6887,7 +6888,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://sporked.com/article/everything-coming-to-dunkin-for-halloween/",
-      "image": null
+      "image": "dunkin-halloween-sprinkle-takeover-donuts.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Jack in the Box",
@@ -6909,7 +6911,8 @@
       "endDate": "2026-10-31",
       "status": "active",
       "source": "https://www.wsbtv.com/news/trending/pizza-hut-sponsors-little-hut-libraries-national-book-month-national-pizza-month/QRTNTQAWGZESRNZ3GDNW5GLYPI/",
-      "image": null
+      "image": "pizza-hut-little-hut-libraries-little-free-library-collab.jpg",
+      "imageAuto": true
     }
   ]
 }

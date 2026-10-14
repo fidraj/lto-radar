@@ -6924,7 +6924,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.tastingtable.com/2282810/arbys-new-chicken-cheesesteak/",
-      "image": null
+      "image": "arby-s-chicken-cheesesteak-classic.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Arby's",
@@ -6935,7 +6936,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.tastingtable.com/2282810/arbys-new-chicken-cheesesteak/",
-      "image": null
+      "image": "arby-s-chicken-deluxe-cheesesteak.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Arby's",
@@ -6946,7 +6948,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.tastingtable.com/2282810/arbys-new-chicken-cheesesteak/",
-      "image": null
+      "image": "arby-s-spicy-chicken-cheesesteak.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Subway",
@@ -6957,7 +6960,8 @@
       "endDate": "2026-10-16",
       "status": "active",
       "source": "https://www.mediapost.com/publications/article/418677/subway-spooks-bad-midday-meals-with-new-halloween.html",
-      "image": null
+      "image": "subway-lunchtime-horrors-halloween-sweepstakes.jpg",
+      "imageAuto": true
     }
   ]
 }

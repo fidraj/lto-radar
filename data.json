@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-13",
+  "researched": "2026-10-14",
   "items": [
     {
       "chain": "McDonald's",
@@ -1365,13 +1365,14 @@
     {
       "chain": "Taco Bell",
       "item": "Milk Bar Birthday Cake Empanada",
-      "description": "Dessert collaboration with Milk Bar, announced as part of Taco Bell's 2026 Live Más Live menu roadmap. No confirmed launch date yet.",
+      "description": "Dessert collaboration with Milk Bar (3rd Taco Bell x Milk Bar collab): crispy empanada shell filled with cake-batter-flavored filling, topped with pink frosting and rainbow sprinkles; $3.49. Announced as part of Taco Bell's 2026 Live Más Live menu roadmap, launched nationwide Oct 15, 2026.",
       "category": "dessert",
-      "startDate": null,
+      "startDate": "2026-10-15",
       "endDate": null,
       "status": "upcoming",
-      "source": "https://www.prnewswire.com/news-releases/taco-bell-reveals-its-2026-menu-innovations-at-live-mas-live-a-night-at-the-palladium--a-star-powered-hollywood-spectacle-now-streaming-on-peacock-302709053.html",
-      "image": null
+      "source": "https://www.tacobell.com/newsroom/taco-bell-milk-bar-reunite",
+      "image": null,
+      "lastConfirmed": "2026-10-14"
     },
     {
       "chain": "Sonic",
@@ -2975,7 +2976,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/newsroom/olivia-rodrigo-baja-blast",
       "image": null,
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-10-14"
     },
     {
       "chain": "Taco Bell",
@@ -6913,6 +6914,50 @@
       "source": "https://www.wsbtv.com/news/trending/pizza-hut-sponsors-little-hut-libraries-national-book-month-national-pizza-month/QRTNTQAWGZESRNZ3GDNW5GLYPI/",
       "image": "pizza-hut-little-hut-libraries-little-free-library-collab.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Arby's",
+      "item": "Chicken Cheesesteak (Classic)",
+      "description": "Seasoned, sous-vide-cooked chicken with melted Cooper American cheese and caramelized onions on a toasted sesame roll; part of a new Chicken Cheesesteak lineup following the Angus Cheesesteak's run. ~$7.49.",
+      "category": "sandwich",
+      "startDate": "2026-10-12",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tastingtable.com/2282810/arbys-new-chicken-cheesesteak/",
+      "image": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Chicken Deluxe Cheesesteak",
+      "description": "Chicken Cheesesteak (seasoned, sous-vide-cooked chicken, melted Cooper American cheese, caramelized onions, toasted sesame roll) topped with shredded lettuce and sliced tomato. ~$8.49.",
+      "category": "sandwich",
+      "startDate": "2026-10-12",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tastingtable.com/2282810/arbys-new-chicken-cheesesteak/",
+      "image": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Spicy Chicken Cheesesteak",
+      "description": "Chicken Cheesesteak (seasoned, sous-vide-cooked chicken, melted Cooper American cheese, caramelized onions, toasted sesame roll) finished with a cayenne-based spicy glaze. ~$7.99.",
+      "category": "sandwich",
+      "startDate": "2026-10-12",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tastingtable.com/2282810/arbys-new-chicken-cheesesteak/",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "Lunchtime Horrors Halloween Sweepstakes",
+      "description": "Halloween-themed giveaway tied to Subway's \"Feed Your SUBconscious\" platform: guests 18+ submit a bad-lunch story at LunchtimeHorrors.com for a chance at one of 5,000 $15 digital Subway gift cards (1,000 per day across 5 entry periods). No purchase necessary.",
+      "category": "event",
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-16",
+      "status": "active",
+      "source": "https://www.mediapost.com/publications/article/418677/subway-spooks-bad-midday-meals-with-new-halloween.html",
+      "image": null
     }
   ]
 }

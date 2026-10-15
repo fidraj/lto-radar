@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-14",
+  "researched": "2026-10-15",
   "items": [
     {
       "chain": "McDonald's",
@@ -11,7 +11,7 @@
       "status": "active",
       "source": "https://www.thestreet.com/restaurants/mcdonalds-launches-four-new-menu-items-chicken-caesar",
       "image": "mcdonald-s-caesar-snack-wrap.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-10-15"
     },
     {
       "chain": "McDonald's",
@@ -23,7 +23,7 @@
       "status": "active",
       "source": "https://www.primetimer.com/news/mcdonald-s-introduces-four-new-limited-time-menu-items-across-the-u-s",
       "image": "mcdonald-s-bacon-caesar-mccrispy.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-10-15"
     },
     {
       "chain": "McDonald's",
@@ -35,7 +35,7 @@
       "status": "active",
       "source": "https://www.foodie.com/2230390/fast-food-best-new-menu-items-august-2026/",
       "image": "mcdonald-s-honey-brown-butter-bacon-egg-cheese-biscuit.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-10-15"
     },
     {
       "chain": "McDonald's",
@@ -59,7 +59,7 @@
       "status": "active",
       "source": "https://pielocator.com/",
       "image": "mcdonald-s-pumpkin-creme-pie.jpg",
-      "lastConfirmed": "2026-10-01"
+      "lastConfirmed": "2026-10-15"
     },
     {
       "chain": "McDonald's",
@@ -874,7 +874,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-09-03"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Dairy Queen",
@@ -886,7 +886,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": "dairy-queen-pumpkin-pie-blizzard-returning.jpg",
-      "lastConfirmed": "2026-09-03"
+      "lastConfirmed": "2026-09-28"
     },
     {
       "chain": "Dairy Queen",
@@ -1215,7 +1215,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/mcdonalds-usa-enters-the-world-of-energy-with-red-bull-dragonberry-energizer-302847669.html",
       "image": "mcdonald-s-red-bull-dragonberry-energizer.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-10-15"
     },
     {
       "chain": "Taco Bell",
@@ -2232,7 +2232,7 @@
       "status": "active",
       "source": "https://ir.dominos.com/news-releases/news-release-details/after-more-65-years-dominosr-launch-first-pizza-worthy-its-name",
       "image": "domino-s-the-domino-detroit-style-personal-pizza.jpg",
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-10-05"
     },
     {
       "chain": "Dunkin'",
@@ -2718,7 +2718,7 @@
       "status": "active",
       "source": "https://rollingout.com/2026/08/11/mcdonalds-unveils-bold-new-drink-menu-17/",
       "image": null,
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-10-15"
     },
     {
       "chain": "McDonald's",
@@ -3231,7 +3231,7 @@
       "source": "https://rollingout.com/2026/08/11/mcdonalds-unveils-bold-new-drink-menu-17/",
       "imageUrl": null,
       "image": null,
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-10-15"
     },
     {
       "chain": "Burger King",
@@ -5974,7 +5974,7 @@
       "category": "event",
       "startDate": "2026-10-06",
       "endDate": "2026-11-08",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/monopoly-returns-more-chances-towin.html",
       "image": null
     },
@@ -6351,7 +6351,7 @@
       "category": "burger",
       "startDate": "2026-10-06",
       "endDate": "2026-11-01",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
       "image": "burger-king-game-day-pretzel-burger.jpg",
       "imageAuto": true
@@ -6363,7 +6363,7 @@
       "category": "food",
       "startDate": "2026-10-06",
       "endDate": "2026-11-01",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
       "image": "burger-king-chicken-fries-with-nacho-cheese-sauce.jpg",
       "imageAuto": true
@@ -6375,7 +6375,7 @@
       "category": "event",
       "startDate": "2026-10-06",
       "endDate": "2026-11-03",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
       "image": "burger-king-game-day-royal-perks-sweepstakes.jpg",
       "imageAuto": true
@@ -6962,6 +6962,39 @@
       "source": "https://www.mediapost.com/publications/article/418677/subway-spooks-bad-midday-meals-with-new-halloween.html",
       "image": "subway-lunchtime-horrors-halloween-sweepstakes.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Peppermint Mocha, Caramel Brulée Latte, Sugar Cookie Latte & Gingerbread Chai (holiday returning favorites)",
+      "description": "Classic holiday espresso drinks returning as part of Starbucks' 2026 holiday menu launch nationwide Nov 5, alongside the new holiday bakery case and merch collections.",
+      "category": "drink",
+      "startDate": "2026-11-05",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://about.starbucks.com/?p=292725",
+      "image": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "SOUR PATCH KIDS Wicked Punch",
+      "description": "Limited-time Halloween wing flavor collaboration with SOUR PATCH KIDS: a sour-then-sweet redberry glaze finished with SOUR PATCH KIDS Bitz, available across all proteins. Early access for Club Wingstop members Oct 23, nationwide Oct 27, through Nov 5 while supplies last, via restaurants, app and wingstop.com.",
+      "category": "chicken",
+      "startDate": "2026-10-23",
+      "endDate": "2026-11-05",
+      "status": "active",
+      "source": "https://www.fastcasual.com/news/wingstop-sour-patch-kids-create-wicked-punch-wing-flavor-for-halloween/",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "October 2026 Restaurant Expansion Wave",
+      "description": "Seven new restaurant openings in October 2026 continuing the chain's 30th-anniversary growth push: Wausau, WI (Oct 5); San Francisco, CA and Goleta, CA (Oct 12); Springfield, OR (Oct 13); Macon, GA (Oct 19); Grandville, MI (Oct 22); Idaho Falls, ID (Oct 27).",
+      "category": "event",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-27",
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/raising-canes-to-open-seven-stores-in-october/",
+      "image": null
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-15",
+  "researched": "2026-10-16",
   "items": [
     {
       "chain": "McDonald's",
@@ -86,8 +86,8 @@
     },
     {
       "chain": "McDonald's",
-      "item": "McRib (phased return)",
-      "description": "Seasoned boneless pork rib patty with BBQ sauce, pickles and onions; reported phased rollout starting the last week of October in select Midwest/South markets, most locations early-to-mid November. Not a full nationwide release.",
+      "item": "McRib (phased return, unconfirmed)",
+      "description": "Seasoned boneless pork rib patty with BBQ sauce, pickles and onions. Oct 26, 2026 start date comes from a single low-quality site (eathealthy365.com) and could not be corroborated: no official McDonald's US newsroom release found, and a second weak source (balleralert.com) instead claims a Nov 2-29, 2026 window. The most recent confirmed US McRib news is a regional Nov 2025 return (not nationwide). Note: reports of McDonald's Germany pulling the McRib from its permanent menu around Oct 27-28, 2026 are a separate, unrelated European story and do not confirm a US LTO return.",
       "category": "sandwich",
       "startDate": "2026-10-26",
       "endDate": null,
@@ -1369,7 +1369,7 @@
       "category": "dessert",
       "startDate": "2026-10-15",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.tacobell.com/newsroom/taco-bell-milk-bar-reunite",
       "image": null,
       "lastConfirmed": "2026-10-14"
@@ -5084,7 +5084,7 @@
       "source": "https://www.prnewswire.com/news-releases/wingstop-kicks-off-football-season-with-new-lemon-pepper-trio-and-its-first-ever-wing-pass-302872818.html",
       "image": "wingstop-lemon-pepper-trio-chili-crunch-chili-glaze.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-30"
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Wingstop",
@@ -5120,7 +5120,8 @@
       "endDate": "2026-10-31",
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Jack in the Box",
@@ -5131,7 +5132,8 @@
       "endDate": "2026-10-31",
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Jack in the Box",
@@ -5142,7 +5144,8 @@
       "endDate": "2026-10-31",
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Taco Bell",
@@ -5185,14 +5188,15 @@
     {
       "chain": "Dunkin'",
       "item": "Halloween MUNCHKINS Bucket & Spider Donut (returning)",
-      "description": "50-count Munchkins donut-hole 'bucket' and the returning Spider Donut (frosted donut with a chocolate Munchkins hole for a body plus icing legs/eyes). Reported as a second-wave, in-restaurant rollout on Oct 14, 2026 following the Sept 30 drinks wave (leaked, unconfirmed by Dunkin's own newsroom for 2026 - reported via content creator @markie_devo and corroborated by multiple food-news outlets in Sept 2026; the news.dunkindonuts.com press release sharing this exact title/lineup is Dunkin's 2024 release, reused as a recurring campaign name, not this year's confirmation).",
+      "description": "50-count Munchkins donut-hole 'bucket' (new glow-in-the-dark purple design this year) and the returning Spider Donut (frosted donut with a chocolate Munchkins hole for a body plus icing legs/eyes); $2 per bucket benefits the Joy in Childhood Foundation. Second-wave, in-restaurant rollout confirmed live Oct 14, 2026 following the Sept 30 drinks wave.",
       "category": "donut",
       "startDate": "2026-10-14",
       "endDate": null,
-      "status": "upcoming",
-      "source": "https://www.thetakeout.com/2249701/dunkin-new-halloween-menu-starbucks-rival-internet-reaction/",
+      "status": "active",
+      "source": "https://www.hercampus.com/life/dunkin-halloween-2026-menu-new-creature-character/",
       "image": "dunkin-halloween-munchkins-bucket-spider-donut-returning.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Dunkin'",
@@ -5331,7 +5335,7 @@
       "status": "upcoming",
       "source": "https://www.prnewswire.com/news-releases/wendys-is-serving-up-a-frightfully-fun-halloween-with-boo-books-and-frosty-frights-302868252.html",
       "image": "wendy-s-frosty-frights-secret-13th-figure-brain-freeze.jpg",
-      "lastConfirmed": "2026-09-28",
+      "lastConfirmed": "2026-10-16",
       "imageAuto": true
     },
     {
@@ -5467,13 +5471,14 @@
     {
       "chain": "Dunkin'",
       "item": "Berry Battie Daydream Refresher",
-      "description": "Blueberry-flavored twist on the Berry Clementine Refresher, made with oatmilk and topped with purple marshmallow cold foam and candy eyes; second wave of Dunkin's Halloween lineup alongside the returning Halloween MUNCHKINS Bucket and Spider Donut. Leaked/unconfirmed by Dunkin's own newsroom as of 2026-09-15.",
+      "description": "Blueberry-flavored twist on the Berry Clementine Refresher, made with oatmilk and topped with purple marshmallow cold foam and candy eyes; second wave of Dunkin's Halloween lineup. Confirmed live Oct 14, 2026, reviewed on launch day by Tasting Table.",
       "category": "drink",
       "startDate": "2026-10-14",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://sporked.com/article/everything-coming-to-dunkin-for-halloween/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Starbucks",
@@ -5484,7 +5489,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://about.starbucks.com/stories/2026/black-cat-frappuccino-blended-beverage-arrives-at-starbucks-oct-22-plus-a-new-halloween-cookie-and-merchandise/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Starbucks",
@@ -5495,7 +5501,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://about.starbucks.com/stories/2026/black-cat-frappuccino-blended-beverage-arrives-at-starbucks-oct-22-plus-a-new-halloween-cookie-and-merchandise/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Sonic",
@@ -5754,7 +5761,7 @@
       "category": "event",
       "startDate": "2026-10-10",
       "endDate": "2026-11-30",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://essential-japan.com/news/burger-king-x-hello-kitty-and-friends-collab-leaks-ahead-of-october-us-launch/",
       "image": "burger-king-hello-kitty-friends-king-jr-meal-leaked-unconfirmed.jpg",
       "imageAuto": true
@@ -5973,10 +5980,11 @@
       "description": "Collect-to-win game returns: peel a game piece on eligible menu items (large fries, hot/cold drinks, select breakfast items) and scan it in the McDonald's app for instant food prizes, rewards points, a digital Chance Card play, or collect-set prizes (cash up to $1M, a car, a Carnival cruise, up to $50,000 toward a home down payment or college debt). Physical game pieces available Oct 6 - Nov 1 while supplies last; digital Chance Card play continues through Nov 8. Confirmed via official McDonald's press release dated Sept 22, 2026.",
       "category": "event",
       "startDate": "2026-10-06",
-      "endDate": "2026-11-08",
+      "endDate": "2026-11-01",
       "status": "active",
-      "source": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/monopoly-returns-more-chances-towin.html",
-      "image": null
+      "source": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/monopoly-returns-mcdonalds-bigger-prizes-rewards-easier-gameplay.html",
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Krispy Kreme",
@@ -6117,7 +6125,8 @@
       "endDate": "2026-10-21",
       "status": "active",
       "source": "https://ir.wingstop.com/wingstop-announces-the-game-day-punch-card/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Jack in the Box",
@@ -6217,7 +6226,8 @@
       "endDate": "2026-11-01",
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Dairy Queen",
@@ -6228,7 +6238,8 @@
       "endDate": "2026-11-01",
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Dairy Queen",
@@ -6239,7 +6250,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Taco Bell",
@@ -6283,10 +6295,10 @@
       "category": "drink",
       "startDate": "2026-10-02",
       "endDate": "2026-10-31",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO",
       "image": null,
-      "lastConfirmed": "2026-10-13"
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Chipotle",
@@ -6491,7 +6503,8 @@
       "endDate": "2026-10-31",
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Zaxby's",
@@ -6512,7 +6525,7 @@
       "category": "food",
       "startDate": "2026-10-06",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.prnewswire.com/news-releases/taco-bell-and-duolingo-take-national-taco-day-global-uniting-fans-around-one-word-the-world-already-speaks-taco-302895125.html",
       "image": "taco-bell-duo-habanero-sauce-taco-bell-x-duolingo-collab.jpg",
       "imageAuto": true
@@ -6693,7 +6706,7 @@
       "category": "food",
       "startDate": "2026-10-05",
       "endDate": "2026-10-11",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.nrn.com/quick-service/domino-s-flexes-its-promotional-muscle-for-national-pizza-month",
       "image": "domino-s-national-pizza-month-50-off-all-menu-priced-pizzas.jpg",
       "imageAuto": true,
@@ -6708,7 +6721,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Starbucks",
@@ -6719,7 +6733,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Starbucks",
@@ -6730,7 +6745,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Starbucks",
@@ -6741,7 +6757,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Chipotle",
@@ -6810,7 +6827,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://about.starbucks.com/?p=292725",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Starbucks",
@@ -6821,7 +6839,8 @@
       "endDate": "while supplies last",
       "status": "upcoming",
       "source": "https://about.starbucks.com/?p=292725",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "McDonald's",
@@ -6830,7 +6849,7 @@
       "category": "event",
       "startDate": "2026-10-15",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://eathealthy365.com/mcdonalds-boo-buckets-2026-your-ultimate-guide/",
       "image": "mcdonald-s-boo-buckets-halloween-happy-meal-leaked-unconfirmed-exact-date.jpg",
       "imageAuto": true
@@ -6878,19 +6897,21 @@
       "endDate": "while supplies last",
       "status": "upcoming",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Dunkin'",
       "item": "Halloween Sprinkle Takeover Donuts",
-      "description": "Dunkin's classic Chocolate Iced, Vanilla Iced, and Strawberry Iced donuts topped with Halloween-themed sprinkles instead of the usual multicolor mix. Part of Dunkin's second-wave Halloween rollout alongside the Halloween MUNCHKINS Bucket and Spider Donut (both already tracked, same Oct 14, 2026 date). Leaked/unconfirmed by Dunkin's own newsroom for 2026 - reported via food-news roundups citing the same second-wave date.",
+      "description": "Dunkin's classic Chocolate Iced, Vanilla Iced, and Strawberry Iced donuts topped with Halloween-themed sprinkles instead of the usual multicolor mix. Part of Dunkin's second-wave Halloween rollout alongside the Halloween MUNCHKINS Bucket and Spider Donut, confirmed live Oct 14, 2026.",
       "category": "donut",
       "startDate": "2026-10-14",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://sporked.com/article/everything-coming-to-dunkin-for-halloween/",
       "image": "dunkin-halloween-sprinkle-takeover-donuts.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Jack in the Box",
@@ -6925,7 +6946,8 @@
       "status": "active",
       "source": "https://www.tastingtable.com/2282810/arbys-new-chicken-cheesesteak/",
       "image": "arby-s-chicken-cheesesteak-classic.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Arby's",
@@ -6937,7 +6959,8 @@
       "status": "active",
       "source": "https://www.tastingtable.com/2282810/arbys-new-chicken-cheesesteak/",
       "image": "arby-s-chicken-deluxe-cheesesteak.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Arby's",
@@ -6949,7 +6972,8 @@
       "status": "active",
       "source": "https://www.tastingtable.com/2282810/arbys-new-chicken-cheesesteak/",
       "image": "arby-s-spicy-chicken-cheesesteak.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Subway",
@@ -6961,7 +6985,8 @@
       "status": "active",
       "source": "https://www.mediapost.com/publications/article/418677/subway-spooks-bad-midday-meals-with-new-halloween.html",
       "image": "subway-lunchtime-horrors-halloween-sweepstakes.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Starbucks",
@@ -6972,7 +6997,8 @@
       "endDate": "while supplies last",
       "status": "upcoming",
       "source": "https://about.starbucks.com/?p=292725",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Wingstop",
@@ -6982,8 +7008,9 @@
       "startDate": "2026-10-23",
       "endDate": "2026-11-05",
       "status": "active",
-      "source": "https://www.fastcasual.com/news/wingstop-sour-patch-kids-create-wicked-punch-wing-flavor-for-halloween/",
-      "image": null
+      "source": "https://www.qsrmagazine.com/news/wingstop-announces-wings-flavored-with-sour-patch-kids-glaze/",
+      "image": null,
+      "lastConfirmed": "2026-10-16"
     },
     {
       "chain": "Raising Cane's",
@@ -6994,6 +7021,40 @@
       "endDate": "2026-10-27",
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/raising-canes-to-open-seven-stores-in-october/",
+      "image": null,
+      "lastConfirmed": "2026-10-16"
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Berry Battie Bat Cup Sleeve",
+      "description": "One-day giveaway: free limited-edition bat-wing cup sleeve/koozie with purchase of the Berry Battie Daydream Refresher, while supplies last at participating locations.",
+      "category": "event",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "status": "active",
+      "source": "https://www.foodnetwork.com/fn-dish/news/dunkin-introduces-berry-battie-sleeve-and-refresher",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "2026 Halloween Specialty Cup",
+      "description": "Purple cup covered in skeleton artwork, sold at participating restaurants for $1.49 with purchase of any combo or 32oz drink. Single-source coverage (no official Cane's newsroom/PRNewswire confirmation found) - treat sourcing as lower-confidence.",
+      "category": "drink",
+      "startDate": "2026-10-14",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://hauntedattractionnetwork.com/raising-canes-halloween-cup/",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "First-Ever Value Menu (Deli Faves)",
+      "description": "Subway's first-ever permanent value menu: 15 entrees under $5, including new Spicy Pepperoni and Ham & Salami 6\" subs at $3.99, plus returning BLT and Cold Cut Combo. Launched nationwide; no reports found of it ending, though it may be a standing menu platform rather than a true LTO.",
+      "category": "sandwich",
+      "startDate": "2026-04-28",
+      "endDate": null,
+      "status": "active",
+      "source": "https://newsroom.subway.com/2026-04-28-Subway-R-Introduces-Its-First-Ever-Value-Menu-with-15-Entrees-Under-5",
       "image": null
     }
   ]

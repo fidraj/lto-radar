@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-16",
+  "researched": "2026-10-17",
   "items": [
     {
       "chain": "McDonald's",
@@ -3127,7 +3127,7 @@
       "category": "drink",
       "startDate": "2026-02-23",
       "endDate": "2026-10-01",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.businesswire.com/news/home/20260219906887/en/Dairy-Queen-and-the-Savannah-Bananas-Announce-New-Partnership-Bringing-Flips-Fun-and-Free-Shakes-to-Fans-Nationwide",
       "image": null,
       "imageUrl": null
@@ -3869,7 +3869,7 @@
       "category": "sandwich",
       "startDate": "2026-08-10",
       "endDate": "2026-10-04",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.mcdonalds.com/us/en-us/deals.html",
       "image": null
     },
@@ -4960,7 +4960,7 @@
       "category": "sandwich",
       "startDate": "2026-09-02",
       "endDate": "2026-10-11",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.eatdrinkdeals.com/subway-coupons-promo-codes/",
       "image": "subway-6-99-any-footlong-sub-club-september-2026.jpg",
       "lastConfirmed": "2026-09-30",
@@ -5382,7 +5382,7 @@
       "category": "event",
       "startDate": "2026-06-29",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.restaurantdive.com/news/raising-canes-chicken-fingers-london-piccadilly-first-uk/759229/",
       "image": null,
       "lastConfirmed": "2026-10-09"
@@ -5970,7 +5970,7 @@
       "category": "event",
       "startDate": "2026-09-28",
       "endDate": "2026-10-04",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://cw33.com/news/get-free-diablo-ranch-steak-nacho-fries-on-grubhub/",
       "image": null
     },
@@ -6694,7 +6694,7 @@
       "category": "chicken",
       "startDate": "2026-10-06",
       "endDate": "2026-10-11",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://sporked.com/?p=78544",
       "image": "kfc-free-bucket-with-15-order-kfspeed-ishowspeed-collab.jpg",
       "imageAuto": true
@@ -6861,7 +6861,7 @@
       "category": "drink",
       "startDate": "2026-10-14",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.thetakeout.com/2249701/dunkin-new-halloween-menu-starbucks-rival-internet-reaction/",
       "image": null
     },
@@ -6982,7 +6982,7 @@
       "category": "event",
       "startDate": "2026-10-12",
       "endDate": "2026-10-16",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.mediapost.com/publications/article/418677/subway-spooks-bad-midday-meals-with-new-halloween.html",
       "image": "subway-lunchtime-horrors-halloween-sweepstakes.jpg",
       "imageAuto": true,
@@ -7031,7 +7031,7 @@
       "category": "event",
       "startDate": "2026-10-16",
       "endDate": "2026-10-16",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.foodnetwork.com/fn-dish/news/dunkin-introduces-berry-battie-sleeve-and-refresher",
       "image": null
     },

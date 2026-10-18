@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-17",
+  "researched": "2026-10-18",
   "items": [
     {
       "chain": "McDonald's",
@@ -183,7 +183,7 @@
     {
       "chain": "Burger King",
       "item": "Halloween Monster Menu",
-      "description": "Halloween LTO lineup expected back for fall (last year's edition launched Sept 30 with Jack-O-Lantern Whopper on an orange bun, Vampire Nuggets, Mummy Mozzarella Fries and Franken-Candy Sundae); this year's items not yet officially announced. No 2026 return announced yet.",
+      "description": "Halloween LTO lineup expected back for fall (last year's edition launched Sept 30 with Jack-O-Lantern Whopper on an orange bun, Vampire Nuggets, Mummy Mozzarella Fries and Franken-Candy Sundae); this year's items not yet officially announced. No 2026 return announced yet. Update: Burger King's 2026 Halloween season does not bring the Monster Menu back -- it's replaced by the new Vampire's Bite Strawberry & Sprite drink.",
       "category": "event",
       "startDate": "2025-09-30",
       "endDate": "2025-11-02",
@@ -467,17 +467,18 @@
     {
       "chain": "Taco Bell",
       "item": "Strawberry Horchata Refresca",
-      "description": "New strawberry-horchata beverage, one of eight new desserts and drinks in Taco Bell's announced 2026 lineup (alongside the Milk Bar Birthday Cake Empanada collab). Announced at Live Mas Live 2026; not yet on menus.",
+      "description": "New strawberry-horchata beverage, one of eight new desserts and drinks in Taco Bell's announced 2026 lineup (alongside the Milk Bar Birthday Cake Empanada collab). Announced at Live Mas Live 2026; not yet on menus. Debuted at Live Más Café locations Oct 15, 2026, with a larger nationwide LTO launch planned for Dec 10, 2026.",
       "category": "drink",
-      "startDate": null,
+      "startDate": "2026-10-15",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
       "image": "taco-bell-strawberry-horchata-refresca.jpg",
       "verified": {
         "on": "2026-08-19",
         "startDate": null,
-        "endDate": null
+        "endDate": null,
+        "note": "Aug 19 2026 verification recorded null dates because no launch date had been announced yet; startDate/status filled in 2026-10-18 from Taco Bell's own newsroom once the Live Mas Cafe launch was announced -- this extends, not contradicts, the original verification."
       }
     },
     {
@@ -2232,7 +2233,7 @@
       "status": "active",
       "source": "https://ir.dominos.com/news-releases/news-release-details/after-more-65-years-dominosr-launch-first-pizza-worthy-its-name",
       "image": "domino-s-the-domino-detroit-style-personal-pizza.jpg",
-      "lastConfirmed": "2026-10-05"
+      "lastConfirmed": "2026-10-18"
     },
     {
       "chain": "Dunkin'",
@@ -4399,8 +4400,8 @@
       "description": "One-day promo tied to Dunkin's Tennis Takeover: guests who buy 3 MUNCHKINS Donut Hole Treats get a free Limited-Edition Mini Tennis Can (a 3-count Munchkins assortment in tennis-ball-can packaging), limited to the first 20 guests per participating store, on Sun. Aug 30, 2026. Runs alongside new HEAD x Dunkin' tennis merch.",
       "category": "event",
       "startDate": "2026-08-30",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-08-30",
+      "status": "ended",
       "source": "https://news.dunkindonuts.com/news/dunkin-tennis-takeover-august-2026",
       "image": "dunkin-limited-edition-mini-tennis-can-tennis-takeover.jpg",
       "imageAuto": true,
@@ -5054,8 +5055,8 @@
       "description": "Original Glazed doughnut made with apple cider-spiced dough and cinnamon, part of the Autumn Collection. For four days only, a dozen Apple Cider Original Glazed Doughnuts is $5 with purchase of any dozen at regular price.",
       "category": "donut",
       "startDate": "2026-09-10",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-13",
+      "status": "ended",
       "source": "https://www.restaurantnews.com/krispy-apple-cider-original-glazed-doughnut-090926/",
       "image": "krispy-kreme-apple-cider-original-glazed-doughnut.jpg",
       "imageAuto": true,
@@ -5378,7 +5379,7 @@
     {
       "chain": "Raising Cane's",
       "item": "UK Expansion Announcement (Piccadilly Circus, London)",
-      "description": "Raising Cane's confirmed its first European restaurant will take over the former Angus Steakhouse site at 21-22 Coventry Street, Piccadilly Circus, opening early 2027.",
+      "description": "Raising Cane's confirmed its first European restaurant will take over the former Angus Steakhouse site at 21-22 Coventry Street, Piccadilly Circus, opening late 2026.",
       "category": "event",
       "startDate": "2026-06-29",
       "endDate": null,
@@ -6126,7 +6127,7 @@
       "status": "active",
       "source": "https://ir.wingstop.com/wingstop-announces-the-game-day-punch-card/",
       "image": null,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-18"
     },
     {
       "chain": "Jack in the Box",
@@ -6215,7 +6216,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-10-01"
+      "lastConfirmed": "2026-10-18"
     },
     {
       "chain": "Dairy Queen",
@@ -6227,7 +6228,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-18"
     },
     {
       "chain": "Dairy Queen",
@@ -6239,7 +6240,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-18"
     },
     {
       "chain": "Dairy Queen",
@@ -6354,7 +6355,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://sporked.com/article/burger-king-texas-whopper-lineup/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-18"
     },
     {
       "chain": "Burger King",
@@ -6658,9 +6660,9 @@
       "item": "Cold Brew with Purple Horchata Cold Foam",
       "description": "Cold brew topped with purple cold foam (cinnamon/vanilla notes), part of a new Taco Bell cold brew lineup announced alongside the 2026 Live Más Live menu roadmap; no confirmed nationwide launch date yet.",
       "category": "drink",
-      "startDate": null,
-      "endDate": null,
-      "status": "upcoming",
+      "startDate": "2026-05-21",
+      "endDate": "2026-05-21",
+      "status": "ended",
       "source": "https://www.nrn.com/beverage-trends/taco-bell-launches-a-cold-brew-lineup",
       "image": "taco-bell-cold-brew-with-purple-horchata-cold-foam.jpg",
       "imageAuto": true
@@ -6816,7 +6818,7 @@
       "source": "https://sporked.com/article/pizza-hut-haunt-box/",
       "image": "pizza-hut-haunt-box-my-haunt-box.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-13"
+      "lastConfirmed": "2026-10-18"
     },
     {
       "chain": "Starbucks",
@@ -6872,7 +6874,7 @@
       "category": "food",
       "startDate": "2026-10-01",
       "endDate": "2026-10-18",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://dannydealguru.com/grubhub-national-pizza-month-deals-2026/",
       "image": "pizza-hut-bogo-personal-pan-pizza-national-pizza-month-grubhub-leaked-unconfirme.jpg",
       "imageAuto": true
@@ -6947,7 +6949,7 @@
       "source": "https://www.tastingtable.com/2282810/arbys-new-chicken-cheesesteak/",
       "image": "arby-s-chicken-cheesesteak-classic.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-18"
     },
     {
       "chain": "Arby's",
@@ -6960,7 +6962,7 @@
       "source": "https://www.tastingtable.com/2282810/arbys-new-chicken-cheesesteak/",
       "image": "arby-s-chicken-deluxe-cheesesteak.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-18"
     },
     {
       "chain": "Arby's",
@@ -6973,7 +6975,7 @@
       "source": "https://www.tastingtable.com/2282810/arbys-new-chicken-cheesesteak/",
       "image": "arby-s-spicy-chicken-cheesesteak.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-18"
     },
     {
       "chain": "Subway",
@@ -7041,7 +7043,7 @@
       "description": "Purple cup covered in skeleton artwork, sold at participating restaurants for $1.49 with purchase of any combo or 32oz drink. Single-source coverage (no official Cane's newsroom/PRNewswire confirmation found) - treat sourcing as lower-confidence.",
       "category": "drink",
       "startDate": "2026-10-14",
-      "endDate": "while supplies last",
+      "endDate": "2026-10-31",
       "status": "active",
       "source": "https://hauntedattractionnetwork.com/raising-canes-halloween-cup/",
       "image": "raising-cane-s-2026-halloween-specialty-cup.jpg",
@@ -7053,9 +7055,152 @@
       "description": "Subway's first-ever permanent value menu: 15 entrees under $5, including new Spicy Pepperoni and Ham & Salami 6\" subs at $3.99, plus returning BLT and Cold Cut Combo. Launched nationwide; no reports found of it ending, though it may be a standing menu platform rather than a true LTO.",
       "category": "sandwich",
       "startDate": "2026-04-28",
+      "endDate": "2026-04-28",
+      "status": "ended",
+      "source": "https://newsroom.subway.com/2026-04-28-Subway-R-Introduces-Its-First-Ever-Value-Menu-with-15-Entrees-Under-5",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Hunger Action Month $1M Donation Match",
+      "description": "Nationwide September campaign: Chick-fil-A, Inc. pledged to donate up to $1 million to Feeding America by matching funds raised through local owner-operator fundraisers in 40+ U.S. markets, plus a $25,000 donation to a local Feeding America partner for each of 20 new restaurant openings during the month, and a Shared Table Experience event in New York City on Sept. 30.",
+      "category": "event",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-30",
+      "status": "ended",
+      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-kicks-off-hunger-action-month",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Avengers: Doomsday Drinks Lineup",
+      "description": "Six Marvel character-inspired drinks launching nationwide at participating Dunkin' restaurants: Iced Captain's-ccino (Captain America), Clobbered Cloud Latte (cookie butter cold foam/crumbles, The Thing-inspired), Wakandan Daydream Refresher (Black Panther), Optic Blast Lemonade (Cyclops), Doom's Orders Energy and Doom Cloud Latte (Doctor Doom). Ties into the Marvel film 'Avengers: Doomsday,' opening Dec 18, 2026.",
+      "category": "drink",
+      "startDate": "2026-11-04",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.qsrmagazine.com/news/dunkin-announces-new-lineup-inspired-by-upcoming-avengers-doomsday-movie/",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Avengers: Doomsday Donuts & MUNCHKINS",
+      "description": "Doomsday Donut (returning Brownie Batter Donut with green and chocolate sprinkles) and Avenging Donut (cotton candy-filled, vanilla icing, red/yellow/blue sprinkles), plus themed Doomsday and Avenging MUNCHKINS donut holes; part of the Avengers: Doomsday collaboration launching nationwide at participating Dunkin' locations.",
+      "category": "donut",
+      "startDate": "2026-11-04",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.qsrmagazine.com/news/dunkin-announces-new-lineup-inspired-by-upcoming-avengers-doomsday-movie/",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Avengers: Doomsday Collectible Merch",
+      "description": "Doctor Doom-themed 25-count MUNCHKINS tin ($14.99 with purchase of any 25-count MUNCHKINS), plus collectible tumblers ($24.99) and a color-changing mug ($14.99), tied to the Avengers: Doomsday menu collaboration; sold while supplies last. Dunkin' says more announcements are coming in early November.",
+      "category": "event",
+      "startDate": "2026-11-04",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://www.qsrmagazine.com/news/dunkin-announces-new-lineup-inspired-by-upcoming-avengers-doomsday-movie/",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Looney Tunes Lab Dozen",
+      "description": "Limited three-day offer: a dozen doughnuts (nine Green Original Glazed Doughnuts plus three new Looney Tunes Lab Doughnuts — green glazed, neon green icing, cookies-and-creme buttercream, chocolate cookie pieces) for $13 at participating U.S. shops. A companion promo to the wider Looney Tunes Halloween Collection (Warner Bros. Global Consumer Products partnership).",
+      "category": "donut",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-15",
+      "status": "ended",
+      "source": "https://www.webull.com/news/15736955732321280",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Red Cup Day 2026",
+      "description": "Starbucks confirmed (as of Oct 5, 2026 coverage) that its annual Red Cup Day promotion — a free reusable red holiday cup with purchase of a qualifying handcrafted holiday beverage, while supplies last — is returning in 2026, but had not announced the specific date as of mid-October 2026. Recent years: Nov 13 (2025), Nov 14 (2024), Nov 16 (2023), always a Thursday near the holiday menu launch.",
+      "category": "event",
+      "startDate": null,
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://www.hercampus.com/life/when-is-starbucks-red-cup-day-2026-holiday/",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Vanilla Spiced Horchata Refresca",
+      "description": "Horchata-inspired Refresca with vanilla and cinnamon flavors, one of four new horchata remixes launched at Live Más Café locations (Southern California, Houston, Dallas, Las Vegas); slated to join the Strawberry Horchata Refresca and a Vanilla Spiced Horchata Freeze in a larger nationwide limited-time rollout on Dec 10, 2026.",
+      "category": "drink",
+      "startDate": "2026-10-15",
       "endDate": null,
       "status": "active",
-      "source": "https://newsroom.subway.com/2026-04-28-Subway-R-Introduces-Its-First-Ever-Value-Menu-with-15-Entrees-Under-5",
+      "source": "https://www.tacobell.com/newsroom/taco-bell-new-horchata-live-mas-cafe-expansion",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Purple Horchata Chiller",
+      "description": "Frozen drink made from a vanilla ice-cream Chiller base with horchata syrup, whipped cream and a purple horchata drizzle; one of four horchata remixes launched exclusively at Live Más Café locations.",
+      "category": "drink",
+      "startDate": "2026-10-15",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tacobell.com/newsroom/taco-bell-new-horchata-live-mas-cafe-expansion",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Chocolate Horchata Cold Brew Float",
+      "description": "Cold brew coffee topped with a blended horchata Chiller mixture, churro crumbles, and dark chocolate syrup with cinnamon notes; one of four horchata remixes launched exclusively at Live Más Café locations.",
+      "category": "drink",
+      "startDate": "2026-10-15",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tacobell.com/newsroom/taco-bell-new-horchata-live-mas-cafe-expansion",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Saja Boys Breakfast Meal & HUNTR/X Meal (KPop Demon Hunters collab)",
+      "description": "Netflix 'KPop Demon Hunters' tie-in: two new adult meals launched nationwide — the Saja Boys Breakfast Meal (Spicy Sausage McMuffin w/ Egg, hash browns, small soft drink) and the HUNTR/X Meal — each including a pack of collectible photocards with a QR code for exclusive content. End date is a best estimate (~5-6 weeks after launch, no media coverage found past April 2026).",
+      "category": "event",
+      "startDate": "2026-03-31",
+      "endDate": "2026-05-10",
+      "status": "ended",
+      "source": "https://www.nrn.com/quick-service/mcdonald-s-scores-another-winning-collab-with-kpop-demon-hunters",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Candied Maple Bacon Double Croissan'wich",
+      "description": "Flaky toasted croissant topped with a double portion of crispy candied maple bacon, an egg patty and American cheese. Launched as part of Burger King's 'Maple Bacon Menu' alongside the Maple Bourbon Bacon Whopper. End date is an estimate aligned to that companion item's menu-rotation window.",
+      "category": "sandwich",
+      "startDate": "2026-02-24",
+      "endDate": "2026-06-01",
+      "status": "ended",
+      "source": "https://sporked.com/article/burger-king-candied-maple-bacon-croissanwich-news/",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Candied Maple Bacon Burrito Jr.",
+      "description": "Burrito Jr. with four half-strips of crispy candied maple bacon, hash browns, fluffy egg and American cheese wrapped in a flour tortilla. Launched the same day as the Candied Maple Bacon Croissan'wich as part of Burger King's 'Maple Bacon Menu.' End date is a best estimate aligned to that same menu's rotation-out.",
+      "category": "food",
+      "startDate": "2026-02-24",
+      "endDate": "2026-06-01",
+      "status": "ended",
+      "source": "https://sporked.com/article/burger-king-maple-bacon-menu-news/",
+      "image": null
+    },
+    {
+      "chain": "Burger King",
+      "item": "Vampire's Bite Strawberry & Sprite",
+      "description": "Halloween-season drink: Sprite blended with strawberry flavoring for a blood-red look, served in a vampire-themed cup with an optional Sour Punch Sip-n-Chew edible candy straw. Coverage frames this as Burger King's entire 2026 Halloween offering; last year's Monster Menu items are not returning this year.",
+      "category": "drink",
+      "startDate": "2026-10-06",
+      "endDate": null,
+      "status": "active",
+      "source": "https://sporked.com/?p=79218",
       "image": null
     }
   ]

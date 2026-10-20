@@ -7237,7 +7237,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.fastfoodpost.com/taco-bell-launches-new-double-dipping-burritos-and-chicken-crunchadillas-nationwide/",
-      "image": null
+      "image": "taco-bell-crunchadilla-classic-sriracha-chicken.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chick-fil-A",
@@ -7248,7 +7249,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/what-is-the-spicy-chick-fil-a-sauce",
-      "image": null
+      "image": "chick-fil-a-spicy-chick-fil-a-sauce.jpg",
+      "imageAuto": true
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-20",
+  "researched": "2026-10-21",
   "items": [
     {
       "chain": "McDonald's",
@@ -4989,7 +4989,7 @@
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/wendys-halloween-lineup-returns-with-boo-books-and-collectible-toys/",
       "image": "wendy-s-frosty-frights-halloween-toys-boo-books.jpg",
-      "lastConfirmed": "2026-09-28",
+      "lastConfirmed": "2026-10-21",
       "imageAuto": true
     },
     {
@@ -5757,15 +5757,16 @@
     },
     {
       "chain": "Burger King",
-      "item": "Hello Kitty & Friends King Jr. Meal (leaked, unconfirmed)",
-      "description": "Reported/leaked collab: King Jr. Meal blind-box toys featuring Hello Kitty, Kuromi, My Melody, Cinnamoroll and Keroppi (plus a rare Gold Hello Kitty variant). Surfaced via leaked franchisee materials; not yet officially confirmed by Burger King or Sanrio.",
+      "item": "Hello Kitty & Friends King Jr. Meal",
+      "description": "King Jr. Meal blind-box toys featuring Hello Kitty, My Melody, Kuromi, Cinnamoroll and Keroppi, plus a limited golden Hello Kitty variant, at participating restaurants nationwide while supplies last. A one-day \"Golden Claw Machine\" event ran at a Downey, CA location Oct 23. Officially announced by Burger King Oct 19, 2026 (previously tracked as an unconfirmed leak before the official announcement).",
       "category": "event",
-      "startDate": "2026-10-10",
-      "endDate": "2026-11-30",
+      "startDate": "2026-10-20",
+      "endDate": "while supplies last",
       "status": "active",
-      "source": "https://essential-japan.com/news/burger-king-x-hello-kitty-and-friends-collab-leaks-ahead-of-october-us-launch/",
+      "source": "https://www.qsrmagazine.com/news/burger-king-and-hello-kitty-friends-partner-on-special-kids-meal/",
       "image": "burger-king-hello-kitty-friends-king-jr-meal-leaked-unconfirmed.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-21"
     },
     {
       "chain": "Wingstop",
@@ -6090,7 +6091,8 @@
       "status": "active",
       "source": "https://www.nrn.com/quick-service/taco-bell-expands-beverage-lineup-with-new-energy-drinks",
       "image": "taco-bell-chicken-enchilada-nacho-fries.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-21"
     },
     {
       "chain": "Taco Bell",
@@ -6128,7 +6130,7 @@
       "status": "active",
       "source": "https://ir.wingstop.com/wingstop-announces-the-game-day-punch-card/",
       "image": null,
-      "lastConfirmed": "2026-10-18"
+      "lastConfirmed": "2026-10-21"
     },
     {
       "chain": "Jack in the Box",
@@ -6217,7 +6219,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-10-18"
+      "lastConfirmed": "2026-10-21"
     },
     {
       "chain": "Dairy Queen",
@@ -6229,7 +6231,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-10-18"
+      "lastConfirmed": "2026-10-21"
     },
     {
       "chain": "Dairy Queen",
@@ -6241,7 +6243,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-10-18"
+      "lastConfirmed": "2026-10-21"
     },
     {
       "chain": "Dairy Queen",
@@ -6253,7 +6255,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-21"
     },
     {
       "chain": "Taco Bell",
@@ -6357,7 +6359,7 @@
       "status": "active",
       "source": "https://sporked.com/article/burger-king-texas-whopper-lineup/",
       "image": null,
-      "lastConfirmed": "2026-10-18"
+      "lastConfirmed": "2026-10-21"
     },
     {
       "chain": "Burger King",
@@ -6369,7 +6371,8 @@
       "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
       "image": "burger-king-game-day-pretzel-burger.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-21"
     },
     {
       "chain": "Burger King",
@@ -6381,7 +6384,8 @@
       "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
       "image": "burger-king-chicken-fries-with-nacho-cheese-sauce.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-21"
     },
     {
       "chain": "Burger King",
@@ -6393,7 +6397,8 @@
       "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
       "image": "burger-king-game-day-royal-perks-sweepstakes.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-21"
     },
     {
       "chain": "Jack in the Box",
@@ -7226,7 +7231,8 @@
       "endDate": "2026-10-31",
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/kfc-celebrates-halloween-season-with-13-days-of-promotions/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-21"
     },
     {
       "chain": "Taco Bell",
@@ -7243,14 +7249,91 @@
     {
       "chain": "Chick-fil-A",
       "item": "Spicy Chick-fil-A Sauce",
-      "description": "Chick-fil-A's first new permanent sauce in a decade: the classic Chick-fil-A Sauce recipe (mustard notes, smoky tang) with added spicy peppers and subtle sweetness. Launches nationwide in standard dipping cups and 8-oz bottles Nov 16, 2026; becomes a permanent menu item.",
+      "description": "Chick-fil-A's first new permanent sauce in a decade: the classic Chick-fil-A Sauce recipe (mustard notes, smoky tang) with added spicy peppers and subtle sweetness. Launches nationwide in standard dipping cups and 8-oz bottles Nov 16, 2026; becomes a permanent menu item immediately on launch, so its endDate is set to its own launch day per the board's LTO-only scope.",
       "category": "food",
       "startDate": "2026-11-16",
-      "endDate": null,
+      "endDate": "2026-11-16",
       "status": "upcoming",
       "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/what-is-the-spicy-chick-fil-a-sauce",
       "image": "chick-fil-a-spicy-chick-fil-a-sauce.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Creamy Sriracha Chicken Nacho Fries",
+      "description": "Nacho Fries topped with Creamy Jalapeno Sauce, reduced-fat sour cream and chicken, with a sriracha kick; part of Taco Bell's nationwide Oct 15, 2026 fall menu drop alongside the Sriracha Chicken Crunchadilla and the new Dream Refresca lineup.",
+      "category": "food",
+      "startDate": "2026-10-15",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tastingtable.com/2288649/taco-bell-fall-2026-new-menu-items-review/",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Dream Refresca lineup (Strawberry; Pineapple Dragonfruit Refresca & Freeze)",
+      "description": "New creamy Dream Refresca drinks: Strawberry Dream Refresca (lemonade, vanilla creamer, $4.49/20oz) and Pineapple Dragonfruit Dream Refresca, also available as a frozen Freeze ($3.99/16oz, $4.19/20oz); part of Taco Bell's nationwide Oct 15, 2026 fall menu drop. Dream Refrescas originally test-launched in Knoxville, TN in Nov 2025; this is the new-flavor nationwide rollout.",
+      "category": "drink",
+      "startDate": "2026-10-15",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tastingtable.com/2288649/taco-bell-fall-2026-new-menu-items-review/",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Taz Chocolate Tornado Doughnut",
+      "description": "New doughnut with a green icing swirl, dipped in chocolate cookie pieces, Halloween sprinkles and rainbow nonpareils; sold in a Taz Chocolate Original Glazed Dozen (9 Chocolate Original Glazed + 3 new Taz Chocolate Tornado). A three-day companion drop to the Looney Tunes Halloween Collection, tied to Warner Bros. Global Consumer Products.",
+      "category": "donut",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-22",
+      "status": "ending-soon",
+      "source": "https://www.businesswire.com/news/home/20261019415480/en",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "$5 Taz Chocolate Original Glazed Dozen (promo)",
+      "description": "Buy any dozen doughnuts in-shop or at the drive-thru and get a Taz Chocolate Original Glazed Dozen for $5 (limit 2); also available online/via the app with promo code BOGO5. Runs alongside the new Taz Chocolate Tornado Doughnut.",
+      "category": "event",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-22",
+      "status": "ending-soon",
+      "source": "https://www.businesswire.com/news/home/20261019415480/en",
+      "image": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Free Chicken or Angus Cheesesteak w/ $10 Purchase (Loaded Rewards)",
+      "description": "Arby's Loaded Rewards members get a free Chicken Cheesesteak or Angus Cheesesteak with a $10+ pre-tax purchase at participating US locations. Excludes the Half Pound Cheesesteak; no third-party delivery; limit 1; non-combinable with other offers. Tied to Arby's Halloween \"Meat Sweats\" apparel drop.",
+      "category": "event",
+      "startDate": "2026-10-26",
+      "endDate": "2026-11-01",
+      "status": "upcoming",
+      "source": "https://www.qsrweb.com/news/arbys-gives-12-foot-skeletons-a-meat-sweats-makeover/",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "Cajun-Style Turkey (Thanksgiving 2026)",
+      "description": "Annual pre-cooked, frozen Cajun-style turkey (11-13 lb, feeds 8-12), restaurant pickup only -- no shipping/delivery in 2026. Also sold at select Kroger-family grocery stores. Starting around $54.99. Order window Oct 19-Nov 19, 2026; pickup begins Oct 23.",
+      "category": "food",
+      "startDate": "2026-10-19",
+      "endDate": "2026-11-19",
+      "status": "active",
+      "source": "https://news.popeyes.com/blog-posts/its-giving-giving---popeyes-cajun-style-turkey-has-returned",
+      "image": null
+    },
+    {
+      "chain": "Domino's",
+      "item": "Operation Smoke Alarm (Fire Prevention Week Safety Campaign)",
+      "description": "Domino's and the National Fire Protection Association's 19th annual Fire Prevention Week partnership: participating US stores deliver select orders via fire engine during Fire Prevention Week; if the household's smoke alarms work, that order is free, and if not, firefighters replace batteries or install working alarms. The 2026 edition added safe lithium-ion battery charging flyers.",
+      "category": "event",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-10",
+      "status": "ended",
+      "source": "https://ir.dominos.com/node/24026",
+      "image": null
     }
   ]
 }

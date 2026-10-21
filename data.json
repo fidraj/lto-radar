@@ -475,10 +475,10 @@
       "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
       "image": "taco-bell-strawberry-horchata-refresca.jpg",
       "verified": {
-        "on": "2026-08-19",
-        "startDate": null,
+        "on": "2026-10-18",
+        "startDate": "2026-10-15",
         "endDate": null,
-        "note": "Aug 19 2026 verification recorded null dates because no launch date had been announced yet; startDate/status filled in 2026-10-18 from Taco Bell's own newsroom once the Live Mas Cafe launch was announced -- this extends, not contradicts, the original verification."
+        "note": "Aug 19 2026 verification recorded null dates because no launch date had been announced yet; startDate filled in 2026-10-18 from Taco Bell's own newsroom once the Live Mas Cafe launch was announced -- this extends, not contradicts, the original verification. Verified block itself updated 2026-10-21 to match (it previously still said startDate: null), which is what was causing CI's overwrite-check to re-flag this item every run even though the underlying change was legitimate and already explained here."
       }
     },
     {

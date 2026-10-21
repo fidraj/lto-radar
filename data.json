@@ -7267,7 +7267,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.tastingtable.com/2288649/taco-bell-fall-2026-new-menu-items-review/",
-      "image": null
+      "image": "taco-bell-creamy-sriracha-chicken-nacho-fries.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -7278,7 +7279,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.tastingtable.com/2288649/taco-bell-fall-2026-new-menu-items-review/",
-      "image": null
+      "image": "taco-bell-dream-refresca-lineup-strawberry-pineapple-dragonfruit-refresca-freeze.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Krispy Kreme",
@@ -7322,7 +7324,8 @@
       "endDate": "2026-11-19",
       "status": "active",
       "source": "https://news.popeyes.com/blog-posts/its-giving-giving---popeyes-cajun-style-turkey-has-returned",
-      "image": null
+      "image": "popeyes-cajun-style-turkey-thanksgiving-2026.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Domino's",

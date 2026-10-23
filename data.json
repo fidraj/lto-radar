@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-22",
+  "researched": "2026-10-23",
   "items": [
     {
       "chain": "McDonald's",
@@ -942,7 +942,7 @@
       "description": "Limited-time value return: $20 Family Meal with 9pc chicken or 11 tenders, one large side, and four biscuits.",
       "category": "chicken",
       "startDate": "2026-06-02",
-      "endDate": "2026-12-31",
+      "endDate": null,
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/6-dollar-big-box-meal-back-at-popeyes-summer-2026.html",
       "image": "popeyes-20-family-meal-returning.jpg",
@@ -5488,7 +5488,7 @@
       "category": "drink",
       "startDate": "2026-10-22",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/black-cat-frappuccino-blended-beverage-arrives-at-starbucks-oct-22-plus-a-new-halloween-cookie-and-merchandise/",
       "image": null,
       "lastConfirmed": "2026-10-16"
@@ -5500,7 +5500,7 @@
       "category": "dessert",
       "startDate": "2026-10-22",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/stories/2026/black-cat-frappuccino-blended-beverage-arrives-at-starbucks-oct-22-plus-a-new-halloween-cookie-and-merchandise/",
       "image": null,
       "lastConfirmed": "2026-10-16"
@@ -7016,7 +7016,7 @@
       "category": "chicken",
       "startDate": "2026-10-23",
       "endDate": "2026-11-05",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.qsrmagazine.com/news/wingstop-announces-wings-flavored-with-sour-patch-kids-glaze/",
       "image": null,
       "lastConfirmed": "2026-10-16"
@@ -7289,7 +7289,7 @@
       "category": "donut",
       "startDate": "2026-10-20",
       "endDate": "2026-10-22",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.businesswire.com/news/home/20261019415480/en",
       "image": null
     },
@@ -7300,7 +7300,7 @@
       "category": "event",
       "startDate": "2026-10-20",
       "endDate": "2026-10-22",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.businesswire.com/news/home/20261019415480/en",
       "image": null
     },

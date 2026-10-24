@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-23",
+  "researched": "2026-10-24",
   "items": [
     {
       "chain": "McDonald's",
@@ -1741,7 +1741,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/new-taco-bell-crispy-chicken-chipotle-bacon-melt-burrito.html",
       "image": "taco-bell-crispy-chicken-chipotle-bacon-melt-burrito.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-10-24"
     },
     {
       "chain": "Taco Bell",
@@ -2233,7 +2233,7 @@
       "status": "active",
       "source": "https://ir.dominos.com/news-releases/news-release-details/after-more-65-years-dominosr-launch-first-pizza-worthy-its-name",
       "image": "domino-s-the-domino-detroit-style-personal-pizza.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-24"
     },
     {
       "chain": "Dunkin'",
@@ -3861,7 +3861,7 @@
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": "dunkin-berry-clementine-refreshers.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-24"
     },
     {
       "chain": "McDonald's",
@@ -4157,7 +4157,7 @@
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": "dunkin-berry-clementine-daydream-refresher.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-24"
     },
     {
       "chain": "Arby's",
@@ -5386,7 +5386,7 @@
       "status": "active",
       "source": "https://www.restaurantdive.com/news/raising-canes-chicken-fingers-london-piccadilly-first-uk/759229/",
       "image": null,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-24"
     },
     {
       "chain": "Raising Cane's",
@@ -5752,7 +5752,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/food/drinks/pink-passionfruit-refresca-freeze",
       "image": "taco-bell-pink-passionfruit-refresca-freeze.jpg",
-      "lastConfirmed": "2026-10-12",
+      "lastConfirmed": "2026-10-24",
       "imageAuto": true
     },
     {
@@ -6105,7 +6105,7 @@
       "source": "https://www.nrn.com/quick-service/taco-bell-expands-beverage-lineup-with-new-energy-drinks",
       "image": "taco-bell-pineapple-citrus-strawberry-tropics-energy-lineup.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-11"
+      "lastConfirmed": "2026-10-24"
     },
     {
       "chain": "Taco Bell",
@@ -7336,6 +7336,17 @@
       "endDate": "2026-10-10",
       "status": "ended",
       "source": "https://ir.dominos.com/node/24026",
+      "image": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Sub Stackers (regional test, unconfirmed)",
+      "description": "Regional test of new loaded sandwiches on mozzarella-topped, focaccia-style bread: Loaded Italian Stacker ($7.99), Turkey Ranch & Bacon Stacker ($8.39, replaces the existing Turkey Ranch & Bacon Sandwich at test locations), and Three Cheese Beef & Bacon Stacker ($8.99); a reported 4th sandwich could not be confirmed. Limited to the St. Louis, MO area and select Michigan locations — no confirmed nationwide rollout.",
+      "category": "sandwich",
+      "startDate": "2026-10-21",
+      "endDate": null,
+      "status": "active",
+      "source": "https://sporked.com/article/arbys-is-testing-4-new-loaded-sandwiches/",
       "image": null
     }
   ]

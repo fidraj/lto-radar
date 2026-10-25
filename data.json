@@ -6547,8 +6547,9 @@
       "endDate": "2026-11-02",
       "status": "active",
       "source": "https://www.nrn.com/quick-service/taco-bell-puts-kevin-hart-paris-hilton-and-doja-cat-s-orders-on-the-menu",
-      "image": null,
-      "lastConfirmed": "2026-10-25"
+      "image": "taco-bell-national-taco-day-october-tuesday-drops-2026.jpg",
+      "lastConfirmed": "2026-10-25",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",

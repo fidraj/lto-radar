@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-25",
+  "researched": "2026-10-26",
   "items": [
     {
       "chain": "McDonald's",
@@ -5065,10 +5065,10 @@
     {
       "chain": "Krispy Kreme",
       "item": "Football Doughnut (Fall & Football Dozen)",
-      "description": "Football-shaped unglazed shell doughnut filled with white Kreme, dipped in chocolate icing with white icing laces; sold individually and in a pre-packed Fall & Football Dozen with Pumpkin Spice Cake, Maple Cheesecake, and Original Glazed doughnuts.",
+      "description": "Football-shaped unglazed shell doughnut filled with white Kreme, dipped in chocolate icing with white icing laces; sold individually and in a pre-packed Fall & Football Dozen with Pumpkin Spice Cake, Maple Cheesecake, and Original Glazed doughnuts. No dedicated end date was ever announced for this item specifically; endDate is an estimate aligned to the end of Krispy Kreme's broader Autumn Seasonal Collection (2026-08-11 to 2026-11-02), of which it's part, per the original launch release.",
       "category": "donut",
       "startDate": "2026-09-10",
-      "endDate": null,
+      "endDate": "2026-11-02",
       "status": "active",
       "source": "https://www.restaurantnews.com/krispy-apple-cider-original-glazed-doughnut-090926/",
       "image": "krispy-kreme-football-doughnut-fall-football-dozen.jpg",
@@ -6307,10 +6307,10 @@
     {
       "chain": "Chipotle",
       "item": "Boorito 2026",
-      "description": "Chipotle's official Sept 28, 2026 newsroom release confirms Boorito, the brand's annual Halloween in-restaurant offer, returning Oct 31, 2026 as the capstone of the Summon the Spirits Tour. Same-day syndicated coverage (Fox affiliates) confirms the 2026 terms: $6 digital entree for Chipotle Rewards members, 3pm local time to close, redeemable in-restaurant only via the app's SCAN feature (not valid for delivery/pickup); new for 2026, select college-town locations extend hours to midnight on Halloween.",
+      "description": "Chipotle's official Sept 28, 2026 newsroom release confirms Boorito, the brand's annual Halloween in-restaurant offer, returning Oct 31, 2026 as the capstone of the Summon the Spirits Tour. Same-day syndicated coverage (Fox affiliates) confirms the 2026 terms: $6 digital entree for Chipotle Rewards members, 3pm local time to close, redeemable in-restaurant only via the app's SCAN feature (not valid for delivery/pickup); new for 2026, select college-town locations extend hours to midnight on Halloween. Same campaign adds a follow-on $0 delivery fee on digital orders ($10 min) on Nov 1, 2026, per Chipotle's Oct 20, 2026 PR (via QSR Magazine).",
       "category": "event",
       "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
+      "endDate": "2026-11-01",
       "status": "upcoming",
       "source": "https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO",
       "image": "chipotle-boorito-2026.jpg",

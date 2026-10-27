@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-26",
+  "researched": "2026-10-27",
   "items": [
     {
       "chain": "McDonald's",
@@ -6619,12 +6619,12 @@
     },
     {
       "chain": "Wendy's",
-      "item": "Pumpkin Spice Frosty & Pumpkin Spice Frosty Cold Brew",
-      "description": "New fall Frosty flavor nationwide, plus a Frosty-creamer-and-coffee cold brew version. From Sept 13, Uber One members could get a free Pumpkin Spice Frosty plus a free medium fry with purchase.",
+      "item": "Pumpkin Spice Frosty & Pumpkin Spice Frosty Cold Brew (2023 launch, mis-dated - corrected)",
+      "description": "CI/research flagged a date mismatch: every source for a Sept 12 Pumpkin Spice Frosty launch is dated 2023, not 2026, and multiple fall-2026 roundups explicitly say Wendy's skipped pumpkin spice this year in favor of the Apple Crumble Frosty Fusion (tracked separately, 2026-08-03 onward). New fall Frosty flavor nationwide in 2023, plus a Frosty-creamer-and-coffee cold brew version; Wendy's did not announce a specific end date. Kept as historical record per the no-delete rule; endDate is a reasoned estimate (~6 weeks, typical for this promo type).",
       "category": "drink",
-      "startDate": "2026-09-12",
-      "endDate": null,
-      "status": "active",
+      "startDate": "2023-09-12",
+      "endDate": "2023-10-31",
+      "status": "ended",
       "source": "https://10tv.com/article/life/food/wendys-unveils-pumpkin-spice-frosty-cream-cold-brew/530-36b7f66d-4cc4-4e2b-bccf-9d9c3e5c251e",
       "image": null
     },
@@ -7348,6 +7348,105 @@
       "endDate": null,
       "status": "active",
       "source": "https://sporked.com/article/arbys-is-testing-4-new-loaded-sandwiches/",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Chai Oatmilk Latte",
+      "description": "New non-dairy chai latte added as part of Dunkin's 2026 winter holiday menu.",
+      "category": "drink",
+      "startDate": "2026-11-04",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://whdh.com/news/dunkins-holiday-menu-includes-trio-of-festive-drinks-new-breakfast-sandwich/",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Gingerbread Latte (returning)",
+      "description": "Returning holiday-season latte flavor, part of Dunkin's 2026 winter holiday menu.",
+      "category": "drink",
+      "startDate": "2026-11-04",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://whdh.com/news/dunkins-holiday-menu-includes-trio-of-festive-drinks-new-breakfast-sandwich/",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Peppermint Mocha",
+      "description": "Holiday peppermint mocha flavor returns as part of Dunkin's 2026 winter holiday menu; some coverage describes it as a standalone latte, other coverage as a flavor shot addable to most drinks.",
+      "category": "drink",
+      "startDate": "2026-11-04",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://whdh.com/news/dunkins-holiday-menu-includes-trio-of-festive-drinks-new-breakfast-sandwich/",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Sourdough Breakfast Sandwich",
+      "description": "New breakfast sandwich with cherrywood bacon, two fried eggs and aged white cheddar on sourdough bread. DD Perks members earn 2x points on it through Dec 1, 2026.",
+      "category": "sandwich",
+      "startDate": "2026-11-04",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://whdh.com/news/dunkins-holiday-menu-includes-trio-of-festive-drinks-new-breakfast-sandwich/",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "$2 10-count Munchkins Promo",
+      "description": "Promotional pricing on a 10-count box of MUNCHKINS, part of Dunkin's 2026 winter holiday menu launch.",
+      "category": "event",
+      "startDate": "2026-11-04",
+      "endDate": "2026-12-29",
+      "status": "upcoming",
+      "source": "https://whdh.com/news/dunkins-holiday-menu-includes-trio-of-festive-drinks-new-breakfast-sandwich/",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Spooky Simpsons Sauce",
+      "description": "Smoky BBQ-and-ketchup blend created for the Simpsons Treehouse of Horror collab, featured on the Krusty Burger of Terror and Chicken Sandwich of Terror.",
+      "category": "food",
+      "startDate": "2026-09-10",
+      "endDate": "2026-10-31",
+      "status": "ended",
+      "source": "https://secure.businesswire.com/news/home/20260910696551/en/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "Fritos Chicken Enchilada Sub (returning, last sold 2014)",
+      "description": "Rotisserie-style chicken marinated in enchilada sauce, Fritos corn chips, Monterey Cheddar and Baja Chipotle sauce. Returns for National Sandwich Day, moved up to Oct 27, 2026 (a week early) to avoid the Nov 3 US midterm elections. No end date announced.",
+      "category": "sandwich",
+      "startDate": "2026-10-27",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.dexerto.com/food/subway-brings-back-fritos-sub-after-12-years-alongside-bogo-footlongs-3420858/",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "Caramel Apple Cookie (returning, last sold 2021)",
+      "description": "Apple pieces, caramel chips and salted caramel crunch finished with a caramel icing drizzle. Returns alongside the Fritos Chicken Enchilada Sub for National Sandwich Day 2026. No end date announced.",
+      "category": "dessert",
+      "startDate": "2026-10-27",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.dexerto.com/food/subway-brings-back-fritos-sub-after-12-years-alongside-bogo-footlongs-3420858/",
+      "image": null
+    },
+    {
+      "chain": "Subway",
+      "item": "National Sandwich Day BOGO Footlong 2026 (Sub Club)",
+      "description": "Sub Club members get a second footlong free (equal or lesser value) with purchase of one footlong via app/website, tied to Subway's National Sandwich Day push (moved up to Oct 27, 2026).",
+      "category": "event",
+      "startDate": "2026-10-27",
+      "endDate": "2026-11-08",
+      "status": "active",
+      "source": "https://www.dexerto.com/food/subway-brings-back-fritos-sub-after-12-years-alongside-bogo-footlongs-3420858/",
       "image": null
     }
   ]

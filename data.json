@@ -6163,7 +6163,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-debuts-open-house-in-mckinney-bringing-the-kentucky-fried-comeback-to-life-302888504.html",
-      "image": null
+      "image": "kfc-open-house-concept-restaurant-mckinney-tx.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Burger King",
@@ -7392,7 +7393,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://whdh.com/news/dunkins-holiday-menu-includes-trio-of-festive-drinks-new-breakfast-sandwich/",
-      "image": null
+      "image": "dunkin-sourdough-breakfast-sandwich.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",
@@ -7425,7 +7427,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.dexerto.com/food/subway-brings-back-fritos-sub-after-12-years-alongside-bogo-footlongs-3420858/",
-      "image": null
+      "image": "subway-fritos-chicken-enchilada-sub-returning-last-sold-2014.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Subway",
@@ -7436,7 +7439,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.dexerto.com/food/subway-brings-back-fritos-sub-after-12-years-alongside-bogo-footlongs-3420858/",
-      "image": null
+      "image": "subway-caramel-apple-cookie-returning-last-sold-2021.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Subway",
@@ -7447,7 +7451,8 @@
       "endDate": "2026-11-08",
       "status": "active",
       "source": "https://www.dexerto.com/food/subway-brings-back-fritos-sub-after-12-years-alongside-bogo-footlongs-3420858/",
-      "image": null
+      "image": "subway-national-sandwich-day-bogo-footlong-2026-sub-club.jpg",
+      "imageAuto": true
     }
   ]
 }

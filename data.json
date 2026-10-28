@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-27",
+  "researched": "2026-10-28",
   "items": [
     {
       "chain": "McDonald's",
@@ -86,15 +86,15 @@
     },
     {
       "chain": "McDonald's",
-      "item": "McRib (phased return, unconfirmed)",
-      "description": "Seasoned boneless pork rib patty with BBQ sauce, pickles and onions. Oct 26, 2026 start date comes from a single low-quality site (eathealthy365.com) and could not be corroborated: no official McDonald's US newsroom release found, and a second weak source (balleralert.com) instead claims a Nov 2-29, 2026 window. The most recent confirmed US McRib news is a regional Nov 2025 return (not nationwide). Note: reports of McDonald's Germany pulling the McRib from its permanent menu around Oct 27-28, 2026 are a separate, unrelated European story and do not confirm a US LTO return.",
+      "item": "McRib (regional return)",
+      "description": "Seasoned boneless pork rib patty with BBQ sauce, pickles and onions. Regional rollout confirmed Oct 27, 2026 in select markets only (LA, Chicago, Miami, Atlanta, Philadelphia, Dallas), per Complex (citing USA Today) - not a nationwide return. A conflicting lower-confidence source (balleralert.com) claimed a Nov 2-29 nationwide window; discarded in favor of the better-sourced regional date above.",
       "category": "sandwich",
-      "startDate": "2026-10-26",
+      "startDate": "2026-10-27",
       "endDate": null,
-      "status": "upcoming",
-      "source": "https://eathealthy365.com/the-2026-mcdonalds-mcrib-return-schedule/",
+      "status": "active",
+      "source": "https://www.complex.com/life/a/anne-erickson/mcdonalds-popular-menu-item-returns",
       "image": "mcdonald-s-mcrib-phased-return.jpg",
-      "lastConfirmed": "2026-08-19"
+      "lastConfirmed": "2026-10-28"
     },
     {
       "chain": "Burger King",
@@ -875,7 +875,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-28"
     },
     {
       "chain": "Dairy Queen",
@@ -887,7 +887,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": "dairy-queen-pumpkin-pie-blizzard-returning.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-28"
     },
     {
       "chain": "Dairy Queen",
@@ -939,11 +939,11 @@
     {
       "chain": "Popeyes",
       "item": "$20 Family Meal (returning)",
-      "description": "Limited-time value return: $20 Family Meal with 9pc chicken or 11 tenders, one large side, and four biscuits.",
+      "description": "Limited-time value return: $20 Family Meal with 9pc chicken or 11 tenders, one large side, and four biscuits. Estimated end: a Coupons.com listing shows the $20 9pc family meal coupon expiring 2026-07-09, and an August 2026 Cheapism family-meal roundup lists Popeyes pricing at $26 instead of $20, indicating pricing had moved on by August; endDate is a best estimate from these signals.",
       "category": "chicken",
       "startDate": "2026-06-02",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-07-09",
+      "status": "ended",
       "source": "https://www.brandeating.com/2026/06/6-dollar-big-box-meal-back-at-popeyes-summer-2026.html",
       "image": "popeyes-20-family-meal-returning.jpg",
       "lastConfirmed": "2026-08-25"
@@ -1373,7 +1373,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/newsroom/taco-bell-milk-bar-reunite",
       "image": null,
-      "lastConfirmed": "2026-10-14"
+      "lastConfirmed": "2026-10-28"
     },
     {
       "chain": "Sonic",
@@ -3832,7 +3832,7 @@
       "category": "food",
       "startDate": "2026-08-20",
       "endDate": "2026-10-26",
-      "status": "active",
+      "status": "ended",
       "source": "https://newsroom.subway.com/2026-08-18-Subway-R-Turns-Up-the-Heat-with-New-Doritos-R-Hot-Honey-Nachos",
       "image": "subway-doritos-hot-honey-nachos-hot-honey-signature-swicy-collection.jpg",
       "imageAuto": true
@@ -3953,7 +3953,7 @@
       "category": "sandwich",
       "startDate": "2026-08-20",
       "endDate": "2026-10-26",
-      "status": "active",
+      "status": "ended",
       "source": "https://newsroom.subway.com/2026-08-18-Subway-R-Turns-Up-the-Heat-with-New-Doritos-R-Hot-Honey-Nachos",
       "image": "subway-hot-honey-italian-sub.jpg",
       "imageAuto": true
@@ -3965,7 +3965,7 @@
       "category": "sandwich",
       "startDate": "2026-08-20",
       "endDate": "2026-10-26",
-      "status": "active",
+      "status": "ended",
       "source": "https://newsroom.subway.com/2026-08-18-Subway-R-Turns-Up-the-Heat-with-New-Doritos-R-Hot-Honey-Nachos",
       "image": "subway-hot-honey-turkey-italiano-sub.jpg",
       "imageAuto": true
@@ -4002,7 +4002,7 @@
       "category": "event",
       "startDate": "2026-08-20",
       "endDate": "2026-10-26",
-      "status": "active",
+      "status": "ended",
       "source": "https://newsroom.subway.com/2026-08-20-Subway-R-and-Embark-Studios-Announce-Exclusive-Gaming-Partnership-for-ARC-Raiders-Ahead-of-Frozen-Trail-Release",
       "image": "subway-arc-raiders-x-subway-gaming-partnership.jpg",
       "imageAuto": true
@@ -4225,7 +4225,7 @@
       "category": "event",
       "startDate": "2026-08-25",
       "endDate": "2026-10-24",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/pizza-hut-teams-up-with-pepsi-and-josh-allen-to-remind-fans-gameday-starts-with-the-hut-302858823.html",
       "image": "pizza-hut-gameday-starts-with-the-hut-josh-allen-x-pepsi.jpg",
       "imageAuto": true
@@ -4458,7 +4458,7 @@
       "category": "drink",
       "startDate": "2026-08-20",
       "endDate": "2026-10-26",
-      "status": "active",
+      "status": "ended",
       "source": "https://newsroom.subway.com/2026-08-18-Subway-R-Turns-Up-the-Heat-with-New-Doritos-R-Hot-Honey-Nachos",
       "image": null
     },
@@ -4671,7 +4671,7 @@
       "category": "dessert",
       "startDate": "2026-08-31",
       "endDate": "2026-10-26",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-collaborates-with-iconic-candy-brand-nerds-to-launch-the-nerds-strawberry-milkshake-nationwide-302863154.html",
       "image": "zaxby-s-nerds-strawberry-milkshake-nationwide.jpg",
       "lastConfirmed": "2026-09-30",
@@ -4887,7 +4887,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260831819447/en/Dairy-Queen-Kicks-Off-Football-Season-with-$6.99-DQ-Chicken-Strip-Basket-Deal-and-NEW-MVP-Dip-Lineup",
       "image": null,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-28"
     },
     {
       "chain": "Dairy Queen",
@@ -5374,7 +5374,7 @@
       "status": "active",
       "source": "https://www.tasteofhome.com/article/dairy-queen-fall-menu-2026/",
       "image": "dairy-queen-french-silk-pie-blizzard-treat.jpg",
-      "lastConfirmed": "2026-10-22",
+      "lastConfirmed": "2026-10-28",
       "imageAuto": true
     },
     {
@@ -6375,7 +6375,7 @@
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
       "image": "burger-king-game-day-pretzel-burger.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-21"
+      "lastConfirmed": "2026-10-28"
     },
     {
       "chain": "Burger King",
@@ -6388,7 +6388,7 @@
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
       "image": "burger-king-chicken-fries-with-nacho-cheese-sauce.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-21"
+      "lastConfirmed": "2026-10-28"
     },
     {
       "chain": "Burger King",
@@ -7032,7 +7032,7 @@
       "category": "event",
       "startDate": "2026-10-05",
       "endDate": "2026-10-27",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.qsrmagazine.com/news/raising-canes-to-open-seven-stores-in-october/",
       "image": null,
       "lastConfirmed": "2026-10-16"
@@ -7416,7 +7416,7 @@
       "category": "food",
       "startDate": "2026-09-10",
       "endDate": "2026-10-31",
-      "status": "ended",
+      "status": "active",
       "source": "https://secure.businesswire.com/news/home/20260910696551/en/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time",
       "image": null
     },

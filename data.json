@@ -4624,8 +4624,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/chipotle-marks-a-brand-first-with-all-new-pollo-asado-and-the-debut-of-chili-lime-chips-302863254.html",
-      "image": null,
-      "lastConfirmed": "2026-09-15"
+      "image": "chipotle-chili-lime-chips.jpg",
+      "lastConfirmed": "2026-09-15",
+      "imageAuto": true
     },
     {
       "chain": "Domino's",
@@ -5408,8 +5409,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/pizza-hut-teams-up-with-pepsi-and-josh-allen-to-remind-fans-gameday-starts-with-the-hut-302858823.html",
-      "image": null,
-      "lastConfirmed": "2026-10-22"
+      "image": "pizza-hut-triple-treat-box-gameday-edition.jpg",
+      "lastConfirmed": "2026-10-22",
+      "imageAuto": true
     },
     {
       "chain": "KFC",

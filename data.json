@@ -1384,7 +1384,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://tastingtable.com/1410173/taco-bell-adding-toasted-breakfast-tacos-menu",
-      "image": null
+      "image": "taco-bell-toasted-breakfast-tacos-taco-pass-exclusive.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Sonic",
@@ -6480,7 +6481,8 @@
       "endDate": "2026-11-08",
       "status": "active",
       "source": "https://www.merca20.com/pizza-hut-is-giving-away-free-pizza-for-halloween-heres-how-to-get-yours/",
-      "image": null
+      "image": "pizza-hut-buy-10-99-large-3-topping-get-free-medium-pizza-halloween-hut-rewards.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Raising Cane's",
@@ -6514,7 +6516,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.atlantanewsfirst.com/2026/09/23/mcdonalds-roll-out-85-billion-overhaul-heres-what-is-changing-your-local-restaurant/",
-      "image": null
+      "image": "mcdonald-s-hand-breaded-chicken-wings-strips-sandwich-regional-test.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Starbucks",

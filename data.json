@@ -1376,18 +1376,6 @@
       "lastConfirmed": "2026-10-28"
     },
     {
-      "chain": "Taco Bell",
-      "item": "Toasted Breakfast Tacos (Taco Pass exclusive)",
-      "description": "Breakfast taco with scrambled eggs, cheese, and a choice of bacon, sausage or potato in a tortilla that's grilled after assembly; $1.49 each. Launched Oct 12, 2026 exclusively for Taco Bell app Taco Pass subscribers (the $10 pass, on sale Oct 3-4 for National Taco Day, redeems one free taco per day for 30 days).",
-      "category": "food",
-      "startDate": "2026-10-12",
-      "endDate": null,
-      "status": "active",
-      "source": "https://tastingtable.com/1410173/taco-bell-adding-toasted-breakfast-tacos-menu",
-      "image": "taco-bell-toasted-breakfast-tacos-taco-pass-exclusive.jpg",
-      "imageAuto": true
-    },
-    {
       "chain": "Sonic",
       "item": "99¢ Corn Dog Thursdays",
       "description": "Weekly value deal: classic corn dogs for 99 cents every Thursday throughout August 2026.",

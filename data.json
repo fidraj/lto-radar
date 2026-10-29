@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-28",
+  "researched": "2026-10-29",
   "items": [
     {
       "chain": "McDonald's",
@@ -1374,6 +1374,17 @@
       "source": "https://www.tacobell.com/newsroom/taco-bell-milk-bar-reunite",
       "image": null,
       "lastConfirmed": "2026-10-28"
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Toasted Breakfast Tacos (Taco Pass exclusive)",
+      "description": "Breakfast taco with scrambled eggs, cheese, and a choice of bacon, sausage or potato in a tortilla that's grilled after assembly; $1.49 each. Launched Oct 12, 2026 exclusively for Taco Bell app Taco Pass subscribers (the $10 pass, on sale Oct 3-4 for National Taco Day, redeems one free taco per day for 30 days).",
+      "category": "food",
+      "startDate": "2026-10-12",
+      "endDate": null,
+      "status": "active",
+      "source": "https://tastingtable.com/1410173/taco-bell-adding-toasted-breakfast-tacos-menu",
+      "image": null
     },
     {
       "chain": "Sonic",
@@ -5378,6 +5389,17 @@
       "imageAuto": true
     },
     {
+      "chain": "Dairy Queen",
+      "item": "Holiday Cookie Swap Blizzard Collection (Peanut Butter Blossom & returning Peppermint Bark)",
+      "description": "New Peanut Butter Blossom Blizzard (Hershey's Mini Kisses, cookie pieces, peanut butter topping blended into soft serve) plus the returning Peppermint Bark Blizzard, at participating US locations Nov 2, 2026 through Jan 3, 2027. Any Blizzard can be added to the $8 Meal Deal for $2 extra.",
+      "category": "dessert",
+      "startDate": "2026-11-02",
+      "endDate": "2027-01-03",
+      "status": "upcoming",
+      "source": "https://www.complex.com/life/a/anne-erickson/dairy-queen-announced-new-blizzard",
+      "image": null
+    },
+    {
       "chain": "Raising Cane's",
       "item": "UK Expansion Announcement (Piccadilly Circus, London)",
       "description": "Raising Cane's confirmed its first European restaurant will take over the former Angus Steakhouse site at 21-22 Coventry Street, Piccadilly Circus, opening late 2026.",
@@ -6450,6 +6472,17 @@
       "imageAuto": true
     },
     {
+      "chain": "Pizza Hut",
+      "item": "Buy $10.99 Large 3-Topping, Get Free Medium Pizza (Halloween, Hut Rewards)",
+      "description": "Hut Rewards members who buy a large 3-topping pizza for $10.99 between Oct 26-31, 2026 earn a free medium pizza with the purchase of another pizza, redeemable Nov 1-8, 2026. Free sign-up for non-members.",
+      "category": "event",
+      "startDate": "2026-10-26",
+      "endDate": "2026-11-08",
+      "status": "active",
+      "source": "https://www.merca20.com/pizza-hut-is-giving-away-free-pizza-for-halloween-heres-how-to-get-yours/",
+      "image": null
+    },
+    {
       "chain": "Raising Cane's",
       "item": "Red River Rivalry Ticket Giveaway (2nd annual)",
       "description": "In-restaurant, no-purchase-necessary QR-code giveaway at participating Dallas-Fort Worth, Austin, Oklahoma City, Tulsa and Wichita Falls locations for a chance to win 4 game tickets plus 4 VIP pre-game hospitality passes to the Oct. 10, 2026 Allstate Red River Rivalry (Texas vs. Oklahoma) at the Cotton Bowl in Dallas. Second year of this promotion.",
@@ -7129,12 +7162,12 @@
     {
       "chain": "Starbucks",
       "item": "Red Cup Day 2026",
-      "description": "Starbucks confirmed (as of Oct 5, 2026 coverage) that its annual Red Cup Day promotion — a free reusable red holiday cup with purchase of a qualifying handcrafted holiday beverage, while supplies last — is returning in 2026, but had not announced the specific date as of mid-October 2026. Recent years: Nov 13 (2025), Nov 14 (2024), Nov 16 (2023), always a Thursday near the holiday menu launch.",
+      "description": "Starbucks confirmed via an Oct 26, 2026 Instagram post that Red Cup Day — a free reusable red holiday cup with purchase of a qualifying handcrafted holiday beverage, while supplies last — returns Tuesday, Nov 17, 2026. Cup design not yet revealed.",
       "category": "event",
-      "startDate": null,
+      "startDate": "2026-11-17",
       "endDate": "while supplies last",
       "status": "upcoming",
-      "source": "https://www.hercampus.com/life/when-is-starbucks-red-cup-day-2026-holiday/",
+      "source": "https://www.wptv.com/life/food-and-drink/starbucks-announces-2026-red-cup-day-heres-when-to-get-a-free-cup",
       "image": null
     },
     {
@@ -7315,7 +7348,7 @@
       "category": "event",
       "startDate": "2026-10-26",
       "endDate": "2026-11-01",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.qsrweb.com/news/arbys-gives-12-foot-skeletons-a-meat-sweats-makeover/",
       "image": null
     },

@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-29",
+  "researched": "2026-10-30",
   "items": [
     {
       "chain": "McDonald's",
@@ -839,7 +839,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-welcomes-back-the-chicken-supreme-and-introduces-jibbis/",
       "image": "jack-in-the-box-chicken-supreme-75th-anniversary-return.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Dairy Queen",
@@ -875,7 +875,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-10-28"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Dairy Queen",
@@ -883,8 +883,8 @@
       "description": "Returning fall classic: real pumpkin pie pieces blended with DQ soft serve, whipped topping and nutmeg garnish. Limited time starting Aug 31.",
       "category": "dessert",
       "startDate": "2026-08-31",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-01",
+      "status": "ending-soon",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": "dairy-queen-pumpkin-pie-blizzard-returning.jpg",
       "lastConfirmed": "2026-10-28"
@@ -923,7 +923,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/popeyes-launches-new-cheese-bites.html",
       "image": "popeyes-cheese-bites.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Popeyes",
@@ -958,7 +958,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/6-dollar-big-box-meal-back-at-popeyes-summer-2026.html",
       "image": "popeyes-blueberry-lemon-cheesecake-cup.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Wingstop",
@@ -1041,7 +1041,7 @@
       "status": "active",
       "source": "https://themusicuniverse.com/megan-moroney-teams-with-raising-canes-for-exclusive-cloud-9-collectors-cups/",
       "image": "raising-cane-s-megan-moroney-cloud-9-souvenir-cup.jpg",
-      "lastConfirmed": "2026-09-29"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Zaxby's",
@@ -1158,7 +1158,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/05/pizza-hut-new-crispy-parm-pan-pizza.html",
       "image": "pizza-hut-crispy-parm-pan-pizza.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Domino's",
@@ -1419,7 +1419,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/zaxbys-and-rob-rausch-bring-an-iconic-southern-flavor-to-fans-nationwide-with-limited-drop-of-alabama-white-bbq-sauce-302840598.html",
       "image": "zaxby-s-alabama-white-bbq-sauce-limited-drop.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Starbucks",
@@ -1465,7 +1465,7 @@
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/arbys-launches-lineup-of-1-99-sliders/",
       "image": "arby-s-1-99-sliders-lineup.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Jack in the Box",
@@ -1489,7 +1489,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-adds-new-sweet-reaper-mozzarella-sticks-as-classic-version-returns/",
       "image": "jack-in-the-box-sweet-reaper-mozzarella-sticks.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Popeyes",
@@ -1538,7 +1538,7 @@
       "status": "active",
       "source": "https://www.arbys.com/menu/categories/limited-time/classic-shirley-temple/",
       "image": "arby-s-dirty-soda-lineup-leaked-unconfirmed.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "McDonald's",
@@ -1659,7 +1659,7 @@
       "status": "active",
       "source": "https://sporked.com/article/popeyes-just-sneakily-added-new-onion-rings/",
       "image": null,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Chipotle",
@@ -1671,7 +1671,7 @@
       "status": "active",
       "source": "https://parade.com/news/chipotle-just-started-testing-crispy-chicken-fans-want-it-nationwide",
       "image": null,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "McDonald's",
@@ -1902,7 +1902,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/arbys-introduces-new-meat-3-box-meal.html",
       "image": "arby-s-meat-3-box-meal.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Arby's",
@@ -1925,7 +1925,7 @@
       "status": "active",
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
       "image": "arby-s-steak-nuggets.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Jack in the Box",
@@ -1937,7 +1937,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/A-Matcha-Made-in-Heaven-Jack-in-the-Box-Launches-Matcha-Beverage-Lineup-Nationwide/default.aspx",
       "image": "jack-in-the-box-matcha-beverage-platform-matcha-iced-latte-oreo-matcha-shake.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Jack in the Box",
@@ -1949,7 +1949,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Serves-Up-New-Protein-Bowl-Flavors-and-2-for-6-Jack-Wraps-Including-the-Best-Rated-Wrap-in-Fast-Food/default.aspx",
       "image": "jack-in-the-box-protein-bowls-teriyaki-fajita-and-2-for-6-jack-wraps.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Jack in the Box",
@@ -2152,7 +2152,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/potato-wedges-are-back-at-jack-in-box.html",
       "image": "jack-in-the-box-sauced-loaded-potato-wedges-return.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Jack in the Box",
@@ -2176,7 +2176,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/back-for-good-popeyes-makes-fan-favorite-chicken-wraps-a-permanent-menu-offering-and-debuts-new-blackened-ranch-flavor-302760814.html",
       "image": "popeyes-honey-bbq-chicken-sandwich-honey-bbq-bacon-cheese-sandwich.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Dairy Queen",
@@ -2233,7 +2233,7 @@
       "status": "active",
       "source": "https://ir.dominos.com/news-releases/news-release-details/after-more-65-years-dominosr-launch-first-pizza-worthy-its-name",
       "image": "domino-s-the-domino-detroit-style-personal-pizza.jpg",
-      "lastConfirmed": "2026-10-24"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Dunkin'",
@@ -2321,7 +2321,7 @@
       "status": "active",
       "source": "https://ir.dominos.com/news-releases/news-release-details/dominosr-fires-summer-new-smores-lava-cakes",
       "image": "domino-s-s-mores-lava-cakes.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Popeyes",
@@ -2652,7 +2652,7 @@
       "image": null,
       "imageUrl": null,
       "imageSkip": true,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Arby's",
@@ -2665,7 +2665,7 @@
       "source": "https://www.nrn.com/quick-service/arby-s-steak-nuggets-return-to-the-menu-paired-with-potatoes-in-a-new-bowl",
       "image": "arby-s-steak-n-mac-bowl-steak-nuggets.jpg",
       "imageUrl": null,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Chipotle",
@@ -2940,7 +2940,7 @@
       "image": "chipotle-cilantro-lime-sauce.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Chipotle",
@@ -3119,7 +3119,7 @@
       "source": "https://ktla.com/food/jack-in-the-box-marks-75th-anniversary-with-yearlong-celebration-featuring-new-foods-giveaways/",
       "image": null,
       "imageUrl": null,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Dairy Queen",
@@ -3525,7 +3525,7 @@
       "image": "domino-s-perfect-combo-deal-19-99.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-10-12",
+      "lastConfirmed": "2026-10-30",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2012-06-18",
@@ -3610,7 +3610,7 @@
       "image": "raising-cane-s-raising-cane-s-x-gigapet.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-10-03",
+      "lastConfirmed": "2026-10-30",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2025-11-19",
@@ -3743,7 +3743,7 @@
       "status": "active",
       "source": "https://www.foodbeast.com/news/pizza-huts-3-personal-pan-pizza-might-be-the-best-value-move-in-fast-food-right-now/",
       "image": "pizza-hut-3-tuesday-personal-pan-pizza.jpg",
-      "lastConfirmed": "2026-10-09",
+      "lastConfirmed": "2026-10-30",
       "imageAuto": true
     },
     {
@@ -3981,7 +3981,7 @@
       "source": "https://www.tastingtable.com/2236477/arbys-steak-nuggets-return-potato-bowl-new-sauce/",
       "image": "arby-s-horsey-ranch-dipping-sauce.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Pizza Hut",
@@ -4086,7 +4086,7 @@
       "source": "https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES",
       "image": "chipotle-chipotle-x-salish-matter-order.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Burger King",
@@ -4545,7 +4545,7 @@
       "source": "https://www.brandeating.com/2026/08/potato-wedges-are-back-at-jack-in-box.html",
       "image": "jack-in-the-box-spicy-sauced-loaded-potato-wedges.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "McDonald's",
@@ -4613,7 +4613,7 @@
       "source": "https://www.prnewswire.com/news-releases/chipotle-marks-a-brand-first-with-all-new-pollo-asado-and-the-debut-of-chili-lime-chips-302863254.html",
       "image": "chipotle-pollo-asado-new-recipe.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Chipotle",
@@ -4625,7 +4625,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/chipotle-marks-a-brand-first-with-all-new-pollo-asado-and-the-debut-of-chili-lime-chips-302863254.html",
       "image": "chipotle-chili-lime-chips.jpg",
-      "lastConfirmed": "2026-09-15",
+      "lastConfirmed": "2026-10-30",
       "imageAuto": true
     },
     {
@@ -4887,7 +4887,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260831819447/en/Dairy-Queen-Kicks-Off-Football-Season-with-$6.99-DQ-Chicken-Strip-Basket-Deal-and-NEW-MVP-Dip-Lineup",
       "image": null,
-      "lastConfirmed": "2026-10-28"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Dairy Queen",
@@ -5086,7 +5086,7 @@
       "source": "https://www.prnewswire.com/news-releases/wingstop-kicks-off-football-season-with-new-lemon-pepper-trio-and-its-first-ever-wing-pass-302872818.html",
       "image": "wingstop-lemon-pepper-trio-chili-crunch-chili-glaze.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Wingstop",
@@ -5370,8 +5370,8 @@
       "description": "Fall Blizzard menu addition alongside the Brown Sugar Cookie Dough Blizzard; exact end date not yet announced.",
       "category": "dessert",
       "startDate": "2026-08-31",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-01",
+      "status": "ending-soon",
       "source": "https://www.tasteofhome.com/article/dairy-queen-fall-menu-2026/",
       "image": "dairy-queen-french-silk-pie-blizzard-treat.jpg",
       "lastConfirmed": "2026-10-28",
@@ -5398,7 +5398,7 @@
       "status": "active",
       "source": "https://www.restaurantdive.com/news/raising-canes-chicken-fingers-london-piccadilly-first-uk/759229/",
       "image": null,
-      "lastConfirmed": "2026-10-24"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Raising Cane's",
@@ -5445,7 +5445,7 @@
       "status": "active",
       "source": "https://news.popeyes.com/blog-posts/popeyes-introduces-that-chicken-from-popeyes-a-bold-new-brand-campaign-inspired-by-the-real-louisiana-kitchen",
       "image": "popeyes-that-chicken-from-popeyes-brand-campaign.jpg",
-      "lastConfirmed": "2026-10-22",
+      "lastConfirmed": "2026-10-30",
       "imageAuto": true
     },
     {
@@ -5906,7 +5906,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/01/arbys-introduces-new-meat-3-box-meal.html",
       "image": null,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-30"
     },
     {
       "chain": "Taco Bell",
@@ -6869,7 +6869,7 @@
     {
       "chain": "Starbucks",
       "item": "2026 Holiday Merchandise Collections (Holiday Bearista, Holiday Village, Peppermint Mocha, Winter Wonderland)",
-      "description": "Limited-time holiday merch drops: Holiday Bearista, Seattle-inspired Holiday Village, and retro-style Peppermint Mocha collections debut Nov 5, 2026; a separate Winter Wonderland collection follows Nov 17, 2026. The classic Bearista Glass Cold Cup's return was also confirmed, with no drop date given as of the Oct 5 announcement.",
+      "description": "Limited-time holiday merch drops: Holiday Bearista, Seattle-inspired Holiday Village, and retro-style Peppermint Mocha collections debut Nov 5, 2026; a separate Winter Wonderland collection follows Nov 17, 2026. The classic Bearista Glass Cold Cup's return was also confirmed on Oct 5; its specific dates were announced Oct 26, 2026 and are now tracked as a separate item: a mystery 'Surprise Box Edition' launches Nov 10, 2026, with the original cup following Dec 1, 2026.",
       "category": "event",
       "startDate": "2026-11-05",
       "endDate": "while supplies last",
@@ -7479,6 +7479,105 @@
       "source": "https://www.dexerto.com/food/subway-brings-back-fritos-sub-after-12-years-alongside-bogo-footlongs-3420858/",
       "image": "subway-national-sandwich-day-bogo-footlong-2026-sub-club.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Frosted Cranberry Splash & Red Bull Frosted Cranberry Energizer",
+      "description": "Two new holiday drinks: Frosted Cranberry Splash with Sprite (Sprite with orange and cranberry flavor, topped with cold foam and cranberry sprinkles) and the Red Bull Frosted Cranberry Energizer (available with classic Red Bull or Red Bull Zero). Announced via press release Oct 27, 2026 for a nationwide Nov 3, 2026 launch; no permanent menu placement announced.",
+      "category": "drink",
+      "startDate": "2026-11-03",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.nrn.com/quick-service/mcdonald-s-gets-into-the-holiday-spirit-early-with-festive-new-drinks",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Cookie Butter Frappé, Latte & Iced Coffee",
+      "description": "Three new McCafé holiday drinks with cookie butter flavor, topped with caramel cookie crumbs and sweet vanilla whip, positioned as an alternative to peppermint/gingerbread holiday flavors. Announced via press release Oct 27, 2026 for a nationwide Nov 3, 2026 launch alongside the Frosted Cranberry drinks.",
+      "category": "drink",
+      "startDate": "2026-11-03",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.nrn.com/quick-service/mcdonald-s-gets-into-the-holiday-spirit-early-with-festive-new-drinks",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Bearista Glass Cold Cup Surprise Box Edition",
+      "description": "Mystery-box version of the viral Bearista Glass Cold Cup: each box contains one random/mystery Glass Bearista design, buyers don't know which character they get until opening it. Announced Oct 26, 2026; launches Nov 10, 2026 in limited quantities while supplies last at US coffeehouses. The original (non-mystery) Bearista Glass Cold Cup separately returns to select US coffeehouses Dec 1, 2026, also while supplies last. This is the specific drop date for the Bearista Glass Cold Cup return mentioned generically (with 'no drop date given') in the already-tracked '2026 Holiday Merchandise Collections' item.",
+      "category": "event",
+      "startDate": "2026-11-10",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://www.foxla.com/news/starbucks-viral-bearista-cold-cups-return",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "All Jacked Up Dozen (Halloween Doughnuts)",
+      "description": "Halloween doughnut box: nine Jack's Original Glazed doughnuts (the classic Original Glazed tinted orange) plus one each of Mummy Jack, Monster Jack, and Jack O' Doughnut. Available nationwide in-shop, drive-thru, and online for pickup/delivery; the $13 dozen price was a short Halloween-week deal, reported as running roughly Oct 28-29, 2026 (confirmed already over as of this Oct 30 check).",
+      "category": "donut",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-29",
+      "status": "ended",
+      "source": "https://www.homecrux.com/krispy-kreme-drops-all-jacked-up-halloween-dozen-doughnuts/428033/amp/",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Jack's Treat Dozen Pass",
+      "description": "Surprise giveaway tied to the All Jacked Up Dozen launch: 10,000 randomly selected guests at participating U.S. shops receive a coupon for a free dozen Original Glazed doughnuts with any purchase, handed out Oct 30-31, 2026; the coupon itself is redeemable Nov 1 through Nov 14, 2026.",
+      "category": "event",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-31",
+      "status": "active",
+      "source": "https://www.nrn.com/quick-service/krispy-kreme-is-giving-away-a-treat-dozen-pass",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Cookie Butter Holiday Lineup",
+      "description": "Returning holiday drinks: Cookie Butter Cloud Latte, Cookie Butter Cloud Dunkalatte, Cookie Butter Hot Chocolate, Cookie Butter Matcha, Iced Cookie Butter Oat Chai Latte, and a new Spiced Cookie Iced Coffee (Dunkin' Iced Coffee with oatmilk and Cookie Butter Syrup). Part of Dunkin's 2026 holiday menu, officially announced via Dunkin's own newsroom Oct 28, 2026, launching nationwide Nov 4, 2026.",
+      "category": "drink",
+      "startDate": "2026-11-04",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "Toasted White Chocolate Holiday Lineup",
+      "description": "New holiday drinks: Toasted White Chocolate Cloud Latte, Toasted White Chocolate Signature Latte, Almond White Chocolate Shakin' Espresso, and Raspberry White Chocolate Matcha. Part of Dunkin's 2026 holiday menu, officially announced Oct 28, 2026, launching nationwide Nov 4, 2026 alongside the returning Cookie Butter lineup.",
+      "category": "drink",
+      "startDate": "2026-11-04",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
+      "image": null
+    },
+    {
+      "chain": "Dunkin'",
+      "item": "The Donutcracker (Holiday Packaging)",
+      "description": "New nutcracker-inspired holiday mascot/character debuting on cups, doughnut boxes, and MUNCHKINS boxes for the 2026 holiday season, introduced alongside the Cookie Butter and Toasted White Chocolate drink lineups. Launches nationwide Nov 4, 2026, while supplies last.",
+      "category": "event",
+      "startDate": "2026-11-04",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
+      "image": null
+    },
+    {
+      "chain": "Zaxby's",
+      "item": "Peppermint Cookies & Cream Shake (leaked, unconfirmed)",
+      "description": "First holiday peppermint shake: peppermint-flavored soft serve (real whole milk and real sugar) blended with cookies-and-cream pieces, topped with whipped cream, extra crushed cookie pieces and a maraschino cherry. Framed by the single source as a rival to Chick-fil-A's Peppermint Chip Milkshake. LOW CONFIDENCE: only one food-news source found (Sporked), no official Zaxby's press release or second outlet located, and the article itself is undated (inferred recent/late-Oct-2026 from the site's post-ID ordering relative to Zaxby's dated Sept 2026 NERDS milkshake story). Verify on Zaxby's app/site before treating as certain.",
+      "category": "dessert",
+      "startDate": "2026-11-02",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://sporked.com/?p=80908",
+      "image": null
     }
   ]
 }

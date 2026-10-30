@@ -4720,8 +4720,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Sweet-Meets-Heat-DQ-Introduces-New-Swicy-Menu-Featuring-FlameThrower-Chicken-Strips-Soft-Serve-Dipping-Sauce--Refreshing-Lemonade-Beverages/default.aspx",
-      "image": null,
-      "lastConfirmed": "2026-10-22"
+      "image": "dairy-queen-flamethrower-chicken-strip-basket-swicy-chicken-strip-sandwich.jpg",
+      "lastConfirmed": "2026-10-22",
+      "imageAuto": true
     },
     {
       "chain": "Dairy Queen",
@@ -6232,8 +6233,9 @@
       "endDate": "2026-11-01",
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
-      "image": null,
-      "lastConfirmed": "2026-10-21"
+      "image": "dairy-queen-enchanted-oreo-blizzard-treat.jpg",
+      "lastConfirmed": "2026-10-21",
+      "imageAuto": true
     },
     {
       "chain": "Dairy Queen",
@@ -7511,7 +7513,8 @@
       "endDate": "while supplies last",
       "status": "upcoming",
       "source": "https://www.foxla.com/news/starbucks-viral-bearista-cold-cups-return",
-      "image": null
+      "image": "starbucks-bearista-glass-cold-cup-surprise-box-edition.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Krispy Kreme",
@@ -7533,7 +7536,8 @@
       "endDate": "2026-10-31",
       "status": "active",
       "source": "https://www.nrn.com/quick-service/krispy-kreme-is-giving-away-a-treat-dozen-pass",
-      "image": null
+      "image": "krispy-kreme-jack-s-treat-dozen-pass.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",
@@ -7544,7 +7548,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
-      "image": null
+      "image": "dunkin-cookie-butter-holiday-lineup.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",
@@ -7555,7 +7560,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
-      "image": null
+      "image": "dunkin-toasted-white-chocolate-holiday-lineup.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",
@@ -7566,7 +7572,8 @@
       "endDate": "while supplies last",
       "status": "upcoming",
       "source": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
-      "image": null
+      "image": "dunkin-the-donutcracker-holiday-packaging.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Zaxby's",

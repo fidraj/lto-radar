@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-30",
+  "researched": "2026-10-31",
   "items": [
     {
       "chain": "McDonald's",
@@ -59,7 +59,7 @@
       "status": "active",
       "source": "https://pielocator.com/",
       "image": "mcdonald-s-pumpkin-creme-pie.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "McDonald's",
@@ -527,7 +527,7 @@
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": "starbucks-pumpkin-spice-latte-fall-return.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Starbucks",
@@ -539,7 +539,7 @@
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": "starbucks-chaider.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Starbucks",
@@ -887,7 +887,7 @@
       "status": "ending-soon",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": "dairy-queen-pumpkin-pie-blizzard-returning.jpg",
-      "lastConfirmed": "2026-10-28"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Dairy Queen",
@@ -1256,7 +1256,7 @@
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": "starbucks-pumpkin-cream-lineup-iced-pumpkin-cream-shaken-espresso-chai-matcha.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Starbucks",
@@ -1268,7 +1268,7 @@
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": null,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Starbucks",
@@ -1280,7 +1280,7 @@
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": null,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "KFC",
@@ -1373,7 +1373,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/newsroom/taco-bell-milk-bar-reunite",
       "image": null,
-      "lastConfirmed": "2026-10-28"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Sonic",
@@ -2415,11 +2415,11 @@
     {
       "chain": "Wendy's",
       "item": "Jalapeño Ranch Cheeseburger",
-      "description": "Spring 2026 LTO burger with jalapeño ranch sauce and sliced jalapeños; launched alongside a jalapeño-themed breakfast lineup on Apr 27, 2026. Previously missed from tracking; appears to still be running.",
+      "description": "Spring 2026 LTO burger with jalapeño ranch sauce and sliced jalapeños; launched alongside a jalapeño-themed breakfast lineup on Apr 27, 2026. Best-estimate end date (no official end date found): zero food-news coverage of this item since launch, and a single, undated Eat This roundup referred to Wendy's \"dropping\" it; closed out per Wendy's typical ~6-10 week spring-LTO cycle.",
       "category": "burger",
       "startDate": "2026-04-27",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-06-15",
+      "status": "ended",
       "source": "https://www.wendys.com/blog/New-Jalapeno-Menu-Items",
       "image": "wendy-s-jalape-o-ranch-cheeseburger.jpg",
       "lastConfirmed": "2026-10-12"
@@ -2481,7 +2481,7 @@
       "status": "active",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-chicken-waffles-sandwich.jpg",
-      "lastConfirmed": "2026-09-28"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Chick-fil-A",
@@ -2493,7 +2493,7 @@
       "status": "active",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-s-mores-milkshake.jpg",
-      "lastConfirmed": "2026-09-28"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Chick-fil-A",
@@ -2505,7 +2505,7 @@
       "status": "active",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-s-mores-frosted-coffee.jpg",
-      "lastConfirmed": "2026-09-28"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Krispy Kreme",
@@ -2613,7 +2613,7 @@
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": null,
       "imageUrl": null,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Dunkin'",
@@ -2893,7 +2893,7 @@
       "image": "mcdonald-s-mcvalue-under-3-menu-4-breakfast-meal-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "McDonald's",
@@ -3191,7 +3191,7 @@
     {
       "chain": "Pizza Hut",
       "item": "$10 Large 3-Topping Pizza (renamed from \"$10 Any Pizza Deal\")",
-      "description": "Medium or large pizza with up to 5 toppings on any recipe (Hand-Tossed, Original Pan, Thin 'N Crispy, or Chicago Tavern-Style) for $10, carryout orders placed online/app; Stuffed Crust upgrade +$3. Launched nationwide and still being promoted as of August 2026.",
+      "description": "Medium or large pizza with up to 5 toppings on any recipe (Hand-Tossed, Original Pan, Thin 'N Crispy, or Chicago Tavern-Style) for $10, carryout orders placed online/app; Stuffed Crust upgrade +$3. Launched nationwide and still being promoted as of August 2026. As of late Oct 2026, several markets and Pizza Hut's own site list this deal at $10.99 rather than $10 (price varies by market; no single official price-change announcement found).",
       "category": "food",
       "startDate": "2026-03-01",
       "endDate": null,
@@ -3264,7 +3264,7 @@
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "imageUrl": null,
       "image": null,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Starbucks",
@@ -3277,7 +3277,7 @@
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "imageUrl": null,
       "image": null,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Chick-fil-A",
@@ -4062,7 +4062,7 @@
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-plain-waffle-a-la-carte.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-28"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Raising Cane's",
@@ -4144,7 +4144,7 @@
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": null,
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Dunkin'",
@@ -4221,7 +4221,7 @@
     {
       "chain": "Pizza Hut",
       "item": "Gameday Starts with the Hut (Josh Allen x Pepsi)",
-      "description": "Football-season marketing platform fronted by Bills QB Josh Allen and Pepsi: The Big Hut Deal ($10 large 3-topping pizza, any crust), a new Triple Treat Box Game Day Edition (two pizzas, breadsticks, cinnamon sticks from $21.99), limited-edition Flick Football Pizza Boxes, and a UGC video sweepstakes at pizzahut.com/gamedaystartswithhut with a 1,000,000 Hut Rewards points grand prize. Sweepstakes entries close 10/24/26 8pm ET.",
+      "description": "Football-season marketing platform fronted by Bills QB Josh Allen and Pepsi: The Big Hut Deal ($10.99 large 3-topping pizza, any crust), a new Triple Treat Box Game Day Edition (two pizzas, breadsticks, cinnamon sticks from $21.99), limited-edition Flick Football Pizza Boxes, and a UGC video sweepstakes at pizzahut.com/gamedaystartswithhut with a 1,000,000 Hut Rewards points grand prize. Sweepstakes entries close 10/24/26 8pm ET.",
       "category": "event",
       "startDate": "2026-08-25",
       "endDate": "2026-10-24",
@@ -4550,11 +4550,11 @@
     {
       "chain": "McDonald's",
       "item": "SpongeBob x One Piece Happy Meal",
-      "description": "Happy Meal collab reimagining SpongeBob SquarePants characters as the One Piece Straw Hat crew (SpongeBob as Luffy, Patrick as Zoro, Mr. Krabs as Jinbe, Squidward as Sanji, etc.) with new collectible toys.",
+      "description": "Happy Meal collab reimagining SpongeBob SquarePants characters as the One Piece Straw Hat crew (SpongeBob as Luffy, Patrick as Zoro, Mr. Krabs as Jinbe, Squidward as Sanji, etc.) with new collectible toys. Best-estimate end date (no official end date announced); McDonald's Happy Meal toy rotation moved on to MONOPOLY (Oct 6) and Disney Villains Boo Buckets (Oct 20) promos occupying the same slot, with no food-news coverage of this collab after mid-October.",
       "category": "event",
       "startDate": "2026-09-15",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-10-19",
+      "status": "ended",
       "source": "https://www.today.com/food/restaurants/spongebob-one-piece-happy-meal-mcdonalds-rcna595388",
       "image": "mcdonald-s-spongebob-x-one-piece-happy-meal.jpg",
       "imageAuto": true,
@@ -4662,7 +4662,7 @@
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-to-add-the-aerocano-and-mini-pies-to-the-fall-lineup-sept-29/",
       "image": null,
-      "lastConfirmed": "2026-09-30"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Zaxby's",
@@ -5375,7 +5375,7 @@
       "status": "ending-soon",
       "source": "https://www.tasteofhome.com/article/dairy-queen-fall-menu-2026/",
       "image": "dairy-queen-french-silk-pie-blizzard-treat.jpg",
-      "lastConfirmed": "2026-10-28",
+      "lastConfirmed": "2026-10-31",
       "imageAuto": true
     },
     {
@@ -5780,7 +5780,7 @@
       "source": "https://www.qsrmagazine.com/news/burger-king-and-hello-kitty-friends-partner-on-special-kids-meal/",
       "image": "burger-king-hello-kitty-friends-king-jr-meal-leaked-unconfirmed.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-21"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Wingstop",
@@ -6327,7 +6327,7 @@
       "category": "event",
       "startDate": "2026-10-31",
       "endDate": "2026-11-01",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO",
       "image": "chipotle-boorito-2026.jpg",
       "imageAuto": true
@@ -6529,7 +6529,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://passionatepennypincher.com/starbucks-fall-drinks/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Jack in the Box",
@@ -6760,7 +6761,7 @@
       "status": "upcoming",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
       "image": null,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Starbucks",
@@ -6772,7 +6773,7 @@
       "status": "upcoming",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
       "image": null,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Starbucks",
@@ -6784,7 +6785,7 @@
       "status": "upcoming",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
       "image": null,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Starbucks",
@@ -6796,7 +6797,7 @@
       "status": "upcoming",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
       "image": null,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Chipotle",
@@ -6866,7 +6867,7 @@
       "status": "upcoming",
       "source": "https://about.starbucks.com/?p=292725",
       "image": null,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Starbucks",
@@ -6878,7 +6879,7 @@
       "status": "upcoming",
       "source": "https://about.starbucks.com/?p=292725",
       "image": null,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "McDonald's",
@@ -6937,7 +6938,7 @@
       "status": "upcoming",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
       "image": null,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Dunkin'",
@@ -7037,7 +7038,7 @@
       "status": "upcoming",
       "source": "https://about.starbucks.com/?p=292725",
       "image": null,
-      "lastConfirmed": "2026-10-16"
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Wingstop",
@@ -7161,7 +7162,8 @@
       "endDate": "while supplies last",
       "status": "upcoming",
       "source": "https://www.wptv.com/life/food-and-drink/starbucks-announces-2026-red-cup-day-heres-when-to-get-a-free-cup",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Taco Bell",
@@ -7444,7 +7446,8 @@
       "endDate": "2026-10-31",
       "status": "active",
       "source": "https://secure.businesswire.com/news/home/20260910696551/en/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Subway",
@@ -7456,7 +7459,8 @@
       "status": "active",
       "source": "https://www.dexerto.com/food/subway-brings-back-fritos-sub-after-12-years-alongside-bogo-footlongs-3420858/",
       "image": "subway-fritos-chicken-enchilada-sub-returning-last-sold-2014.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Subway",
@@ -7468,7 +7472,8 @@
       "status": "active",
       "source": "https://www.dexerto.com/food/subway-brings-back-fritos-sub-after-12-years-alongside-bogo-footlongs-3420858/",
       "image": "subway-caramel-apple-cookie-returning-last-sold-2021.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Subway",
@@ -7480,7 +7485,8 @@
       "status": "active",
       "source": "https://www.dexerto.com/food/subway-brings-back-fritos-sub-after-12-years-alongside-bogo-footlongs-3420858/",
       "image": "subway-national-sandwich-day-bogo-footlong-2026-sub-club.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "McDonald's",
@@ -7549,7 +7555,8 @@
       "status": "upcoming",
       "source": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
       "image": "dunkin-cookie-butter-holiday-lineup.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Dunkin'",
@@ -7561,7 +7568,8 @@
       "status": "upcoming",
       "source": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
       "image": "dunkin-toasted-white-chocolate-holiday-lineup.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Dunkin'",
@@ -7573,17 +7581,51 @@
       "status": "upcoming",
       "source": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
       "image": "dunkin-the-donutcracker-holiday-packaging.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-10-31"
     },
     {
       "chain": "Zaxby's",
-      "item": "Peppermint Cookies & Cream Shake (leaked, unconfirmed)",
-      "description": "First holiday peppermint shake: peppermint-flavored soft serve (real whole milk and real sugar) blended with cookies-and-cream pieces, topped with whipped cream, extra crushed cookie pieces and a maraschino cherry. Framed by the single source as a rival to Chick-fil-A's Peppermint Chip Milkshake. LOW CONFIDENCE: only one food-news source found (Sporked), no official Zaxby's press release or second outlet located, and the article itself is undated (inferred recent/late-Oct-2026 from the site's post-ID ordering relative to Zaxby's dated Sept 2026 NERDS milkshake story). Verify on Zaxby's app/site before treating as certain.",
+      "item": "Peppermint Cookies & Cream Shake",
+      "description": "New holiday milkshake flavor (peppermint, cookies & cream), launched alongside the Honey Chipotle Sauce as part of Zaxby's 2026 holiday menu; nationwide starting Nov 2, 2026. Originally tracked as leaked/unconfirmed from a single Sporked report; now corroborated by Zaxby's own PRNewswire release and QSR Magazine/Yahoo/Southern Living coverage.",
       "category": "dessert",
+      "startDate": "2026-11-02",
+      "endDate": "2027-01-18",
+      "status": "upcoming",
+      "source": "https://www.prnewswire.com/news-releases/zaxbys-sauces-and-sweetens-the-season-with-two-new-menu-additions-honey-chipotle-sauce-and-peppermint-cookies--cream-shake-302919295.html",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "$8 Quarter Pounder with Cheese Meal",
+      "description": "Extra Value Meals platform deal: Quarter Pounder with Cheese, medium fries and a medium drink for $8 (regularly ~$11.29) at participating U.S. locations; not valid for delivery. Announced Oct 20, 2026 for a Nov 2, 2026 start; medium confidence, no official McDonald's press release found directly, only secondary food-news coverage.",
+      "category": "burger",
       "startDate": "2026-11-02",
       "endDate": null,
       "status": "upcoming",
-      "source": "https://sporked.com/?p=80908",
+      "source": "https://thecoconutmama.com/how-is-that-a-deal-mcdonalds-8-quarter-pounder-meal-divides-fans/",
+      "image": null
+    },
+    {
+      "chain": "Zaxby's",
+      "item": "Honey Chipotle Sauce",
+      "description": "New dipping/tossing sauce (honey, brown sugar, red chili, chipotle peppers) available with Fingerz/Wingz orders, plates, meals and combos. Zax Rewardz members got early access Oct 26, 2026; nationwide at all locations from Nov 2, 2026 through approximately Jan 18, 2027.",
+      "category": "food",
+      "startDate": "2026-10-26",
+      "endDate": "2027-01-18",
+      "status": "active",
+      "source": "https://www.prnewswire.com/news-releases/zaxbys-sauces-and-sweetens-the-season-with-two-new-menu-additions-honey-chipotle-sauce-and-peppermint-cookies--cream-shake-302919295.html",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "November 2026 Restaurant Expansion Wave",
+      "description": "About a dozen new restaurant openings planned for November 2026 as part of Raising Cane's 30th-anniversary growth push, including first-ever locations in Brick, NJ (Nov 2, Jersey Shore debut) and Sioux Falls, SD (Nov 17, South Dakota's first location, ~165 jobs), plus Spanish Fork, UT (Nov 2) and Walker, MI (Nov 20), with additional sites reported in FL, CA, CT, IL and AL.",
+      "category": "event",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-20",
+      "status": "upcoming",
+      "source": "https://www.nrn.com/fast-casual/raising-cane-s-plans-a-dozen-new-restaurants-in-november",
       "image": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "researched": "2026-10-31",
+  "researched": "2026-11-01",
   "items": [
     {
       "chain": "McDonald's",
@@ -1659,7 +1659,7 @@
       "status": "active",
       "source": "https://sporked.com/article/popeyes-just-sneakily-added-new-onion-rings/",
       "image": null,
-      "lastConfirmed": "2026-10-30"
+      "lastConfirmed": "2026-11-01"
     },
     {
       "chain": "Chipotle",
@@ -4216,7 +4216,7 @@
       "source": "https://www.thetakeout.com/2231719/mcdonalds-fan-favorite-sauce-return-mighty-hot-sauce/",
       "image": "mcdonald-s-spicy-chicken-mcnuggets-mighty-hot-sauce-2026-return.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-28"
+      "lastConfirmed": "2026-11-01"
     },
     {
       "chain": "Pizza Hut",
@@ -4819,7 +4819,7 @@
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-and-peanuts-celebrate-fall-with-a-global-merch-collection-inspired-by-the-great-pumpkin/",
       "image": null,
-      "lastConfirmed": "2026-09-15"
+      "lastConfirmed": "2026-11-01"
     },
     {
       "chain": "Krispy Kreme",
@@ -5038,7 +5038,7 @@
       "source": "https://www.brandeating.com/2026/01/kfc-tests-new-zinger-sandwich.html",
       "image": "kfc-zinger-sandwich-regional-test-return.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-11-01"
     },
     {
       "chain": "Zaxby's",
@@ -5121,7 +5121,7 @@
       "category": "event",
       "startDate": "2026-09-10",
       "endDate": "2026-10-31",
-      "status": "active",
+      "status": "ended",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
       "image": null,
       "lastConfirmed": "2026-10-16"
@@ -5133,7 +5133,7 @@
       "category": "burger",
       "startDate": "2026-09-10",
       "endDate": "2026-10-31",
-      "status": "active",
+      "status": "ended",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
       "image": null,
       "lastConfirmed": "2026-10-16"
@@ -5145,7 +5145,7 @@
       "category": "dessert",
       "startDate": "2026-09-10",
       "endDate": "2026-10-31",
-      "status": "active",
+      "status": "ended",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
       "image": null,
       "lastConfirmed": "2026-10-16"
@@ -5335,7 +5335,7 @@
       "category": "event",
       "startDate": "2026-10-30",
       "endDate": "2026-10-30",
-      "status": "upcoming",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/wendys-is-serving-up-a-frightfully-fun-halloween-with-boo-books-and-frosty-frights-302868252.html",
       "image": "wendy-s-frosty-frights-secret-13th-figure-brain-freeze.jpg",
       "lastConfirmed": "2026-10-16",
@@ -5631,7 +5631,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/black-cat-frappuccino-blended-beverage-arrives-at-starbucks-oct-22-plus-a-new-halloween-cookie-and-merchandise/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-11-01"
     },
     {
       "chain": "Chick-fil-A",
@@ -5743,7 +5744,7 @@
       "source": "https://www.tacobell.com/food/specialties/steak-gordita-crunch-duos-2pk",
       "image": "taco-bell-gordita-crunch-duos-steak-chicken.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-09-28"
+      "lastConfirmed": "2026-11-01"
     },
     {
       "chain": "Taco Bell",
@@ -5828,7 +5829,7 @@
       "source": "https://www.brandeating.com/2026/01/kfc-tests-new-handheld-pot-pie.html",
       "image": "kfc-handheld-pot-pie-regional-test-unconfirmed.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-11-01"
     },
     {
       "chain": "Sonic",
@@ -5965,7 +5966,8 @@
       "status": "active",
       "source": "https://www.tacobell.com/food/specialties/diablo-ranch-steak-nacho-fries",
       "image": "taco-bell-diablo-ranch-steak-nacho-fries.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-11-01"
     },
     {
       "chain": "Taco Bell",
@@ -5977,7 +5979,8 @@
       "status": "active",
       "source": "https://www.tacobell.com/food/burritos/diablo-ranch-crispy-chicken-crunchwrap-slider",
       "image": "taco-bell-diablo-ranch-crispy-chicken-crunchwrap-slider.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-11-01"
     },
     {
       "chain": "Taco Bell",
@@ -6211,7 +6214,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/do-a-happy-dance-see-the-new-starbucks-peanuts-fall-collection-inspired-by-the-great-pumpkin-and-pumpkin-spice-latte/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-11-01"
     },
     {
       "chain": "Starbucks",
@@ -6222,7 +6226,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/do-a-happy-dance-see-the-new-starbucks-peanuts-fall-collection-inspired-by-the-great-pumpkin-and-pumpkin-spice-latte/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-11-01"
     },
     {
       "chain": "Dairy Queen",
@@ -6316,7 +6321,7 @@
       "category": "drink",
       "startDate": "2026-10-02",
       "endDate": "2026-10-31",
-      "status": "active",
+      "status": "ended",
       "source": "https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO",
       "image": null,
       "lastConfirmed": "2026-10-16"
@@ -6458,7 +6463,7 @@
       "category": "drink",
       "startDate": "2026-08-24",
       "endDate": "2026-10-31",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/mountain-dew-x-trolli-mango-pineapple-punch-delivers-bold-tropical-flavors-in-new-limited-edition-soda-302857552.html",
       "image": "pizza-hut-mountain-dew-x-trolli-mango-pineapple-punch.jpg",
       "imageAuto": true
@@ -6540,7 +6545,7 @@
       "category": "event",
       "startDate": "2026-09-10",
       "endDate": "2026-10-31",
-      "status": "active",
+      "status": "ended",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/default.aspx",
       "image": null,
       "lastConfirmed": "2026-10-16"
@@ -6552,7 +6557,7 @@
       "category": "drink",
       "startDate": "2026-10-01",
       "endDate": "2026-10-31",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.q997atlanta.com/2026/09/29/gobigoctober/",
       "image": "zaxby-s-zax-of-kindness-october-milkshake-giving-campaign.jpg",
       "imageAuto": true
@@ -6829,7 +6834,7 @@
       "category": "donut",
       "startDate": "2026-10-06",
       "endDate": "2026-10-31",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.qsrmagazine.com/news/krispy-kreme-showcases-looney-tunes-halloween-collection/",
       "image": null
     },
@@ -6840,7 +6845,7 @@
       "category": "event",
       "startDate": "2026-10-30",
       "endDate": "2026-10-31",
-      "status": "upcoming",
+      "status": "ended",
       "source": "https://parade.com/food/krispy-kreme-looney-tunes-halloween-doughnuts-flavors",
       "image": "krispy-kreme-halloween-costume-free-doughnut-days-2026.jpg",
       "imageAuto": true
@@ -6961,7 +6966,7 @@
       "category": "taco",
       "startDate": "2026-10-04",
       "endDate": "2026-10-31",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.qsrmagazine.com/news/jack-box-debuts-new-monster-tacos/",
       "image": null
     },
@@ -6972,7 +6977,7 @@
       "category": "event",
       "startDate": "2026-09-29",
       "endDate": "2026-10-31",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.wsbtv.com/news/trending/pizza-hut-sponsors-little-hut-libraries-national-book-month-national-pizza-month/QRTNTQAWGZESRNZ3GDNW5GLYPI/",
       "image": "pizza-hut-little-hut-libraries-little-free-library-collab.jpg",
       "imageAuto": true
@@ -7083,7 +7088,7 @@
       "category": "drink",
       "startDate": "2026-10-14",
       "endDate": "2026-10-31",
-      "status": "active",
+      "status": "ended",
       "source": "https://hauntedattractionnetwork.com/raising-canes-halloween-cup/",
       "image": "raising-cane-s-2026-halloween-specialty-cup.jpg",
       "imageAuto": true
@@ -7262,7 +7267,7 @@
       "category": "event",
       "startDate": "2026-10-19",
       "endDate": "2026-10-31",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.qsrmagazine.com/news/kfc-celebrates-halloween-season-with-13-days-of-promotions/",
       "image": null,
       "lastConfirmed": "2026-10-21"
@@ -7445,7 +7450,7 @@
       "category": "food",
       "startDate": "2026-09-10",
       "endDate": "2026-10-31",
-      "status": "active",
+      "status": "ended",
       "source": "https://secure.businesswire.com/news/home/20260910696551/en/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time",
       "image": null,
       "lastConfirmed": "2026-10-31"
@@ -7540,7 +7545,7 @@
       "description": "Surprise giveaway tied to the All Jacked Up Dozen launch: 10,000 randomly selected guests at participating U.S. shops receive a coupon for a free dozen Original Glazed doughnuts with any purchase, handed out Oct 30-31, 2026; the coupon itself is redeemable Nov 1 through Nov 14, 2026.",
       "category": "event",
       "startDate": "2026-10-30",
-      "endDate": "2026-10-31",
+      "endDate": "2026-11-14",
       "status": "active",
       "source": "https://www.nrn.com/quick-service/krispy-kreme-is-giving-away-a-treat-dozen-pass",
       "image": "krispy-kreme-jack-s-treat-dozen-pass.jpg",
@@ -7632,6 +7637,17 @@
       "source": "https://www.nrn.com/fast-casual/raising-cane-s-plans-a-dozen-new-restaurants-in-november",
       "image": "raising-cane-s-november-2026-restaurant-expansion-wave.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Domino's",
+      "item": "Domino's x Minecraft Dungeons II Collab",
+      "description": "Six collectible Minecraft Dungeons II-character pizza boxes (Creeper, Corrupted Creeper, Zombie, Pig, Valorie, Prime Enchanter) randomly included with purchase of The Domino pizza, while supplies last. Domino's Rewards members who order online also get a random in-game cosmetic (skin, cape, or Cheesy Cube Pet). Separate giveaway at dominos.com/minecraft-dungeons-ii offers a chance at one of 20,000 digital codes for Minecraft Dungeons II (Standard Edition, Xbox Series X|S/PC) with proof of purchase; game sold separately.",
+      "category": "event",
+      "startDate": "2026-10-26",
+      "endDate": "2027-01-10",
+      "status": "active",
+      "source": "https://www.nrn.com/quick-service/domino-s-teams-up-with-minecraft-dungeon-to-promote-the-domino",
+      "image": null
     }
   ]
 }

@@ -6443,7 +6443,8 @@
       "endDate": "2026-12-14",
       "status": "upcoming",
       "source": "https://www.dexerto.com/food/mcdonalds-announces-pokemon-happy-meal-return-with-15-toys-and-trading-cards-3422744/",
-      "image": null
+      "image": "mcdonald-s-pok-mon-tcg-30th-anniversary-happy-meal.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Burger King",
@@ -7659,7 +7660,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://dexerto.com/food/arbys-brings-back-infuriatingly-good-deep-fried-turkey-gobbler-sandwich-for-thanksgiving-3422708",
-      "image": null
+      "image": "arby-s-deep-fried-turkey-gobbler.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Arby's",

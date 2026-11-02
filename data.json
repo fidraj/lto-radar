@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-01",
+  "researched": "2026-11-02",
   "items": [
     {
       "chain": "McDonald's",
@@ -884,7 +884,7 @@
       "category": "dessert",
       "startDate": "2026-08-31",
       "endDate": "2026-11-01",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": "dairy-queen-pumpkin-pie-blizzard-returning.jpg",
       "lastConfirmed": "2026-10-31"
@@ -4988,7 +4988,7 @@
       "category": "event",
       "startDate": "2026-09-14",
       "endDate": "2026-11-01",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.qsrmagazine.com/news/wendys-halloween-lineup-returns-with-boo-books-and-collectible-toys/",
       "image": "wendy-s-frosty-frights-halloween-toys-boo-books.jpg",
       "lastConfirmed": "2026-10-21",
@@ -5372,7 +5372,7 @@
       "category": "dessert",
       "startDate": "2026-08-31",
       "endDate": "2026-11-01",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.tasteofhome.com/article/dairy-queen-fall-menu-2026/",
       "image": "dairy-queen-french-silk-pie-blizzard-treat.jpg",
       "lastConfirmed": "2026-10-31",
@@ -5385,8 +5385,8 @@
       "category": "dessert",
       "startDate": "2026-11-02",
       "endDate": "2027-01-03",
-      "status": "upcoming",
-      "source": "https://www.complex.com/life/a/anne-erickson/dairy-queen-announced-new-blizzard",
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/dq-adds-holiday-inspired-blizzard-menu/",
       "image": null
     },
     {
@@ -6000,7 +6000,7 @@
       "category": "event",
       "startDate": "2026-10-06",
       "endDate": "2026-11-01",
-      "status": "active",
+      "status": "ended",
       "source": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/monopoly-returns-mcdonalds-bigger-prizes-rewards-easier-gameplay.html",
       "image": null,
       "lastConfirmed": "2026-10-16"
@@ -6236,7 +6236,7 @@
       "category": "dessert",
       "startDate": "2026-09-28",
       "endDate": "2026-11-01",
-      "status": "active",
+      "status": "ended",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
       "image": "dairy-queen-enchanted-oreo-blizzard-treat.jpg",
       "lastConfirmed": "2026-10-21",
@@ -6249,7 +6249,7 @@
       "category": "drink",
       "startDate": "2026-09-28",
       "endDate": "2026-11-01",
-      "status": "active",
+      "status": "ended",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
       "image": null,
       "lastConfirmed": "2026-10-21"
@@ -6261,7 +6261,7 @@
       "category": "food",
       "startDate": "2026-09-28",
       "endDate": "2026-11-01",
-      "status": "active",
+      "status": "ended",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
       "image": null,
       "lastConfirmed": "2026-10-21"
@@ -6390,7 +6390,7 @@
       "category": "burger",
       "startDate": "2026-10-06",
       "endDate": "2026-11-01",
-      "status": "active",
+      "status": "ended",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
       "image": "burger-king-game-day-pretzel-burger.jpg",
       "imageAuto": true,
@@ -6403,7 +6403,7 @@
       "category": "food",
       "startDate": "2026-10-06",
       "endDate": "2026-11-01",
-      "status": "active",
+      "status": "ended",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
       "image": "burger-king-chicken-fries-with-nacho-cheese-sauce.jpg",
       "imageAuto": true,
@@ -6436,13 +6436,13 @@
     },
     {
       "chain": "McDonald's",
-      "item": "Pokémon TCG 30th Anniversary Happy Meal (leaked, unconfirmed)",
-      "description": "Reportedly returning Pokémon Trading Card Game cards to US Happy Meals for the franchise's 30th anniversary: a 15-card set distributed in 4-card booster packs (1 holo + 3 non-holo, including 6 special confetti holofoils), with a toy/activity-book alternative for kids who don't want cards. Reported by PokéBeach and corroborated by several gaming-news outlets; McDonald's and The Pokémon Company have not issued their own announcement yet.",
+      "item": "Pokémon TCG 30th Anniversary Happy Meal",
+      "description": "Officially confirmed by McDonald's Oct 29, 2026 social post: Happy Meal featuring 15 Pokémon Trading Card Game toys, each with a 2-card pack (1 holo + 1 non-holo, including special confetti holofoils), celebrating the franchise's 30th anniversary; toy/activity-book alternative available for kids who don't want cards.",
       "category": "event",
-      "startDate": "2026-11-05",
-      "endDate": "2026-12-09",
+      "startDate": "2026-11-10",
+      "endDate": "2026-12-14",
       "status": "upcoming",
-      "source": "https://www.pokebeach.com/2026/09/mcdonalds-pokemon-tcg-promotion-to-launch-in-november-for-30th-anniversary",
+      "source": "https://www.dexerto.com/food/mcdonalds-announces-pokemon-happy-meal-return-with-15-toys-and-trading-cards-3422744/",
       "image": null
     },
     {
@@ -6577,7 +6577,7 @@
     {
       "chain": "Taco Bell",
       "item": "National Taco Day / October Tuesday Drops 2026",
-      "description": "National Taco Day moved to 'the first Tuesday in October' (confirmed 2024 policy change); in 2026 that falls on Oct 6. Confirmed 2026 elements: free Super Duolingo access and the one-day Duo Habanero Sauce drop (Oct 6, tracked separately), the returning Taco Lover's Pass (tracked separately, on sale Oct 4), and National Taco Month celebrity meals announced Oct 13: Kevin Hart's order (Beef Burrito Supreme, Crunchy Taco, medium drink, Oct 13-19), Paris Hilton's order (Diablo Ranch Crispy Chicken Crunchwrap Slider, Crunchy Taco, medium drink, Oct 20-26) and Doja Cat's order (Mexican Pizza & Spicy Potato Soft Taco, no drink, Oct 27-Nov 2) -- each $4 nationwide during its week, $1 via Rewards app on that week's Tuesday drop (first 10,000 claimants).",
+      "description": "National Taco Day moved to 'the first Tuesday in October' (confirmed 2024 policy change); in 2026 that falls on Oct 6. Confirmed 2026 elements: free Super Duolingo access and the one-day Duo Habanero Sauce drop (Oct 6, tracked separately), and National Taco Month celebrity meals announced Oct 13: Kevin Hart's order (Beef Burrito Supreme, Crunchy Taco, medium drink, Oct 13-19), Paris Hilton's order (Diablo Ranch Crispy Chicken Crunchwrap Slider, Crunchy Taco, medium drink, Oct 20-26) and Doja Cat's order (Mexican Pizza & Spicy Potato Soft Taco, no drink, Oct 27-Nov 2) -- each $4 nationwide during its week, $1 via Rewards app on that week's Tuesday drop (first 10,000 claimants).",
       "category": "event",
       "startDate": "2026-10-06",
       "endDate": "2026-11-02",
@@ -6930,7 +6930,7 @@
       "category": "event",
       "startDate": "2026-11-02",
       "endDate": "2026-11-02",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.tacobell.com/newsroom/inaugural-live-mas-open-golf-tournament",
       "image": null
     },
@@ -7609,7 +7609,7 @@
       "category": "burger",
       "startDate": "2026-11-02",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://thecoconutmama.com/how-is-that-a-deal-mcdonalds-8-quarter-pounder-meal-divides-fans/",
       "image": "mcdonald-s-8-quarter-pounder-with-cheese-meal.jpg",
       "imageAuto": true
@@ -7641,7 +7641,7 @@
     {
       "chain": "Domino's",
       "item": "Domino's x Minecraft Dungeons II Collab",
-      "description": "Six collectible Minecraft Dungeons II-character pizza boxes (Creeper, Corrupted Creeper, Zombie, Pig, Valorie, Prime Enchanter) randomly included with purchase of The Domino pizza, while supplies last. Domino's Rewards members who order online also get a random in-game cosmetic (skin, cape, or Cheesy Cube Pet). Separate giveaway at dominos.com/minecraft-dungeons-ii offers a chance at one of 20,000 digital codes for Minecraft Dungeons II (Standard Edition, Xbox Series X|S/PC) with proof of purchase; game sold separately.",
+      "description": "Six collectible Minecraft Dungeons II-character pizza boxes (Creeper, Corrupted Creeper, Zombie, Pig, Valorie, Prime Enchanter) randomly included with purchase of The Domino pizza, while supplies last. Domino's Rewards members who order online also get a random in-game cosmetic (skin, cape, or Cheesy Cube Pet). Separate giveaway at dominos.com/minecraft-dungeons-ii offers a chance at one of 20,000 digital codes for Minecraft Dungeons II (Standard Edition, Xbox Series X|S/PC) with proof of purchase; digital-code giveaway window closes 2026-11-04; game sold separately.",
       "category": "event",
       "startDate": "2026-10-26",
       "endDate": "2027-01-10",
@@ -7649,6 +7649,83 @@
       "source": "https://www.nrn.com/quick-service/domino-s-teams-up-with-minecraft-dungeon-to-promote-the-domino",
       "image": "domino-s-domino-s-x-minecraft-dungeons-ii-collab.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Arby's",
+      "item": "Deep-Fried Turkey Gobbler",
+      "description": "Annual Thanksgiving-season return of Arby's deep-fried turkey line: thick-sliced deep-fried turkey breast piled with crispy onions, everything seasoning, Swiss cheese, Herb Spread, lettuce and tomato on a toasted brioche bun.",
+      "category": "sandwich",
+      "startDate": "2026-10-29",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://dexerto.com/food/arbys-brings-back-infuriatingly-good-deep-fried-turkey-gobbler-sandwich-for-thanksgiving-3422708",
+      "image": null
+    },
+    {
+      "chain": "Arby's",
+      "item": "Deep-Fried Turkey Club",
+      "description": "Annual Thanksgiving-season companion to the Deep-Fried Turkey Gobbler: deep-fried turkey breast with a BLT-style treatment on a toasted bun.",
+      "category": "sandwich",
+      "startDate": "2026-10-29",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://sporked.com/?p=81012",
+      "image": null
+    },
+    {
+      "chain": "Zaxby's",
+      "item": "The Zax Machine",
+      "description": "One-week experiential stunt: a vending machine stocked with Zaxby's 12 signature sauces installed outside a Raising Cane's location in Manhattan (Astor Place), with promo codes for free chicken items/sauces dropped on @realzaxbys all week; follow-on to the prior year's \"Who's Got the Sauce?\" campaign. Dates are best estimates (no exact install/teardown date stated by any source).",
+      "category": "event",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-26",
+      "status": "ended",
+      "source": "https://www.nrn.com/fast-casual/zaxbys-takes-the-sauce-battle-straight-to-raising-cane-s-doorstep",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "Santa Slush Float",
+      "description": "Icy slush blending merry cherry and sweet vanilla flavors, layered with SONIC's creamy vanilla soft serve and topped with a cherry; part of SONIC's winter 2026 lineup (app-exclusive early access Oct 26, nationwide Nov 2).",
+      "category": "drink",
+      "startDate": "2026-11-02",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.webull.com/news/15814694569979904",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "Smoked Gouda and Bacon SONIC Smasher",
+      "description": "Hand-smashed Angus beef patty (double or triple) topped with melty smoked gouda, crispy bacon and black pepper aioli; new winter 2026 burger platform item (app-exclusive early access Oct 26, nationwide Nov 2).",
+      "category": "burger",
+      "startDate": "2026-11-02",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.webull.com/news/15814694569979904",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "Merry Berry Fizz",
+      "description": "Holiday fountain drink made with Sprite/Sprite Zero and cranberry syrup, tied to Coca-Cola's seasonal releases; part of SONIC's winter 2026 lineup (app-exclusive early access Oct 26, nationwide Nov 2).",
+      "category": "drink",
+      "startDate": "2026-11-02",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.webull.com/news/15814694569979904",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "Holiday Creamy Vanilla",
+      "description": "Holiday fountain drink made with Coke/Coke Zero, vanilla syrup and sweet cream, tied to Coca-Cola's seasonal releases; part of SONIC's winter 2026 lineup (app-exclusive early access Oct 26, nationwide Nov 2).",
+      "category": "drink",
+      "startDate": "2026-11-02",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.webull.com/news/15814694569979904",
+      "image": null
     }
   ]
 }

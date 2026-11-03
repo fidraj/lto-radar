@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-02",
+  "researched": "2026-11-03",
   "items": [
     {
       "chain": "McDonald's",
@@ -271,8 +271,8 @@
       "description": "Tiramisu Cloud Latte, Tiramisu Shakin' Espresso, Tiramisu Marshmallow Matcha and Tiramisu Protein Latte, officially confirmed as part of Dunkin's Aug. 19, 2026 fall menu launch alongside the Alix Earle collab and pumpkin lineup.",
       "category": "drink",
       "startDate": "2026-08-19",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": "dunkin-tiramisu-drink-lineup.jpg",
       "lastConfirmed": "2026-10-22",
@@ -284,8 +284,8 @@
       "description": "Chipotle Hash Brown Wake-Up Wrap, Chipotle Loaded Hash Browns, and Maple Sugar Bacon Breakfast Sandwich/Wake-Up Wrap; part of Dunkin's fall 2026 menu.",
       "category": "food",
       "startDate": "2026-08-19",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": "dunkin-chipotle-hash-browns-maple-sugar-bacon-leaked-return.jpg",
       "lastConfirmed": "2026-10-22"
@@ -747,7 +747,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260601211848/en/SONIC-Debuts-the-$7-Big-Deal-Meal-Bringing-More-of-What-Guests-Want-for-Less",
       "image": "sonic-7-big-deal-meal.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-11-03"
     },
     {
       "chain": "Arby's",
@@ -1355,9 +1355,9 @@
     {
       "chain": "Taco Bell",
       "item": "Mountain Dew Baja Midnight Pie",
-      "description": "Follow-up to the Baja Blast Pie, announced as part of Taco Bell's 2026 Live Más Live menu roadmap. Confirmed nationwide release Nov 6, 2026, timed for Thanksgiving week, matching the original Baja Blast Pie's Nov 2025 launch pattern.",
+      "description": "Follow-up to the Baja Blast Pie, revealed at Taco Bell's Live Más Live 2026 event. No launch date, price, or availability has actually been announced as of late Oct 2026 (the original Baja Blast Pie took ~21 months from reveal to release) — a prior pass on this tracker incorrectly stated a 'confirmed' Nov 6, 2026 date; corrected here pending a real announcement.",
       "category": "dessert",
-      "startDate": "2026-11-06",
+      "startDate": null,
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.tacobell.com/newsroom/live-mas-live-2026-reveal",
@@ -2997,8 +2997,8 @@
       "description": "New matcha beverage confirmed as part of Dunkin's fall 2026 menu, launched alongside the Tiramisu drink lineup and pumpkin favorites. Re-verified Oct 22, 2026: also promoted as part of Dunkin's Aug 30 tennis-season lineup, with one outlet framing it as running 'through the end of tournament season' (mid-Sept); however, no source confirms it has actually been pulled, and it's still described in October food-news coverage without any discontinuation signal, so treated as still active.",
       "category": "drink",
       "startDate": "2026-08-19",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": null,
       "imageUrl": null,
@@ -3010,8 +3010,8 @@
       "description": "Watermelon Lime Zero Sugar Refresher-style energy drink with Watermelon Lime Zero Syrup, a raspberry flavor shot and lemonade; part of Dunkin's fall 2026 menu. Re-verified Oct 22, 2026: also promoted as part of Dunkin's Aug 30 tennis-season lineup, with one outlet framing it as running 'through the end of tournament season' (mid-Sept); however, no source confirms it has actually been pulled, so treated as still active pending a clearer signal.",
       "category": "drink",
       "startDate": "2026-08-19",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": null,
       "imageUrl": null,
@@ -3668,8 +3668,8 @@
       "description": "Concrete Aug 19 fall/pumpkin launch lineup. Includes Dunkin's first pumpkin-flavored frozen coffee. Consistently reported across sources tied to the confirmed Aug 19 date.",
       "category": "drink",
       "startDate": "2026-08-19",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://parade.com/food/dunkin-confirms-pumpkin-return-date-fall-menu-2026-launch-fans-demand-spider-donut-spidey-d",
       "image": null,
       "lastConfirmed": "2026-10-22"
@@ -3680,8 +3680,8 @@
       "description": "Returning pumpkin bakery items as part of the Aug 19 2026 fall menu launch.",
       "category": "donut",
       "startDate": "2026-08-19",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://parade.com/food/dunkin-confirms-pumpkin-return-date-fall-menu-2026-launch-fans-demand-spider-donut-spidey-d",
       "image": null,
       "lastConfirmed": "2026-10-22"
@@ -3774,8 +3774,8 @@
       "description": "Cold, pumpkin-spice-free fall dirty-soda lineup: Cherry Pie made with Coke, Blueberry Pie made with Dr Pepper, Harvest Berry made with Sprite, and Cranberry Orchard Sweet Tea.",
       "category": "drink",
       "startDate": "2026-08-24",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-01",
+      "status": "ended",
       "source": "https://www.nrn.com/beverage-trends/sonic-s-fall-drink-lineup-is-cold-and-pumpkin-free",
       "image": "sonic-hotumn-fall-drink-lineup.jpg",
       "imageAuto": true,
@@ -3856,8 +3856,8 @@
       "description": "New Refreshers flavor added alongside Dunkin's Aug. 19, 2026 fall menu launch.",
       "category": "drink",
       "startDate": "2026-08-19",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": "dunkin-berry-clementine-refreshers.jpg",
       "imageAuto": true,
@@ -4152,8 +4152,8 @@
       "description": "Berry Clementine Refresher mixed with oatmilk and topped with sweet cold foam; a 'Daydream' cold-foam variant of the base Berry Clementine Refresher, part of Dunkin's Aug 19, 2026 fall menu launch.",
       "category": "drink",
       "startDate": "2026-08-19",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://news.dunkindonuts.com/news/dunkinR-and-alix-earle-unveil-alixs-earle-y-riser-meal-headlining-a-new-fall-menu-of-pumpkin-favorites-and-tiramisu-sips",
       "image": "dunkin-berry-clementine-daydream-refresher.jpg",
       "imageAuto": true,
@@ -5108,8 +5108,8 @@
       "description": "All-new banana lineup: the returning fan-favorite Banana Pudding Shake plus new Banana Pudding Blast, Banana Dirty Dr Pepper, and Banana Pudding Cream Slush.",
       "category": "drink",
       "startDate": "2026-08-24",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-01",
+      "status": "ended",
       "source": "https://www.businesswire.com/news/home/20260824345240/en/SONIC-Goes-Bananas-with-an-All-New-Banana-Collection-Featuring-the-Return-of-the-Fan-Favorite-Banana-Pudding-Shake",
       "image": null,
       "lastConfirmed": "2026-10-22"
@@ -5274,8 +5274,8 @@
       "description": "New fall drink launched alongside Dunkin's Aug. 19, 2026 fall menu: a blend of chai spices with coconut flavor and milk, topped with marshmallow cold foam and cinnamon sugar. Listed on Dunkin's own site under 'Latest Drops'; not called out by name in the main Alix Earle/Tiramisu press release, so tracked separately here.",
       "category": "drink",
       "startDate": "2026-08-19",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://www.dunkindonuts.com/menu/categories/latest-drops/harvest-spiced-chai-latte/",
       "image": "dunkin-harvest-spiced-chai-latte.jpg",
       "lastConfirmed": "2026-10-22",
@@ -6084,7 +6084,7 @@
       "source": "https://newsroom.subway.com/2026-09-21-Subway-R-Launches-New-Feed-Your-SUBconscious-TM-Brand-Platform-Starring-Will-Arnett-as-Americas-Inner-Voice,1",
       "image": "subway-feed-your-subconscious-brand-platform-will-arnett.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-13"
+      "lastConfirmed": "2026-11-03"
     },
     {
       "chain": "Wendy's",
@@ -7727,6 +7727,39 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.webull.com/news/15814694569979904",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "L.O.C.O.S. Emotional Support Taco Platform",
+      "description": "Global \"L.O.C.O.S.\" (Loss Or Celebration Outcome Support) program tied to the FIFA World Cup: Taco Bell Rewards app users pick Celebration or Support Mode based on their team's result and complete an in-app challenge for a free taco, plus free-taco pop-up activations in select cities (Toronto, Vancouver, Sao Paulo, Camden/London, Melbourne) and a Spain delivery tie-in.",
+      "category": "event",
+      "startDate": "2026-06-23",
+      "endDate": "2026-07-13",
+      "status": "ended",
+      "source": "https://www.tacobell.com/newsroom/taco-bell-launches-locos",
+      "image": null
+    },
+    {
+      "chain": "Zaxby's",
+      "item": "Giant Asian Zensation Wrap",
+      "description": "New wrap with a choice of chopped fried Chicken Fingerz or grilled chicken, mixed greens and Asian slaw drizzled with teriyaki-style sauce, rolled in a warm flour tortilla; served with Crinkle Fries and a small drink. Part of a 3-item November menu refresh alongside the Sweet Asian Glazed Chicken Finger Plate. Nationwide Nov 3, 2026 (app/online orders a little early).",
+      "category": "sandwich",
+      "startDate": "2026-11-03",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.aol.com/articles/zaxbys-announces-3-menu-additions-170012089.html",
+      "image": null
+    },
+    {
+      "chain": "Zaxby's",
+      "item": "Sweet Asian Glazed Chicken Finger Plate",
+      "description": "New plate with hand-breaded Chicken Fingerz (4, 5, or 6 pc) tossed in a Sweet Asian Glaze, served with Cole Slaw, Texas Toast, Crinkle Fries and a small drink. Part of Zaxby's November menu refresh, nationwide starting Nov 3, 2026.",
+      "category": "chicken",
+      "startDate": "2026-11-03",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.aol.com/articles/zaxbys-announces-3-menu-additions-170012089.html",
       "image": null
     }
   ]

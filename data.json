@@ -7056,8 +7056,9 @@
       "endDate": "2026-11-05",
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/wingstop-announces-wings-flavored-with-sour-patch-kids-glaze/",
-      "image": null,
-      "lastConfirmed": "2026-10-16"
+      "image": "wingstop-sour-patch-kids-wicked-punch.jpg",
+      "lastConfirmed": "2026-10-16",
+      "imageAuto": true
     },
     {
       "chain": "Raising Cane's",
@@ -7125,7 +7126,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.qsrmagazine.com/news/dunkin-announces-new-lineup-inspired-by-upcoming-avengers-doomsday-movie/",
-      "image": null
+      "image": "dunkin-avengers-doomsday-drinks-lineup.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",
@@ -7136,7 +7138,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.qsrmagazine.com/news/dunkin-announces-new-lineup-inspired-by-upcoming-avengers-doomsday-movie/",
-      "image": null
+      "image": "dunkin-avengers-doomsday-donuts-munchkins.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Dunkin'",

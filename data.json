@@ -5386,7 +5386,7 @@
       "startDate": "2026-11-02",
       "endDate": "2027-01-03",
       "status": "active",
-      "source": "https://www.qsrmagazine.com/news/dq-adds-holiday-inspired-blizzard-menu/",
+      "source": "https://www.complex.com/life/a/anne-erickson/dairy-queen-announced-new-blizzard",
       "image": null
     },
     {
@@ -6961,17 +6961,6 @@
       "lastConfirmed": "2026-10-16"
     },
     {
-      "chain": "Jack in the Box",
-      "item": "Monster Taco & Mummy Wrapped Monster Taco (returning, Halloween)",
-      "description": "Annual Halloween-season return of Jack in the Box's oversized crispy Monster Taco, plus the Mummy Wrapped Monster Taco variant (the Monster Taco wrapped in a warm flour tortilla with nacho cheese sauce and bacon). Timed to National Taco Day (Oct 4), running alongside but distinct from the Sept 10-launched Simpsons Treehouse of Horror collab. Exact publish date of the source report could not be independently confirmed this run; treat date as a best estimate pending a stronger source.",
-      "category": "taco",
-      "startDate": "2026-10-04",
-      "endDate": "2026-10-31",
-      "status": "ended",
-      "source": "https://www.qsrmagazine.com/news/jack-box-debuts-new-monster-tacos/",
-      "image": null
-    },
-    {
       "chain": "Pizza Hut",
       "item": "Little Hut Libraries (Little Free Library collab)",
       "description": "Pizza Hut partnered with nonprofit Little Free Library to turn its iconic red roofs into miniature, restaurant-shaped book exchange boxes for National Book Month/National Pizza Month (October). Each box is stocked with books and a limited quantity of BOOK IT!-tied Personal Pan Pizza gift cards, while supplies last; people can apply via Little Free Library's sponsorship page to receive one for free.",
@@ -7746,23 +7735,23 @@
     {
       "chain": "Zaxby's",
       "item": "Giant Asian Zensation Wrap",
-      "description": "New wrap with a choice of chopped fried Chicken Fingerz or grilled chicken, mixed greens and Asian slaw drizzled with teriyaki-style sauce, rolled in a warm flour tortilla; served with Crinkle Fries and a small drink. Part of a 3-item November menu refresh alongside the Sweet Asian Glazed Chicken Finger Plate. Nationwide Nov 3, 2026 (app/online orders a little early).",
+      "description": "New wrap with a choice of chopped fried Chicken Fingerz or grilled chicken, mixed greens and Asian slaw drizzled with teriyaki-style sauce, rolled in a warm flour tortilla; served with Crinkle Fries and a small drink. Part of a 3-item November menu refresh alongside the Sweet Asian Glazed Chicken Finger Plate (app/online orders a little early on Oct 27). CORRECTED 2026-11-04: a prior run mis-filed this as starting Nov 3, 2026 - the cited AOL article and corroborating brandeating.com/williamsonsource coverage are from Oct 2025, for a Nov 3, 2025 launch. The wrap flavor later returned Apr 27-Jul 5, 2026 as part of the Giant Chicken Finger Wraps lineup (already tracked separately), implying this original run had ended by then; exact end date unannounced, estimated at a typical ~10-week LTO cycle.",
       "category": "sandwich",
-      "startDate": "2026-11-03",
-      "endDate": null,
-      "status": "active",
-      "source": "https://www.aol.com/articles/zaxbys-announces-3-menu-additions-170012089.html",
+      "startDate": "2025-11-03",
+      "endDate": "2026-01-11",
+      "status": "ended",
+      "source": "https://www.brandeating.com/2025/10/zaxbys-launches-new-asian-zensation-menu.html",
       "image": null
     },
     {
       "chain": "Zaxby's",
       "item": "Sweet Asian Glazed Chicken Finger Plate",
-      "description": "New plate with hand-breaded Chicken Fingerz (4, 5, or 6 pc) tossed in a Sweet Asian Glaze, served with Cole Slaw, Texas Toast, Crinkle Fries and a small drink. Part of Zaxby's November menu refresh, nationwide starting Nov 3, 2026.",
+      "description": "New plate with hand-breaded Chicken Fingerz (4, 5, or 6 pc) tossed in a Sweet Asian Glaze, served with Cole Slaw, Texas Toast, Crinkle Fries and a small drink. Part of Zaxby's November menu refresh. CORRECTED 2026-11-04: a prior run mis-filed this as starting Nov 3, 2026 - the cited AOL article and corroborating brandeating.com/williamsonsource coverage are from Oct 2025, for a Nov 3, 2025 launch. No confirmed return or end date found since; estimated end at a typical ~10-week LTO cycle.",
       "category": "chicken",
-      "startDate": "2026-11-03",
-      "endDate": null,
-      "status": "active",
-      "source": "https://www.aol.com/articles/zaxbys-announces-3-menu-additions-170012089.html",
+      "startDate": "2025-11-03",
+      "endDate": "2026-01-11",
+      "status": "ended",
+      "source": "https://www.brandeating.com/2025/10/zaxbys-launches-new-asian-zensation-menu.html",
       "image": null
     }
   ]

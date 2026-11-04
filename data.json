@@ -7139,7 +7139,8 @@
       "endDate": "while supplies last",
       "status": "upcoming",
       "source": "https://www.qsrmagazine.com/news/dunkin-announces-new-lineup-inspired-by-upcoming-avengers-doomsday-movie/",
-      "image": null
+      "image": "dunkin-avengers-doomsday-collectible-merch.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Krispy Kreme",

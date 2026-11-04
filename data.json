@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-03",
+  "researched": "2026-11-04",
   "items": [
     {
       "chain": "McDonald's",
@@ -352,7 +352,7 @@
       "category": "donut",
       "startDate": "2026-08-11",
       "endDate": "2026-11-02",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.restaurantnews.com/krispy-kreme-pumpkin-spice-autumn-seasonal-collection-080726/",
       "image": "krispy-kreme-pumpkin-spice-collection-anticipated.jpg",
       "lastConfirmed": "2026-09-04"
@@ -839,7 +839,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-welcomes-back-the-chicken-supreme-and-introduces-jibbis/",
       "image": "jack-in-the-box-chicken-supreme-75th-anniversary-return.jpg",
-      "lastConfirmed": "2026-10-30"
+      "lastConfirmed": "2026-11-04"
     },
     {
       "chain": "Dairy Queen",
@@ -1589,7 +1589,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": null,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-11-04"
     },
     {
       "chain": "KFC",
@@ -1854,7 +1854,7 @@
       "category": "donut",
       "startDate": "2026-08-11",
       "endDate": "2026-11-02",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.businesswire.com/news/home/20260807280655/en/Pumpkin-Spice-is-Back-KRISPY-KREME-Welcomes-Fall-with-New-Autumn-Seasonal-Collection-on-Aug.-11",
       "image": "krispy-kreme-maple-cheesecake-doughnut.jpg"
     },
@@ -1865,7 +1865,7 @@
       "category": "donut",
       "startDate": "2026-08-11",
       "endDate": "2026-11-02",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.businesswire.com/news/home/20260807280655/en/Pumpkin-Spice-is-Back-KRISPY-KREME-Welcomes-Fall-with-New-Autumn-Seasonal-Collection-on-Aug.-11",
       "image": "krispy-kreme-cafe-mocha-doughnut.jpg"
     },
@@ -1876,7 +1876,7 @@
       "category": "drink",
       "startDate": "2026-08-11",
       "endDate": "2026-11-02",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.businesswire.com/news/home/20260807280655/en/Pumpkin-Spice-is-Back-KRISPY-KREME-Welcomes-Fall-with-New-Autumn-Seasonal-Collection-on-Aug.-11",
       "image": "krispy-kreme-apple-crisp-latte.jpg"
     },
@@ -1937,7 +1937,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/A-Matcha-Made-in-Heaven-Jack-in-the-Box-Launches-Matcha-Beverage-Lineup-Nationwide/default.aspx",
       "image": "jack-in-the-box-matcha-beverage-platform-matcha-iced-latte-oreo-matcha-shake.jpg",
-      "lastConfirmed": "2026-10-30"
+      "lastConfirmed": "2026-11-04"
     },
     {
       "chain": "Jack in the Box",
@@ -1949,7 +1949,7 @@
       "status": "active",
       "source": "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Serves-Up-New-Protein-Bowl-Flavors-and-2-for-6-Jack-Wraps-Including-the-Best-Rated-Wrap-in-Fast-Food/default.aspx",
       "image": "jack-in-the-box-protein-bowls-teriyaki-fajita-and-2-for-6-jack-wraps.jpg",
-      "lastConfirmed": "2026-10-30"
+      "lastConfirmed": "2026-11-04"
     },
     {
       "chain": "Jack in the Box",
@@ -2514,7 +2514,7 @@
       "category": "donut",
       "startDate": "2026-08-11",
       "endDate": "2026-11-02",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.stocktitan.net/news/DNUT/pumpkin-spice-is-back-krispy-kreme-welcomes-fall-with-new-autumn-na75m9kzjh0f.html",
       "image": "krispy-kreme-pumpkin-spice-cake-doughnut-returning.jpg"
     },
@@ -2525,7 +2525,7 @@
       "category": "donut",
       "startDate": "2026-08-11",
       "endDate": "2026-11-02",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.stocktitan.net/news/DNUT/pumpkin-spice-is-back-krispy-kreme-welcomes-fall-with-new-autumn-na75m9kzjh0f.html",
       "image": "krispy-kreme-biscoff-cookie-butter-doughnut-returning.jpg"
     },
@@ -2536,7 +2536,7 @@
       "category": "drink",
       "startDate": "2026-08-11",
       "endDate": "2026-11-02",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.stocktitan.net/news/DNUT/pumpkin-spice-is-back-krispy-kreme-welcomes-fall-with-new-autumn-na75m9kzjh0f.html",
       "image": "krispy-kreme-pumpkin-spice-latte-returning.jpg"
     },
@@ -5071,7 +5071,7 @@
       "category": "donut",
       "startDate": "2026-09-10",
       "endDate": "2026-11-02",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.restaurantnews.com/krispy-apple-cider-original-glazed-doughnut-090926/",
       "image": "krispy-kreme-football-doughnut-fall-football-dozen.jpg",
       "imageAuto": true
@@ -5168,8 +5168,8 @@
       "description": "New Halloween 'spooky season' Refreshers and energy drinks built on new Green Apple Dunkin' Zero (plus its Candy Kiss/tropical mango and Orchard Twist/peach flavor variants) and Purple Marshmallow Cold Foam: Werewolf Punch Refresher (blackberry, clementine, mango, pineapple + lemonade), Midnight Potion Refresher (Berry Clementine + blueberry + green tea), Dark Spell Daydream Refresher, Sour Apple Energy, and Midnight Apple Dunkin' Zero (blackberry). Officially confirmed via Dunkin' parent Inspire Brands' newsroom, launched nationwide Sept 30, 2026.",
       "category": "drink",
       "startDate": "2026-09-30",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://stories.inspirebrands.com/dunkin-new-halloween-sips/",
       "image": "dunkin-halloween-refreshers-energy-lineup-werewolf-punch-midnight-potion-dark-sp.jpg",
       "imageAuto": true,
@@ -5181,8 +5181,8 @@
       "description": "New Halloween-themed hot/iced coffee and matcha drinks topped with Purple Marshmallow Cold Foam: Terror-misu Cloud Latte, Nutty Nightmare Iced Coffee, Creepy Crawler Coffee Chiller (debut of a new frozen-coffee syrup), Franki Matcha, Potion Macchiato. Officially confirmed via Dunkin' parent Inspire Brands' newsroom, launched nationwide Sept 30, 2026.",
       "category": "drink",
       "startDate": "2026-09-30",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://stories.inspirebrands.com/dunkin-new-halloween-sips/",
       "image": "dunkin-halloween-coffee-matcha-lineup-terror-misu-cloud-latte-nutty-nightmare-ic.jpg",
       "imageAuto": true,
@@ -5194,8 +5194,8 @@
       "description": "50-count Munchkins donut-hole 'bucket' (new glow-in-the-dark purple design this year) and the returning Spider Donut (frosted donut with a chocolate Munchkins hole for a body plus icing legs/eyes); $2 per bucket benefits the Joy in Childhood Foundation. Second-wave, in-restaurant rollout confirmed live Oct 14, 2026 following the Sept 30 drinks wave.",
       "category": "donut",
       "startDate": "2026-10-14",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://www.hercampus.com/life/dunkin-halloween-2026-menu-new-creature-character/",
       "image": "dunkin-halloween-munchkins-bucket-spider-donut-returning.jpg",
       "imageAuto": true,
@@ -5207,8 +5207,8 @@
       "description": "Halloween costume merchandise tied to Dunkin's 'DunKings' ad-campaign characters (leaked, unconfirmed by Dunkin's own newsroom for 2026 - reported via content creator @markie_devo and corroborated by multiple food-news outlets in Sept 2026; the news.dunkindonuts.com press release sharing this exact title/lineup is Dunkin's 2024 release, reused as a recurring campaign name, not this year's confirmation).",
       "category": "event",
       "startDate": "2026-09-30",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://www.thetakeout.com/2249701/dunkin-new-halloween-menu-starbucks-rival-internet-reaction/",
       "image": "dunkin-dunkings-halloween-costumes-merch.jpg",
       "imageAuto": true
@@ -5489,8 +5489,8 @@
       "description": "Blueberry-flavored twist on the Berry Clementine Refresher, made with oatmilk and topped with purple marshmallow cold foam and candy eyes; second wave of Dunkin's Halloween lineup. Confirmed live Oct 14, 2026, reviewed on launch day by Tasting Table.",
       "category": "drink",
       "startDate": "2026-10-14",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://sporked.com/article/everything-coming-to-dunkin-for-halloween/",
       "image": null,
       "lastConfirmed": "2026-10-16"
@@ -5504,8 +5504,7 @@
       "endDate": null,
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/black-cat-frappuccino-blended-beverage-arrives-at-starbucks-oct-22-plus-a-new-halloween-cookie-and-merchandise/",
-      "image": null,
-      "lastConfirmed": "2026-10-16"
+      "image": null
     },
     {
       "chain": "Starbucks",
@@ -5516,8 +5515,7 @@
       "endDate": null,
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/black-cat-frappuccino-blended-beverage-arrives-at-starbucks-oct-22-plus-a-new-halloween-cookie-and-merchandise/",
-      "image": null,
-      "lastConfirmed": "2026-10-16"
+      "image": null
     },
     {
       "chain": "Sonic",
@@ -5525,8 +5523,8 @@
       "description": "Halloween kids-meal collectibles: Wolf Man plush, Creature from the Black Lagoon figure, Dracula figure, glow-in-the-dark Frankenstein figure, Mummy figure, color-changing Invisible Man spoon, glow-in-the-dark Bride of Frankenstein spoon. No official Sonic/Inspire Brands press release located; corroborated by multiple independent Halloween/theme-park news outlets.",
       "category": "event",
       "startDate": "2026-08-31",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-11-01",
+      "status": "ended",
       "source": "https://hauntedattractionnetwork.com/sonic-wacky-pack-universal-monsters-2026/",
       "image": "sonic-wacky-pack-universal-monsters-toys-halloween.jpg",
       "imageAuto": true,
@@ -6272,8 +6270,8 @@
       "description": "$4 collectible plush keychain add-on with any purchase, 5 designs (Blizabeth, Flip, Blenda, Brrrnie, and rare golden \"Goldie\" which wins a year of Blizzards); part of DQ's Halloween \"Spellbound Series\" lineup.",
       "category": "event",
       "startDate": "2026-09-28",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-11-01",
+      "status": "ended",
       "source": "https://news.dairyqueen.com/announcements/details/2026/Something-Spellbinding-Is-Coming-to-DQ-This-Halloween/default.aspx",
       "image": "dairy-queen-dq-mystery-blizzard-buddy-plush-keychain.jpg",
       "lastConfirmed": "2026-10-21",
@@ -6416,7 +6414,7 @@
       "category": "event",
       "startDate": "2026-10-06",
       "endDate": "2026-11-03",
-      "status": "active",
+      "status": "ended",
       "source": "https://news.bk.com/blog-posts/burger-king-r-serves-up-game-day-flavor-with-new-stadium-inspired-menu",
       "image": "burger-king-game-day-royal-perks-sweepstakes.jpg",
       "imageAuto": true,
@@ -6582,7 +6580,7 @@
       "category": "event",
       "startDate": "2026-10-06",
       "endDate": "2026-11-02",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.nrn.com/quick-service/taco-bell-puts-kevin-hart-paris-hilton-and-doja-cat-s-orders-on-the-menu",
       "image": "taco-bell-national-taco-day-october-tuesday-drops-2026.jpg",
       "lastConfirmed": "2026-10-25",
@@ -6907,8 +6905,8 @@
       "description": "Chocolate, toffee, pretzel and peanut butter flavors blended with espresso, topped with whipped cream, mocha drizzle and candy bar pieces (hot or iced); part of Dunkin's second-wave Halloween menu alongside the Halloween MUNCHKINS Bucket and Spider Donut. This lineup/name matches Dunkin's confirmed Oct 15, 2025 Halloween release; food-news coverage reports it recurring for 2026 around Oct 14-15, but no independent 2026 Dunkin' newsroom release was found - leaked, unconfirmed.",
       "category": "drink",
       "startDate": "2026-10-14",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://www.thetakeout.com/2249701/dunkin-new-halloween-menu-starbucks-rival-internet-reaction/",
       "image": null
     },
@@ -6931,7 +6929,7 @@
       "category": "event",
       "startDate": "2026-11-02",
       "endDate": "2026-11-02",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.tacobell.com/newsroom/inaugural-live-mas-open-golf-tournament",
       "image": null
     },
@@ -6953,8 +6951,8 @@
       "description": "Dunkin's classic Chocolate Iced, Vanilla Iced, and Strawberry Iced donuts topped with Halloween-themed sprinkles instead of the usual multicolor mix. Part of Dunkin's second-wave Halloween rollout alongside the Halloween MUNCHKINS Bucket and Spider Donut, confirmed live Oct 14, 2026.",
       "category": "donut",
       "startDate": "2026-10-14",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-03",
+      "status": "ended",
       "source": "https://sporked.com/article/everything-coming-to-dunkin-for-halloween/",
       "image": "dunkin-halloween-sprinkle-takeover-donuts.jpg",
       "imageAuto": true,
@@ -7113,10 +7111,11 @@
       "category": "drink",
       "startDate": "2026-11-04",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.qsrmagazine.com/news/dunkin-announces-new-lineup-inspired-by-upcoming-avengers-doomsday-movie/",
       "image": "dunkin-avengers-doomsday-drinks-lineup.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-11-04"
     },
     {
       "chain": "Dunkin'",
@@ -7125,10 +7124,11 @@
       "category": "donut",
       "startDate": "2026-11-04",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.qsrmagazine.com/news/dunkin-announces-new-lineup-inspired-by-upcoming-avengers-doomsday-movie/",
       "image": "dunkin-avengers-doomsday-donuts-munchkins.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-11-04"
     },
     {
       "chain": "Dunkin'",
@@ -7137,10 +7137,11 @@
       "category": "event",
       "startDate": "2026-11-04",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.qsrmagazine.com/news/dunkin-announces-new-lineup-inspired-by-upcoming-avengers-doomsday-movie/",
       "image": "dunkin-avengers-doomsday-collectible-merch.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-11-04"
     },
     {
       "chain": "Krispy Kreme",
@@ -7343,7 +7344,7 @@
       "category": "event",
       "startDate": "2026-10-26",
       "endDate": "2026-11-01",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.qsrweb.com/news/arbys-gives-12-foot-skeletons-a-meat-sweats-makeover/",
       "image": null
     },
@@ -7495,7 +7496,7 @@
       "category": "drink",
       "startDate": "2026-11-03",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.nrn.com/quick-service/mcdonald-s-gets-into-the-holiday-spirit-early-with-festive-new-drinks",
       "image": null
     },
@@ -7506,7 +7507,7 @@
       "category": "drink",
       "startDate": "2026-11-03",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.nrn.com/quick-service/mcdonald-s-gets-into-the-holiday-spirit-early-with-festive-new-drinks",
       "image": null
     },
@@ -7552,11 +7553,11 @@
       "category": "drink",
       "startDate": "2026-11-04",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
       "image": "dunkin-cookie-butter-holiday-lineup.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-31"
+      "lastConfirmed": "2026-11-04"
     },
     {
       "chain": "Dunkin'",
@@ -7565,11 +7566,11 @@
       "category": "drink",
       "startDate": "2026-11-04",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
       "image": "dunkin-toasted-white-chocolate-holiday-lineup.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-31"
+      "lastConfirmed": "2026-11-04"
     },
     {
       "chain": "Dunkin'",
@@ -7578,11 +7579,11 @@
       "category": "event",
       "startDate": "2026-11-04",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
       "image": "dunkin-the-donutcracker-holiday-packaging.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-31"
+      "lastConfirmed": "2026-11-04"
     },
     {
       "chain": "Zaxby's",
@@ -7753,6 +7754,17 @@
       "endDate": "2026-01-11",
       "status": "ended",
       "source": "https://www.brandeating.com/2025/10/zaxbys-launches-new-asian-zensation-menu.html",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Doomsday Dipping Box",
+      "description": "Avengers: Doomsday movie tie-in box with Popcorn Chicken, two Mozzarella Sticks, two tacos, curly fries, a drink, and three dipping sauces (returning Mutant Marinara plus new mystery 'Assemble Sauce'); includes one random collectible magnet from a set of 8 Marvel-themed designs. Tied to the Dec 18, 2026 film release; pricing not yet announced.",
+      "category": "food",
+      "startDate": "2026-11-05",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://sporked.com/article/jack-in-the-box-is-launching-avengers-doomsday-meals-and-magnets-plus-returning-menu-favorites/",
       "image": null
     }
   ]

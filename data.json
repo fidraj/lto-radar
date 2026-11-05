@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-04",
+  "researched": "2026-11-05",
   "items": [
     {
       "chain": "McDonald's",
@@ -106,7 +106,7 @@
       "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-welcomes-summer-with-an-all-new-menu-of-craveable-seasonal-innovations",
       "image": "burger-king-loaded-jalape-o-whopper.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Burger King",
@@ -118,7 +118,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/new-at-burger-king-2026-summer-menu.html",
       "image": null,
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Burger King",
@@ -130,7 +130,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/new-at-burger-king-2026-summer-menu.html",
       "image": null,
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Burger King",
@@ -142,7 +142,7 @@
       "status": "active",
       "source": "https://news.bk.com/blog-posts/burger-king-r-welcomes-summer-with-an-all-new-menu-of-craveable-seasonal-innovations",
       "image": "burger-king-orange-dreamsicle-freezee-king.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Burger King",
@@ -154,7 +154,7 @@
       "status": "ending-soon",
       "source": "https://news.bk.com/blog-posts/burger-king-r-welcomes-summer-with-an-all-new-menu-of-craveable-seasonal-innovations",
       "image": "burger-king-firecracker-cookie-pie.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Burger King",
@@ -166,7 +166,7 @@
       "status": "active",
       "source": "https://sporked.com/article/burger-king-menu-item-returns-summer-2026/",
       "image": "burger-king-crown-nuggets-back-after-15-years.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Burger King",
@@ -454,7 +454,7 @@
     },
     {
       "chain": "Taco Bell",
-      "item": "Crème Brûlée Crunchwrap Slider",
+      "item": "Crème Brûlée Crunchwrap Slider (regional test)",
       "description": "Dessert Crunchwrap with creamy vanilla filling, crispy cinnamon-sugar tostada, and a caramelized, crackable cinnamon-sugar crust; part of Taco Bell's 20+ new items announced for 2026. Currently a $1.99 regional test in Grand Rapids, MI; nationwide rollout not yet confirmed.",
       "category": "dessert",
       "startDate": "2026-08-05",
@@ -462,7 +462,7 @@
       "status": "active",
       "source": "https://www.tastingtable.com/2222624/new-taco-bell-creme-brulee-crunchwrap-treat-michigan/",
       "image": "taco-bell-cr-me-br-l-e-crunchwrap-slider.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Taco Bell",
@@ -575,7 +575,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-answers-fans-calls-and-comments-with-the-return-of-popcorn-chicken-reigniting-obsession-nationwide-302824021.html",
       "image": "kfc-popcorn-chicken-returning.jpg",
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "KFC",
@@ -1489,7 +1489,7 @@
       "status": "active",
       "source": "https://www.fastfoodpost.com/jack-in-the-box-adds-new-sweet-reaper-mozzarella-sticks-as-classic-version-returns/",
       "image": "jack-in-the-box-sweet-reaper-mozzarella-sticks.jpg",
-      "lastConfirmed": "2026-10-30"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Popeyes",
@@ -1526,7 +1526,7 @@
       "status": "active",
       "source": "https://sporked.com/article/burger-king-bacon-cheddar-hash-whopper-news/",
       "image": "burger-king-bacon-cheddar-hash-whopper-regional-test.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Arby's",
@@ -1561,7 +1561,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/food/drinks/pineapple-freeze",
       "image": "taco-bell-pineapple-freeze-pineapple-whip-freeze.jpg",
-      "lastConfirmed": "2026-10-12",
+      "lastConfirmed": "2026-11-05",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2026-07-27",
@@ -1651,15 +1651,15 @@
     },
     {
       "chain": "Popeyes",
-      "item": "Cajun Onion Rings (leaked, unconfirmed)",
+      "item": "Cajun Onion Rings",
       "description": "Thick-cut, Cajun-battered onion rings spotted at select/test locations (e.g. Miami) at $3.99; no national rollout announced yet.",
       "category": "food",
       "startDate": "2026-08-09",
-      "endDate": null,
+      "endDate": "while supplies last",
       "status": "active",
-      "source": "https://sporked.com/article/popeyes-just-sneakily-added-new-onion-rings/",
+      "source": "https://www.nrn.com/quick-service/popeyes-brings-back-a-cult-favorite-menu-item",
       "image": null,
-      "lastConfirmed": "2026-11-01"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Chipotle",
@@ -1729,7 +1729,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/07/taco-bell-new-pepper-jack-steak-nacho-fries.html",
       "image": "taco-bell-pepper-jack-steak-nacho-fries.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Taco Bell",
@@ -1753,7 +1753,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/08/taco-bell-tests-new-cheesy-enchilada-dipping-taco.html",
       "image": "taco-bell-cheesy-enchilada-dipping-taco-regional-test-unconfirmed.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Taco Bell",
@@ -1765,7 +1765,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/06/taco-bell-tests-new-sweet-chipotle-lime-crispy-chicken.html",
       "image": "taco-bell-sweet-chipotle-lime-crispy-chicken-regional-test-unconfirmed.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Taco Bell",
@@ -2297,7 +2297,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/burger-king-expands-its-iconic-original-chicken-sandwich-lineup-with-two-bold-new-flavors-302818370.html",
       "image": "burger-king-loaded-jalape-o-original-chicken-sandwich.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Burger King",
@@ -2309,7 +2309,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/burger-king-expands-its-iconic-original-chicken-sandwich-lineup-with-two-bold-new-flavors-302818370.html",
       "image": "burger-king-club-original-chicken-sandwich.jpg",
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Domino's",
@@ -2977,7 +2977,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/newsroom/olivia-rodrigo-baja-blast",
       "image": null,
-      "lastConfirmed": "2026-10-14"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Taco Bell",
@@ -3246,7 +3246,7 @@
       "imageUrl": null,
       "image": "burger-king-flame-grilled-chicken-sandwiches-wraps-regional-test.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-12",
+      "lastConfirmed": "2026-11-05",
       "verified": {
         "on": "2026-08-19",
         "startDate": "2026-07-08",
@@ -3401,7 +3401,7 @@
       "image": "taco-bell-melty-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Taco Bell",
@@ -3415,7 +3415,7 @@
       "image": "taco-bell-fresca-pepper-jack-steak-burrito.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Wingstop",
@@ -3659,7 +3659,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-has-an-answer-to-the-value-wars-a-value-feast-fit-for-the-moment-302728926.html",
       "image": "kfc-value-feast-7-9-11-box-feasts-featuring-the-kfc-snacker.jpg",
-      "lastConfirmed": "2026-10-09",
+      "lastConfirmed": "2026-11-05",
       "imageAuto": true
     },
     {
@@ -3921,7 +3921,7 @@
       "status": "active",
       "source": "https://x.com/snackolator/status/2083331388304961847",
       "image": null,
-      "lastConfirmed": "2026-10-12"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Jack in the Box",
@@ -4254,7 +4254,7 @@
       "source": "https://www.prnewswire.com/news-releases/kfc-debuts-new-hot-ranch-big-dip-taps-ishowspeed-to-bring-big-dip-energy-nationwide-302858454.html",
       "image": "kfc-hot-ranch-big-dip-double-crispy-hot-wings-returning.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Krispy Kreme",
@@ -4484,7 +4484,7 @@
       "source": "https://www.prnewswire.com/news-releases/kfc-debuts-new-hot-ranch-big-dip-taps-ishowspeed-to-bring-big-dip-energy-nationwide-302858454.html",
       "image": "kfc-hot-ranch-loaded-wedges.jpg",
       "imageAuto": true,
-      "lastConfirmed": "2026-10-09"
+      "lastConfirmed": "2026-11-05"
     },
     {
       "chain": "Wendy's",
@@ -5291,7 +5291,7 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-is-giving-your-january-food-choices-a-glow-up-with-a-comfort-first-value-lineup-302654011.html",
       "image": "kfc-5-bowls-matty-s-cheesy-nuggy-gravy-bowl-mac-cheese-bowl-cheese-curds.jpg",
-      "lastConfirmed": "2026-10-09",
+      "lastConfirmed": "2026-11-05",
       "imageAuto": true
     },
     {
@@ -6763,7 +6763,7 @@
       "category": "drink",
       "startDate": "2026-11-05",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
       "image": null,
       "lastConfirmed": "2026-10-31"
@@ -6775,7 +6775,7 @@
       "category": "drink",
       "startDate": "2026-11-05",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
       "image": null,
       "lastConfirmed": "2026-10-31"
@@ -6787,7 +6787,7 @@
       "category": "food",
       "startDate": "2026-11-05",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
       "image": null,
       "lastConfirmed": "2026-10-31"
@@ -6799,7 +6799,7 @@
       "category": "food",
       "startDate": "2026-11-05",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
       "image": null,
       "lastConfirmed": "2026-10-31"
@@ -6869,7 +6869,7 @@
       "category": "dessert",
       "startDate": "2026-11-05",
       "endDate": null,
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/?p=292725",
       "image": null,
       "lastConfirmed": "2026-10-31"
@@ -6881,7 +6881,7 @@
       "category": "event",
       "startDate": "2026-11-05",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/?p=292725",
       "image": null,
       "lastConfirmed": "2026-10-31"
@@ -6940,7 +6940,7 @@
       "category": "dessert",
       "startDate": "2026-11-05",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.foodnetwork.com/fn-dish/news/starbucks-announces-2026-holiday-menu",
       "image": null,
       "lastConfirmed": "2026-10-31"
@@ -7029,7 +7029,7 @@
       "category": "drink",
       "startDate": "2026-11-05",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://about.starbucks.com/?p=292725",
       "image": null,
       "lastConfirmed": "2026-10-31"
@@ -7763,8 +7763,30 @@
       "category": "food",
       "startDate": "2026-11-05",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://sporked.com/article/jack-in-the-box-is-launching-avengers-doomsday-meals-and-magnets-plus-returning-menu-favorites/",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "Friendsgiving Cupcake Deal (2 for $6)",
+      "description": "Two Friendsgiving-themed cupcakes for $6 as part of DQ's November treat lineup.",
+      "category": "dessert",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-29",
+      "status": "active",
+      "source": "https://www.complex.com/life/a/anne-erickson/dairy-queen-announced-new-blizzard",
+      "image": null
+    },
+    {
+      "chain": "Dairy Queen",
+      "item": "$8 Meal Deal with Blizzard Treat Upgrade ($2)",
+      "description": "DQ's value meal deal priced at $8, with an optional $2 upgrade to add a Blizzard Treat.",
+      "category": "food",
+      "startDate": "2026-11-02",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.complex.com/life/a/anne-erickson/dairy-queen-announced-new-blizzard",
       "image": null
     }
   ]

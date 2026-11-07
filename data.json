@@ -7692,8 +7692,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://sporked.com/?p=80937",
-      "image": null,
-      "lastConfirmed": "2026-11-07"
+      "image": "sonic-santa-slush-float.jpg",
+      "lastConfirmed": "2026-11-07",
+      "imageAuto": true
     },
     {
       "chain": "Sonic",
@@ -7704,8 +7705,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://sporked.com/?p=80937",
-      "image": null,
-      "lastConfirmed": "2026-11-07"
+      "image": "sonic-smoked-gouda-and-bacon-sonic-smasher.jpg",
+      "lastConfirmed": "2026-11-07",
+      "imageAuto": true
     },
     {
       "chain": "Sonic",
@@ -7818,8 +7820,9 @@
       "endDate": null,
       "status": "active",
       "source": "https://sporked.com/article/jack-in-the-box-is-launching-avengers-doomsday-meals-and-magnets-plus-returning-menu-favorites/",
-      "image": null,
-      "lastConfirmed": "2026-11-07"
+      "image": "jack-in-the-box-popcorn-chicken-return.jpg",
+      "lastConfirmed": "2026-11-07",
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",

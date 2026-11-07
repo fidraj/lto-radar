@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-06",
+  "researched": "2026-11-07",
   "items": [
     {
       "chain": "McDonald's",
@@ -551,7 +551,7 @@
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": "starbucks-iced-banana-bread-latte-iced-banana-bread-chai.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "KFC",
@@ -875,7 +875,7 @@
       "status": "active",
       "source": "https://news.dairyqueen.com/announcements/details/2026/DQ-is-Kicking-Off-Fall-Flavor-Season-with-the-NEW-Caramel-Apple-Cheesecake-BLIZZARD-Treat-and-More-Seasonal-Treats-Coming-Soon-/default.aspx",
       "image": null,
-      "lastConfirmed": "2026-10-30"
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Dairy Queen",
@@ -1158,7 +1158,7 @@
       "status": "active",
       "source": "https://www.brandeating.com/2026/05/pizza-hut-new-crispy-parm-pan-pizza.html",
       "image": "pizza-hut-crispy-parm-pan-pizza.jpg",
-      "lastConfirmed": "2026-11-04"
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Domino's",
@@ -1652,14 +1652,14 @@
     {
       "chain": "Popeyes",
       "item": "Cajun Onion Rings",
-      "description": "Thick-cut, Cajun-battered onion rings spotted at select/test locations (e.g. Miami) at $3.99; no national rollout announced yet.",
+      "description": "Thick-cut, Cajun-battered onion rings, $3.99 a la carte; nationwide relaunch confirmed Nov 2, 2026 after roughly a decade off menus (an earlier Aug 2026 appearance may have been a quiet regional test before this official nationwide return). No end date announced.",
       "category": "food",
-      "startDate": "2026-08-09",
+      "startDate": "2026-11-02",
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.nrn.com/quick-service/popeyes-brings-back-a-cult-favorite-menu-item",
       "image": null,
-      "lastConfirmed": "2026-11-05"
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Chipotle",
@@ -1826,14 +1826,14 @@
     {
       "chain": "Chick-fil-A",
       "item": "Cream Cold Brew",
-      "description": "Cold-brewed coffee with sweet cream, available plain/unsweetened or in Vanilla, Mocha, or Caramel; the same 3 flavors can also be added to existing Iced Coffee. Re-verified Oct 22, 2026: no news of discontinuation or a winter coffee-menu refresh found; Chick-fil-A's own customer-support page still describes it without an end date.",
+      "description": "Cold-brewed coffee with sweet cream, available plain/unsweetened or in Vanilla, Mocha, or Caramel; the same 3 flavors can also be added to existing Iced Coffee. Note: a separate Jan 5-31, 2026 regional test (Anniston/Birmingham/Tuscaloosa, AL, app-only) of an \"Iced Coffee and Cream Cold Brew\" pairing ran and ended earlier in 2026 on a different official FAQ page - this item tracks the broader Aug 7, 2026 rollout on Chick-fil-A's general menu FAQ, which remains live with no end date.",
       "category": "drink",
       "startDate": "2026-08-07",
       "endDate": null,
       "status": "active",
       "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/what-are-the-chick-fil-a-iced-coffee-and-cream-cold-brew-beverages",
       "image": "chick-fil-a-cream-cold-brew.jpg",
-      "lastConfirmed": "2026-10-22"
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Dunkin'",
@@ -2715,8 +2715,8 @@
       "description": "Hot latte, iced latte, Frappé and iced coffee variants featuring caramel apple pie flavor; officially confirmed for nationwide launch Aug 17, 2026 (some locations soft-launched Aug 13).",
       "category": "drink",
       "startDate": "2026-08-17",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-02",
+      "status": "ended",
       "source": "https://rollingout.com/2026/08/11/mcdonalds-unveils-bold-new-drink-menu-17/",
       "image": null,
       "lastConfirmed": "2026-10-22"
@@ -2926,7 +2926,7 @@
       "image": "burger-king-dragon-ball-super-collab-leaked-unconfirmed.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-10-19"
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Chipotle",
@@ -4650,7 +4650,7 @@
       "status": "active",
       "source": "https://about.starbucks.com/stories/2026/starbucks-to-add-the-aerocano-and-mini-pies-to-the-fall-lineup-sept-29/",
       "image": null,
-      "lastConfirmed": "2026-09-30"
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Starbucks",
@@ -5501,8 +5501,8 @@
       "description": "Chocolate-cake-flavored Creme Frappuccino topped with whipped cream and chocolate \"cat ears,\" part of Starbucks' 2026 Halloween lineup alongside new Black Cat merch (merch dropped Sept 15).",
       "category": "drink",
       "startDate": "2026-10-22",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-10-31",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/black-cat-frappuccino-blended-beverage-arrives-at-starbucks-oct-22-plus-a-new-halloween-cookie-and-merchandise/",
       "image": null
     },
@@ -5512,8 +5512,8 @@
       "description": "Large shareable black cocoa cookie with caramel fudge pieces and caramelized white chocolate chunks, part of Starbucks' 2026 Halloween lineup alongside the Black Cat Frappuccino.",
       "category": "dessert",
       "startDate": "2026-10-22",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-10-31",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/black-cat-frappuccino-blended-beverage-arrives-at-starbucks-oct-22-plus-a-new-halloween-cookie-and-merchandise/",
       "image": null
     },
@@ -6474,7 +6474,7 @@
       "category": "event",
       "startDate": "2026-10-26",
       "endDate": "2026-11-08",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.merca20.com/pizza-hut-is-giving-away-free-pizza-for-halloween-heres-how-to-get-yours/",
       "image": "pizza-hut-buy-10-99-large-3-topping-get-free-medium-pizza-halloween-hut-rewards.jpg",
       "imageAuto": true
@@ -6512,7 +6512,8 @@
       "status": "active",
       "source": "https://www.atlantanewsfirst.com/2026/09/23/mcdonalds-roll-out-85-billion-overhaul-heres-what-is-changing-your-local-restaurant/",
       "image": "mcdonald-s-hand-breaded-chicken-wings-strips-sandwich-regional-test.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Starbucks",
@@ -6824,7 +6825,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/kfc-satisfies-snacking-crazy-with-new-go-buckets-starting-at-3-49/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Krispy Kreme",
@@ -7238,8 +7240,8 @@
       "description": "Halloween-season drink: Sprite blended with strawberry flavoring for a blood-red look, served in a vampire-themed cup with an optional Sour Punch Sip-n-Chew edible candy straw. Coverage frames this as Burger King's entire 2026 Halloween offering; last year's Monster Menu items are not returning this year.",
       "category": "drink",
       "startDate": "2026-10-06",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-02",
+      "status": "ended",
       "source": "https://sporked.com/?p=79218",
       "image": null
     },
@@ -7483,7 +7485,7 @@
       "category": "event",
       "startDate": "2026-10-27",
       "endDate": "2026-11-08",
-      "status": "active",
+      "status": "ending-soon",
       "source": "https://www.dexerto.com/food/subway-brings-back-fritos-sub-after-12-years-alongside-bogo-footlongs-3420858/",
       "image": "subway-national-sandwich-day-bogo-footlong-2026-sub-club.jpg",
       "imageAuto": true,
@@ -7655,7 +7657,8 @@
       "status": "active",
       "source": "https://dexerto.com/food/arbys-brings-back-infuriatingly-good-deep-fried-turkey-gobbler-sandwich-for-thanksgiving-3422708",
       "image": "arby-s-deep-fried-turkey-gobbler.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Arby's",
@@ -7666,7 +7669,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://sporked.com/?p=81012",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Zaxby's",
@@ -7687,8 +7691,9 @@
       "startDate": "2026-11-02",
       "endDate": null,
       "status": "active",
-      "source": "https://www.webull.com/news/15814694569979904",
-      "image": null
+      "source": "https://sporked.com/?p=80937",
+      "image": null,
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Sonic",
@@ -7698,8 +7703,9 @@
       "startDate": "2026-11-02",
       "endDate": null,
       "status": "active",
-      "source": "https://www.webull.com/news/15814694569979904",
-      "image": null
+      "source": "https://sporked.com/?p=80937",
+      "image": null,
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Sonic",
@@ -7709,8 +7715,9 @@
       "startDate": "2026-11-02",
       "endDate": null,
       "status": "active",
-      "source": "https://www.webull.com/news/15814694569979904",
-      "image": null
+      "source": "https://sporked.com/?p=80937",
+      "image": null,
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Sonic",
@@ -7720,8 +7727,9 @@
       "startDate": "2026-11-02",
       "endDate": null,
       "status": "active",
-      "source": "https://www.webull.com/news/15814694569979904",
-      "image": null
+      "source": "https://sporked.com/?p=80937",
+      "image": null,
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Taco Bell",
@@ -7765,7 +7773,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://sporked.com/article/jack-in-the-box-is-launching-avengers-doomsday-meals-and-magnets-plus-returning-menu-favorites/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-11-07"
     },
     {
       "chain": "Dairy Queen",
@@ -7787,6 +7796,41 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.complex.com/life/a/anne-erickson/dairy-queen-announced-new-blizzard",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Veterans Day Free Meal 2026 (conflicting reports: Free Breakfast Combo vs. free Dave's Single)",
+      "description": "Veterans Day offer for veterans/active military, Nov 11, 2026 only, with valid military ID. Aggregator and trade coverage (QSR Magazine, Hip2Save, Slickdeals, The Military Wallet) describe a free breakfast combo during breakfast hours; a separate aggregator (VA Claims Insider) describes a free Dave's Single instead, no purchase necessary. No Wendy's press release located to resolve the discrepancy - unconfirmed/conflicting pending an official source.",
+      "category": "event",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "status": "upcoming",
+      "source": "https://www.qsrmagazine.com/news/wendys-offering-free-breakfast-combo-veterans-day",
+      "image": null
+    },
+    {
+      "chain": "Jack in the Box",
+      "item": "Popcorn Chicken (return)",
+      "description": "Jack in the Box's Popcorn Chicken returns as a standalone menu item in Small and Big Box sizes and as a combo meal, alongside the Nov. 5 Avengers: Doomsday tie-in (it's also one of the Doomsday Dipping Box's components).",
+      "category": "chicken",
+      "startDate": "2026-11-05",
+      "endDate": null,
+      "status": "active",
+      "source": "https://sporked.com/article/jack-in-the-box-is-launching-avengers-doomsday-meals-and-magnets-plus-returning-menu-favorites/",
+      "image": null,
+      "lastConfirmed": "2026-11-07"
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Veterans Day 2026 Free Chips & Dip",
+      "description": "Active-duty service members, veterans, and military ID holders get free chips with their choice of guacamole, Queso Blanco, or salsa, with a minimum $5 purchase, dine-in only, all day on Veterans Day (Nov. 11). Accepted ID: military ID, VA-issued veteran ID/health ID, state ID with Veteran designation, or discharge paperwork. Not combinable with other offers; replaces the 2025 BOGO-entree format.",
+      "category": "event",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "status": "upcoming",
+      "source": "https://newsroom.chipotle.com/veterans-day-2026-offer",
+      "lastConfirmed": "2026-11-07",
       "image": null
     }
   ]

@@ -7809,7 +7809,8 @@
       "endDate": "2026-11-11",
       "status": "upcoming",
       "source": "https://themilitarywallet.com/wendys-veterans-day-free-meal/",
-      "image": null
+      "image": "wendy-s-veterans-day-free-breakfast-combo-2026-annual-precedent-no-official-2026.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Jack in the Box",
@@ -7834,7 +7835,8 @@
       "status": "upcoming",
       "source": "https://www.stripes.com/veterans/2026-11-06/veterans-day-2026-deals-discounts-23362467.html",
       "lastConfirmed": "2026-11-07",
-      "image": null
+      "image": "chipotle-veterans-day-2026-free-chips-dip.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Krispy Kreme",

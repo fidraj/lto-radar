@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-07",
+  "researched": "2026-11-08",
   "items": [
     {
       "chain": "McDonald's",
@@ -1355,7 +1355,7 @@
     {
       "chain": "Taco Bell",
       "item": "Mountain Dew Baja Midnight Pie",
-      "description": "Follow-up to the Baja Blast Pie, revealed at Taco Bell's Live Más Live 2026 event. No launch date, price, or availability has actually been announced as of late Oct 2026 (the original Baja Blast Pie took ~21 months from reveal to release) — a prior pass on this tracker incorrectly stated a 'confirmed' Nov 6, 2026 date; corrected here pending a real announcement.",
+      "description": "Follow-up to the Baja Blast Pie, revealed at Taco Bell's Live Más Live 2026 event (March 2026) as a passionfruit-flavored pie (described as tasting like key lime pie/sorbet). As of early Nov 2026, Taco Bell still has not published a launch date, price, or confirmed nationwide availability. Multiple food-news outlets (DesignBeep, Nerdist, AOL) now describe the expected window as 'around Thanksgiving' / 'in time for Thanksgiving this year' 2026, but this is still an estimate from secondary coverage, not a confirmed date from Taco Bell's newsroom.",
       "category": "dessert",
       "startDate": null,
       "endDate": null,
@@ -3200,7 +3200,7 @@
       "image": "pizza-hut-10-any-pizza-deal.jpg",
       "imageUrl": null,
       "imageAuto": true,
-      "lastConfirmed": "2026-11-04"
+      "lastConfirmed": "2026-11-08"
     },
     {
       "chain": "Pizza Hut",
@@ -5765,7 +5765,7 @@
       "status": "active",
       "source": "https://www.tacobell.com/food/drinks/pink-passionfruit-refresca-freeze",
       "image": "taco-bell-pink-passionfruit-refresca-freeze.jpg",
-      "lastConfirmed": "2026-10-24",
+      "lastConfirmed": "2026-11-08",
       "imageAuto": true
     },
     {
@@ -7802,13 +7802,13 @@
     },
     {
       "chain": "Wendy's",
-      "item": "Veterans Day Free Meal 2026 (conflicting reports: Free Breakfast Combo vs. free Dave's Single)",
-      "description": "Veterans Day offer for veterans/active military, Nov 11, 2026 only, with valid military ID. Aggregator and trade coverage (QSR Magazine, Hip2Save, Slickdeals, The Military Wallet) describe a free breakfast combo during breakfast hours; a separate aggregator (VA Claims Insider) describes a free Dave's Single instead, no purchase necessary. No Wendy's press release located to resolve the discrepancy - unconfirmed/conflicting pending an official source.",
+      "item": "Veterans Day Free Breakfast Combo 2026 (annual-precedent, no official 2026 Wendy's release found yet)",
+      "description": "Wendy's has run a Veterans Day free-meal offer in every confirmed year from 2020 through 2024, and in every year where the source is Wendy's own newsroom/PR Newswire release (2020, 2021, 2022, 2024) the offer was a FREE BREAKFAST COMBO (coffee or soft drink + breakfast sandwich + seasoned potatoes) for veterans/active military with a valid military ID, Veterans Advantage card, or VetRewards/WeSalute+ card, during breakfast hours at participating restaurants on Nov 11. The previously cited QSR Magazine article (qsrmagazine.com/news/wendys-offering-free-breakfast-combo-veterans-day) was confirmed by CI to actually be from 2020 -- evidence of the recurring breakfast-combo tradition, not a 2026-specific offer. A second QSR Magazine article claiming a free Dave's Single instead has no corroboration from any Wendy's official channel in any year and appears unreliable, so that alternative has been dropped. As of 2026-11-08, no 2026-dated official Wendy's press release confirming this year's specific offer has been found; the best available 2026-specific source (The Military Wallet) describes a free breakfast combo on Nov 11, 2026, consistent with the historical pattern but not an official Wendy's confirmation.",
       "category": "event",
       "startDate": "2026-11-11",
       "endDate": "2026-11-11",
       "status": "upcoming",
-      "source": "https://www.qsrmagazine.com/news/wendys-offering-free-breakfast-combo-veterans-day",
+      "source": "https://themilitarywallet.com/wendys-veterans-day-free-meal/",
       "image": null
     },
     {
@@ -7832,8 +7832,19 @@
       "startDate": "2026-11-11",
       "endDate": "2026-11-11",
       "status": "upcoming",
-      "source": "https://newsroom.chipotle.com/veterans-day-2026-offer",
+      "source": "https://www.stripes.com/veterans/2026-11-06/veterans-day-2026-deals-discounts-23362467.html",
       "lastConfirmed": "2026-11-07",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Milk Bar Doughnut Collaboration (Birthday Cake, Compost Cookie, Milk Bar Pie)",
+      "description": "First-ever Krispy Kreme x Milk Bar collaboration: Birthday Cake Doughnut (Original Glazed cake doughnut with birthday cake frosting, cake crumbles, rainbow sprinkles), Compost Cookie Doughnut (cookie icing, sweet & salty crunch, caramel drizzle), and Milk Bar Pie Doughnut (unglazed shell with buttery pie filling, caramel icing, oat cookie crumbles). Launched nationwide April 21, 2026 at US shops while supplies lasted (Canada's companion run was explicitly dated April 21-May 3, 2026, used here as a same-market-type proxy for the typical run length since no US end date was published).",
+      "category": "donut",
+      "startDate": "2026-04-21",
+      "endDate": "2026-05-05",
+      "status": "ended",
+      "source": "https://secure.businesswire.com/news/home/20260420389403/en/KRISPY-KREME-and-Milk-Bar-Partner-to-Create-a-Whole-New-Kind-of-Crave",
       "image": null
     }
   ]

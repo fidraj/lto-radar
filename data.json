@@ -7810,7 +7810,8 @@
       "endDate": "2026-11-11",
       "status": "upcoming",
       "source": "https://www.irwendys.com/news/news-details/2022/Wendys-Salutes-Veterans-and-Active-Military-with-FREE-Breakfast/default.aspx",
-      "image": null
+      "image": "wendy-s-veterans-day-free-breakfast-combo-2026-annual-precedent-no-official-2026.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Jack in the Box",
@@ -7869,7 +7870,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.nrn.com/quick-service/popeyes-brings-back-a-cult-favorite-menu-item",
-      "image": null
+      "image": "popeyes-10-six-piece-signature-bone-in-chicken-deal.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",
@@ -7880,7 +7882,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.nrn.com/fast-casual/chipotle-brings-back-smoked-brisket-after-two-year-hiatus",
-      "image": null
+      "image": "chipotle-smoked-brisket-returning.jpg",
+      "imageAuto": true
     }
   ]
 }

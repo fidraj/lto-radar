@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-08",
+  "researched": "2026-11-09",
   "items": [
     {
       "chain": "McDonald's",
@@ -524,7 +524,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": "2026-11-04",
-      "status": "active",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": "starbucks-pumpkin-spice-latte-fall-return.jpg",
       "lastConfirmed": "2026-10-31"
@@ -536,7 +536,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": "2026-11-04",
-      "status": "active",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": "starbucks-chaider.jpg",
       "lastConfirmed": "2026-10-31"
@@ -747,7 +747,7 @@
       "status": "active",
       "source": "https://www.businesswire.com/news/home/20260601211848/en/SONIC-Debuts-the-$7-Big-Deal-Meal-Bringing-More-of-What-Guests-Want-for-Less",
       "image": "sonic-7-big-deal-meal.jpg",
-      "lastConfirmed": "2026-11-03"
+      "lastConfirmed": "2026-11-09"
     },
     {
       "chain": "Arby's",
@@ -1253,7 +1253,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": "2026-11-04",
-      "status": "active",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": "starbucks-pumpkin-cream-lineup-iced-pumpkin-cream-shaken-espresso-chai-matcha.jpg",
       "lastConfirmed": "2026-10-31"
@@ -1265,7 +1265,7 @@
       "category": "food",
       "startDate": "2026-08-25",
       "endDate": "2026-11-04",
-      "status": "active",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": null,
       "lastConfirmed": "2026-10-31"
@@ -1277,7 +1277,7 @@
       "category": "dessert",
       "startDate": "2026-08-25",
       "endDate": "2026-11-04",
-      "status": "active",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": null,
       "lastConfirmed": "2026-10-31"
@@ -2609,7 +2609,7 @@
       "category": "food",
       "startDate": "2026-08-25",
       "endDate": "2026-11-04",
-      "status": "active",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": null,
       "imageUrl": null,
@@ -3260,7 +3260,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": "2026-11-04",
-      "status": "active",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "imageUrl": null,
       "image": null,
@@ -3273,7 +3273,7 @@
       "category": "drink",
       "startDate": "2026-08-25",
       "endDate": "2026-11-04",
-      "status": "active",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "imageUrl": null,
       "image": null,
@@ -4141,7 +4141,7 @@
       "category": "food",
       "startDate": "2026-08-25",
       "endDate": "2026-11-04",
-      "status": "active",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-announces-the-return-of-pumpkin-spice-latte-psl-aug-25-new-chaider-and-more-fall-favorites/",
       "image": null,
       "lastConfirmed": "2026-10-31"
@@ -5481,7 +5481,7 @@
       "status": "upcoming",
       "source": "https://www.tacobell.com/newsroom/two-global-fan-favorite-tacos-one-fan-decision",
       "image": null,
-      "lastConfirmed": "2026-09-28"
+      "lastConfirmed": "2026-11-09"
     },
     {
       "chain": "Dunkin'",
@@ -6094,7 +6094,7 @@
       "status": "active",
       "source": "https://www.foxnews.com/food-drink/wendys-revives-nostalgic-yellow-packaging-decades-away",
       "image": null,
-      "lastConfirmed": "2026-09-30"
+      "lastConfirmed": "2026-10-19"
     },
     {
       "chain": "Taco Bell",
@@ -6179,7 +6179,8 @@
       "status": "active",
       "source": "https://www.prnewswire.com/news-releases/kfc-debuts-open-house-in-mckinney-bringing-the-kentucky-fried-comeback-to-life-302888504.html",
       "image": "kfc-open-house-concept-restaurant-mckinney-tx.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-11-09"
     },
     {
       "chain": "Burger King",
@@ -7803,14 +7804,13 @@
     {
       "chain": "Wendy's",
       "item": "Veterans Day Free Breakfast Combo 2026 (annual-precedent, no official 2026 Wendy's release found yet)",
-      "description": "Wendy's has run a Veterans Day free-meal offer in every confirmed year from 2020 through 2024, and in every year where the source is Wendy's own newsroom/PR Newswire release (2020, 2021, 2022, 2024) the offer was a FREE BREAKFAST COMBO (coffee or soft drink + breakfast sandwich + seasoned potatoes) for veterans/active military with a valid military ID, Veterans Advantage card, or VetRewards/WeSalute+ card, during breakfast hours at participating restaurants on Nov 11. The previously cited QSR Magazine article (qsrmagazine.com/news/wendys-offering-free-breakfast-combo-veterans-day) was confirmed by CI to actually be from 2020 -- evidence of the recurring breakfast-combo tradition, not a 2026-specific offer. A second QSR Magazine article claiming a free Dave's Single instead has no corroboration from any Wendy's official channel in any year and appears unreliable, so that alternative has been dropped. As of 2026-11-08, no 2026-dated official Wendy's press release confirming this year's specific offer has been found; the best available 2026-specific source (The Military Wallet) describes a free breakfast combo on Nov 11, 2026, consistent with the historical pattern but not an official Wendy's confirmation.",
+      "description": "Wendy's has run a Veterans Day free-meal offer in every confirmed year from 2020 through 2024, and in every year where the source is Wendy's own newsroom/PR Newswire release (2020, 2021, 2022, 2024) the offer was a FREE BREAKFAST COMBO (coffee or soft drink + breakfast sandwich + seasoned potatoes) for veterans/active military with a valid military ID, Veterans Advantage card, or VetRewards/WeSalute+ card, during breakfast hours at participating restaurants on Nov 11. Linked source is Wendy's own 2022 official release establishing this annual pattern. As of 2026-11-09, no 2026-specific Wendy's press release confirming THIS year's offer has been found yet; a previously-cited themilitarywallet.com page was found by CI to not actually carry 2026-dated evidence (reads as an evergreen/templated page) and has been dropped as a source. This item remains an unconfirmed annual-precedent estimate pending an official 2026 Wendy's announcement.",
       "category": "event",
       "startDate": "2026-11-11",
       "endDate": "2026-11-11",
       "status": "upcoming",
-      "source": "https://themilitarywallet.com/wendys-veterans-day-free-meal/",
-      "image": "wendy-s-veterans-day-free-breakfast-combo-2026-annual-precedent-no-official-2026.jpg",
-      "imageAuto": true
+      "source": "https://www.irwendys.com/news/news-details/2022/Wendys-Salutes-Veterans-and-Active-Military-with-FREE-Breakfast/default.aspx",
+      "image": null
     },
     {
       "chain": "Jack in the Box",
@@ -7847,6 +7847,39 @@
       "endDate": "2026-05-05",
       "status": "ended",
       "source": "https://secure.businesswire.com/news/home/20260420389403/en/KRISPY-KREME-and-Milk-Bar-Partner-to-Create-a-Whole-New-Kind-of-Crave",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Dave's Single Combo ($7.99)",
+      "description": "Value combo meal: a quarter-pound fresh beef Dave's Single hamburger, small Hot & Crispy Fries and a small soft drink for $7.99 at participating U.S. Wendy's restaurants, part of a renewed value push debuted alongside Wendy's returning 1960s-90s yellow packaging.",
+      "category": "burger",
+      "startDate": "2026-10-19",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.franchising.com/news/20261019_fresh_beef_fresh_deal_wendys_debuts_the_799_daves_single_combo_meal.html",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "$10 Six-Piece Signature Bone-In Chicken Deal",
+      "description": "Limited-time value promotion: six pieces of Popeyes' Signature Bone-In Chicken for $10, launched alongside the Cajun Onion Rings relaunch.",
+      "category": "chicken",
+      "startDate": "2026-11-02",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.nrn.com/quick-service/popeyes-brings-back-a-cult-favorite-menu-item",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Smoked Brisket (returning)",
+      "description": "Chipotle's Responsibly Raised mesquite-smoked brisket, smoked for hours then seared, seasoned, sauced and hand-chopped in small batches, returns to US and Canada restaurants for a limited time, timed to football season. $0 delivery fee on Smoked Brisket orders (min. $10 US / $12 CAD) via the app, Chipotle.com or Chipotle.ca, Nov 5-18, 2026. Has a history of selling out before its run ends.",
+      "category": "food",
+      "startDate": "2026-11-05",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.nrn.com/fast-casual/chipotle-brings-back-smoked-brisket-after-two-year-hiatus",
       "image": null
     }
   ]

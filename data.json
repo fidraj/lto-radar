@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-09",
+  "researched": "2026-11-10",
   "items": [
     {
       "chain": "McDonald's",
@@ -7884,6 +7884,17 @@
       "source": "https://www.nrn.com/fast-casual/chipotle-brings-back-smoked-brisket-after-two-year-hiatus",
       "image": "chipotle-smoked-brisket-returning.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Free Original Glazed Doughnut for Voters (Election Day 2026)",
+      "description": "One-day promo: guests who showed an \"I Voted\" sticker or said they voted got one free Original Glazed doughnut at participating US shops on Election Day, Tuesday Nov. 3, 2026, no purchase necessary, while supplies lasted. Annual recurring Krispy Kreme Election Day tradition (2016/2020/2024 precedents).",
+      "category": "event",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "status": "ended",
+      "source": "https://www.wftv.com/news/trending/election-2026-i-voted-stickers-can-net-you-free-doughnut-krispy-kreme/IU3ASR7ZVVCKPBH65IIOD6T45Q/",
+      "image": null
     }
   ]
 }

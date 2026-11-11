@@ -7920,7 +7920,8 @@
       "endDate": "2026-11-20",
       "status": "upcoming",
       "source": "https://www.dexerto.com/food/burger-king-reveals-2026-advent-calendar-that-lets-fans-build-their-own-mini-restaurant-3425551/",
-      "image": null
+      "image": "burger-king-2026-advent-calendar-online-exclusive-build-your-own-mini-restaurant.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Starbucks",
@@ -7964,7 +7965,8 @@
       "endDate": "2026-12-01",
       "status": "active",
       "source": "https://whdh.com/news/local/dunkin-unveils-holiday-menu-featuring-new-seasonal-beverages-on-the-go-snacks/",
-      "image": null
+      "image": "dunkin-2-medium-holiday-blend-coffee-deal.jpg",
+      "imageAuto": true
     }
   ]
 }

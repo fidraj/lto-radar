@@ -7958,12 +7958,12 @@
     },
     {
       "chain": "Dunkin'",
-      "item": "$2 Medium Holiday Blend Coffee Deal",
-      "description": "Medium Holiday Blend hot coffee for $2 at participating locations, tied to the Nov 4, 2026 holiday menu launch.",
+      "item": "$2 Medium Holiday Blend Coffee Deal (2021 launch, mis-dated - corrected)",
+      "description": "Medium Holiday Blend hot coffee for $2 at participating locations. CI flagged the cited whdh.com article as actually published in 2021 (matches a Nov 2, 2021 franchising.com release with the same headline and Nov 3-Dec 1 window); no 2026 confirmation of this specific deal was found alongside the real Nov 4, 2026 holiday menu launch, so re-dated to its true 2021 run as a historical item.",
       "category": "event",
-      "startDate": "2026-11-04",
-      "endDate": "2026-12-01",
-      "status": "active",
+      "startDate": "2021-11-03",
+      "endDate": "2021-12-01",
+      "status": "ended",
       "source": "https://whdh.com/news/local/dunkin-unveils-holiday-menu-featuring-new-seasonal-beverages-on-the-go-snacks/",
       "image": "dunkin-2-medium-holiday-blend-coffee-deal.jpg",
       "imageAuto": true

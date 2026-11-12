@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-11",
+  "researched": "2026-11-12",
   "items": [
     {
       "chain": "McDonald's",
@@ -3223,8 +3223,8 @@
     },
     {
       "chain": "McDonald's",
-      "item": "Vanilla Swirl & Orange Dream Crafted Sodas",
-      "description": "New McCafé crafted soda additions launching alongside the Red Bull Dragonberry Energizer: Vanilla Swirl (cold foam over Coca-Cola/Diet Coke/Coke Zero) and Orange Dream (Fanta with vanilla and cold foam), plus reduced-sugar Diet Dr Pepper, Dr Pepper Zero Sugar and Sprite Zero Sugar.",
+      "item": "Vanilla Swirl Crafted Soda",
+      "description": "New McCafé crafted soda launching Aug 17, 2026 alongside the Red Bull Dragonberry Energizer: cold foam over Coca-Cola/Diet Coke/Coke Zero, plus reduced-sugar Diet Dr Pepper, Dr Pepper Zero Sugar and Sprite Zero Sugar. Corrected: this entry previously also listed \"Orange Dream,\" but that's the Hi-C Orange Lavaburst drink from McDonald's original May 6, 2026 Refreshers & Crafted Sodas launch (already tracked separately) — removed here to avoid double-counting the same item under two dates.",
       "category": "drink",
       "startDate": "2026-08-17",
       "endDate": null,
@@ -5396,7 +5396,7 @@
     {
       "chain": "Raising Cane's",
       "item": "UK Expansion Announcement (Piccadilly Circus, London)",
-      "description": "Raising Cane's confirmed its first European restaurant will take over the former Angus Steakhouse site at 21-22 Coventry Street, Piccadilly Circus, opening late 2026.",
+      "description": "Raising Cane's confirmed its first European restaurant will take over the former Angus Steakhouse site at 21-22 Coventry Street, Piccadilly Circus. Update: per an Oct 16, 2026 restaurantonline.co.uk report on a fourth UK site, the Piccadilly Circus flagship opening has slipped from the original \"late 2026\" target to \"early 2027\"; no exact date announced yet.",
       "category": "event",
       "startDate": "2026-06-29",
       "endDate": null,
@@ -7887,6 +7887,17 @@
       "source": "https://www.nrn.com/quick-service/popeyes-brings-back-a-cult-favorite-menu-item",
       "image": "popeyes-10-six-piece-signature-bone-in-chicken-deal.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Popeyes",
+      "item": "Wings Lineup Scale-Back / Menu Simplification",
+      "description": "RBI CEO Josh Kobza disclosed on Popeyes' Q3 2026 earnings call (Oct 29) that Popeyes is deliberately scaling back its wings offering to reduce operational complexity and refocus on core items (bone-in chicken, tenders, the chicken sandwich), acknowledging it will hurt sales short-term. No SKU-level list or in-restaurant effective date has been published yet.",
+      "category": "event",
+      "startDate": "2026-10-29",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.entrepreneur.com/buying-a-franchise/popeyes-sales-have-fallen-7-quarters-in-a-row-now-its-scaling-back-this-fan-favorite",
+      "image": null
     },
     {
       "chain": "Chipotle",

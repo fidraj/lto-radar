@@ -7523,7 +7523,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.nrn.com/quick-service/mcdonald-s-gets-into-the-holiday-spirit-early-with-festive-new-drinks",
-      "image": null
+      "image": "mcdonald-s-cookie-butter-frapp-latte-iced-coffee.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Starbucks",

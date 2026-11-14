@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-12",
+  "researched": "2026-11-14",
   "items": [
     {
       "chain": "McDonald's",
@@ -102,11 +102,11 @@
       "description": "'Whopper By You' guest-created LTO: flame-grilled beef with crispy-fried jalapeños, pickled jalapeños, creamy jalapeño sauce, lettuce, tomato and American cheese on a sesame bun (~$6.99); headline item of the summer menu.",
       "category": "burger",
       "startDate": "2026-06-02",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-09-01",
+      "status": "ended",
       "source": "https://news.bk.com/blog-posts/burger-king-r-welcomes-summer-with-an-all-new-menu-of-craveable-seasonal-innovations",
       "image": "burger-king-loaded-jalape-o-whopper.jpg",
-      "lastConfirmed": "2026-11-05"
+      "lastConfirmed": "2026-11-14"
     },
     {
       "chain": "Burger King",
@@ -114,11 +114,11 @@
       "description": "Fan-favorite LTO back for summer: 1/4 lb flame-grilled beef with melty Swiss, crispy fried pickle chips, bacon, lettuce, tomato and creamy BBQ sauce.",
       "category": "burger",
       "startDate": "2026-06-02",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-09-01",
+      "status": "ended",
       "source": "https://www.brandeating.com/2026/06/new-at-burger-king-2026-summer-menu.html",
       "image": null,
-      "lastConfirmed": "2026-11-05"
+      "lastConfirmed": "2026-11-14"
     },
     {
       "chain": "Burger King",
@@ -126,11 +126,11 @@
       "description": "Crispy tots stuffed with melty cheddar cheese, fluffy potatoes and ranch seasoning; returning fan-favorite side on the summer menu.",
       "category": "food",
       "startDate": "2026-06-02",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-09-01",
+      "status": "ended",
       "source": "https://www.brandeating.com/2026/06/new-at-burger-king-2026-summer-menu.html",
       "image": null,
-      "lastConfirmed": "2026-11-05"
+      "lastConfirmed": "2026-11-14"
     },
     {
       "chain": "Burger King",
@@ -138,11 +138,11 @@
       "description": "New frozen drink platform debut: creamsicle-style frozen orange base topped with orange cream cold foam and sprinkles (~$2.99).",
       "category": "drink",
       "startDate": "2026-06-02",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-09-01",
+      "status": "ended",
       "source": "https://news.bk.com/blog-posts/burger-king-r-welcomes-summer-with-an-all-new-menu-of-craveable-seasonal-innovations",
       "image": "burger-king-orange-dreamsicle-freezee-king.jpg",
-      "lastConfirmed": "2026-11-05"
+      "lastConfirmed": "2026-11-14"
     },
     {
       "chain": "Burger King",
@@ -150,11 +150,11 @@
       "description": "Chilled dessert with velvety cream over a crisp sugar cookie crust topped with red, white and blue star sprinkles, celebrating America's 250th birthday (~$2.99).",
       "category": "dessert",
       "startDate": "2026-06-02",
-      "endDate": "while supplies last",
-      "status": "ending-soon",
+      "endDate": "2026-09-01",
+      "status": "ended",
       "source": "https://news.bk.com/blog-posts/burger-king-r-welcomes-summer-with-an-all-new-menu-of-craveable-seasonal-innovations",
       "image": "burger-king-firecracker-cookie-pie.jpg",
-      "lastConfirmed": "2026-11-05"
+      "lastConfirmed": "2026-11-14"
     },
     {
       "chain": "Burger King",
@@ -162,11 +162,11 @@
       "description": "Crown-shaped chicken nuggets, first launched in 2006, back in King Jr. Meals and as a standalone 8-piece; a Crayola-themed King Jr. Meal followed June 9.",
       "category": "food",
       "startDate": "2026-06-02",
-      "endDate": "while supplies last",
-      "status": "active",
+      "endDate": "2026-09-01",
+      "status": "ended",
       "source": "https://sporked.com/article/burger-king-menu-item-returns-summer-2026/",
       "image": "burger-king-crown-nuggets-back-after-15-years.jpg",
-      "lastConfirmed": "2026-11-05"
+      "lastConfirmed": "2026-11-14"
     },
     {
       "chain": "Burger King",
@@ -6388,7 +6388,7 @@
       "status": "active",
       "source": "https://sporked.com/article/burger-king-texas-whopper-lineup/",
       "image": null,
-      "lastConfirmed": "2026-10-21"
+      "lastConfirmed": "2026-11-14"
     },
     {
       "chain": "Burger King",
@@ -7897,7 +7897,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.entrepreneur.com/buying-a-franchise/popeyes-sales-have-fallen-7-quarters-in-a-row-now-its-scaling-back-this-fan-favorite",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-11-14"
     },
     {
       "chain": "Chipotle",
@@ -7979,6 +7980,50 @@
       "source": "https://whdh.com/news/local/dunkin-unveils-holiday-menu-featuring-new-seasonal-beverages-on-the-go-snacks/",
       "image": "dunkin-2-medium-holiday-blend-coffee-deal.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Peppermint Chip Milkshake & Peppermint Coffee Lineup (winter, date unconfirmed)",
+      "description": "Hand-spun Icedream milkshake with peppermint bark chips plus Peppermint Chip Frosted Coffee, Peppermint Iced Coffee and Peppermint Cream Cold Brew; widely reported by food-news roundups as returning for the holidays with a reported Nov 16, 2026 start, but not yet confirmed via an official Chick-fil-A US press release.",
+      "category": "dessert",
+      "startDate": "2026-11-16",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://sporked.com/article/everything-on-chick-fil-as-holiday-menu-including-a-returning-favorite/",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Chicken Tortilla Soup (winter, US date unconfirmed)",
+      "description": "Returning seasonal soup (shredded chicken, beans, vegetables in a creamy base); confirmed for 2026 by Chick-fil-A Canada's own press room, which reported alongside a reported Nov 16, 2026 US holiday-menu date in secondary roundups — a parallel US return is likely but not yet confirmed via a dated US press release.",
+      "category": "food",
+      "startDate": "2026-11-16",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.chick-fil-a.ca/press-room/chick-fil-a-warms-up-winter-with-new-chicken-tortilla-soup",
+      "image": null
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "Raising Cane's x Elf on the Shelf Holiday Collab",
+      "description": "First-ever partnership with The Lumistella Company: limited-edition Cane III plush puppies dressed as boy/girl Scout Elves ($10.99, proceeds to pet-welfare charities), themed ornaments/merch at RaisingCanesGear.com, a Times Square flagship window takeover, and a Caniac Club app game (Dec 1, 2026-Jan 3, 2027) with merch/food-reward prizes.",
+      "category": "event",
+      "startDate": "2026-11-11",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.nrn.com/fast-casual/raising-cane-s-gets-into-the-holiday-spirit-with-elf-on-the-shelf",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "\"Tatted Like a Chipotle Bag\" BOGO x Wiz Khalifa",
+      "description": "One-hour (3-4pm local time) buy-one-get-one-free entree for guests with a tattoo (permanent, temporary, or drawn-on), returning Friday Nov 13, 2026 tied to Wiz Khalifa's tattoo-inspired to-go bag designs and his album \"COOL\"; included a Rewards sweepstakes for 13 signed bags.",
+      "category": "event",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "status": "ended",
+      "source": "https://www.qsrmagazine.com/news/chipotle-brings-back-tatted-like-a-chipotle-bag-bogo-promotion/",
+      "image": null
     }
   ]
 }

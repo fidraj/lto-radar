@@ -8001,7 +8001,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.chick-fil-a.ca/press-room/chick-fil-a-warms-up-winter-with-new-chicken-tortilla-soup",
-      "image": null
+      "image": "chick-fil-a-chicken-tortilla-soup-winter-us-date-unconfirmed.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Raising Cane's",
@@ -8012,7 +8013,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.nrn.com/fast-casual/raising-cane-s-gets-into-the-holiday-spirit-with-elf-on-the-shelf",
-      "image": null
+      "image": "raising-cane-s-raising-cane-s-x-elf-on-the-shelf-holiday-collab.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",

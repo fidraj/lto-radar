@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-14",
+  "researched": "2026-11-15",
   "items": [
     {
       "chain": "McDonald's",
@@ -2478,7 +2478,7 @@
       "category": "sandwich",
       "startDate": "2026-08-24",
       "endDate": "2026-11-14",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-chicken-waffles-sandwich.jpg",
       "lastConfirmed": "2026-10-31"
@@ -2490,7 +2490,7 @@
       "category": "dessert",
       "startDate": "2026-08-24",
       "endDate": "2026-11-14",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-s-mores-milkshake.jpg",
       "lastConfirmed": "2026-10-31"
@@ -2502,7 +2502,7 @@
       "category": "drink",
       "startDate": "2026-08-24",
       "endDate": "2026-11-14",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-s-mores-frosted-coffee.jpg",
       "lastConfirmed": "2026-10-31"
@@ -4061,7 +4061,7 @@
       "category": "food",
       "startDate": "2026-08-24",
       "endDate": "2026-11-14",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-debuts-chicken-waffles-and-smores-flavored-treats",
       "image": "chick-fil-a-plain-waffle-a-la-carte.jpg",
       "imageAuto": true,
@@ -4085,7 +4085,7 @@
       "category": "food",
       "startDate": "2026-08-19",
       "endDate": "2026-09-04",
-      "status": "active",
+      "status": "ended",
       "source": "https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES",
       "image": "chipotle-chipotle-x-salish-matter-order.jpg",
       "imageAuto": true,
@@ -4650,8 +4650,8 @@
       "description": "Starbucks Blonde Espresso air-whipped to create a light foam and cascading visual effect; a modern take on the Iced Americano. Previously available in Asia, Latin America and the Caribbean, debuting in the US alongside the fall menu, timed to National Coffee Day.",
       "category": "drink",
       "startDate": "2026-09-29",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-09-29",
+      "status": "ended",
       "source": "https://about.starbucks.com/stories/2026/starbucks-to-add-the-aerocano-and-mini-pies-to-the-fall-lineup-sept-29/",
       "image": null,
       "lastConfirmed": "2026-11-07"
@@ -6483,7 +6483,7 @@
       "category": "event",
       "startDate": "2026-10-26",
       "endDate": "2026-11-08",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.merca20.com/pizza-hut-is-giving-away-free-pizza-for-halloween-heres-how-to-get-yours/",
       "image": "pizza-hut-buy-10-99-large-3-topping-get-free-medium-pizza-halloween-hut-rewards.jpg",
       "imageAuto": true
@@ -6531,7 +6531,7 @@
       "category": "dessert",
       "startDate": "2026-10-01",
       "endDate": "2026-11-04",
-      "status": "active",
+      "status": "ended",
       "source": "https://passionatepennypincher.com/starbucks-fall-drinks/",
       "image": null,
       "lastConfirmed": "2026-11-11"
@@ -6543,7 +6543,7 @@
       "category": "drink",
       "startDate": "2026-10-01",
       "endDate": "2026-11-04",
-      "status": "active",
+      "status": "ended",
       "source": "https://passionatepennypincher.com/starbucks-fall-drinks/",
       "image": null,
       "lastConfirmed": "2026-11-11"
@@ -7497,7 +7497,7 @@
       "category": "event",
       "startDate": "2026-10-27",
       "endDate": "2026-11-08",
-      "status": "ending-soon",
+      "status": "ended",
       "source": "https://www.dexerto.com/food/subway-brings-back-fritos-sub-after-12-years-alongside-bogo-footlongs-3420858/",
       "image": "subway-national-sandwich-day-bogo-footlong-2026-sub-club.jpg",
       "imageAuto": true,
@@ -7556,7 +7556,7 @@
       "category": "event",
       "startDate": "2026-10-30",
       "endDate": "2026-11-14",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.nrn.com/quick-service/krispy-kreme-is-giving-away-a-treat-dozen-pass",
       "image": "krispy-kreme-jack-s-treat-dozen-pass.jpg",
       "imageAuto": true
@@ -7822,7 +7822,7 @@
       "category": "event",
       "startDate": "2026-11-11",
       "endDate": "2026-11-11",
-      "status": "upcoming",
+      "status": "ended",
       "source": "https://www.irwendys.com/news/news-details/2022/Wendys-Salutes-Veterans-and-Active-Military-with-FREE-Breakfast/default.aspx",
       "image": "wendy-s-veterans-day-free-breakfast-combo-2026-annual-precedent-no-official-2026.jpg",
       "imageAuto": true,
@@ -8010,7 +8010,7 @@
       "description": "First-ever partnership with The Lumistella Company: limited-edition Cane III plush puppies dressed as boy/girl Scout Elves ($10.99, proceeds to pet-welfare charities), themed ornaments/merch at RaisingCanesGear.com, a Times Square flagship window takeover, and a Caniac Club app game (Dec 1, 2026-Jan 3, 2027) with merch/food-reward prizes.",
       "category": "event",
       "startDate": "2026-11-11",
-      "endDate": "while supplies last",
+      "endDate": "2027-01-03",
       "status": "active",
       "source": "https://www.nrn.com/fast-casual/raising-cane-s-gets-into-the-holiday-spirit-with-elf-on-the-shelf",
       "image": "raising-cane-s-raising-cane-s-x-elf-on-the-shelf-holiday-collab.jpg",
@@ -8025,6 +8025,39 @@
       "endDate": "2026-11-13",
       "status": "ended",
       "source": "https://www.qsrmagazine.com/news/chipotle-brings-back-tatted-like-a-chipotle-bag-bogo-promotion/",
+      "image": null
+    },
+    {
+      "chain": "Starbucks",
+      "item": "Holiday Pup Cup",
+      "description": "Starbucks' first-ever holiday-themed pup cup: a 3.5oz cup of whipped cream in a cup printed with a candy-apple background and a blue-and-white spotted pup (modeled on a real-life beagle named Junie). Part of the Nov 5, 2026 holiday menu launch; available only at company-operated/participating US stores, while supplies last.",
+      "category": "event",
+      "startDate": "2026-11-05",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.nrn.com/quick-service/starbucks-holiday-menu-returns-complete-with-a-jolly-new-pup-cup",
+      "image": null
+    },
+    {
+      "chain": "KFC",
+      "item": "Finger Lickin' Fan Fest",
+      "description": "Limited-time November promotion for KFC Rewards members: 2X points on purchases made through the KFC app or KFC.com, plus an expanded Secret Recipe Vault spanning four reward tiers for free items like nuggets, a chicken sandwich, or a side. Announced by KFC U.S. CMO Melissa Cash ahead of the holidays.",
+      "category": "event",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-30",
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/kfc-launches-finger-lickin-fan-fest-with-double-rewards-points/",
+      "image": null
+    },
+    {
+      "chain": "Sonic",
+      "item": "Winter Swag Collection (Corn Dog Pajama Jumpsuits)",
+      "description": "Limited-time holiday merch drop on SonicSwagShop.com: corn dog pajama jumpsuits (ketchup or mustard, $45) plus Tots earrings, slippers, fuzzy socks and a campfire mug. On sale starting Nov 14, 2026 at 11am ET, while supplies last; 100% of proceeds benefit the SONIC Foundation.",
+      "category": "event",
+      "startDate": "2026-11-14",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/sonic-drive-ins-winter-swag-returns-corn-dog-pajama-jumpsuits/",
       "image": null
     }
   ]

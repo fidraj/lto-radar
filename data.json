@@ -8036,7 +8036,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.nrn.com/quick-service/starbucks-holiday-menu-returns-complete-with-a-jolly-new-pup-cup",
-      "image": null
+      "image": "starbucks-holiday-pup-cup.jpg",
+      "imageAuto": true
     },
     {
       "chain": "KFC",

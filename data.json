@@ -7990,7 +7990,8 @@
       "endDate": "2027-01-02",
       "status": "active",
       "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/when-and-where-will-the-peppermint-chip-milkshake-be-available",
-      "image": null
+      "image": "chick-fil-a-peppermint-chip-milkshake-peppermint-coffee-lineup.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chick-fil-A",

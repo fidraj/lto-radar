@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-15",
+  "researched": "2026-11-16",
   "items": [
     {
       "chain": "McDonald's",
@@ -7299,7 +7299,7 @@
       "category": "food",
       "startDate": "2026-11-16",
       "endDate": "2026-11-16",
-      "status": "upcoming",
+      "status": "ended",
       "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/what-is-the-spicy-chick-fil-a-sauce",
       "image": "chick-fil-a-spicy-chick-fil-a-sauce.jpg",
       "imageAuto": true
@@ -7983,13 +7983,13 @@
     },
     {
       "chain": "Chick-fil-A",
-      "item": "Peppermint Chip Milkshake & Peppermint Coffee Lineup (winter, date unconfirmed)",
-      "description": "Hand-spun Icedream milkshake with peppermint bark chips plus Peppermint Chip Frosted Coffee, Peppermint Iced Coffee and Peppermint Cream Cold Brew; widely reported by food-news roundups as returning for the holidays with a reported Nov 16, 2026 start, but not yet confirmed via an official Chick-fil-A US press release.",
+      "item": "Peppermint Chip Milkshake & Peppermint Coffee Lineup",
+      "description": "Hand-spun Icedream milkshake with peppermint bark chips plus Peppermint Chip Frosted Coffee, Peppermint Iced Coffee and Peppermint Cream Cold Brew. Confirmed via Chick-fil-A's own customer-support FAQ: available at participating US restaurants Nov 16, 2026 through Jan 2, 2027, while supplies last.",
       "category": "dessert",
       "startDate": "2026-11-16",
-      "endDate": null,
-      "status": "upcoming",
-      "source": "https://sporked.com/article/everything-on-chick-fil-as-holiday-menu-including-a-returning-favorite/",
+      "endDate": "2027-01-02",
+      "status": "active",
+      "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/when-and-where-will-the-peppermint-chip-milkshake-be-available",
       "image": null
     },
     {

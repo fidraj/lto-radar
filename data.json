@@ -7984,14 +7984,20 @@
     {
       "chain": "Chick-fil-A",
       "item": "Peppermint Chip Milkshake & Peppermint Coffee Lineup",
-      "description": "Hand-spun Icedream milkshake with peppermint bark chips plus Peppermint Chip Frosted Coffee, Peppermint Iced Coffee and Peppermint Cream Cold Brew. Confirmed via Chick-fil-A's own customer-support FAQ: available at participating US restaurants Nov 16, 2026 through Jan 2, 2027, while supplies last.",
+      "description": "Hand-spun Icedream milkshake with peppermint bark chips plus Peppermint Chip Frosted Coffee, Peppermint Iced Coffee, Peppermint Hot Coffee and new Peppermint Cream Cold Brew. Official Chick-fil-A press release (dated Nov 12, 2026) confirms the Nov 16, 2026 US launch alongside the new permanent Spicy Chick-fil-A Sauce; customer-support FAQ gives the Jan 2, 2027 end date, while supplies last.",
       "category": "dessert",
       "startDate": "2026-11-16",
       "endDate": "2027-01-02",
       "status": "active",
-      "source": "https://www.chick-fil-a.com/customer-support/our-food/our-menu/when-and-where-will-the-peppermint-chip-milkshake-be-available",
+      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-launches-new-spicy-chick-fil-a-sauce-and-peppermint-treats",
       "image": "chick-fil-a-peppermint-chip-milkshake-peppermint-coffee-lineup.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "verified": {
+        "on": "2026-11-17",
+        "startDate": "2026-11-16",
+        "endDate": "2027-01-02",
+        "note": "fetch-images CI flagged the prior customer-support-FAQ source as publishing in 2025 (stale metadata on an evergreen FAQ page reused across years) -- looked like the classic Chick-fil-A wrong-year trap. Re-verified via WebSearch: Chick-fil-A's own press room has a dated Nov 12, 2026 release confirming the Nov 16, 2026 US launch (the same release that introduces the permanent Spicy Chick-fil-A Sauce). Swapped source to that dated press release; kept the Jan 2, 2027 end date from the FAQ, consistent with the Nov 2025-Jan 2026 window the same FAQ gave last year."
+      }
     },
     {
       "chain": "Chick-fil-A",

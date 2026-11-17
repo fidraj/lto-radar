@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-16",
+  "researched": "2026-11-17",
   "items": [
     {
       "chain": "McDonald's",
@@ -3042,6 +3042,17 @@
       "image": "popeyes-chicken-wraps-blackened-ranch-flavor-wraps-bundle.jpg",
       "imageUrl": null,
       "imageAuto": true
+    },
+    {
+      "chain": "Popeyes",
+      "item": "2 Wraps + Beverage Bundle ($9.99)",
+      "description": "Limited-time bundle deal launched alongside the Chicken Wraps' permanent-menu relaunch: any 2 Chicken Wraps plus a premium lemonade or tea for $9.99. Unlike the wraps themselves (now permanent), the bundle is a dated promotion running May 4 through Dec 31, 2026, per Restaurant Dive, Fox News, Eat This Not That and Fast Food Post coverage of the May 2026 relaunch.",
+      "category": "sandwich",
+      "startDate": "2026-05-04",
+      "endDate": "2026-12-31",
+      "status": "active",
+      "source": "https://www.restaurantdive.com/news/popeyes-makes-wraps-permanent-blackened-ranch/819313/",
+      "image": null
     },
     {
       "chain": "KFC",
@@ -6448,7 +6459,7 @@
       "category": "event",
       "startDate": "2026-11-10",
       "endDate": "2026-12-14",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.dexerto.com/food/mcdonalds-announces-pokemon-happy-meal-return-with-15-toys-and-trading-cards-3422744/",
       "image": "mcdonald-s-pok-mon-tcg-30th-anniversary-happy-meal.jpg",
       "imageAuto": true
@@ -7185,7 +7196,7 @@
       "category": "event",
       "startDate": "2026-11-17",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.wptv.com/life/food-and-drink/starbucks-announces-2026-red-cup-day-heres-when-to-get-a-free-cup",
       "image": null,
       "lastConfirmed": "2026-10-31"
@@ -7544,7 +7555,7 @@
       "category": "event",
       "startDate": "2026-11-10",
       "endDate": "while supplies last",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.foxla.com/news/starbucks-viral-bearista-cold-cups-return",
       "image": "starbucks-bearista-glass-cold-cup-surprise-box-edition.jpg",
       "imageAuto": true
@@ -7818,10 +7829,10 @@
     {
       "chain": "Dairy Queen",
       "item": "$8 Meal Deal with Blizzard Treat Upgrade ($2)",
-      "description": "DQ's value meal deal priced at $8, with an optional $2 upgrade to add a Blizzard Treat.",
+      "description": "DQ's value meal deal (choice of Chicken Strips or Original Cheeseburger, regular fries, drink, sundae) priced at $8, with an optional $2 upgrade to swap the sundae for any Blizzard Treat including the new Peanut Butter Blossom flavor. A Sporked weekly-deals roundup citing a mid-November 2026 edition gives an end date of Nov 29, 2026, though no DQ newsroom release confirms that end date directly.",
       "category": "food",
       "startDate": "2026-11-02",
-      "endDate": null,
+      "endDate": "2026-11-29",
       "status": "active",
       "source": "https://www.complex.com/life/a/anne-erickson/dairy-queen-announced-new-blizzard",
       "image": null
@@ -7859,7 +7870,7 @@
       "category": "event",
       "startDate": "2026-11-11",
       "endDate": "2026-11-11",
-      "status": "upcoming",
+      "status": "ended",
       "source": "https://www.stripes.com/veterans/2026-11-06/veterans-day-2026-deals-discounts-23362467.html",
       "lastConfirmed": "2026-11-07",
       "image": "chipotle-veterans-day-2026-free-chips-dip.jpg",
@@ -7898,6 +7909,28 @@
       "source": "https://www.nrn.com/quick-service/popeyes-brings-back-a-cult-favorite-menu-item",
       "image": "popeyes-10-six-piece-signature-bone-in-chicken-deal.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Popeyes",
+      "item": "Spice City Sandwich (Grand Theft Auto VI tie-in)",
+      "description": "Two crispy chicken breast filets on a toasted brioche bun with pickles and a choice of spicy or classic mayo, timed to Grand Theft Auto VI's real-world launch on Nov 19, 2026. Coverage (Nation's Restaurant News, Dexerto, Sporked, all dated Nov 12, 2026) describes it as available for one weekend only around the game's launch; exact start/end not explicitly stated beyond that window.",
+      "category": "sandwich",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-22",
+      "status": "upcoming",
+      "source": "https://www.nrn.com/quick-service/popeyes-new-sandwich-pays-homage-to-grand-theft-auto-vi",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "Free Chicken Sandwich with $10+ Purchase",
+      "description": "Free Classic or Spicy Chicken Sandwich with any $10+ app/online order, one per day. Ran through Sunday, Nov 15, 2026. Sourcing is thinner than ideal (10TV, Taste of Home; neither page showed an explicit publish date) but the Sunday Nov 15 reference matches the real 2026 calendar and lines up with other Nov 2026 Popeyes promos.",
+      "category": "sandwich",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-15",
+      "status": "ended",
+      "source": "https://www.tasteofhome.com/article/free-popeyes-chicken-sandwich/",
+      "image": null
     },
     {
       "chain": "Popeyes",
@@ -7942,7 +7975,7 @@
       "category": "event",
       "startDate": "2026-11-16",
       "endDate": "2026-11-20",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.dexerto.com/food/burger-king-reveals-2026-advent-calendar-that-lets-fans-build-their-own-mini-restaurant-3425551/",
       "image": "burger-king-2026-advent-calendar-online-exclusive-build-your-own-mini-restaurant.jpg",
       "imageAuto": true

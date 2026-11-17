@@ -5620,7 +5620,7 @@
       "category": "event",
       "startDate": "2026-09-16",
       "endDate": "2026-11-16",
-      "status": "active",
+      "status": "ended",
       "source": "https://www.prnewswire.com/news-releases/hi-baby-gorgeous-wendys-is-officially-serving-lisa-barlows-baby-gorgeous-meal-302880576.html",
       "image": "wendy-s-baby-gorgeous-meal-lisa-barlow-x-bravo-collab.jpg",
       "imageAuto": true
@@ -6947,6 +6947,17 @@
       "image": null
     },
     {
+      "chain": "Taco Bell",
+      "item": "Carne Asada Cantina Test",
+      "description": "Lime-paprika marinated, sous-vide-then-seared steak protein tested across the Cantina menu line (Street Chalupa, Rolled Quesadilla, Crispy Taco, Soft Taco, Burrito), priced $3.69-$6.99. Regional test limited to Nashville, TN and Minneapolis-St. Paul, MN; could go nationwide if it performs well, per Taco Bell's newsroom.",
+      "category": "taco",
+      "startDate": "2026-11-12",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.tacobell.com/newsroom",
+      "image": null
+    },
+    {
       "chain": "Starbucks",
       "item": "Cranberry Bliss Bar, Snowman Cookie & Sugar Plum Cheese Danish (holiday returning favorites)",
       "description": "Part of Starbucks' 2026 holiday bakery case lineup launching Nov 5 alongside the new Bearista Cake Pop: the returning Cranberry Bliss Bar, Snowman Cookie, and Sugar Plum Cheese Danish round out the seasonal bakery case nationwide.",
@@ -8001,13 +8012,13 @@
     },
     {
       "chain": "Chick-fil-A",
-      "item": "Chicken Tortilla Soup (winter, US date unconfirmed)",
-      "description": "Returning seasonal soup (shredded chicken, beans, vegetables in a creamy base); confirmed for 2026 by Chick-fil-A Canada's own press room, which reported alongside a reported Nov 16, 2026 US holiday-menu date in secondary roundups — a parallel US return is likely but not yet confirmed via a dated US press release.",
+      "item": "Chicken Tortilla Soup (winter return)",
+      "description": "Returning seasonal soup (shredded chicken, beans, vegetables in a creamy base). Confirmed for the US as part of the current holiday lineup by Chick-fil-A's own Nov 12, 2026 press release (the same one announcing the permanent Spicy Chick-fil-A Sauce); exact US launch day has some spread across secondary coverage (Nov 10-16, 2026), so Nov 16 is used here to match Chick-fil-A Canada's confirmed date for the same item.",
       "category": "food",
       "startDate": "2026-11-16",
       "endDate": null,
-      "status": "upcoming",
-      "source": "https://www.chick-fil-a.ca/press-room/chick-fil-a-warms-up-winter-with-new-chicken-tortilla-soup",
+      "status": "active",
+      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-launches-new-spicy-chick-fil-a-sauce-and-peppermint-treats",
       "image": "chick-fil-a-chicken-tortilla-soup-winter-us-date-unconfirmed.jpg",
       "imageAuto": true
     },
@@ -8021,6 +8032,18 @@
       "status": "active",
       "source": "https://www.nrn.com/fast-casual/raising-cane-s-gets-into-the-holiday-spirit-with-elf-on-the-shelf",
       "image": "raising-cane-s-raising-cane-s-x-elf-on-the-shelf-holiday-collab.jpg",
+      "imageAuto": true
+    },
+    {
+      "chain": "Raising Cane's",
+      "item": "7th Annual Holiday Bike Giveaway",
+      "description": "Annual December charity campaign distributing thousands of bikes to youth across US markets; exact 2026 dates/locations not yet announced (2025's run included a Times Square stop on Dec 3). Confirmed for 2026 via NRN's Nov 11, 2026 Elf on the Shelf coverage, which states Raising Cane's \"will host its seventh annual Holiday Bike Giveaway in December.\"",
+      "category": "event",
+      "startDate": "2026-12-01",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.nrn.com/fast-casual/raising-cane-s-gets-into-the-holiday-spirit-with-elf-on-the-shelf",
+      "image": null,
       "imageAuto": true
     },
     {

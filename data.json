@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-17",
+  "researched": "2026-11-18",
   "items": [
     {
       "chain": "McDonald's",
@@ -8123,6 +8123,116 @@
       "endDate": "2022-12-31",
       "status": "ended",
       "source": "https://www.qsrmagazine.com/news/sonic-drive-ins-winter-swag-returns-corn-dog-pajama-jumpsuits/",
+      "image": null
+    },
+    {
+      "chain": "Domino's",
+      "item": "Sweet Heat Smokehouse Pizza",
+      "description": "New specialty pizza on a marinara base topped with bacon, sausage, provolone and mozzarella cheese, onions, jalapenos, and pineapple. Launched nationwide ahead of Thanksgiving Eve week; eligible for the Mix & Match deal. Sources disagree on whether it's limited-time or now permanent.",
+      "category": "food",
+      "startDate": "2026-11-16",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.nrn.com/quick-service/domino-s-adds-a-new-specialty-pizza-to-the-menu",
+      "image": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "Sizzlin' Sichuan",
+      "description": "New wing flavor combining Sichuan peppercorns, spicy ginger, soy and garlic, available on classic/boneless wings, tenders and chicken sandwiches. Club Wingstop early access Nov 20, nationwide Nov 24.",
+      "category": "chicken",
+      "startDate": "2026-11-24",
+      "endDate": "while supplies last",
+      "status": "upcoming",
+      "source": "https://www.nrn.com/fast-casual/wingstop-launches-sizzlin-sichuan-flavor",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Holiday Box",
+      "description": "Limited-time holiday meal (Dave's Double or 10-pc Chicken Nuggets, small fries, small drink) with a surprise collectible retro knit hat (one of four designs: Frosty, Where's the Beef?, Biggie, or Wendy's logo).",
+      "category": "food",
+      "startDate": "2026-11-16",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.franchising.com/news/20261116_wendys_invites_fans_to_unfreeze_the_season_with_its_new_holiday_box.html",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Peppermint Frosty Swirl",
+      "description": "Seasonal peppermint-flavored Frosty treat, part of Wendy's 2026 holiday lineup.",
+      "category": "dessert",
+      "startDate": "2026-11-16",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.franchising.com/news/20261116_wendys_invites_fans_to_unfreeze_the_season_with_its_new_holiday_box.html",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Peppermint Brownie Frosty Fusion",
+      "description": "Seasonal peppermint-brownie Frosty Fusion dessert, part of Wendy's 2026 holiday lineup.",
+      "category": "dessert",
+      "startDate": "2026-11-16",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.franchising.com/news/20261116_wendys_invites_fans_to_unfreeze_the_season_with_its_new_holiday_box.html",
+      "image": null
+    },
+    {
+      "chain": "Wendy's",
+      "item": "Solarium Pop-Up (NYC Flatiron)",
+      "description": "One-off experiential pop-up tied to the Holiday Box launch; free Holiday Box per guest while supplies last at a single NYC location, Nov 17 (4-8pm) and Nov 18 (11am-8pm).",
+      "category": "event",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-18",
+      "status": "ending-soon",
+      "source": "https://www.franchising.com/news/20261116_wendys_invites_fans_to_unfreeze_the_season_with_its_new_holiday_box.html",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Black Friday Gift Card Bonus ($10 off $50+ e-gift card, unconfirmed)",
+      "description": "Reported offer: buy $50+ in Chipotle e-gift cards Nov 27-30 and get a $10 bonus promo code usable through Dec 11, 2026; limited to first 15,000 qualifying US purchases. Single-sourced to a deal blog, not yet confirmed on Chipotle's own newsroom.",
+      "category": "event",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-30",
+      "status": "upcoming",
+      "source": "https://dannydealguru.com/chipotle-gift-card-deal-get-10-bonus-with-50-purchase-nov-27-30/",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Thanksgiving Doughnut Collection (Berry Cobbler, Caramel Pumpkin, Double Chocolate Crumble + returning Cinnamon Apple Filled)",
+      "description": "Three new pie-inspired doughnuts (Berry Cobbler, Caramel Pumpkin, Double Chocolate Crumble) plus the returning Cinnamon Apple Filled doughnut, for Friendsgiving/Thanksgiving.",
+      "category": "donut",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-26",
+      "status": "active",
+      "source": "https://www.webull.com/news/15904819459703808",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Holiday Seasonal Collection (Hot Cocoa, Sugar Cookie & Caramel Toffee Cheesecake Doughnuts)",
+      "description": "Hot Cocoa Doughnut (Ghirardelli hot cocoa frosting + marshmallow bites), Sugar Cookie Doughnut, and Caramel Toffee Cheesecake Doughnut (cheesecake-filled, caramel icing, toffee-graham crunch). Moderate-confidence sourcing (food-media + trade press, no official press release found).",
+      "category": "donut",
+      "startDate": "2026-11-03",
+      "endDate": "2027-01-04",
+      "status": "active",
+      "source": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-starbucks-dunkin-and-dutch-bros",
+      "image": null
+    },
+    {
+      "chain": "Krispy Kreme",
+      "item": "Sugar Cookie Latte (returning)",
+      "description": "Returning seasonal latte, available hot/iced/frozen, part of the 2026 Holiday Seasonal Collection.",
+      "category": "drink",
+      "startDate": "2026-11-03",
+      "endDate": "2027-01-04",
+      "status": "active",
+      "source": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-starbucks-dunkin-and-dutch-bros",
       "image": null
     }
   ]

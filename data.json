@@ -8134,7 +8134,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.nrn.com/quick-service/domino-s-adds-a-new-specialty-pizza-to-the-menu",
-      "image": null
+      "image": "domino-s-sweet-heat-smokehouse-pizza.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Wingstop",
@@ -8145,7 +8146,8 @@
       "endDate": "while supplies last",
       "status": "upcoming",
       "source": "https://www.nrn.com/fast-casual/wingstop-launches-sizzlin-sichuan-flavor",
-      "image": null
+      "image": "wingstop-sizzlin-sichuan.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Wendy's",
@@ -8200,7 +8202,8 @@
       "endDate": "2026-11-30",
       "status": "upcoming",
       "source": "https://dannydealguru.com/chipotle-gift-card-deal-get-10-bonus-with-50-purchase-nov-27-30/",
-      "image": null
+      "image": "chipotle-black-friday-gift-card-bonus-10-off-50-e-gift-card-unconfirmed.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Krispy Kreme",

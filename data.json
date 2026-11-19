@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-18",
+  "researched": "2026-11-19",
   "items": [
     {
       "chain": "McDonald's",
@@ -6966,7 +6966,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.tacobell.com/newsroom",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-11-19"
     },
     {
       "chain": "Starbucks",
@@ -7192,14 +7193,14 @@
     {
       "chain": "Starbucks",
       "item": "Red Cup Day 2026",
-      "description": "Starbucks confirmed via an Oct 26, 2026 Instagram post that Red Cup Day — a free reusable red holiday cup with purchase of a qualifying handcrafted holiday beverage, while supplies last — returns Tuesday, Nov 17, 2026. Cup design not yet revealed.",
+      "description": "Starbucks confirmed via an Oct 26, 2026 Instagram post that Red Cup Day — a free reusable red holiday cup with purchase of a qualifying handcrafted holiday beverage, while supplies last — returns Tuesday, Nov 17, 2026. Cup design not yet revealed. Confirmed single-day event (Starbucks' own press page plus multiple dated local-news pickups Nov 16-17, 2026); day has passed.",
       "category": "event",
       "startDate": "2026-11-17",
-      "endDate": "while supplies last",
-      "status": "active",
-      "source": "https://www.wptv.com/life/food-and-drink/starbucks-announces-2026-red-cup-day-heres-when-to-get-a-free-cup",
+      "endDate": "2026-11-17",
+      "status": "ended",
+      "source": "https://about.starbucks.com/?p=295301",
       "image": null,
-      "lastConfirmed": "2026-10-31"
+      "lastConfirmed": "2026-11-19"
     },
     {
       "chain": "Taco Bell",
@@ -7824,18 +7825,20 @@
       "endDate": "2026-11-29",
       "status": "active",
       "source": "https://www.complex.com/life/a/anne-erickson/dairy-queen-announced-new-blizzard",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-11-19"
     },
     {
       "chain": "Dairy Queen",
       "item": "$8 Meal Deal with Blizzard Treat Upgrade ($2)",
-      "description": "DQ's value meal deal (choice of Chicken Strips or Original Cheeseburger, regular fries, drink, sundae) priced at $8, with an optional $2 upgrade to swap the sundae for any Blizzard Treat including the new Peanut Butter Blossom flavor. A Sporked weekly-deals roundup citing a mid-November 2026 edition gives an end date of Nov 29, 2026, though no DQ newsroom release confirms that end date directly.",
+      "description": "DQ's value meal deal (choice of Chicken Strips or Original Cheeseburger, regular fries, drink, sundae) priced at $8, with an optional $2 upgrade to swap the sundae for any Blizzard Treat including the new Peanut Butter Blossom flavor. Corroborated by multiple independent secondary sources (Complex, MoneyTalksNews, Sporked) on the Nov 2-29, 2026 window, though still no direct DQ newsroom confirmation.",
       "category": "food",
       "startDate": "2026-11-02",
       "endDate": "2026-11-29",
       "status": "active",
       "source": "https://www.complex.com/life/a/anne-erickson/dairy-queen-announced-new-blizzard",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-11-19"
     },
     {
       "chain": "Wendy's",
@@ -7917,10 +7920,11 @@
       "category": "sandwich",
       "startDate": "2026-11-19",
       "endDate": "2026-11-22",
-      "status": "upcoming",
+      "status": "active",
       "source": "https://www.nrn.com/quick-service/popeyes-new-sandwich-pays-homage-to-grand-theft-auto-vi",
       "image": "popeyes-spice-city-sandwich-grand-theft-auto-vi-tie-in.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-11-19"
     },
     {
       "chain": "Popeyes",
@@ -7979,7 +7983,8 @@
       "status": "active",
       "source": "https://www.dexerto.com/food/burger-king-reveals-2026-advent-calendar-that-lets-fans-build-their-own-mini-restaurant-3425551/",
       "image": "burger-king-2026-advent-calendar-online-exclusive-build-your-own-mini-restaurant.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-11-19"
     },
     {
       "chain": "Starbucks",
@@ -7990,18 +7995,20 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://about.starbucks.com/?p=296333",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-11-19"
     },
     {
       "chain": "Starbucks",
       "item": "Merry Berry Frappuccino",
-      "description": "New limited-time blended holiday Frappuccino flavor, part of Starbucks' December follow-on holiday drop.",
+      "description": "New limited-time blended holiday Frappuccino flavor (white-chocolate-mocha with strawberry and raspberry), part of Starbucks' December follow-on holiday drop. Confirmed via Starbucks' own Nov 9, 2026 newsroom post, corroborated by Merca2.0 and Sporked.",
       "category": "drink",
       "startDate": "2026-12-17",
       "endDate": null,
       "status": "upcoming",
       "source": "https://about.starbucks.com/?p=296333",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-11-19"
     },
     {
       "chain": "Dunkin'",
@@ -8112,7 +8119,8 @@
       "endDate": "2026-11-30",
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/kfc-launches-finger-lickin-fan-fest-with-double-rewards-points/",
-      "image": null
+      "image": null,
+      "lastConfirmed": "2026-11-19"
     },
     {
       "chain": "Sonic",
@@ -8147,7 +8155,8 @@
       "status": "upcoming",
       "source": "https://www.nrn.com/fast-casual/wingstop-launches-sizzlin-sichuan-flavor",
       "image": "wingstop-sizzlin-sichuan.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-11-19"
     },
     {
       "chain": "Wendy's",
@@ -8195,15 +8204,16 @@
     },
     {
       "chain": "Chipotle",
-      "item": "Black Friday Gift Card Bonus ($10 off $50+ e-gift card, unconfirmed)",
-      "description": "Reported offer: buy $50+ in Chipotle e-gift cards Nov 27-30 and get a $10 bonus promo code usable through Dec 11, 2026; limited to first 15,000 qualifying US purchases. Single-sourced to a deal blog, not yet confirmed on Chipotle's own newsroom.",
+      "item": "Black Friday Gift Card Bonus ($10 off $50+ e-gift card)",
+      "description": "Buy $50+ in Chipotle e-gift cards Nov 27-30 and get a $10 bonus promo code usable through Dec 11, 2026; limited to first 15,000 qualifying US purchases. Terms corroborated by the same Nov 16, 2026 official Chipotle PR Newswire release that announced the Sneak It In Hoodie (also reported by Dexerto).",
       "category": "event",
       "startDate": "2026-11-27",
       "endDate": "2026-11-30",
       "status": "upcoming",
-      "source": "https://dannydealguru.com/chipotle-gift-card-deal-get-10-bonus-with-50-purchase-nov-27-30/",
+      "source": "https://finviz.com/news/423057/chipotle-debuts-the-sneak-it-in-hoodie-designed-to-discreetly-bring-burritos-to-the-movies",
       "image": "chipotle-black-friday-gift-card-bonus-10-off-50-e-gift-card-unconfirmed.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-11-19"
     },
     {
       "chain": "Krispy Kreme",
@@ -8219,23 +8229,113 @@
     {
       "chain": "Krispy Kreme",
       "item": "Holiday Seasonal Collection (Hot Cocoa, Sugar Cookie & Caramel Toffee Cheesecake Doughnuts)",
-      "description": "Hot Cocoa Doughnut (Ghirardelli hot cocoa frosting + marshmallow bites), Sugar Cookie Doughnut, and Caramel Toffee Cheesecake Doughnut (cheesecake-filled, caramel icing, toffee-graham crunch). Moderate-confidence sourcing (food-media + trade press, no official press release found).",
+      "description": "Hot Cocoa Doughnut (Ghirardelli hot cocoa frosting + marshmallow bites), Sugar Cookie Doughnut, and Caramel Toffee Cheesecake Doughnut (cheesecake-filled, caramel icing, toffee-graham crunch). Moderate-confidence sourcing (Sporked plus The Daily Meal independently agree on the same items/window; no official Krispy Kreme press release found despite repeated checks).",
       "category": "donut",
       "startDate": "2026-11-03",
       "endDate": "2027-01-04",
       "status": "active",
-      "source": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-starbucks-dunkin-and-dutch-bros",
-      "image": null
+      "source": "https://www.thedailymeal.com/2315558/fast-food-holiday-menu-items-winter-2026/",
+      "image": null,
+      "lastConfirmed": "2026-11-19"
     },
     {
       "chain": "Krispy Kreme",
       "item": "Sugar Cookie Latte (returning)",
-      "description": "Returning seasonal latte, available hot/iced/frozen, part of the 2026 Holiday Seasonal Collection.",
+      "description": "Returning seasonal latte, available hot/iced/frozen, part of the 2026 Holiday Seasonal Collection. Moderate-confidence sourcing (Sporked plus The Daily Meal); no official Krispy Kreme press release found despite repeated checks.",
       "category": "drink",
       "startDate": "2026-11-03",
       "endDate": "2027-01-04",
       "status": "active",
-      "source": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-starbucks-dunkin-and-dutch-bros",
+      "source": "https://www.thedailymeal.com/2315558/fast-food-holiday-menu-items-winter-2026/",
+      "image": null,
+      "lastConfirmed": "2026-11-19"
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Home Alone Meal (Little Nero's Pizza McShaker Fries)",
+      "description": "Holiday meal tie-in with the Home Alone franchise: any entree + drink + new Little Nero's Pizza McShaker Fries with a pizza-flavored Lovely Cheese Pizza Dipping Sauce, plus one of four collectible Home Alone socks (Kevin, Grimace, Birdie, Hamburglar). US launch Dec 1, 2026 (Canada starts earlier, Nov 24, 2026).",
+      "category": "food",
+      "startDate": "2026-12-01",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.nrn.com/quick-service/mcdonald-s-is-giving-out-socks-again-this-time-with-a-home-alone-meal",
+      "image": null
+    },
+    {
+      "chain": "McDonald's",
+      "item": "Everything Sundae McFlurry",
+      "description": "Vanilla soft-serve McFlurry with hot fudge, Oreo pieces and M&M's, launching alongside the Home Alone Meal.",
+      "category": "dessert",
+      "startDate": "2026-12-01",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.nrn.com/quick-service/mcdonald-s-is-giving-out-socks-again-this-time-with-a-home-alone-meal",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Flamin' Hot Grilled Cheese Burrito (2026 return)",
+      "description": "Burrito returns nationwide after being pulled following its 2025 limited run; $5.49 a la carte.",
+      "category": "food",
+      "startDate": "2026-11-12",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.nrn.com/quick-service/taco-bell-brings-back-flamin-hot-burrito-tests-carne-asada",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Flamin' Hot Mini Taco Salad",
+      "description": "New item: seasoned beef, Flamin' Hot rice, Fritos, beans and chipotle sauce in a tortilla bowl; $2.49.",
+      "category": "food",
+      "startDate": "2026-11-12",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.qsrmagazine.com/news/taco-bell-brings-back-flamin-hot-grilled-cheese-burrito-introduces-new-mini-taco-salad/",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Mountain Dew Baja Midnight Zero Sugar",
+      "description": "Zero-sugar version of the Baja Midnight Mountain Dew flavor, teased at Live Mas Live 2026; sold in small/medium/large.",
+      "category": "drink",
+      "startDate": "2026-11-12",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.dexerto.com/food/taco-bells-launches-new-baja-blast-alongside-naked-chicken-chalupa-return-3428604",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Naked Chicken Chalupa (2026 return, date unconfirmed)",
+      "description": "Second 2026 nationwide return of the all-white-meat fried-chicken-shell chalupa (previously part of the Aug 2026 Decades #TBTB menu, which ended Sept 10); $5.99. Sporked reports a Nov 19, 2026 return date, but a companion Dexerto piece from the same week says Taco Bell has not provided a specific nationwide release date -- treat the start date as an estimate pending firmer confirmation.",
+      "category": "taco",
+      "startDate": "2026-11-19",
+      "endDate": null,
+      "status": "active",
+      "source": "https://sporked.com/?p=83575",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Sneak It In Hoodie Sweepstakes & Retail Launch",
+      "description": "Chipotle Rewards members could enter (Nov 16-22) to win one of 60 \"Sneak It In\" hoodies (each with a hidden insulated burrito pocket plus a free entree code), via the Rewards Exchange. The $53 hoodie itself also went on general sale exclusively at ChipotleGoods.com starting Nov 18, 2026, while supplies last.",
+      "category": "event",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-22",
+      "status": "ended",
+      "source": "https://finviz.com/news/423057/chipotle-debuts-the-sneak-it-in-hoodie-designed-to-discreetly-bring-burritos-to-the-movies",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "$20 Family Style Meal Deal",
+      "description": "New value bundle: five pieces of signature bone-in chicken, five tenders, a choice of family-size homestyle side, and four biscuits. Launched alongside a new \"Family Style Meals\" group-ordering platform. Distinct from the earlier June-July 2026 $20 Family Meal (which had 9 pieces).",
+      "category": "food",
+      "startDate": "2026-11-23",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.nrn.com/quick-service/popeyes-adds-a-20-family-meal-deal",
       "image": null
     }
   ]

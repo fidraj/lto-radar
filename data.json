@@ -8235,8 +8235,9 @@
       "endDate": "2027-01-04",
       "status": "active",
       "source": "https://www.thedailymeal.com/2315558/fast-food-holiday-menu-items-winter-2026/",
-      "image": null,
-      "lastConfirmed": "2026-11-19"
+      "image": "krispy-kreme-holiday-seasonal-collection-hot-cocoa-sugar-cookie-caramel-toffee-c.jpg",
+      "lastConfirmed": "2026-11-19",
+      "imageAuto": true
     },
     {
       "chain": "Krispy Kreme",
@@ -8247,8 +8248,9 @@
       "endDate": "2027-01-04",
       "status": "active",
       "source": "https://www.thedailymeal.com/2315558/fast-food-holiday-menu-items-winter-2026/",
-      "image": null,
-      "lastConfirmed": "2026-11-19"
+      "image": "krispy-kreme-sugar-cookie-latte-returning.jpg",
+      "lastConfirmed": "2026-11-19",
+      "imageAuto": true
     },
     {
       "chain": "McDonald's",
@@ -8259,7 +8261,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.nrn.com/quick-service/mcdonald-s-is-giving-out-socks-again-this-time-with-a-home-alone-meal",
-      "image": null
+      "image": "mcdonald-s-home-alone-meal-little-nero-s-pizza-mcshaker-fries.jpg",
+      "imageAuto": true
     },
     {
       "chain": "McDonald's",
@@ -8281,7 +8284,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.nrn.com/quick-service/taco-bell-brings-back-flamin-hot-burrito-tests-carne-asada",
-      "image": null
+      "image": "taco-bell-flamin-hot-grilled-cheese-burrito-2026-return.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -8292,7 +8296,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.qsrmagazine.com/news/taco-bell-brings-back-flamin-hot-grilled-cheese-burrito-introduces-new-mini-taco-salad/",
-      "image": null
+      "image": "taco-bell-flamin-hot-mini-taco-salad.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -8303,7 +8308,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.dexerto.com/food/taco-bells-launches-new-baja-blast-alongside-naked-chicken-chalupa-return-3428604",
-      "image": null
+      "image": "taco-bell-mountain-dew-baja-midnight-zero-sugar.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Taco Bell",
@@ -8314,7 +8320,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://sporked.com/?p=83575",
-      "image": null
+      "image": "taco-bell-naked-chicken-chalupa-2026-return-date-unconfirmed.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",
@@ -8325,7 +8332,8 @@
       "endDate": "2026-11-22",
       "status": "ended",
       "source": "https://finviz.com/news/423057/chipotle-debuts-the-sneak-it-in-hoodie-designed-to-discreetly-bring-burritos-to-the-movies",
-      "image": null
+      "image": "chipotle-sneak-it-in-hoodie-sweepstakes-retail-launch.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Popeyes",
@@ -8336,7 +8344,8 @@
       "endDate": null,
       "status": "upcoming",
       "source": "https://www.nrn.com/quick-service/popeyes-adds-a-20-family-meal-deal",
-      "image": null
+      "image": "popeyes-20-family-style-meal-deal.jpg",
+      "imageAuto": true
     }
   ]
 }

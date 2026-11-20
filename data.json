@@ -1,5 +1,5 @@
 {
-  "researched": "2026-11-19",
+  "researched": "2026-11-20",
   "items": [
     {
       "chain": "McDonald's",
@@ -7391,7 +7391,7 @@
       "category": "food",
       "startDate": "2026-10-19",
       "endDate": "2026-11-19",
-      "status": "active",
+      "status": "ended",
       "source": "https://news.popeyes.com/blog-posts/its-giving-giving---popeyes-cajun-style-turkey-has-returned",
       "image": "popeyes-cajun-style-turkey-thanksgiving-2026.jpg",
       "imageAuto": true
@@ -7842,13 +7842,13 @@
     },
     {
       "chain": "Wendy's",
-      "item": "Veterans Day Free Breakfast Combo 2026 (annual-precedent, no official 2026 Wendy's release found yet)",
-      "description": "Wendy's has run a Veterans Day free-meal offer in every confirmed year from 2020 through 2024, and in every year where the source is Wendy's own newsroom/PR Newswire release (2020, 2021, 2022, 2024) the offer was a FREE BREAKFAST COMBO (coffee or soft drink + breakfast sandwich + seasoned potatoes) for veterans/active military with a valid military ID, Veterans Advantage card, or VetRewards/WeSalute+ card, during breakfast hours at participating restaurants on Nov 11. Linked source is Wendy's own 2022 official release establishing this annual pattern. As of 2026-11-09, no 2026-specific Wendy's press release confirming THIS year's offer has been found yet; a previously-cited themilitarywallet.com page was found by CI to not actually carry 2026-dated evidence (reads as an evergreen/templated page) and has been dropped as a source. This item remains an unconfirmed annual-precedent estimate pending an official 2026 Wendy's announcement.",
+      "item": "Free Dave's Single for Veterans Day 2026",
+      "description": "Wendy's actual 2026 Veterans Day offer: a free Dave's Single (any size, all day) for veterans and active-duty military at participating U.S. restaurants on Nov 11, 2026. This supersedes the prior years' free-breakfast-combo format (2020-2024) that this entry previously assumed as an unconfirmed annual-precedent estimate -- QSR Magazine's 2026-specific article and a Boston 25 News Veterans Day 2026 deals roundup both confirm the offer changed to a free Dave's Single this year.",
       "category": "event",
       "startDate": "2026-11-11",
       "endDate": "2026-11-11",
       "status": "ended",
-      "source": "https://www.irwendys.com/news/news-details/2022/Wendys-Salutes-Veterans-and-Active-Military-with-FREE-Breakfast/default.aspx",
+      "source": "https://www.qsrmagazine.com/news/wendys-honoring-veterans-day-with-free-daves-single/",
       "image": "wendy-s-veterans-day-free-breakfast-combo-2026-annual-precedent-no-official-2026.jpg",
       "imageAuto": true,
       "lastConfirmed": "2026-11-11"
@@ -8136,11 +8136,11 @@
     {
       "chain": "Domino's",
       "item": "Sweet Heat Smokehouse Pizza",
-      "description": "New specialty pizza on a marinara base topped with bacon, sausage, provolone and mozzarella cheese, onions, jalapenos, and pineapple. Launched nationwide ahead of Thanksgiving Eve week; eligible for the Mix & Match deal. Sources disagree on whether it's limited-time or now permanent.",
+      "description": "New specialty pizza on a marinara base topped with bacon, sausage, provolone and mozzarella cheese, onions, jalapenos, and pineapple. Launched nationwide Nov 16, 2026, timed ahead of Thanksgiving Eve (one of Domino's top-5 busiest days); eligible for the Mix & Match deal ($9.99 as part of 2+ items). Nation's Restaurant News' Nov 16, 2026 coverage explicitly confirms Domino's added it 'to its permanent menu,' not as a rotating LTO, so closed out here on its launch date per the board's own permanent-menu-item convention.",
       "category": "food",
       "startDate": "2026-11-16",
-      "endDate": null,
-      "status": "active",
+      "endDate": "2026-11-16",
+      "status": "ended",
       "source": "https://www.nrn.com/quick-service/domino-s-adds-a-new-specialty-pizza-to-the-menu",
       "image": "domino-s-sweet-heat-smokehouse-pizza.jpg",
       "imageAuto": true
@@ -8346,6 +8346,72 @@
       "source": "https://www.nrn.com/quick-service/popeyes-adds-a-20-family-meal-deal",
       "image": "popeyes-20-family-style-meal-deal.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Vanilla Spiced Horchata Freeze",
+      "description": "New frozen horchata beverage joining the Strawberry Horchata Refresca and Vanilla Spiced Horchata Refresca in a larger nationwide limited-time rollout; debuted alongside the other horchata remixes at Live Más Café locations before its nationwide launch.",
+      "category": "drink",
+      "startDate": "2026-12-10",
+      "endDate": null,
+      "status": "upcoming",
+      "source": "https://www.tacobell.com/newsroom/taco-bell-new-horchata-live-mas-cafe-expansion",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "New Waffle Breakfast Sandwiches (regional test: Chicken, Bacon, Sausage & Grilled Chicken Bacon Egg & Cheese)",
+      "description": "Four new waffle-bun breakfast sandwiches - Chicken, Egg & Cheese; Bacon, Egg & Cheese; Sausage, Egg & Cheese; and Grilled Chicken, Bacon, Egg & Cheese - tested at select Chick-fil-A restaurants in Tampa FL, Chicago IL, and Raleigh NC only, starting Nov. 16, 2026, as the nationwide Chicken & Waffles Sandwich leaves most menus Nov. 14. Breakfast hours only (restaurant open until 10:30am). NOT a nationwide rollout; participating restaurants not publicly identified by Chick-fil-A.",
+      "category": "sandwich",
+      "startDate": "2026-11-16",
+      "endDate": null,
+      "status": "active",
+      "source": "https://sporked.com/?p=83092",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Holiday Merchandise Collection (lounge sets, blankets, ornaments & more)",
+      "description": "Holiday-themed merch line sold via Chick-fil-A's online shop: matching lounge sets, cozy blankets, ornaments, wrapping paper, gift tags, and T-shirts. Announced as part of the same Nov. 12, 2026 Chick-fil-A press release that introduced the permanent Spicy Chick-fil-A Sauce and Peppermint Cream Cold Brew; exact on-sale date for the merch itself wasn't separately stated in coverage, so Nov. 16 (the date given for the rest of that release's items) is used as a best estimate.",
+      "category": "event",
+      "startDate": "2026-11-16",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.fox5atlanta.com/news/chick-fil-a-launches-holiday-collection-cozy-gifts-decor",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "2027 Cow Calendar (\"Udderly Wacky\")",
+      "description": "Returning after nearly a decade off the menu: a $10.99 (plus tax) calendar containing 12 Chick-fil-A rewards, one unlocking at the start of each month of 2027. Limit five calendars per Chick-fil-A One account; sold at participating restaurants and in the app while supplies last. Part of the chain's Nov. 2026 holiday rollout alongside the Spicy Chick-fil-A Sauce and Peppermint treats.",
+      "category": "event",
+      "startDate": "2026-11-16",
+      "endDate": "while supplies last",
+      "status": "active",
+      "source": "https://www.chick-fil-a.com/cow-calendar",
+      "image": null
+    },
+    {
+      "chain": "Chick-fil-A",
+      "item": "Legends of Evergreen Hills: The Time Engine (holiday film) + Series Season Two",
+      "description": "Chick-fil-A's first feature-length original film (72 minutes), following characters Sam, Zack and friends on a holiday adventure, released alongside five new ~22-minute Season Two episodes of the existing Evergreen Hills series. Both available free via YouTube and the Chick-fil-A Play App, part of the chain's Nov. 2026 holiday content push announced in the same press release as the Spicy Chick-fil-A Sauce.",
+      "category": "event",
+      "startDate": "2026-11-12",
+      "endDate": null,
+      "status": "active",
+      "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-launches-new-spicy-chick-fil-a-sauce-and-peppermint-treats",
+      "image": null
+    },
+    {
+      "chain": "Pizza Hut",
+      "item": "Triple Treat Box Holiday Edition",
+      "description": "Pizza Hut's annual holiday bundle returns for its 11th year: two medium one-topping pizzas, breadsticks and cinnamon sticks in limited-edition holiday packaging, for $21.99. Available now at participating locations for in-store, online, and app orders, through Dec 28, 2026. Distinct from the already-tracked August 2026 'Triple Treat Box Gameday Edition' (football-season version) and the March 2026 Space Jam collab box.",
+      "category": "food",
+      "startDate": "2026-11-16",
+      "endDate": "2026-12-28",
+      "status": "active",
+      "source": "https://www.nrn.com/quick-service/pizza-hut-s-triple-treat-box-returns-for-the-holidays",
+      "image": null
     }
   ]
 }

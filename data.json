@@ -8378,7 +8378,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.fox5atlanta.com/news/chick-fil-a-launches-holiday-collection-cozy-gifts-decor",
-      "image": null
+      "image": "chick-fil-a-holiday-merchandise-collection-lounge-sets-blankets-ornaments-more.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chick-fil-A",
@@ -8389,7 +8390,8 @@
       "endDate": "while supplies last",
       "status": "active",
       "source": "https://www.chick-fil-a.com/cow-calendar",
-      "image": null
+      "image": "chick-fil-a-2027-cow-calendar-udderly-wacky.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chick-fil-A",
@@ -8400,7 +8402,8 @@
       "endDate": null,
       "status": "active",
       "source": "https://www.chick-fil-a.com/press-room/chick-fil-a-launches-new-spicy-chick-fil-a-sauce-and-peppermint-treats",
-      "image": null
+      "image": "chick-fil-a-legends-of-evergreen-hills-the-time-engine-holiday-film-series-seaso.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Pizza Hut",
@@ -8411,7 +8414,8 @@
       "endDate": "2026-12-28",
       "status": "active",
       "source": "https://www.nrn.com/quick-service/pizza-hut-s-triple-treat-box-returns-for-the-holidays",
-      "image": null
+      "image": "pizza-hut-triple-treat-box-holiday-edition.jpg",
+      "imageAuto": true
     }
   ]
 }

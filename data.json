@@ -8428,6 +8428,61 @@
       "source": "https://www.qsrmagazine.com/story/burger-king-brings-snoopy-and-the-peanuts-gang-to-its-menu/",
       "image": "burger-king-peanuts-snoopy-holiday-menu-peanuts-pack-peanuts-king-jr-meal.jpg",
       "imageAuto": true
+    },
+    {
+      "chain": "Sonic",
+      "item": "Ube Coconut Slush Float (Hawai'i exclusive)",
+      "description": "Condensed milk lining the cup, then ube and coconut slush, topped with SONIC's signature soft serve and more condensed milk; $5.99. Regional exclusive launched at Sonic Hawai'i's Oʻahu and Maui stores only (the chain's second Hawaii-exclusive product after the Teri Smasher) — not a nationwide item. First 40 customers at launch got Sonic stuffies.",
+      "category": "drink",
+      "startDate": "2026-11-16",
+      "endDate": null,
+      "status": "active",
+      "source": "https://alohastatedaily.com/2026/11/13/sonic-hawaii-is-launching-a-new-exclusive-item/",
+      "image": null
+    },
+    {
+      "chain": "Popeyes",
+      "item": "$5 Faves Menu (January 2026 launch)",
+      "description": "Original rollout of Popeyes' value platform, distinct from the later July/August 2026 iteration that added Butterfly Shrimp (already tracked): choice of 3-piece Chicken Tenders, 3-piece Signature Chicken, two Chicken Wraps, or two regular sides (Cajun Fries, Red Beans & Rice, Mashed Potatoes w/ Cajun Gravy, or Coleslaw), each $5; combine any two for $10. Ran Jan 5 - Feb 15, 2026, then was refreshed in spring (added a $5 Chicken Sandwich, Mar 16-May 3) before the July relaunch with Butterfly Shrimp.",
+      "category": "event",
+      "startDate": "2026-01-05",
+      "endDate": "2026-02-15",
+      "status": "ended",
+      "source": "https://www.brandeating.com/2026/01/popeyes-brings-back-wraps-new-5-dollar-faves-menu.html",
+      "image": null
+    },
+    {
+      "chain": "Wingstop",
+      "item": "Big A$$ Ranch Cup (National Ranch Day)",
+      "description": "One-day, 500-unit limited-edition 32 oz. stainless steel ranch cup ($30, individually numbered) sold only at two Wingstop locations (80 Carmine St., NYC and 10910 N Central Expy, Dallas) for National Ranch Day, in-store/digital-carryout only, first-come-first-served.",
+      "category": "food",
+      "startDate": "2026-03-10",
+      "endDate": "2026-03-10",
+      "status": "ended",
+      "source": "https://www.prnewswire.com/news-releases/wingstop-makes-ranch-the-moment-with-a-limited-edition-32-oz-cup-of-ranch-302707331.html",
+      "image": null
+    },
+    {
+      "chain": "Taco Bell",
+      "item": "Make It Flamin' Hot (Fritos Flamin' Hot add-on)",
+      "description": "New limited-time customization option: add Fritos Flamin' Hot chips to eligible menu items (examples cited include the Naked Chicken Chalupa, Crunchwrap Supreme, and Cantina Chicken Rolled Quesadilla) for an extra charge, via the app, website, kiosk, in-restaurant, or third-party delivery. Announced via Taco Bell's own newsroom on Nov 18, 2026; corroborated with matching Nov 24-Dec 9 dates by QSR Magazine and Sporked.",
+      "category": "food",
+      "startDate": "2026-11-24",
+      "endDate": "2026-12-09",
+      "status": "upcoming",
+      "source": "https://www.tacobell.com/newsroom/taco-bell-make-it-flamin-hot",
+      "image": null
+    },
+    {
+      "chain": "KFC",
+      "item": "Cajun Deep Fried Turkey (Thanksgiving 2026)",
+      "description": "Fully-cooked, reheat-at-home Cajun deep-fried turkey returns for Thanksgiving at participating KFC locations in California, Colorado, Utah, Washington, and Wyoming; reported prices ~$79.99 (CO/UT/WY) and ~$89.99 (CA/WA), may vary by location. This is an annual limited regional offering (prior-year versions ran 2023-2025); endDate is a best estimate (Thanksgiving Day) since no explicit cutoff was published.",
+      "category": "food",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-26",
+      "status": "ending-soon",
+      "source": "https://www.brandeating.com/2026/11/kfc-cajun-deep-fried-turkey-thanksgiving-2026.html",
+      "image": null
     }
   ]
 }

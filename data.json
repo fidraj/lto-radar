@@ -8484,7 +8484,8 @@
       "endDate": "2026-11-26",
       "status": "ending-soon",
       "source": "https://www.brandeating.com/2026/11/kfc-cajun-deep-fried-turkey-thanksgiving-2026.html",
-      "image": null
+      "image": "kfc-cajun-deep-fried-turkey-thanksgiving-2026.jpg",
+      "imageAuto": true
     },
     {
       "chain": "Chipotle",

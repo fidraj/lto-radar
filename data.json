@@ -8330,10 +8330,11 @@
       "category": "event",
       "startDate": "2026-11-16",
       "endDate": "2026-11-22",
-      "status": "ended",
+      "status": "active",
       "source": "https://finviz.com/news/423057/chipotle-debuts-the-sneak-it-in-hoodie-designed-to-discreetly-bring-burritos-to-the-movies",
       "image": "chipotle-sneak-it-in-hoodie-sweepstakes-retail-launch.jpg",
-      "imageAuto": true
+      "imageAuto": true,
+      "lastConfirmed": "2026-11-21"
     },
     {
       "chain": "Popeyes",
@@ -8483,6 +8484,17 @@
       "endDate": "2026-11-26",
       "status": "ending-soon",
       "source": "https://www.brandeating.com/2026/11/kfc-cajun-deep-fried-turkey-thanksgiving-2026.html",
+      "image": null
+    },
+    {
+      "chain": "Chipotle",
+      "item": "Chipotle x Zipline PGA Tour Drone Delivery (Austin Championship)",
+      "description": "First-ever drone food delivery in PGA Tour history: Chipotle used its Zipline 'Zipotle' aerial-delivery service to drop a to-go order onto the 18th hole at Omni Barton Creek Resort & Spa (Fazio Canyons course) in Austin, TX, during a Tuesday practice round ahead of the Austin Championship, delivered to PGA TOUR players Joel Dahmen and Mark Hubbard. One-time publicity stunt tied to Chipotle's existing Zipline drone-delivery service (available to the public in the Dallas/Austin area).",
+      "category": "event",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "status": "ended",
+      "source": "https://www.fastcasual.com/news/chipotle-uses-zipline-to-drop-burritos-on-pga-tours-18th-hole/",
       "image": null
     }
   ]
